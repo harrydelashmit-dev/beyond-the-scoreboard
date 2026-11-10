@@ -1,0 +1,1909 @@
+fbs_points,fcs_points,unitid,year,cup_name,pdf_page,pdf_file
+25.0,0.0,243744,2010,Stanford,2,nacda/2010_fall.pdf
+0.0,0.0,234076,2010,Virginia,2,nacda/2010_fall.pdf
+45.0,0.0,110662,2010,UCLA,2,nacda/2010_fall.pdf
+70.5,0.0,214777,2010,Penn State,2,nacda/2010_fall.pdf
+25.0,0.0,199120,2010,North Carolina,2,nacda/2010_fall.pdf
+45.0,0.0,134097,2010,Florida State,2,nacda/2010_fall.pdf
+0.0,100.0,216597,2010,Villanova (Pa.),2,nacda/2010_fall.pdf
+75.0,0.0,204796,2010,Ohio State,2,nacda/2010_fall.pdf
+66.0,0.0,209551,2010,Oregon,2,nacda/2010_fall.pdf
+85.0,0.0,134130,2010,Florida,2,nacda/2010_fall.pdf
+0.0,0.0,186131,2010,Princeton (N.J.),2,nacda/2010_fall.pdf
+54.0,0.0,123961,2010,Southern California,2,nacda/2010_fall.pdf
+0.0,0.0,163286,2010,Maryland,2,nacda/2010_fall.pdf
+0.0,0.0,236948,2010,Washington,2,nacda/2010_fall.pdf
+25.0,0.0,171100,2010,Michigan State,2,nacda/2010_fall.pdf
+0.0,0.0,199847,2010,Wake Forest,2,nacda/2010_fall.pdf
+49.0,0.0,207388,2010,Oklahoma State,2,nacda/2010_fall.pdf
+0.0,0.0,198419,2010,Duke (N.C.),2,nacda/2010_fall.pdf
+90.0,0.0,228778,2010,Texas,2,nacda/2010_fall.pdf
+25.0,0.0,174066,2010,Minnesota,2,nacda/2010_fall.pdf
+58.5,0.0,240444,2010,Wisconsin,2,nacda/2010_fall.pdf
+45.0,0.0,153603,2010,Iowa State,2,nacda/2010_fall.pdf
+64.5,0.0,230038,2010,Brigham Young (Utah),2,nacda/2010_fall.pdf
+0.0,0.0,209825,2010,Portland,2,nacda/2010_fall.pdf
+25.0,0.0,164924,2010,Boston College,2,nacda/2010_fall.pdf
+0.0,0.0,152080,2010,Notre Dame,2,nacda/2010_fall.pdf
+100.0,0.0,100751,2010,Alabama,2,nacda/2010_fall.pdf
+52.0,0.0,238032,2010,West Virginia,2,nacda/2010_fall.pdf
+0.0,0.0,187985,2010,New Mexico,2,nacda/2010_fall.pdf
+0.0,83.0,231624,2010,William and Mary (Va.),2,nacda/2010_fall.pdf
+57.0,0.0,159391,2010,Louisiana State U.,2,nacda/2010_fall.pdf
+25.0,0.0,228723,2010,Texas A&M,3,nacda/2010_fall.pdf
+25.0,0.0,110635,2010,California,3,nacda/2010_fall.pdf
+0.0,0.0,196413,2010,Syracuse,3,nacda/2010_fall.pdf
+45.0,0.0,129020,2010,Connecticut,3,nacda/2010_fall.pdf
+61.5,0.0,181464,2010,Nebraska,3,nacda/2010_fall.pdf
+67.5,0.0,233921,2010,Virginia Tech,3,nacda/2010_fall.pdf
+51.0,0.0,229115,2010,Texas Tech,3,nacda/2010_fall.pdf
+45.0,0.0,207500,2010,Oklahoma,3,nacda/2010_fall.pdf
+73.5,0.0,228875,2010,Texas Christian U.,3,nacda/2010_fall.pdf
+0.0,0.0,145637,2010,Illinois,3,nacda/2010_fall.pdf
+0.0,0.0,110705,2010,UC Santa Barbara,3,nacda/2010_fall.pdf
+0.0,0.0,126614,2010,Colorado,3,nacda/2010_fall.pdf
+80.0,0.0,142115,2010,Boise State,3,nacda/2010_fall.pdf
+0.0,0.0,105330,2010,Northern Arizona,3,nacda/2010_fall.pdf
+0.0,0.0,151351,2010,Indiana,3,nacda/2010_fall.pdf
+50.0,0.0,169248,2010,Central Michigan,3,nacda/2010_fall.pdf
+0.0,0.0,202480,2010,Dayton,3,nacda/2010_fall.pdf
+45.0,0.0,139959,2010,Georgia,3,nacda/2010_fall.pdf
+45.0,0.0,186380,2010,Rutgers (N.J.),3,nacda/2010_fall.pdf
+45.0,0.0,137351,2010,South Florida,3,nacda/2010_fall.pdf
+45.0,0.0,100858,2010,Auburn,3,nacda/2010_fall.pdf
+69.0,0.0,201885,2010,Cincinnati,3,nacda/2010_fall.pdf
+0.0,0.0,170976,2010,Michigan,3,nacda/2010_fall.pdf
+0.0,0.0,217402,2010,Providence,3,nacda/2010_fall.pdf
+0.0,0.0,200800,2010,Akron,3,nacda/2010_fall.pdf
+0.0,90.0,180489,2010,Montana,3,nacda/2010_fall.pdf
+0.0,0.0,166027,2010,Harvard,3,nacda/2010_fall.pdf
+25.0,0.0,157085,2010,Kentucky,3,nacda/2010_fall.pdf
+25.0,0.0,147767,2010,Northwestern,3,nacda/2010_fall.pdf
+25.0,0.0,209542,2010,Oregon State,3,nacda/2010_fall.pdf
+25.0,0.0,218663,2010,South Carolina,3,nacda/2010_fall.pdf
+63.0,0.0,139755,2010,Georgia Tech,4,nacda/2010_fall.pdf
+0.0,0.0,104151,2010,Arizona State,4,nacda/2010_fall.pdf
+0.0,60.0,233374,2010,Richmond (Va.),4,nacda/2010_fall.pdf
+0.0,83.0,197869,2010,Appalachian State,4,nacda/2010_fall.pdf
+0.0,0.0,141574,2010,Hawaii,4,nacda/2010_fall.pdf
+0.0,0.0,223232,2010,Baylor (Tex.),4,nacda/2010_fall.pdf
+55.0,0.0,135726,2010,Miami (Fla.),4,nacda/2010_fall.pdf
+0.0,0.0,157289,2010,Louisville,4,nacda/2010_fall.pdf
+53.0,0.0,176017,2010,Mississippi,4,nacda/2010_fall.pdf
+25.0,0.0,132903,2010,Central Florida,4,nacda/2010_fall.pdf
+0.0,0.0,185572,2010,Monmouth (N.J.),4,nacda/2010_fall.pdf
+0.0,0.0,199218,2010,North Carolina Wilmington,4,nacda/2010_fall.pdf
+25.0,0.0,204857,2010,Ohio,4,nacda/2010_fall.pdf
+0.0,0.0,122436,2010,San Diego,4,nacda/2010_fall.pdf
+0.0,0.0,195809,2010,St. John's (N.Y.),4,nacda/2010_fall.pdf
+0.0,0.0,179159,2010,St. Louis,4,nacda/2010_fall.pdf
+0.0,0.0,123554,2010,St. Mary's (Calif.),4,nacda/2010_fall.pdf
+25.0,0.0,221759,2010,Tennessee,4,nacda/2010_fall.pdf
+0.0,0.0,236939,2010,Washington State,4,nacda/2010_fall.pdf
+0.0,0.0,153269,2010,Drake (Iowa),4,nacda/2010_fall.pdf
+0.0,0.0,207971,2010,Tulsa,4,nacda/2010_fall.pdf
+72.0,0.0,153658,2010,Iowa,4,nacda/2010_fall.pdf
+45.0,0.0,217882,2010,Clemson,4,nacda/2010_fall.pdf
+45.0,0.0,220978,2010,Middle Tennessee State,4,nacda/2010_fall.pdf
+0.0,0.0,199193,2010,North Carolina State,4,nacda/2010_fall.pdf
+45.0,0.0,228246,2010,Southern Methodist (Tex.),4,nacda/2010_fall.pdf
+45.0,0.0,106397,2010,Arkansas,4,nacda/2010_fall.pdf
+0.0,0.0,191931,2010,Iona (N.Y.),4,nacda/2010_fall.pdf
+25.0,0.0,104179,2010,Arizona,4,nacda/2010_fall.pdf
+0.0,0.0,126818,2010,Colorado State,4,nacda/2010_fall.pdf
+0.0,0.0,122931,2010,Santa Clara (Calif.),4,nacda/2010_fall.pdf
+0.0,0.0,131496,2010,Georgetown,5,nacda/2010_fall.pdf
+0.0,0.0,212054,2010,Drexel (Pa.),5,nacda/2010_fall.pdf
+0.0,60.0,183044,2010,New Hampshire,5,nacda/2010_fall.pdf
+60.0,0.0,215293,2010,Pittsburgh,5,nacda/2010_fall.pdf
+0.0,60.0,149222,2010,Southern Illinois,5,nacda/2010_fall.pdf
+0.0,60.0,228431,2010,Stephen F. Austin,5,nacda/2010_fall.pdf
+56.0,0.0,230764,2010,Utah,5,nacda/2010_fall.pdf
+0.0,0.0,217156,2010,Brown (R.I.),5,nacda/2010_fall.pdf
+0.0,0.0,211291,2010,Bucknell (Pa.),5,nacda/2010_fall.pdf
+0.0,0.0,150163,2010,Butler (Ind.),5,nacda/2010_fall.pdf
+0.0,0.0,133951,2010,Florida International,5,nacda/2010_fall.pdf
+0.0,0.0,101480,2010,Jacksonville State (Ala.),5,nacda/2010_fall.pdf
+0.0,0.0,163046,2010,Loyola College (Md.),5,nacda/2010_fall.pdf
+0.0,0.0,117946,2010,Loyola Marymount (Calif.),5,nacda/2010_fall.pdf
+0.0,0.0,154095,2010,Northern Iowa,5,nacda/2010_fall.pdf
+0.0,0.0,215062,2010,Pennsylvania,5,nacda/2010_fall.pdf
+0.0,0.0,110617,2010,Sacramento State (Calif.),5,nacda/2010_fall.pdf
+0.0,0.0,122409,2010,San Diego State,5,nacda/2010_fall.pdf
+0.0,0.0,110653,2010,UC Irvine,5,nacda/2010_fall.pdf
+0.0,0.0,156125,2010,Wichita State (Kans.),5,nacda/2010_fall.pdf
+0.0,0.0,240453,2010,Wisconsin-Milwaukee,5,nacda/2010_fall.pdf
+45.0,0.0,142285,2010,Idaho,5,nacda/2010_fall.pdf
+45.0,0.0,237525,2010,Marshall,5,nacda/2010_fall.pdf
+45.0,0.0,240727,2010,Wyoming,5,nacda/2010_fall.pdf
+0.0,0.0,228796,2010,Texas El Paso,5,nacda/2010_fall.pdf
+0.0,0.0,100654,2010,Alabama A&M,5,nacda/2010_fall.pdf
+0.0,0.0,131159,2010,American,5,nacda/2010_fall.pdf
+0.0,0.0,106412,2010,Arkansas Pine Bluff,5,nacda/2010_fall.pdf
+0.0,0.0,196079,2010,Binghamton (N.Y.),6,nacda/2010_fall.pdf
+0.0,0.0,164988,2010,Boston University,6,nacda/2010_fall.pdf
+25.0,0.0,201441,2010,Bowling Green,6,nacda/2010_fall.pdf
+0.0,0.0,217819,2010,Charleston (S.C.),6,nacda/2010_fall.pdf
+0.0,0.0,218724,2010,Coastal Carolina (S.C.),6,nacda/2010_fall.pdf
+0.0,0.0,190099,2010,Colgate (N.Y.),6,nacda/2010_fall.pdf
+0.0,0.0,182670,2010,Dartmouth (N.H.),6,nacda/2010_fall.pdf
+0.0,0.0,198385,2010,Davidson (N.C.),6,nacda/2010_fall.pdf
+0.0,0.0,130943,2010,Delaware,6,nacda/2010_fall.pdf
+0.0,0.0,127060,2010,Denver,6,nacda/2010_fall.pdf
+25.0,0.0,198464,2010,East Carolina (N.C.),6,nacda/2010_fall.pdf
+0.0,25.0,144892,2010,Eastern Illinois,6,nacda/2010_fall.pdf
+0.0,25.0,235097,2010,Eastern Washington,6,nacda/2010_fall.pdf
+0.0,25.0,198516,2010,Elon (N.C.),6,nacda/2010_fall.pdf
+0.0,0.0,133650,2010,Florida A&M,6,nacda/2010_fall.pdf
+25.0,0.0,110556,2010,Fresno State,6,nacda/2010_fall.pdf
+0.0,0.0,232186,2010,George Mason (Va.),6,nacda/2010_fall.pdf
+0.0,0.0,198695,2010,High Point (N.C.),6,nacda/2010_fall.pdf
+0.0,25.0,166124,2010,Holy Cross (Mass.),6,nacda/2010_fall.pdf
+25.0,0.0,225511,2010,Houston,6,nacda/2010_fall.pdf
+0.0,0.0,145813,2010,Illinois State,6,nacda/2010_fall.pdf
+0.0,0.0,151102,2010,Indiana/Purdue Ft. Wayne,6,nacda/2010_fall.pdf
+0.0,0.0,151111,2010,Indiana/Purdue Indianapolis,6,nacda/2010_fall.pdf
+0.0,0.0,140164,2010,Kennesaw State,6,nacda/2010_fall.pdf
+0.0,0.0,219976,2010,Lipscomb (Tenn.),6,nacda/2010_fall.pdf
+0.0,0.0,110583,2010,Long Beach State,6,nacda/2010_fall.pdf
+0.0,0.0,192439,2010,Long Island - Brooklyn,6,nacda/2010_fall.pdf
+0.0,0.0,239105,2010,Marquette,6,nacda/2010_fall.pdf
+0.0,25.0,159717,2010,McNeese State (La.),6,nacda/2010_fall.pdf
+0.0,0.0,220862,2010,Memphis (Tenn.),6,nacda/2010_fall.pdf
+25.0,0.0,178396,2010,Missouri,6,nacda/2010_fall.pdf
+0.0,0.0,179566,2010,Missouri State,7,nacda/2010_fall.pdf
+0.0,0.0,157401,2010,Murray State (Ky.),7,nacda/2010_fall.pdf
+25.0,0.0,182290,2010,Nevada-Reno,7,nacda/2010_fall.pdf
+0.0,0.0,193973,2010,Niagara,7,nacda/2010_fall.pdf
+0.0,0.0,199139,2010,North Carolina Charlotte,7,nacda/2010_fall.pdf
+0.0,0.0,127741,2010,Northern Colorado,7,nacda/2010_fall.pdf
+25.0,0.0,147703,2010,Northern Illinois,7,nacda/2010_fall.pdf
+0.0,0.0,243780,2010,Purdue,7,nacda/2010_fall.pdf
+0.0,0.0,227757,2010,Rice (Tex.),7,nacda/2010_fall.pdf
+0.0,25.0,218733,2010,South Carolina State,7,nacda/2010_fall.pdf
+0.0,25.0,219356,2010,South Dakota State,7,nacda/2010_fall.pdf
+0.0,0.0,160612,2010,Southeastern Louisiana,7,nacda/2010_fall.pdf
+25.0,0.0,176372,2010,Southern Mississippi,7,nacda/2010_fall.pdf
+0.0,0.0,137546,2010,Stetson (Fla.),7,nacda/2010_fall.pdf
+0.0,0.0,196097,2010,Stony Brook,7,nacda/2010_fall.pdf
+25.0,0.0,216339,2010,Temple,7,nacda/2010_fall.pdf
+0.0,0.0,228459,2010,Texas State San Marcos,7,nacda/2010_fall.pdf
+25.0,0.0,102368,2010,Troy,7,nacda/2010_fall.pdf
+0.0,0.0,160755,2010,Tulane,7,nacda/2010_fall.pdf
+0.0,25.0,230782,2010,Weber State (Utah),7,nacda/2010_fall.pdf
+0.0,0.0,149772,2010,Western Illinois,7,nacda/2010_fall.pdf
+0.0,0.0,218964,2010,Winthrop (S.C.),7,nacda/2010_fall.pdf
+0.0,0.0,240277,2010,Wisconsin Green Bay,7,nacda/2010_fall.pdf
+0.0,0.0,218973,2010,Wofford (S.C.),7,nacda/2010_fall.pdf
+80.0,0.0,243744,2011,Stanford,2,nacda/2011_fall.pdf
+45.0,0.0,199120,2011,North Carolina,2,nacda/2011_fall.pdf
+75.0,0.0,204796,2011,Ohio State,2,nacda/2011_fall.pdf
+58.5,0.0,134097,2011,Florida State,2,nacda/2011_fall.pdf
+25.0,0.0,214777,2011,Penn State,2,nacda/2011_fall.pdf
+67.5,0.0,207388,2011,Oklahoma State,2,nacda/2011_fall.pdf
+50.0,0.0,163286,2011,Maryland,2,nacda/2011_fall.pdf
+0.0,0.0,110635,2011,California,2,nacda/2011_fall.pdf
+0.0,0.0,198419,2011,Duke,2,nacda/2011_fall.pdf
+0.0,0.0,234076,2011,Virginia,2,nacda/2011_fall.pdf
+73.5,0.0,207500,2011,Oklahoma,2,nacda/2011_fall.pdf
+0.0,0.0,123961,2011,Southern California,2,nacda/2011_fall.pdf
+45.0,0.0,236948,2011,Washington,2,nacda/2011_fall.pdf
+0.0,0.0,131496,2011,Georgetown,2,nacda/2011_fall.pdf
+45.0,0.0,152080,2011,Notre Dame,2,nacda/2011_fall.pdf
+25.0,0.0,170976,2011,Michigan,2,nacda/2011_fall.pdf
+45.0,0.0,196413,2011,Syracuse,2,nacda/2011_fall.pdf
+85.0,0.0,209551,2011,Oregon,2,nacda/2011_fall.pdf
+0.0,83.0,216597,2011,Villanova (Pa.),2,nacda/2011_fall.pdf
+69.75,0.0,240444,2011,Wisconsin,2,nacda/2011_fall.pdf
+45.0,0.0,157289,2011,Louisville,2,nacda/2011_fall.pdf
+0.0,0.0,151351,2011,Indiana,2,nacda/2011_fall.pdf
+0.0,0.0,187985,2011,New Mexico,2,nacda/2011_fall.pdf
+0.0,0.0,110662,2011,UCLA,2,nacda/2011_fall.pdf
+0.0,0.0,186131,2011,Princeton (N.J.),2,nacda/2011_fall.pdf
+61.5,0.0,171100,2011,Michigan State,2,nacda/2011_fall.pdf
+100.0,0.0,100858,2011,Auburn,2,nacda/2011_fall.pdf
+45.0,0.0,134130,2011,Florida,2,nacda/2011_fall.pdf
+25.0,0.0,164924,2011,Boston College,2,nacda/2011_fall.pdf
+0.0,0.0,174066,2011,Minnesota,2,nacda/2011_fall.pdf
+52.0,0.0,218663,2011,South Carolina,2,nacda/2011_fall.pdf
+0.0,0.0,228778,2011,Texas,3,nacda/2011_fall.pdf
+25.0,0.0,129020,2011,Connecticut,3,nacda/2011_fall.pdf
+45.0,0.0,207971,2011,Tulsa,3,nacda/2011_fall.pdf
+54.0,0.0,132903,2011,Central Florida,3,nacda/2011_fall.pdf
+0.0,53.0,231624,2011,William and Mary (Va.),3,nacda/2011_fall.pdf
+0.0,0.0,217402,2011,Providence,3,nacda/2011_fall.pdf
+25.0,0.0,238032,2011,West Virginia,3,nacda/2011_fall.pdf
+60.0,0.0,233921,2011,Virginia Tech,3,nacda/2011_fall.pdf
+45.0,0.0,145637,2011,Illinois,3,nacda/2011_fall.pdf
+45.0,0.0,229115,2011,Texas Tech,3,nacda/2011_fall.pdf
+0.0,0.0,181002,2011,Creighton (Nebr.),3,nacda/2011_fall.pdf
+64.5,0.0,106397,2011,Arkansas,3,nacda/2011_fall.pdf
+66.0,0.0,100751,2011,Alabama,3,nacda/2011_fall.pdf
+56.0,0.0,178396,2011,Missouri,3,nacda/2011_fall.pdf
+0.0,70.0,200332,2011,North Dakota State,3,nacda/2011_fall.pdf
+45.0,0.0,137351,2011,South Florida,3,nacda/2011_fall.pdf
+55.0,0.0,181464,2011,Nebraska,3,nacda/2011_fall.pdf
+0.0,0.0,126614,2011,Colorado,3,nacda/2011_fall.pdf
+0.0,90.0,130943,2011,Delaware,3,nacda/2011_fall.pdf
+0.0,0.0,232982,2011,Old Dominion (Va.),3,nacda/2011_fall.pdf
+49.0,0.0,199193,2011,North Carolina State,3,nacda/2011_fall.pdf
+45.0,0.0,230038,2011,Brigham Young (Utah),3,nacda/2011_fall.pdf
+0.0,83.0,139931,2011,Georgia Southern,3,nacda/2011_fall.pdf
+25.0,0.0,104179,2011,Arizona,3,nacda/2011_fall.pdf
+53.0,0.0,228723,2011,Texas A&M,3,nacda/2011_fall.pdf
+0.0,0.0,209825,2011,Portland,3,nacda/2011_fall.pdf
+0.0,0.0,200800,2011,Akron,3,nacda/2011_fall.pdf
+0.0,0.0,202480,2011,Dayton,3,nacda/2011_fall.pdf
+0.0,100.0,235097,2011,Eastern Washington,3,nacda/2011_fall.pdf
+0.0,0.0,215062,2011,Pennsylvania,3,nacda/2011_fall.pdf
+25.0,0.0,228246,2011,Southern Methodist (Tex.),3,nacda/2011_fall.pdf
+69.75,0.0,159391,2011,Louisiana State U.,4,nacda/2011_fall.pdf
+0.0,0.0,153603,2011,Iowa State,4,nacda/2011_fall.pdf
+90.0,0.0,228875,2011,Texas Christian U.,4,nacda/2011_fall.pdf
+0.0,53.0,213543,2011,Lehigh (Pa.),4,nacda/2011_fall.pdf
+0.0,0.0,150163,2011,Butler (Ind.),4,nacda/2011_fall.pdf
+25.0,0.0,141574,2011,Hawaii,4,nacda/2011_fall.pdf
+25.0,0.0,220978,2011,Middle Tennessee State,4,nacda/2011_fall.pdf
+25.0,0.0,147767,2011,Northwestern,4,nacda/2011_fall.pdf
+25.0,0.0,204857,2011,Ohio,4,nacda/2011_fall.pdf
+0.0,0.0,110617,2011,Sacramento State (Calif.),4,nacda/2011_fall.pdf
+0.0,0.0,122436,2011,San Diego,4,nacda/2011_fall.pdf
+0.0,0.0,122931,2011,Santa Clara (Calif.),4,nacda/2011_fall.pdf
+25.0,0.0,221759,2011,Tennessee,4,nacda/2011_fall.pdf
+0.0,0.0,199847,2011,Wake Forest,4,nacda/2011_fall.pdf
+0.0,0.0,243780,2011,Purdue,4,nacda/2011_fall.pdf
+72.0,0.0,142115,2011,Boise State,4,nacda/2011_fall.pdf
+0.0,70.0,197869,2011,Appalachian State,4,nacda/2011_fall.pdf
+0.0,70.0,183044,2011,New Hampshire,4,nacda/2011_fall.pdf
+0.0,70.0,218973,2011,Wofford (S.C.),4,nacda/2011_fall.pdf
+0.0,0.0,196097,2011,Stony Brook,4,nacda/2011_fall.pdf
+0.0,0.0,191931,2011,Iona (N.Y.),4,nacda/2011_fall.pdf
+0.0,0.0,217156,2011,Brown (R.I.),4,nacda/2011_fall.pdf
+0.0,0.0,182670,2011,Dartmouth (N.H.),4,nacda/2011_fall.pdf
+0.0,0.0,239105,2011,Marquette,4,nacda/2011_fall.pdf
+0.0,0.0,110653,2011,UC Irvine,4,nacda/2011_fall.pdf
+63.0,0.0,182290,2011,Nevada-Reno,4,nacda/2011_fall.pdf
+0.0,0.0,105330,2011,Northern Arizona,4,nacda/2011_fall.pdf
+57.0,0.0,176080,2011,Mississippi State,4,nacda/2011_fall.pdf
+0.0,53.0,132602,2011,Bethune-Cookman (Fla.),4,nacda/2011_fall.pdf
+0.0,53.0,101480,2011,Jacksonville State (Ala.),4,nacda/2011_fall.pdf
+0.0,53.0,180461,2011,Montana State,4,nacda/2011_fall.pdf
+0.0,53.0,179557,2011,Southeast Missouri State,5,nacda/2011_fall.pdf
+0.0,53.0,228431,2011,Stephen F. Austin,5,nacda/2011_fall.pdf
+0.0,53.0,149772,2011,Western Illinois,5,nacda/2011_fall.pdf
+51.0,0.0,230764,2011,Utah,5,nacda/2011_fall.pdf
+0.0,0.0,196060,2011,Albany,5,nacda/2011_fall.pdf
+0.0,0.0,131159,2011,American,5,nacda/2011_fall.pdf
+0.0,0.0,217819,2011,Charleston (S.C.),5,nacda/2011_fall.pdf
+0.0,0.0,201885,2011,Cincinnati,5,nacda/2011_fall.pdf
+0.0,25.0,218724,2011,Coastal Carolina (S.C.),5,nacda/2011_fall.pdf
+0.0,0.0,126818,2011,Colorado State,5,nacda/2011_fall.pdf
+25.0,0.0,110556,2011,Fresno State,5,nacda/2011_fall.pdf
+0.0,0.0,198695,2011,High Point (N.C.),5,nacda/2011_fall.pdf
+0.0,0.0,191649,2011,Hofstra (N.Y.),5,nacda/2011_fall.pdf
+0.0,0.0,232423,2011,James Madison (Va.),5,nacda/2011_fall.pdf
+25.0,0.0,157085,2011,Kentucky,5,nacda/2011_fall.pdf
+0.0,0.0,110583,2011,Long Beach State,5,nacda/2011_fall.pdf
+0.0,0.0,163268,2011,Maryland Baltimore County,5,nacda/2011_fall.pdf
+25.0,0.0,135726,2011,Miami (Fla.),5,nacda/2011_fall.pdf
+0.0,0.0,199148,2011,North Carolina Greensboro,5,nacda/2011_fall.pdf
+0.0,25.0,154095,2011,Northern Iowa,5,nacda/2011_fall.pdf
+0.0,0.0,209542,2011,Oregon State,5,nacda/2011_fall.pdf
+0.0,25.0,218733,2011,South Carolina State,5,nacda/2011_fall.pdf
+0.0,0.0,229027,2011,Texas San Antonio,5,nacda/2011_fall.pdf
+0.0,0.0,110705,2011,UC Santa Barbara,5,nacda/2011_fall.pdf
+25.0,0.0,155399,2011,Kansas State,5,nacda/2011_fall.pdf
+0.0,0.0,117946,2011,Loyola Marymount (Calif.),5,nacda/2011_fall.pdf
+45.0,0.0,133951,2011,Florida International,5,nacda/2011_fall.pdf
+45.0,0.0,153658,2011,Iowa,5,nacda/2011_fall.pdf
+45.0,0.0,204024,2011,Miami (Ohio),5,nacda/2011_fall.pdf
+45.0,0.0,147703,2011,Northern Illinois,6,nacda/2011_fall.pdf
+45.0,0.0,215293,2011,Pittsburgh,6,nacda/2011_fall.pdf
+45.0,0.0,122409,2011,San Diego State,6,nacda/2011_fall.pdf
+45.0,0.0,102368,2011,Troy,6,nacda/2011_fall.pdf
+25.0,0.0,206084,2011,Toledo,6,nacda/2011_fall.pdf
+0.0,0.0,233374,2011,Richmond (Va.),6,nacda/2011_fall.pdf
+0.0,0.0,100654,2011,Alabama A&M,6,nacda/2011_fall.pdf
+0.0,0.0,104151,2011,Arizona State,6,nacda/2011_fall.pdf
+0.0,0.0,219602,2011,Austin Peay,6,nacda/2011_fall.pdf
+25.0,0.0,223232,2011,Baylor (Tex.),6,nacda/2011_fall.pdf
+0.0,0.0,164988,2011,Boston University,6,nacda/2011_fall.pdf
+0.0,0.0,143358,2011,Bradley (Ill.),6,nacda/2011_fall.pdf
+0.0,0.0,211291,2011,Bucknell (Pa.),6,nacda/2011_fall.pdf
+0.0,0.0,110565,2011,Cal State Fullerton,6,nacda/2011_fall.pdf
+0.0,0.0,169248,2011,Central Michigan,6,nacda/2011_fall.pdf
+25.0,0.0,217882,2011,Clemson,6,nacda/2011_fall.pdf
+0.0,0.0,127060,2011,Denver,6,nacda/2011_fall.pdf
+25.0,0.0,198464,2011,East Carolina (N.C.),6,nacda/2011_fall.pdf
+0.0,0.0,220075,2011,East Tennessee State,6,nacda/2011_fall.pdf
+25.0,0.0,139959,2011,Georgia,6,nacda/2011_fall.pdf
+25.0,0.0,139755,2011,Georgia Tech,6,nacda/2011_fall.pdf
+0.0,0.0,175856,2011,Jackson State (Miss.),6,nacda/2011_fall.pdf
+0.0,0.0,219976,2011,Lipscomb (Tenn.),6,nacda/2011_fall.pdf
+0.0,0.0,166629,2011,Massachusetts,6,nacda/2011_fall.pdf
+0.0,0.0,220862,2011,Memphis (Tenn.),6,nacda/2011_fall.pdf
+0.0,0.0,140447,2011,Mercer (Ga.),6,nacda/2011_fall.pdf
+0.0,0.0,176017,2011,Mississippi,6,nacda/2011_fall.pdf
+0.0,0.0,179566,2011,Missouri State,6,nacda/2011_fall.pdf
+0.0,0.0,185572,2011,Monmouth (N.J.),6,nacda/2011_fall.pdf
+0.0,0.0,157386,2011,Morehead State (Ky.),6,nacda/2011_fall.pdf
+0.0,0.0,193973,2011,Niagara,7,nacda/2011_fall.pdf
+0.0,0.0,171571,2011,Oakland (Mich.),7,nacda/2011_fall.pdf
+0.0,0.0,209807,2011,Portland State (Ore.),7,nacda/2011_fall.pdf
+0.0,25.0,215655,2011,Robert Morris (Pa.),7,nacda/2011_fall.pdf
+0.0,0.0,130253,2011,Sacred Heart (Conn.),7,nacda/2011_fall.pdf
+0.0,0.0,195474,2011,Siena (N.Y.),7,nacda/2011_fall.pdf
+25.0,0.0,176372,2011,Southern Mississippi,7,nacda/2011_fall.pdf
+0.0,0.0,195173,2011,St. Francis (N.Y.),7,nacda/2011_fall.pdf
+0.0,0.0,215743,2011,St. Francis (Pa.),7,nacda/2011_fall.pdf
+0.0,0.0,186432,2011,St. Peter's (N.J.),7,nacda/2011_fall.pdf
+25.0,0.0,228796,2011,Texas El Paso,7,nacda/2011_fall.pdf
+0.0,0.0,230728,2011,Utah State,7,nacda/2011_fall.pdf
+0.0,0.0,157951,2011,Western Kentucky,7,nacda/2011_fall.pdf
+0.0,0.0,156125,2011,Wichita State (Kans.),7,nacda/2011_fall.pdf
+0.0,0.0,240453,2011,Wisconsin-Milwaukee,7,nacda/2011_fall.pdf
+0.0,0.0,206622,2011,Xavier,7,nacda/2011_fall.pdf
+0.0,0.0,227757,2011,Rice (Tex.),7,nacda/2011_fall.pdf
+72.0,0.0,243744,2012,Stanford,2,nacda/2012_fall.pdf
+51.0,0.0,134097,2012,Florida State,2,nacda/2012_fall.pdf
+25.0,0.0,199120,2012,North Carolina,2,nacda/2012_fall.pdf
+25.0,0.0,110662,2012,UCLA,2,nacda/2012_fall.pdf
+69.0,0.0,170976,2012,Michigan,2,nacda/2012_fall.pdf
+25.0,0.0,214777,2012,Penn State,2,nacda/2012_fall.pdf
+85.0,0.0,207388,2012,Oklahoma State,2,nacda/2012_fall.pdf
+0.0,0.0,163286,2012,Maryland,2,nacda/2012_fall.pdf
+0.0,0.0,198419,2012,Duke,2,nacda/2012_fall.pdf
+45.0,0.0,228778,2012,Texas,2,nacda/2012_fall.pdf
+25.0,0.0,157289,2012,Louisville,2,nacda/2012_fall.pdf
+25.0,0.0,204796,2012,Ohio State,2,nacda/2012_fall.pdf
+56.0,0.0,238032,2012,West Virginia,2,nacda/2012_fall.pdf
+66.0,0.0,240444,2012,Wisconsin,2,nacda/2012_fall.pdf
+0.0,53.0,232982,2012,Old Dominion (Va.),2,nacda/2012_fall.pdf
+45.0,0.0,145637,2012,Illinois,2,nacda/2012_fall.pdf
+0.0,0.0,123961,2012,Southern California,2,nacda/2012_fall.pdf
+45.0,0.0,228723,2012,Texas A&M,2,nacda/2012_fall.pdf
+45.0,0.0,134130,2012,Florida,2,nacda/2012_fall.pdf
+80.0,0.0,209551,2012,Oregon,2,nacda/2012_fall.pdf
+0.0,0.0,164924,2012,Boston College,2,nacda/2012_fall.pdf
+25.0,0.0,153603,2012,Iowa State,2,nacda/2012_fall.pdf
+25.0,0.0,236948,2012,Washington,2,nacda/2012_fall.pdf
+0.0,0.0,187985,2012,New Mexico,2,nacda/2012_fall.pdf
+67.5,0.0,171100,2012,Michigan State,2,nacda/2012_fall.pdf
+25.0,0.0,199847,2012,Wake Forest,2,nacda/2012_fall.pdf
+60.0,0.0,207500,2012,Oklahoma,2,nacda/2012_fall.pdf
+25.0,0.0,234076,2012,Virginia,2,nacda/2012_fall.pdf
+0.0,0.0,129020,2012,Connecticut,2,nacda/2012_fall.pdf
+49.0,0.0,230038,2012,Brigham Young (Utah),2,nacda/2012_fall.pdf
+70.5,0.0,218663,2012,South Carolina,2,nacda/2012_fall.pdf
+0.0,0.0,196413,2012,Syracuse,2,nacda/2012_fall.pdf
+0.0,0.0,126614,2012,Colorado,2,nacda/2012_fall.pdf
+0.0,0.0,131496,2012,Georgetown,2,nacda/2012_fall.pdf
+64.5,0.0,223232,2012,Baylor (Tex.),2,nacda/2012_fall.pdf
+25.0,0.0,110635,2012,California,2,nacda/2012_fall.pdf
+0.0,0.0,216597,2012,Villanova (Pa.),2,nacda/2012_fall.pdf
+0.0,0.0,151351,2012,Indiana,2,nacda/2012_fall.pdf
+45.0,0.0,199193,2012,North Carolina State,2,nacda/2012_fall.pdf
+0.0,0.0,174066,2012,Minnesota,2,nacda/2012_fall.pdf
+100.0,0.0,100751,2012,Alabama,2,nacda/2012_fall.pdf
+0.0,100.0,200332,2012,North Dakota State,2,nacda/2012_fall.pdf
+75.0,0.0,106397,2012,Arkansas,2,nacda/2012_fall.pdf
+0.0,0.0,132903,2012,Central Florida,3,nacda/2012_fall.pdf
+58.5,0.0,155399,2012,Kansas State,3,nacda/2012_fall.pdf
+57.0,0.0,233921,2012,Virginia Tech,3,nacda/2012_fall.pdf
+54.0,0.0,139959,2012,Georgia,3,nacda/2012_fall.pdf
+45.0,0.0,147703,2012,Northern Illinois,3,nacda/2012_fall.pdf
+0.0,70.0,154095,2012,Northern Iowa,3,nacda/2012_fall.pdf
+0.0,53.0,232423,2012,James Madison (Va.),3,nacda/2012_fall.pdf
+0.0,0.0,209825,2012,Portland,3,nacda/2012_fall.pdf
+90.0,0.0,159391,2012,Louisiana State U.,3,nacda/2012_fall.pdf
+0.0,0.0,122436,2012,San Diego,3,nacda/2012_fall.pdf
+45.0,0.0,243780,2012,Purdue,3,nacda/2012_fall.pdf
+45.0,0.0,186380,2012,Rutgers (N.J.),3,nacda/2012_fall.pdf
+0.0,0.0,186131,2012,Princeton (N.J.),3,nacda/2012_fall.pdf
+0.0,83.0,180489,2012,Montana,3,nacda/2012_fall.pdf
+25.0,0.0,152080,2012,Notre Dame,3,nacda/2012_fall.pdf
+53.0,0.0,201885,2012,Cincinnati,3,nacda/2012_fall.pdf
+45.0,0.0,206084,2012,Toledo,3,nacda/2012_fall.pdf
+0.0,0.0,130943,2012,Delaware,3,nacda/2012_fall.pdf
+0.0,0.0,239105,2012,Marquette,3,nacda/2012_fall.pdf
+0.0,0.0,135726,2012,Miami (Fla.),3,nacda/2012_fall.pdf
+50.0,0.0,181464,2012,Nebraska,3,nacda/2012_fall.pdf
+25.0,0.0,207971,2012,Tulsa,3,nacda/2012_fall.pdf
+0.0,0.0,110583,2012,Long Beach State,3,nacda/2012_fall.pdf
+0.0,0.0,121150,2012,Pepperdine (Calif.),3,nacda/2012_fall.pdf
+25.0,0.0,221999,2012,Vanderbilt,3,nacda/2012_fall.pdf
+45.0,0.0,100858,2012,Auburn,3,nacda/2012_fall.pdf
+45.0,0.0,228246,2012,Southern Methodist (Tex.),3,nacda/2012_fall.pdf
+0.0,0.0,199139,2012,North Carolina Charlotte,3,nacda/2012_fall.pdf
+0.0,90.0,227881,2012,Sam Houston State (Tex.),3,nacda/2012_fall.pdf
+0.0,0.0,157085,2012,Kentucky,3,nacda/2012_fall.pdf
+0.0,0.0,181002,2012,Creighton (Nebr.),3,nacda/2012_fall.pdf
+0.0,83.0,139931,2012,Georgia Southern,3,nacda/2012_fall.pdf
+0.0,0.0,236939,2012,Washington State,3,nacda/2012_fall.pdf
+0.0,0.0,217402,2012,Providence,3,nacda/2012_fall.pdf
+0.0,53.0,183044,2012,New Hampshire,3,nacda/2012_fall.pdf
+0.0,53.0,196097,2012,Stony Brook,3,nacda/2012_fall.pdf
+0.0,0.0,221759,2012,Tennessee,3,nacda/2012_fall.pdf
+0.0,0.0,110653,2012,UC Irvine,3,nacda/2012_fall.pdf
+0.0,0.0,240453,2012,Wisconsin-Milwaukee,3,nacda/2012_fall.pdf
+73.5,0.0,142115,2012,Boise State,3,nacda/2012_fall.pdf
+0.0,0.0,137351,2012,South Florida,3,nacda/2012_fall.pdf
+0.0,0.0,123554,2012,St. Mary's (Calif.),3,nacda/2012_fall.pdf
+0.0,70.0,213543,2012,Lehigh (Pa.),3,nacda/2012_fall.pdf
+0.0,70.0,161253,2012,Maine,4,nacda/2012_fall.pdf
+45.0,0.0,178396,2012,Missouri,4,nacda/2012_fall.pdf
+0.0,70.0,180461,2012,Montana State,4,nacda/2012_fall.pdf
+45.0,0.0,204857,2012,Ohio,4,nacda/2012_fall.pdf
+0.0,0.0,200800,2012,Akron,4,nacda/2012_fall.pdf
+0.0,0.0,217156,2012,Brown (R.I.),4,nacda/2012_fall.pdf
+0.0,0.0,141574,2012,Hawaii,4,nacda/2012_fall.pdf
+0.0,0.0,110705,2012,UC Santa Barbara,4,nacda/2012_fall.pdf
+0.0,0.0,191931,2012,Iona (N.Y.),4,nacda/2012_fall.pdf
+63.0,0.0,228875,2012,Texas Christian U.,4,nacda/2012_fall.pdf
+61.5,0.0,225511,2012,Houston,4,nacda/2012_fall.pdf
+0.0,0.0,104179,2012,Arizona,4,nacda/2012_fall.pdf
+55.0,0.0,176372,2012,Southern Mississippi,4,nacda/2012_fall.pdf
+0.0,53.0,197869,2012,Appalachian State,4,nacda/2012_fall.pdf
+0.0,53.0,106704,2012,Central Arkansas,4,nacda/2012_fall.pdf
+0.0,53.0,164076,2012,Towson (Md.),4,nacda/2012_fall.pdf
+0.0,53.0,218973,2012,Wofford (S.C.),4,nacda/2012_fall.pdf
+52.0,0.0,217882,2012,Clemson,4,nacda/2012_fall.pdf
+0.0,25.0,196060,2012,Albany,4,nacda/2012_fall.pdf
+0.0,0.0,164988,2012,Boston University,4,nacda/2012_fall.pdf
+0.0,0.0,143358,2012,Bradley (Ill.),4,nacda/2012_fall.pdf
+0.0,0.0,218724,2012,Coastal Carolina (S.C.),4,nacda/2012_fall.pdf
+0.0,0.0,126818,2012,Colorado State,4,nacda/2012_fall.pdf
+0.0,0.0,202480,2012,Dayton,4,nacda/2012_fall.pdf
+0.0,0.0,433660,2012,Florida Gulf Coast,4,nacda/2012_fall.pdf
+25.0,0.0,133951,2012,Florida International,4,nacda/2012_fall.pdf
+25.0,0.0,153658,2012,Iowa,4,nacda/2012_fall.pdf
+0.0,0.0,232557,2012,Liberty (Va.),4,nacda/2012_fall.pdf
+0.0,0.0,220862,2012,Memphis (Tenn.),4,nacda/2012_fall.pdf
+0.0,0.0,185572,2012,Monmouth (N.J.),4,nacda/2012_fall.pdf
+25.0,0.0,147767,2012,Northwestern,4,nacda/2012_fall.pdf
+0.0,0.0,102049,2012,Samford (Ala.),4,nacda/2012_fall.pdf
+0.0,0.0,195809,2012,St. John's (N.Y.),4,nacda/2012_fall.pdf
+0.0,0.0,228459,2012,Texas State San Marcos,4,nacda/2012_fall.pdf
+0.0,0.0,100663,2012,UAB,4,nacda/2012_fall.pdf
+25.0,0.0,230728,2012,Utah State,4,nacda/2012_fall.pdf
+25.0,0.0,172699,2012,Western Michigan,4,nacda/2012_fall.pdf
+0.0,0.0,105330,2012,Northern Arizona,4,nacda/2012_fall.pdf
+0.0,25.0,156620,2012,Eastern Kentucky,4,nacda/2012_fall.pdf
+45.0,0.0,160658,2012,Louisiana Lafayette,4,nacda/2012_fall.pdf
+45.0,0.0,237525,2012,Marshall,4,nacda/2012_fall.pdf
+45.0,0.0,176080,2012,Mississippi State,4,nacda/2012_fall.pdf
+45.0,0.0,216339,2012,Temple,4,nacda/2012_fall.pdf
+45.0,0.0,230764,2012,Utah,5,nacda/2012_fall.pdf
+25.0,0.0,104151,2012,Arizona State,5,nacda/2012_fall.pdf
+0.0,0.0,131159,2012,American,5,nacda/2012_fall.pdf
+0.0,0.0,106412,2012,Arkansas Pine Bluff,5,nacda/2012_fall.pdf
+25.0,0.0,106458,2012,Arkansas State,5,nacda/2012_fall.pdf
+0.0,0.0,150136,2012,Ball State,5,nacda/2012_fall.pdf
+0.0,0.0,110486,2012,Cal State Bakersfield,5,nacda/2012_fall.pdf
+0.0,0.0,169248,2012,Central Michigan,5,nacda/2012_fall.pdf
+0.0,0.0,190099,2012,Colgate (N.Y.),5,nacda/2012_fall.pdf
+0.0,0.0,182670,2012,Dartmouth (N.H.),5,nacda/2012_fall.pdf
+0.0,0.0,198516,2012,Elon (N.C.),5,nacda/2012_fall.pdf
+0.0,0.0,129242,2012,Fairfield (Conn.),5,nacda/2012_fall.pdf
+0.0,0.0,218070,2012,Furman (S.C.),5,nacda/2012_fall.pdf
+0.0,0.0,139940,2012,Georgia State,5,nacda/2012_fall.pdf
+25.0,0.0,139755,2012,Georgia Tech,5,nacda/2012_fall.pdf
+0.0,0.0,166027,2012,Harvard,5,nacda/2012_fall.pdf
+0.0,0.0,145813,2012,Illinois State,5,nacda/2012_fall.pdf
+0.0,0.0,175856,2012,Jackson State (Miss.),5,nacda/2012_fall.pdf
+0.0,0.0,155317,2012,Kansas,5,nacda/2012_fall.pdf
+0.0,0.0,213367,2012,La Salle (Pa.),5,nacda/2012_fall.pdf
+0.0,0.0,219976,2012,Lipscomb (Tenn.),5,nacda/2012_fall.pdf
+0.0,0.0,192439,2012,Long Island - Brooklyn,5,nacda/2012_fall.pdf
+25.0,0.0,159647,2012,Louisiana Tech,5,nacda/2012_fall.pdf
+0.0,0.0,146719,2012,Loyola Chicago,5,nacda/2012_fall.pdf
+0.0,0.0,192819,2012,Marist (N.Y.),5,nacda/2012_fall.pdf
+0.0,0.0,163338,2012,Maryland Eastern Shore,5,nacda/2012_fall.pdf
+0.0,0.0,220978,2012,Middle Tennessee State,5,nacda/2012_fall.pdf
+0.0,0.0,179566,2012,Missouri State,5,nacda/2012_fall.pdf
+0.0,0.0,157386,2012,Morehead State (Ky.),5,nacda/2012_fall.pdf
+25.0,0.0,182290,2012,Nevada-Reno,5,nacda/2012_fall.pdf
+0.0,0.0,193973,2012,Niagara,5,nacda/2012_fall.pdf
+0.0,25.0,232937,2012,Norfolk State (Va.),5,nacda/2012_fall.pdf
+0.0,0.0,167358,2012,Northeastern (Mass.),5,nacda/2012_fall.pdf
+0.0,0.0,127741,2012,Northern Colorado,5,nacda/2012_fall.pdf
+0.0,0.0,171571,2012,Oakland (Mich.),5,nacda/2012_fall.pdf
+0.0,0.0,209542,2012,Oregon State,5,nacda/2012_fall.pdf
+25.0,0.0,215293,2012,Pittsburgh,5,nacda/2012_fall.pdf
+0.0,0.0,233277,2012,Radford (Va.),5,nacda/2012_fall.pdf
+0.0,0.0,233374,2012,Richmond (Va.),5,nacda/2012_fall.pdf
+0.0,0.0,130253,2012,Sacred Heart (Conn.),5,nacda/2012_fall.pdf
+25.0,0.0,122409,2012,San Diego State,5,nacda/2012_fall.pdf
+0.0,0.0,122931,2012,Santa Clara (Calif.),6,nacda/2012_fall.pdf
+0.0,0.0,221768,2012,Tennessee Martin,6,nacda/2012_fall.pdf
+0.0,25.0,221847,2012,Tennessee Tech,6,nacda/2012_fall.pdf
+0.0,0.0,149772,2012,Western Illinois,6,nacda/2012_fall.pdf
+0.0,0.0,157951,2012,Western Kentucky,6,nacda/2012_fall.pdf
+0.0,0.0,156125,2012,Wichita State (Kans.),6,nacda/2012_fall.pdf
+0.0,0.0,231624,2012,William and Mary (Va.),6,nacda/2012_fall.pdf
+25.0,0.0,240727,2012,Wyoming,6,nacda/2012_fall.pdf
+0.0,0.0,206622,2012,Xavier,6,nacda/2012_fall.pdf
+0.0,0.0,130794,2012,Yale,6,nacda/2012_fall.pdf
+0.0,0.0,122612,2012,San Francisco,6,nacda/2012_fall.pdf
+0.0,0.0,190150,2012,Columbia/Barnard (N.Y.),6,nacda/2012_fall.pdf
+0.0,0.0,110422,2012,Cal Poly,6,nacda/2012_fall.pdf
+0.0,0.0,230782,2012,Weber State (Utah),6,nacda/2012_fall.pdf
+73.5,0.0,243744,2013,Stanford,2,nacda/2013_fall.pdf
+25.0,0.0,170976,2013,Michigan,2,nacda/2013_fall.pdf
+70.5,0.0,134097,2013,Florida State,2,nacda/2013_fall.pdf
+85.0,0.0,152080,2013,Notre Dame,2,nacda/2013_fall.pdf
+0.0,0.0,199120,2013,North Carolina,2,nacda/2013_fall.pdf
+90.0,0.0,209551,2013,Oregon,2,nacda/2013_fall.pdf
+25.0,0.0,110662,2013,UCLA,2,nacda/2013_fall.pdf
+0.0,0.0,214777,2013,Penn State,2,nacda/2013_fall.pdf
+67.5,0.0,134130,2013,Florida,2,nacda/2013_fall.pdf
+56.0,0.0,228778,2013,Texas,2,nacda/2013_fall.pdf
+25.0,0.0,236948,2013,Washington,2,nacda/2013_fall.pdf
+45.0,0.0,171100,2013,Michigan State,2,nacda/2013_fall.pdf
+45.0,0.0,230038,2013,Brigham Young,2,nacda/2013_fall.pdf
+0.0,0.0,131496,2013,Georgetown,2,nacda/2013_fall.pdf
+45.0,0.0,196413,2013,Syracuse,2,nacda/2013_fall.pdf
+75.0,0.0,228723,2013,Texas A&M,2,nacda/2013_fall.pdf
+0.0,0.0,186131,2013,Princeton,2,nacda/2013_fall.pdf
+49.0,0.0,207971,2013,Tulsa,2,nacda/2013_fall.pdf
+0.0,0.0,234076,2013,Virginia,2,nacda/2013_fall.pdf
+0.0,0.0,163286,2013,Maryland,2,nacda/2013_fall.pdf
+25.0,0.0,198419,2013,Duke,2,nacda/2013_fall.pdf
+0.0,0.0,129020,2013,Connecticut,2,nacda/2013_fall.pdf
+25.0,0.0,123961,2013,USC,2,nacda/2013_fall.pdf
+45.0,0.0,207388,2013,Oklahoma State,2,nacda/2013_fall.pdf
+63.0,0.0,157289,2013,Louisville,2,nacda/2013_fall.pdf
+0.0,0.0,187985,2013,New Mexico,2,nacda/2013_fall.pdf
+60.0,0.0,207500,2013,Oklahoma,2,nacda/2013_fall.pdf
+80.0,0.0,139959,2013,Georgia,2,nacda/2013_fall.pdf
+0.0,0.0,157085,2013,Kentucky,2,nacda/2013_fall.pdf
+0.0,0.0,151351,2013,Indiana,2,nacda/2013_fall.pdf
+25.0,0.0,153603,2013,Iowa State,2,nacda/2013_fall.pdf
+0.0,70.0,232982,2013,Old Dominion,2,nacda/2013_fall.pdf
+58.5,0.0,147767,2013,Northwestern,2,nacda/2013_fall.pdf
+25.0,0.0,174066,2013,Minnesota,2,nacda/2013_fall.pdf
+0.0,0.0,106397,2013,Arkansas,2,nacda/2013_fall.pdf
+25.0,0.0,240444,2013,Wisconsin,2,nacda/2013_fall.pdf
+0.0,0.0,239105,2013,Marquette,2,nacda/2013_fall.pdf
+0.0,0.0,126614,2013,Colorado,2,nacda/2013_fall.pdf
+0.0,0.0,181002,2013,Creighton,2,nacda/2013_fall.pdf
+0.0,0.0,164924,2013,Boston College,2,nacda/2013_fall.pdf
+25.0,0.0,199193,2013,North Carolina State,2,nacda/2013_fall.pdf
+0.0,25.0,216597,2013,Villanova,2,nacda/2013_fall.pdf
+51.0,0.0,181464,2013,Nebraska,2,nacda/2013_fall.pdf
+45.0,0.0,233921,2013,Virginia Tech,2,nacda/2013_fall.pdf
+0.0,0.0,217402,2013,Providence College,2,nacda/2013_fall.pdf
+45.0,0.0,104179,2013,Arizona,2,nacda/2013_fall.pdf
+0.0,53.0,218724,2013,Coastal Carolina,2,nacda/2013_fall.pdf
+0.0,0.0,209825,2013,Portland,2,nacda/2013_fall.pdf
+25.0,0.0,122409,2013,San Diego State,2,nacda/2013_fall.pdf
+45.0,0.0,223232,2013,Baylor,2,nacda/2013_fall.pdf
+0.0,83.0,139931,2013,Georgia Southern,2,nacda/2013_fall.pdf
+54.0,0.0,221999,2013,Vanderbilt,2,nacda/2013_fall.pdf
+0.0,0.0,199847,2013,Wake Forest,3,nacda/2013_fall.pdf
+100.0,0.0,100751,2013,Alabama,3,nacda/2013_fall.pdf
+0.0,100.0,200332,2013,North Dakota State,3,nacda/2013_fall.pdf
+45.0,0.0,228246,2013,Southern Methodist,3,nacda/2013_fall.pdf
+0.0,0.0,122436,2013,San Diego,3,nacda/2013_fall.pdf
+45.0,0.0,229115,2013,Texas Tech,3,nacda/2013_fall.pdf
+45.0,0.0,132903,2013,Central Florida,3,nacda/2013_fall.pdf
+0.0,70.0,145813,2013,Illinois State,3,nacda/2013_fall.pdf
+45.0,0.0,104151,2013,Arizona State,3,nacda/2013_fall.pdf
+66.0,0.0,155399,2013,Kansas State,3,nacda/2013_fall.pdf
+0.0,90.0,227881,2013,Sam Houston State,3,nacda/2013_fall.pdf
+25.0,0.0,243780,2013,Purdue,3,nacda/2013_fall.pdf
+0.0,0.0,190415,2013,Cornell,3,nacda/2013_fall.pdf
+0.0,0.0,230782,2013,Weber State,3,nacda/2013_fall.pdf
+0.0,83.0,235097,2013,Eastern Washington,3,nacda/2013_fall.pdf
+57.0,0.0,230728,2013,Utah State,3,nacda/2013_fall.pdf
+0.0,0.0,105330,2013,Northern Arizona,3,nacda/2013_fall.pdf
+25.0,0.0,238032,2013,West Virginia,3,nacda/2013_fall.pdf
+0.0,0.0,145637,2013,Illinois,3,nacda/2013_fall.pdf
+0.0,53.0,196097,2013,Stony Brook,3,nacda/2013_fall.pdf
+0.0,53.0,106704,2013,Central Arkansas,3,nacda/2013_fall.pdf
+25.0,0.0,186380,2013,Rutgers,3,nacda/2013_fall.pdf
+0.0,0.0,204796,2013,Ohio State,3,nacda/2013_fall.pdf
+0.0,0.0,167358,2013,Northeastern,3,nacda/2013_fall.pdf
+25.0,0.0,201441,2013,Bowling Green,3,nacda/2013_fall.pdf
+0.0,0.0,110635,2013,California,3,nacda/2013_fall.pdf
+0.0,25.0,190099,2013,Colgate,3,nacda/2013_fall.pdf
+25.0,0.0,157951,2013,Western Kentucky,3,nacda/2013_fall.pdf
+0.0,0.0,122931,2013,Santa Clara,3,nacda/2013_fall.pdf
+45.0,0.0,139755,2013,Georgia Tech,3,nacda/2013_fall.pdf
+45.0,0.0,176017,2013,Mississippi,3,nacda/2013_fall.pdf
+72.0,0.0,218663,2013,South Carolina,3,nacda/2013_fall.pdf
+25.0,0.0,206084,2013,Toledo,3,nacda/2013_fall.pdf
+0.0,70.0,180461,2013,Montana State,3,nacda/2013_fall.pdf
+45.0,0.0,169248,2013,Central Michigan,3,nacda/2013_fall.pdf
+0.0,70.0,218973,2013,Wofford College,3,nacda/2013_fall.pdf
+69.0,0.0,217882,2013,Clemson,3,nacda/2013_fall.pdf
+64.5,0.0,159391,2013,LSU,3,nacda/2013_fall.pdf
+0.0,0.0,200800,2013,Akron,3,nacda/2013_fall.pdf
+0.0,0.0,156125,2013,Wichita State,3,nacda/2013_fall.pdf
+0.0,0.0,184603,2013,Fairleigh Dickinson,3,nacda/2013_fall.pdf
+0.0,0.0,127060,2013,Denver,3,nacda/2013_fall.pdf
+61.5,0.0,142115,2013,Boise State,3,nacda/2013_fall.pdf
+0.0,0.0,190150,2013,Columbia,3,nacda/2013_fall.pdf
+55.0,0.0,209542,2013,Oregon State,3,nacda/2013_fall.pdf
+0.0,0.0,126818,2013,Colorado State,3,nacda/2013_fall.pdf
+25.0,0.0,176080,2013,Mississippi State,3,nacda/2013_fall.pdf
+0.0,0.0,178396,2013,Missouri,3,nacda/2013_fall.pdf
+0.0,0.0,228431,2013,Stephen F. Austin State,3,nacda/2013_fall.pdf
+0.0,53.0,183044,2013,New Hampshire,3,nacda/2013_fall.pdf
+0.0,53.0,110422,2013,Cal Poly,3,nacda/2013_fall.pdf
+0.0,0.0,231624,2013,William and Mary,4,nacda/2013_fall.pdf
+0.0,53.0,197197,2013,Wagner College,4,nacda/2013_fall.pdf
+0.0,53.0,197869,2013,Appalachian State,4,nacda/2013_fall.pdf
+0.0,53.0,219356,2013,South Dakota State,4,nacda/2013_fall.pdf
+53.0,0.0,122755,2013,San Jose State,4,nacda/2013_fall.pdf
+52.0,0.0,201885,2013,Cincinnati,4,nacda/2013_fall.pdf
+0.0,0.0,135726,2013,Miami (Florida),4,nacda/2013_fall.pdf
+0.0,0.0,163268,2013,Maryland Baltimore County,4,nacda/2013_fall.pdf
+0.0,0.0,202480,2013,Dayton,4,nacda/2013_fall.pdf
+0.0,0.0,199139,2013,North Carolina Charlotte,4,nacda/2013_fall.pdf
+0.0,0.0,179159,2013,Saint Louis,4,nacda/2013_fall.pdf
+0.0,0.0,234030,2013,Virginia Commonwealth,4,nacda/2013_fall.pdf
+0.0,0.0,206622,2013,Xavier,4,nacda/2013_fall.pdf
+0.0,0.0,433660,2013,Florida Gulf Coast,4,nacda/2013_fall.pdf
+0.0,0.0,155317,2013,Kansas,4,nacda/2013_fall.pdf
+0.0,0.0,137351,2013,South Florida,4,nacda/2013_fall.pdf
+0.0,0.0,218964,2013,Winthrop,4,nacda/2013_fall.pdf
+0.0,0.0,110608,2013,Cal State Northridge,4,nacda/2013_fall.pdf
+0.0,0.0,141574,2013,Hawaii,4,nacda/2013_fall.pdf
+0.0,0.0,212054,2013,Drexel,4,nacda/2013_fall.pdf
+0.0,0.0,191649,2013,Hofstra,4,nacda/2013_fall.pdf
+0.0,0.0,202134,2013,Cleveland State,4,nacda/2013_fall.pdf
+0.0,0.0,217156,2013,Brown,4,nacda/2013_fall.pdf
+0.0,0.0,204024,2013,Miami (Ohio),4,nacda/2013_fall.pdf
+50.0,0.0,147703,2013,Northern Illinois,4,nacda/2013_fall.pdf
+0.0,0.0,154095,2013,Northern Iowa,4,nacda/2013_fall.pdf
+0.0,0.0,192439,2013,LIU Brooklyn,4,nacda/2013_fall.pdf
+0.0,0.0,156620,2013,Eastern Kentucky,4,nacda/2013_fall.pdf
+0.0,0.0,213385,2013,Lafayette,4,nacda/2013_fall.pdf
+0.0,0.0,221759,2013,Tennessee,4,nacda/2013_fall.pdf
+0.0,0.0,100858,2013,Auburn,4,nacda/2013_fall.pdf
+0.0,0.0,217819,2013,Charleston,4,nacda/2013_fall.pdf
+0.0,0.0,171571,2013,Oakland,4,nacda/2013_fall.pdf
+0.0,0.0,121150,2013,Pepperdine,4,nacda/2013_fall.pdf
+0.0,0.0,123554,2013,Saint Mary's (CA),4,nacda/2013_fall.pdf
+0.0,0.0,195173,2013,Saint Francis (NY),4,nacda/2013_fall.pdf
+0.0,0.0,150163,2013,Butler,4,nacda/2013_fall.pdf
+45.0,0.0,227757,2013,Rice,4,nacda/2013_fall.pdf
+45.0,0.0,204857,2013,Ohio,4,nacda/2013_fall.pdf
+0.0,0.0,191931,2013,Iona,4,nacda/2013_fall.pdf
+45.0,0.0,106458,2013,Arkansas State,4,nacda/2013_fall.pdf
+45.0,0.0,160658,2013,Louisiana Lafayette,4,nacda/2013_fall.pdf
+0.0,0.0,166027,2013,Harvard,4,nacda/2013_fall.pdf
+0.0,0.0,230603,2013,Southern Utah,4,nacda/2013_fall.pdf
+0.0,0.0,182670,2013,Dartmouth,4,nacda/2013_fall.pdf
+0.0,0.0,131159,2013,American,4,nacda/2013_fall.pdf
+0.0,0.0,159717,2013,McNeese State,4,nacda/2013_fall.pdf
+0.0,0.0,229027,2013,Texas at San Antonio,4,nacda/2013_fall.pdf
+0.0,0.0,122612,2013,San Francisco,4,nacda/2013_fall.pdf
+0.0,0.0,196060,2013,Albany,4,nacda/2013_fall.pdf
+0.0,0.0,196079,2013,Binghamton,4,nacda/2013_fall.pdf
+0.0,0.0,166629,2013,Massachusetts,4,nacda/2013_fall.pdf
+0.0,0.0,213367,2013,La Salle,5,nacda/2013_fall.pdf
+0.0,0.0,220075,2013,East Tennessee State,5,nacda/2013_fall.pdf
+25.0,0.0,228875,2013,TCU,5,nacda/2013_fall.pdf
+25.0,0.0,215293,2013,Pittsburgh,5,nacda/2013_fall.pdf
+0.0,0.0,195809,2013,St. John's,5,nacda/2013_fall.pdf
+0.0,0.0,142276,2013,Idaho State,5,nacda/2013_fall.pdf
+0.0,0.0,127741,2013,Northern Colorado,5,nacda/2013_fall.pdf
+0.0,0.0,232557,2013,Liberty,5,nacda/2013_fall.pdf
+0.0,0.0,233277,2013,Radford,5,nacda/2013_fall.pdf
+0.0,0.0,153658,2013,Iowa,5,nacda/2013_fall.pdf
+0.0,0.0,110583,2013,Long Beach State,5,nacda/2013_fall.pdf
+25.0,0.0,198464,2013,East Carolina,5,nacda/2013_fall.pdf
+0.0,0.0,100663,2013,UAB,5,nacda/2013_fall.pdf
+0.0,0.0,240453,2013,Wisconsin Milwaukee,5,nacda/2013_fall.pdf
+25.0,0.0,203517,2013,Kent State,5,nacda/2013_fall.pdf
+25.0,0.0,150136,2013,Ball State,5,nacda/2013_fall.pdf
+0.0,25.0,132602,2013,Bethune-Cookman,5,nacda/2013_fall.pdf
+0.0,0.0,163338,2013,Maryland Eastern Shore,5,nacda/2013_fall.pdf
+0.0,0.0,129242,2013,Fairfield,5,nacda/2013_fall.pdf
+0.0,0.0,163046,2013,Loyola Maryland,5,nacda/2013_fall.pdf
+0.0,0.0,193973,2013,Niagara,5,nacda/2013_fall.pdf
+25.0,0.0,110556,2013,Fresno State,5,nacda/2013_fall.pdf
+25.0,0.0,182290,2013,Nevada,5,nacda/2013_fall.pdf
+0.0,25.0,144892,2013,Eastern Illinois,5,nacda/2013_fall.pdf
+0.0,0.0,221768,2013,Tennessee Martin,5,nacda/2013_fall.pdf
+0.0,0.0,219709,2013,Belmont,5,nacda/2013_fall.pdf
+0.0,0.0,236939,2013,Washington State,5,nacda/2013_fall.pdf
+0.0,0.0,198516,2013,Elon,5,nacda/2013_fall.pdf
+25.0,0.0,159993,2013,Louisiana Monroe,5,nacda/2013_fall.pdf
+0.0,0.0,227216,2013,North Texas,5,nacda/2013_fall.pdf
+0.0,0.0,175856,2013,Jackson State,5,nacda/2013_fall.pdf
+0.0,0.0,176044,2013,Mississippi Valley State,5,nacda/2013_fall.pdf
+0.0,0.0,149772,2013,Western Illinois,5,nacda/2013_fall.pdf
+0.0,0.0,151102,2013,Indiana/Purdue Fort Wayne,5,nacda/2013_fall.pdf
+0.0,0.0,188030,2013,New Mexico State,5,nacda/2013_fall.pdf
+0.0,0.0,117946,2013,Loyola Marymount,5,nacda/2013_fall.pdf
+66.75,0.0,243744,2014,Stanford,2,nacda/2014_fall.pdf
+85.0,0.0,171100,2014,Michigan State,2,nacda/2014_fall.pdf
+100.0,0.0,134097,2014,Florida State,2,nacda/2014_fall.pdf
+45.0,0.0,199120,2014,North Carolina,2,nacda/2014_fall.pdf
+0.0,0.0,234076,2014,Virginia,2,nacda/2014_fall.pdf
+0.0,0.0,214777,2014,Penn State,2,nacda/2014_fall.pdf
+53.0,0.0,240444,2014,Wisconsin,2,nacda/2014_fall.pdf
+50.0,0.0,152080,2014,Notre Dame,2,nacda/2014_fall.pdf
+52.0,0.0,198419,2014,Duke,2,nacda/2014_fall.pdf
+0.0,0.0,126614,2014,Colorado,2,nacda/2014_fall.pdf
+25.0,0.0,230038,2014,BYU,2,nacda/2014_fall.pdf
+45.0,0.0,236948,2014,Washington,2,nacda/2014_fall.pdf
+25.0,0.0,170976,2014,Michigan,2,nacda/2014_fall.pdf
+69.0,0.0,209551,2014,Oregon,2,nacda/2014_fall.pdf
+55.0,0.0,123961,2014,USC,2,nacda/2014_fall.pdf
+58.5,0.0,110662,2014,UCLA,2,nacda/2014_fall.pdf
+0.0,0.0,187985,2014,New Mexico,2,nacda/2014_fall.pdf
+0.0,0.0,131496,2014,Georgetown,2,nacda/2014_fall.pdf
+0.0,0.0,106397,2014,Arkansas,2,nacda/2014_fall.pdf
+0.0,0.0,217402,2014,Providence,2,nacda/2014_fall.pdf
+25.0,0.0,163286,2014,Maryland,2,nacda/2014_fall.pdf
+56.0,0.0,228723,2014,Texas A&M,2,nacda/2014_fall.pdf
+25.0,0.0,228778,2014,Texas,2,nacda/2014_fall.pdf
+57.0,0.0,207388,2014,Oklahoma State,2,nacda/2014_fall.pdf
+0.0,0.0,151351,2014,Indiana,2,nacda/2014_fall.pdf
+45.0,0.0,196413,2014,Syracuse,2,nacda/2014_fall.pdf
+0.0,0.0,199847,2014,Wake Forest,2,nacda/2014_fall.pdf
+45.0,0.0,104179,2014,Arizona,2,nacda/2014_fall.pdf
+0.0,0.0,134130,2014,Florida,2,nacda/2014_fall.pdf
+0.0,0.0,129020,2014,UConn,2,nacda/2014_fall.pdf
+49.0,0.0,181464,2014,Nebraska,2,nacda/2014_fall.pdf
+25.0,0.0,174066,2014,Minnesota,2,nacda/2014_fall.pdf
+25.0,0.0,233921,2014,Virginia Tech,2,nacda/2014_fall.pdf
+60.0,0.0,157289,2014,Louisville,2,nacda/2014_fall.pdf
+0.0,0.0,186131,2014,Princeton,2,nacda/2014_fall.pdf
+25.0,0.0,164924,2014,Boston College,2,nacda/2014_fall.pdf
+73.5,0.0,207500,2014,Oklahoma,2,nacda/2014_fall.pdf
+0.0,0.0,110635,2014,California,2,nacda/2014_fall.pdf
+0.0,0.0,239105,2014,Marquette,2,nacda/2014_fall.pdf
+0.0,70.0,218724,2014,Coastal Carolina,2,nacda/2014_fall.pdf
+0.0,83.0,183044,2014,New Hampshire,2,nacda/2014_fall.pdf
+80.0,0.0,218663,2014,South Carolina,2,nacda/2014_fall.pdf
+0.0,0.0,145637,2014,Illinois,2,nacda/2014_fall.pdf
+75.0,0.0,178396,2014,Missouri,2,nacda/2014_fall.pdf
+70.5,0.0,100751,2014,Alabama,2,nacda/2014_fall.pdf
+45.0,0.0,176017,2014,Ole Miss,2,nacda/2014_fall.pdf
+0.0,0.0,209825,2014,Portland,2,nacda/2014_fall.pdf
+0.0,0.0,155317,2014,Kansas,2,nacda/2014_fall.pdf
+45.0,0.0,126818,2014,Colorado State,2,nacda/2014_fall.pdf
+90.0,0.0,100858,2014,Auburn,2,nacda/2014_fall.pdf
+0.0,0.0,153603,2014,Iowa State,3,nacda/2014_fall.pdf
+0.0,25.0,105330,2014,Northern Arizona,3,nacda/2014_fall.pdf
+61.5,0.0,159391,2014,LSU,3,nacda/2014_fall.pdf
+0.0,0.0,216597,2014,Villanova,3,nacda/2014_fall.pdf
+0.0,25.0,150163,2014,Butler,3,nacda/2014_fall.pdf
+0.0,0.0,182670,2014,Dartmouth,3,nacda/2014_fall.pdf
+54.0,0.0,104151,2014,Arizona State,3,nacda/2014_fall.pdf
+0.0,0.0,110608,2014,Cal State Northridge,3,nacda/2014_fall.pdf
+0.0,0.0,157085,2014,Kentucky,3,nacda/2014_fall.pdf
+0.0,100.0,200332,2014,North Dakota State,3,nacda/2014_fall.pdf
+0.0,0.0,195809,2014,St. John's (NY),3,nacda/2014_fall.pdf
+0.0,0.0,238032,2014,West Virginia,3,nacda/2014_fall.pdf
+51.0,0.0,221999,2014,Vanderbilt,3,nacda/2014_fall.pdf
+72.0,0.0,217882,2014,Clemson,3,nacda/2014_fall.pdf
+0.0,70.0,160612,2014,Southeastern Louisiana,3,nacda/2014_fall.pdf
+45.0,0.0,229115,2014,Texas Tech,3,nacda/2014_fall.pdf
+25.0,0.0,139959,2014,Georgia,3,nacda/2014_fall.pdf
+66.75,0.0,204796,2014,Ohio State,3,nacda/2014_fall.pdf
+0.0,0.0,120883,2014,Pacific,3,nacda/2014_fall.pdf
+0.0,90.0,164076,2014,Towson,3,nacda/2014_fall.pdf
+64.5,0.0,132903,2014,UCF,3,nacda/2014_fall.pdf
+0.0,0.0,231624,2014,William & Mary,3,nacda/2014_fall.pdf
+0.0,0.0,131159,2014,American,3,nacda/2014_fall.pdf
+0.0,83.0,235097,2014,Eastern Washington,3,nacda/2014_fall.pdf
+0.0,0.0,195173,2014,St. Francis (NY),3,nacda/2014_fall.pdf
+0.0,53.0,218070,2014,Furman,3,nacda/2014_fall.pdf
+0.0,0.0,181002,2014,Creighton,3,nacda/2014_fall.pdf
+0.0,0.0,232982,2014,Old Dominion,3,nacda/2014_fall.pdf
+0.0,0.0,236595,2014,Seattle,3,nacda/2014_fall.pdf
+0.0,0.0,110705,2014,UC Santa Barbara,3,nacda/2014_fall.pdf
+0.0,0.0,163268,2014,UMBC,3,nacda/2014_fall.pdf
+0.0,0.0,230764,2014,Utah,3,nacda/2014_fall.pdf
+0.0,0.0,240453,2014,Wisconsin Milwaukee,3,nacda/2014_fall.pdf
+0.0,0.0,199193,2014,North Carolina State,3,nacda/2014_fall.pdf
+0.0,0.0,191931,2014,Iona,3,nacda/2014_fall.pdf
+0.0,0.0,243780,2014,Purdue,3,nacda/2014_fall.pdf
+0.0,70.0,144892,2014,Eastern Illinois,3,nacda/2014_fall.pdf
+0.0,70.0,101480,2014,Jacksonville State,3,nacda/2014_fall.pdf
+45.0,0.0,122409,2014,San Diego State,3,nacda/2014_fall.pdf
+0.0,0.0,166027,2014,Harvard,3,nacda/2014_fall.pdf
+0.0,0.0,122436,2014,San Diego,3,nacda/2014_fall.pdf
+0.0,0.0,122931,2014,Santa Clara,3,nacda/2014_fall.pdf
+0.0,0.0,110653,2014,UC Irvine,3,nacda/2014_fall.pdf
+63.0,0.0,223232,2014,Baylor,3,nacda/2014_fall.pdf
+0.0,0.0,156620,2014,Eastern Kentucky,3,nacda/2014_fall.pdf
+0.0,0.0,166629,2014,Massachusetts,3,nacda/2014_fall.pdf
+0.0,0.0,122612,2014,San Francisco,3,nacda/2014_fall.pdf
+0.0,53.0,191241,2014,Fordham,3,nacda/2014_fall.pdf
+0.0,53.0,161253,2014,Maine,4,nacda/2014_fall.pdf
+0.0,53.0,159717,2014,McNeese State,4,nacda/2014_fall.pdf
+0.0,53.0,180489,2014,Montana,4,nacda/2014_fall.pdf
+0.0,53.0,227881,2014,Sam Houston State,4,nacda/2014_fall.pdf
+0.0,53.0,219356,2014,South Dakota State,4,nacda/2014_fall.pdf
+0.0,53.0,221838,2014,Tennessee State,4,nacda/2014_fall.pdf
+0.0,0.0,229027,2014,UTSA,4,nacda/2014_fall.pdf
+0.0,0.0,230782,2014,Weber State,4,nacda/2014_fall.pdf
+25.0,0.0,142115,2014,Boise State,4,nacda/2014_fall.pdf
+0.0,0.0,215062,2014,Pennsylvania,4,nacda/2014_fall.pdf
+25.0,0.0,227757,2014,Rice,4,nacda/2014_fall.pdf
+0.0,0.0,190415,2014,Cornell,4,nacda/2014_fall.pdf
+0.0,0.0,200800,2014,Akron,4,nacda/2014_fall.pdf
+0.0,0.0,164988,2014,Boston University,4,nacda/2014_fall.pdf
+0.0,0.0,143358,2014,Bradley,4,nacda/2014_fall.pdf
+0.0,0.0,130943,2014,Delaware,4,nacda/2014_fall.pdf
+0.0,0.0,127060,2014,Denver,4,nacda/2014_fall.pdf
+0.0,0.0,198516,2014,Elon,4,nacda/2014_fall.pdf
+0.0,0.0,232186,2014,George Mason,4,nacda/2014_fall.pdf
+0.0,0.0,141574,2014,Hawaii,4,nacda/2014_fall.pdf
+0.0,0.0,145813,2014,Illinois State,4,nacda/2014_fall.pdf
+25.0,0.0,153658,2014,Iowa,4,nacda/2014_fall.pdf
+0.0,0.0,134945,2014,Jacksonville,4,nacda/2014_fall.pdf
+25.0,0.0,135726,2014,Miami (FL),4,nacda/2014_fall.pdf
+0.0,0.0,157386,2014,Morehead State,4,nacda/2014_fall.pdf
+0.0,0.0,199139,2014,North Carolina Charlotte,4,nacda/2014_fall.pdf
+25.0,0.0,204857,2014,Ohio,4,nacda/2014_fall.pdf
+25.0,0.0,186380,2014,Rutgers,4,nacda/2014_fall.pdf
+25.0,0.0,236939,2014,Washington State,4,nacda/2014_fall.pdf
+0.0,0.0,172699,2014,Western Michigan,4,nacda/2014_fall.pdf
+0.0,0.0,190150,2014,Columbia,4,nacda/2014_fall.pdf
+0.0,0.0,207971,2014,Tulsa,4,nacda/2014_fall.pdf
+45.0,0.0,106458,2014,Arkansas State,4,nacda/2014_fall.pdf
+45.0,0.0,198464,2014,East Carolina,4,nacda/2014_fall.pdf
+45.0,0.0,155399,2014,Kansas State,4,nacda/2014_fall.pdf
+45.0,0.0,160658,2014,Louisiana Lafayette,4,nacda/2014_fall.pdf
+45.0,0.0,237525,2014,Marshall,4,nacda/2014_fall.pdf
+45.0,0.0,176080,2014,Mississippi State,4,nacda/2014_fall.pdf
+45.0,0.0,227216,2014,North Texas,4,nacda/2014_fall.pdf
+45.0,0.0,209542,2014,Oregon State,4,nacda/2014_fall.pdf
+45.0,0.0,215293,2014,Pittsburgh,4,nacda/2014_fall.pdf
+45.0,0.0,230728,2014,Utah State,4,nacda/2014_fall.pdf
+0.0,0.0,228246,2014,SMU,4,nacda/2014_fall.pdf
+0.0,0.0,149222,2014,Southern Illinois,4,nacda/2014_fall.pdf
+0.0,0.0,226091,2014,Lamar,4,nacda/2014_fall.pdf
+0.0,0.0,228431,2014,Stephen F. Austin,4,nacda/2014_fall.pdf
+0.0,0.0,221759,2014,Tennessee,4,nacda/2014_fall.pdf
+0.0,0.0,100724,2014,Alabama State,4,nacda/2014_fall.pdf
+25.0,0.0,150136,2014,Ball State,4,nacda/2014_fall.pdf
+0.0,25.0,132602,2014,Bethune-Cookman,4,nacda/2014_fall.pdf
+25.0,0.0,201441,2014,Bowling Green,5,nacda/2014_fall.pdf
+25.0,0.0,196088,2014,Buffalo,5,nacda/2014_fall.pdf
+0.0,0.0,110565,2014,Cal State Fullerton,5,nacda/2014_fall.pdf
+0.0,0.0,106704,2014,Central Arkansas,5,nacda/2014_fall.pdf
+25.0,0.0,201885,2014,Cincinnati,5,nacda/2014_fall.pdf
+0.0,0.0,217819,2014,College of Charleston,5,nacda/2014_fall.pdf
+0.0,0.0,144740,2014,DePaul,5,nacda/2014_fall.pdf
+0.0,0.0,212054,2014,Drexel,5,nacda/2014_fall.pdf
+0.0,0.0,212106,2014,Duquesne,5,nacda/2014_fall.pdf
+0.0,0.0,220075,2014,East Tennessee State,5,nacda/2014_fall.pdf
+0.0,0.0,129242,2014,Fairfield,5,nacda/2014_fall.pdf
+25.0,0.0,110556,2014,Fresno State,5,nacda/2014_fall.pdf
+0.0,0.0,139931,2014,Georgia Southern,5,nacda/2014_fall.pdf
+25.0,0.0,139755,2014,Georgia Tech,5,nacda/2014_fall.pdf
+0.0,0.0,232265,2014,Hampton,5,nacda/2014_fall.pdf
+25.0,0.0,225511,2014,Houston,5,nacda/2014_fall.pdf
+0.0,0.0,142276,2014,Idaho State,5,nacda/2014_fall.pdf
+0.0,0.0,151111,2014,IUPUI,5,nacda/2014_fall.pdf
+0.0,0.0,175856,2014,Jackson State,5,nacda/2014_fall.pdf
+0.0,0.0,213367,2014,La Salle,5,nacda/2014_fall.pdf
+0.0,25.0,213385,2014,Lafayette,5,nacda/2014_fall.pdf
+0.0,0.0,232557,2014,Liberty,5,nacda/2014_fall.pdf
+0.0,0.0,192439,2014,LIU Brooklyn,5,nacda/2014_fall.pdf
+0.0,0.0,117946,2014,Loyola Marymount,5,nacda/2014_fall.pdf
+25.0,0.0,220978,2014,Middle Tennessee State,5,nacda/2014_fall.pdf
+0.0,0.0,185572,2014,Monmouth,5,nacda/2014_fall.pdf
+0.0,0.0,188030,2014,New Mexico State,5,nacda/2014_fall.pdf
+0.0,0.0,167358,2014,Northeastern,5,nacda/2014_fall.pdf
+25.0,0.0,147703,2014,Northern Illinois,5,nacda/2014_fall.pdf
+0.0,0.0,147767,2014,Northwestern,5,nacda/2014_fall.pdf
+0.0,0.0,130226,2014,Quinnipiac,5,nacda/2014_fall.pdf
+0.0,0.0,233277,2014,Radford,5,nacda/2014_fall.pdf
+0.0,25.0,130253,2014,Sacred Heart,5,nacda/2014_fall.pdf
+0.0,0.0,215743,2014,Saint Francis (PA),5,nacda/2014_fall.pdf
+0.0,25.0,102049,2014,Samford,5,nacda/2014_fall.pdf
+0.0,0.0,102094,2014,South Alabama,5,nacda/2014_fall.pdf
+0.0,25.0,218733,2014,South Carolina State,5,nacda/2014_fall.pdf
+0.0,0.0,137351,2014,South Florida,5,nacda/2014_fall.pdf
+0.0,25.0,230603,2014,Southern Utah,5,nacda/2014_fall.pdf
+0.0,0.0,228459,2014,Texas State,5,nacda/2014_fall.pdf
+25.0,0.0,160755,2014,Tulane,5,nacda/2014_fall.pdf
+25.0,0.0,182281,2014,UNLV,5,nacda/2014_fall.pdf
+0.0,0.0,234030,2014,VCU,5,nacda/2014_fall.pdf
+0.0,0.0,156125,2014,Wichita State,5,nacda/2014_fall.pdf
+0.0,0.0,130794,2014,Yale,5,nacda/2014_fall.pdf
+45.0,0.0,243744,2015,Stanford,1,nacda/2015_fall.pdf
+67.5,0.0,110662,2015,UCLA,1,nacda/2015_fall.pdf
+25.0,0.0,199120,2015,North Carolina,1,nacda/2015_fall.pdf
+45.0,0.0,214777,2015,Penn State,1,nacda/2015_fall.pdf
+75.0,0.0,171100,2015,Michigan State,1,nacda/2015_fall.pdf
+73.5,0.0,134097,2015,Florida State,1,nacda/2015_fall.pdf
+25.0,0.0,236948,2015,Washington,1,nacda/2015_fall.pdf
+63.0,0.0,240444,2015,Wisconsin,1,nacda/2015_fall.pdf
+0.0,0.0,234076,2015,Virginia,1,nacda/2015_fall.pdf
+90.0,0.0,209551,2015,Oregon,1,nacda/2015_fall.pdf
+0.0,0.0,196413,2015,Syracuse,1,nacda/2015_fall.pdf
+0.0,0.0,126614,2015,Colorado,1,nacda/2015_fall.pdf
+100.0,0.0,204796,2015,Ohio State,1,nacda/2015_fall.pdf
+0.0,0.0,131496,2015,Georgetown,1,nacda/2015_fall.pdf
+25.0,0.0,230038,2015,BYU,1,nacda/2015_fall.pdf
+45.0,0.0,134130,2015,Florida,1,nacda/2015_fall.pdf
+45.0,0.0,152080,2015,Notre Dame,1,nacda/2015_fall.pdf
+53.0,0.0,123961,2015,USC,1,nacda/2015_fall.pdf
+45.0,0.0,106397,2015,Arkansas,1,nacda/2015_fall.pdf
+0.0,0.0,217402,2015,Providence,1,nacda/2015_fall.pdf
+25.0,0.0,228778,2015,Texas,1,nacda/2015_fall.pdf
+0.0,90.0,145813,2015,Illinois State,1,nacda/2015_fall.pdf
+0.0,70.0,216597,2015,Villanova,1,nacda/2015_fall.pdf
+0.0,0.0,153603,2015,Iowa State,1,nacda/2015_fall.pdf
+45.0,0.0,207388,2015,Oklahoma State,1,nacda/2015_fall.pdf
+61.5,0.0,104151,2015,Arizona State,1,nacda/2015_fall.pdf
+45.0,0.0,233921,2015,Virginia Tech,1,nacda/2015_fall.pdf
+80.0,0.0,100751,2015,Alabama,1,nacda/2015_fall.pdf
+57.0,0.0,104179,2015,Arizona,1,nacda/2015_fall.pdf
+45.0,0.0,228723,2015,Texas A&M,1,nacda/2015_fall.pdf
+0.0,0.0,129020,2015,UConn,1,nacda/2015_fall.pdf
+60.0,0.0,217882,2015,Clemson,1,nacda/2015_fall.pdf
+0.0,0.0,187985,2015,New Mexico,1,nacda/2015_fall.pdf
+0.0,70.0,218724,2015,Coastal Carolina,1,nacda/2015_fall.pdf
+25.0,0.0,126818,2015,Colorado State,1,nacda/2015_fall.pdf
+0.0,0.0,191931,2015,Iona,1,nacda/2015_fall.pdf
+50.0,0.0,157289,2015,Louisville,1,nacda/2015_fall.pdf
+0.0,0.0,157085,2015,Kentucky,1,nacda/2015_fall.pdf
+25.0,0.0,163286,2015,Maryland,1,nacda/2015_fall.pdf
+0.0,83.0,183044,2015,New Hampshire,1,nacda/2015_fall.pdf
+0.0,0.0,105330,2015,Northern Arizona,1,nacda/2015_fall.pdf
+45.0,0.0,199193,2015,North Carolina State,1,nacda/2015_fall.pdf
+51.0,0.0,100858,2015,Auburn,1,nacda/2015_fall.pdf
+70.5,0.0,223232,2015,Baylor,1,nacda/2015_fall.pdf
+0.0,25.0,122436,2015,San Diego,1,nacda/2015_fall.pdf
+58.5,0.0,142115,2015,Boise State,1,nacda/2015_fall.pdf
+0.0,0.0,170976,2015,Michigan,1,nacda/2015_fall.pdf
+25.0,0.0,238032,2015,West Virginia,1,nacda/2015_fall.pdf
+45.0,0.0,218663,2015,South Carolina,1,nacda/2015_fall.pdf
+25.0,0.0,145637,2015,Illinois,1,nacda/2015_fall.pdf
+66.0,0.0,178396,2015,Missouri,1,nacda/2015_fall.pdf
+25.0,0.0,132903,2015,UCF,1,nacda/2015_fall.pdf
+0.0,0.0,110635,2015,California,1,nacda/2015_fall.pdf
+0.0,0.0,209542,2015,Oregon State,1,nacda/2015_fall.pdf
+25.0,0.0,198419,2015,Duke,1,nacda/2015_fall.pdf
+0.0,0.0,151351,2015,Indiana,1,nacda/2015_fall.pdf
+0.0,0.0,182670,2015,Dartmouth,1,nacda/2015_fall.pdf
+54.0,0.0,230764,2015,Utah,1,nacda/2015_fall.pdf
+25.0,0.0,164924,2015,Boston College,1,nacda/2015_fall.pdf
+0.0,0.0,207971,2015,Tulsa,1,nacda/2015_fall.pdf
+55.0,0.0,176017,2015,Ole Miss,1,nacda/2015_fall.pdf
+0.0,100.0,200332,2015,North Dakota State,1,nacda/2015_fall.pdf
+0.0,0.0,181002,2015,Creighton,1,nacda/2015_fall.pdf
+25.0,0.0,181464,2015,Nebraska,1,nacda/2015_fall.pdf
+45.0,0.0,227757,2015,Rice,1,nacda/2015_fall.pdf
+25.0,0.0,174066,2015,Minnesota,1,nacda/2015_fall.pdf
+45.0,0.0,186380,2015,Rutgers,1,nacda/2015_fall.pdf
+69.0,0.0,139959,2015,Georgia,1,nacda/2015_fall.pdf
+0.0,0.0,218070,2015,Furman,1,nacda/2015_fall.pdf
+45.0,0.0,206084,2015,Toledo,1,nacda/2015_fall.pdf
+85.0,0.0,228875,2015,TCU,1,nacda/2015_fall.pdf
+0.0,0.0,209825,2015,Portland,1,nacda/2015_fall.pdf
+0.0,0.0,196060,2015,Albany,1,nacda/2015_fall.pdf
+0.0,0.0,163268,2015,UMBC,1,nacda/2015_fall.pdf
+0.0,83.0,227881,2015,Sam Houston State,1,nacda/2015_fall.pdf
+56.0,0.0,155399,2015,Kansas State,1,nacda/2015_fall.pdf
+0.0,0.0,186131,2015,Princeton,1,nacda/2015_fall.pdf
+0.0,53.0,232557,2015,Liberty,1,nacda/2015_fall.pdf
+0.0,53.0,191241,2015,Fordham,1,nacda/2015_fall.pdf
+0.0,53.0,219356,2015,South Dakota State,1,nacda/2015_fall.pdf
+0.0,25.0,156620,2015,Eastern Kentucky,1,nacda/2015_fall.pdf
+25.0,0.0,135726,2015,Miami (FL),1,nacda/2015_fall.pdf
+0.0,0.0,202480,2015,Dayton,1,nacda/2015_fall.pdf
+25.0,0.0,207500,2015,Oklahoma,1,nacda/2015_fall.pdf
+0.0,0.0,171571,2015,Oakland,1,nacda/2015_fall.pdf
+0.0,0.0,149231,2015,SIU Edwardsville,1,nacda/2015_fall.pdf
+25.0,0.0,159391,2015,LSU,1,nacda/2015_fall.pdf
+72.0,0.0,139755,2015,Georgia Tech,1,nacda/2015_fall.pdf
+25.0,0.0,228796,2015,UTEP,2,nacda/2015_fall.pdf
+0.0,70.0,235097,2015,Eastern Washington,2,nacda/2015_fall.pdf
+45.0,0.0,157951,2015,Western Kentucky,2,nacda/2015_fall.pdf
+0.0,70.0,221740,2015,Tennessee Chattanooga,2,nacda/2015_fall.pdf
+64.5,0.0,176080,2015,Mississippi State,2,nacda/2015_fall.pdf
+0.0,0.0,229115,2015,Texas Tech,2,nacda/2015_fall.pdf
+0.0,0.0,206622,2015,Xavier,2,nacda/2015_fall.pdf
+0.0,0.0,110653,2015,UC Irvine,2,nacda/2015_fall.pdf
+0.0,0.0,121150,2015,Pepperdine,2,nacda/2015_fall.pdf
+0.0,0.0,231624,2015,William & Mary,2,nacda/2015_fall.pdf
+0.0,0.0,226091,2015,Lamar,2,nacda/2015_fall.pdf
+0.0,53.0,233374,2015,Richmond,2,nacda/2015_fall.pdf
+0.0,0.0,219976,2015,Lipscomb,2,nacda/2015_fall.pdf
+0.0,53.0,180489,2015,Montana,2,nacda/2015_fall.pdf
+0.0,53.0,151324,2015,Indiana State,2,nacda/2015_fall.pdf
+0.0,53.0,154095,2015,Northern Iowa,2,nacda/2015_fall.pdf
+0.0,53.0,101480,2015,Jacksonville State,2,nacda/2015_fall.pdf
+0.0,0.0,230603,2015,Southern Utah,2,nacda/2015_fall.pdf
+52.0,0.0,237525,2015,Marshall,2,nacda/2015_fall.pdf
+0.0,25.0,228431,2015,Stephen F. Austin,2,nacda/2015_fall.pdf
+0.0,0.0,199847,2015,Wake Forest,2,nacda/2015_fall.pdf
+0.0,0.0,179159,2015,Saint Louis,2,nacda/2015_fall.pdf
+0.0,0.0,433660,2015,Florida Gulf Coast,2,nacda/2015_fall.pdf
+0.0,0.0,155317,2015,Kansas,2,nacda/2015_fall.pdf
+0.0,0.0,147767,2015,Northwestern,2,nacda/2015_fall.pdf
+0.0,0.0,110565,2015,Cal State Fullerton,2,nacda/2015_fall.pdf
+0.0,0.0,110583,2015,Long Beach State,2,nacda/2015_fall.pdf
+0.0,25.0,232423,2015,James Madison,2,nacda/2015_fall.pdf
+0.0,0.0,199218,2015,North Carolina Wilmington,2,nacda/2015_fall.pdf
+0.0,0.0,167358,2015,Northeastern,2,nacda/2015_fall.pdf
+0.0,0.0,199139,2015,North Carolina Charlotte,2,nacda/2015_fall.pdf
+0.0,0.0,232982,2015,Old Dominion,2,nacda/2015_fall.pdf
+0.0,0.0,166027,2015,Harvard,2,nacda/2015_fall.pdf
+25.0,0.0,172699,2015,Western Michigan,2,nacda/2015_fall.pdf
+0.0,0.0,141574,2015,Hawaii,2,nacda/2015_fall.pdf
+25.0,0.0,122409,2015,San Diego State,2,nacda/2015_fall.pdf
+0.0,0.0,164988,2015,Boston University,2,nacda/2015_fall.pdf
+0.0,0.0,127060,2015,Denver,2,nacda/2015_fall.pdf
+0.0,0.0,106245,2015,Arkansas Little Rock,2,nacda/2015_fall.pdf
+25.0,0.0,102094,2015,South Alabama,2,nacda/2015_fall.pdf
+0.0,0.0,236595,2015,Seattle,2,nacda/2015_fall.pdf
+49.0,0.0,220862,2015,Memphis,2,nacda/2015_fall.pdf
+0.0,0.0,221999,2015,Vanderbilt,2,nacda/2015_fall.pdf
+45.0,0.0,225511,2015,Houston,2,nacda/2015_fall.pdf
+45.0,0.0,159647,2015,Louisiana Tech,2,nacda/2015_fall.pdf
+45.0,0.0,201441,2015,Bowling Green,2,nacda/2015_fall.pdf
+45.0,0.0,230728,2015,Utah State,2,nacda/2015_fall.pdf
+45.0,0.0,221759,2015,Tennessee,2,nacda/2015_fall.pdf
+45.0,0.0,160658,2015,Louisiana Lafayette,2,nacda/2015_fall.pdf
+0.0,0.0,228246,2015,SMU,2,nacda/2015_fall.pdf
+0.0,0.0,143358,2015,Bradley,2,nacda/2015_fall.pdf
+0.0,0.0,240727,2015,Wyoming,2,nacda/2015_fall.pdf
+0.0,0.0,136172,2015,North Florida,2,nacda/2015_fall.pdf
+0.0,0.0,220978,2015,Middle Tennessee State,2,nacda/2015_fall.pdf
+0.0,0.0,227216,2015,North Texas,2,nacda/2015_fall.pdf
+0.0,0.0,190150,2015,Columbia,2,nacda/2015_fall.pdf
+0.0,0.0,190415,2015,Cornell,2,nacda/2015_fall.pdf
+0.0,0.0,169798,2015,Eastern Michigan,2,nacda/2015_fall.pdf
+25.0,0.0,215293,2015,Pittsburgh,2,nacda/2015_fall.pdf
+25.0,0.0,201885,2015,Cincinnati,2,nacda/2015_fall.pdf
+25.0,0.0,198464,2015,East Carolina,2,nacda/2015_fall.pdf
+0.0,0.0,137351,2015,South Florida,2,nacda/2015_fall.pdf
+0.0,0.0,213367,2015,La Salle,2,nacda/2015_fall.pdf
+0.0,0.0,134945,2015,Jacksonville,2,nacda/2015_fall.pdf
+0.0,0.0,144740,2015,DePaul,2,nacda/2015_fall.pdf
+0.0,0.0,239105,2015,Marquette,2,nacda/2015_fall.pdf
+0.0,0.0,186584,2015,Seton Hall,2,nacda/2015_fall.pdf
+0.0,25.0,180461,2015,Montana State,2,nacda/2015_fall.pdf
+0.0,0.0,127741,2015,Northern Colorado,2,nacda/2015_fall.pdf
+0.0,0.0,198695,2015,High Point,2,nacda/2015_fall.pdf
+25.0,0.0,153658,2015,Iowa,2,nacda/2015_fall.pdf
+0.0,0.0,191649,2015,Hofstra,2,nacda/2015_fall.pdf
+0.0,0.0,100663,2015,UAB,2,nacda/2015_fall.pdf
+0.0,0.0,152600,2015,Valparaiso,2,nacda/2015_fall.pdf
+0.0,0.0,217156,2015,Brown,2,nacda/2015_fall.pdf
+0.0,0.0,130794,2015,Yale,2,nacda/2015_fall.pdf
+0.0,0.0,185572,2015,Monmouth,2,nacda/2015_fall.pdf
+0.0,0.0,186283,2015,Rider,2,nacda/2015_fall.pdf
+0.0,0.0,195474,2015,Siena,2,nacda/2015_fall.pdf
+0.0,0.0,200800,2015,Akron,2,nacda/2015_fall.pdf
+0.0,0.0,196088,2015,Buffalo,2,nacda/2015_fall.pdf
+25.0,0.0,169248,2015,Central Michigan,2,nacda/2015_fall.pdf
+0.0,0.0,203517,2015,Kent State,2,nacda/2015_fall.pdf
+25.0,0.0,147703,2015,Northern Illinois,2,nacda/2015_fall.pdf
+0.0,0.0,232265,2015,Hampton,2,nacda/2015_fall.pdf
+0.0,25.0,163453,2015,Morgan State,2,nacda/2015_fall.pdf
+25.0,0.0,110556,2015,Fresno State,3,nacda/2015_fall.pdf
+25.0,0.0,182290,2015,Nevada,3,nacda/2015_fall.pdf
+0.0,0.0,182281,2015,UNLV,3,nacda/2015_fall.pdf
+0.0,0.0,128771,2015,Central Connecticut State,3,nacda/2015_fall.pdf
+0.0,0.0,192439,2015,LIU Brooklyn,3,nacda/2015_fall.pdf
+0.0,25.0,130253,2015,Sacred Heart,3,nacda/2015_fall.pdf
+0.0,0.0,195173,2015,St. Francis (NY),3,nacda/2015_fall.pdf
+0.0,0.0,157401,2015,Murray State,3,nacda/2015_fall.pdf
+0.0,0.0,236939,2015,Washington State,3,nacda/2015_fall.pdf
+0.0,0.0,131159,2015,American,3,nacda/2015_fall.pdf
+0.0,0.0,211291,2015,Bucknell,3,nacda/2015_fall.pdf
+0.0,0.0,140447,2015,Mercer,3,nacda/2015_fall.pdf
+0.0,0.0,102049,2015,Samford,3,nacda/2015_fall.pdf
+0.0,0.0,225399,2015,Houston Baptist,3,nacda/2015_fall.pdf
+0.0,0.0,160038,2015,Northwestern State,3,nacda/2015_fall.pdf
+0.0,25.0,160612,2015,Southeastern Louisiana,3,nacda/2015_fall.pdf
+25.0,0.0,106458,2015,Arkansas State,3,nacda/2015_fall.pdf
+0.0,0.0,100724,2015,Alabama State,3,nacda/2015_fall.pdf
+0.0,0.0,227526,2015,Prairie View A&M,3,nacda/2015_fall.pdf
+85.0,0.0,243744,2016,Stanford,1,nacda/2016_fall.pdf
+0.0,0.0,196413,2016,Syracuse,1,nacda/2016_fall.pdf
+60.0,0.0,199120,2016,North Carolina,1,nacda/2016_fall.pdf
+66.0,0.0,170976,2016,Michigan,1,nacda/2016_fall.pdf
+25.0,0.0,110662,2016,UCLA,1,nacda/2016_fall.pdf
+0.0,0.0,234076,2016,Virginia,1,nacda/2016_fall.pdf
+45.0,0.0,174066,2016,Minnesota,1,nacda/2016_fall.pdf
+45.0,0.0,236948,2016,Washington,1,nacda/2016_fall.pdf
+64.5,0.0,152080,2016,Notre Dame,1,nacda/2016_fall.pdf
+25.0,0.0,214777,2016,Penn State,1,nacda/2016_fall.pdf
+80.0,0.0,204796,2016,Ohio State,1,nacda/2016_fall.pdf
+61.5,0.0,134097,2016,Florida State,1,nacda/2016_fall.pdf
+25.0,0.0,230038,2016,BYU,1,nacda/2016_fall.pdf
+25.0,0.0,123961,2016,USC,1,nacda/2016_fall.pdf
+54.0,0.0,209551,2016,Oregon,1,nacda/2016_fall.pdf
+73.5,0.0,171100,2016,Michigan State,1,nacda/2016_fall.pdf
+90.0,0.0,217882,2016,Clemson,1,nacda/2016_fall.pdf
+25.0,0.0,129020,2016,UConn,1,nacda/2016_fall.pdf
+45.0,0.0,198419,2016,Duke,1,nacda/2016_fall.pdf
+0.0,0.0,186131,2016,Princeton,1,nacda/2016_fall.pdf
+49.0,0.0,134130,2016,Florida,1,nacda/2016_fall.pdf
+0.0,0.0,131496,2016,Georgetown,1,nacda/2016_fall.pdf
+45.0,0.0,110635,2016,California,1,nacda/2016_fall.pdf
+45.0,0.0,157289,2016,Louisville,1,nacda/2016_fall.pdf
+45.0,0.0,106397,2016,Arkansas,1,nacda/2016_fall.pdf
+0.0,0.0,164924,2016,Boston College,1,nacda/2016_fall.pdf
+55.0,0.0,207388,2016,Oklahoma State,1,nacda/2016_fall.pdf
+0.0,0.0,126614,2016,Colorado,1,nacda/2016_fall.pdf
+69.0,0.0,176017,2016,Ole Miss,1,nacda/2016_fall.pdf
+0.0,0.0,228778,2016,Texas,1,nacda/2016_fall.pdf
+25.0,0.0,228723,2016,Texas A&M,1,nacda/2016_fall.pdf
+25.0,0.0,207971,2016,Tulsa,1,nacda/2016_fall.pdf
+45.0,0.0,142115,2016,Boise State,1,nacda/2016_fall.pdf
+45.0,0.0,100858,2016,Auburn,1,nacda/2016_fall.pdf
+25.0,0.0,199193,2016,North Carolina State,1,nacda/2016_fall.pdf
+45.0,0.0,238032,2016,West Virginia,1,nacda/2016_fall.pdf
+45.0,0.0,181464,2016,Nebraska,1,nacda/2016_fall.pdf
+53.0,0.0,240444,2016,Wisconsin,1,nacda/2016_fall.pdf
+45.0,0.0,233921,2016,Virginia Tech,1,nacda/2016_fall.pdf
+0.0,0.0,218070,2016,Furman,1,nacda/2016_fall.pdf
+0.0,0.0,181002,2016,Creighton,1,nacda/2016_fall.pdf
+75.0,0.0,207500,2016,Oklahoma,1,nacda/2016_fall.pdf
+45.0,0.0,104179,2016,Arizona,1,nacda/2016_fall.pdf
+0.0,0.0,186380,2016,Rutgers,1,nacda/2016_fall.pdf
+0.0,53.0,231624,2016,William & Mary,1,nacda/2016_fall.pdf
+0.0,0.0,155317,2016,Kansas,1,nacda/2016_fall.pdf
+45.0,0.0,200800,2016,Akron,1,nacda/2016_fall.pdf
+100.0,0.0,100751,2016,Alabama,1,nacda/2016_fall.pdf
+0.0,0.0,117946,2016,Loyola Marymount,1,nacda/2016_fall.pdf
+0.0,0.0,153603,2016,Iowa State,1,nacda/2016_fall.pdf
+0.0,25.0,202480,2016,Dayton,1,nacda/2016_fall.pdf
+25.0,0.0,187985,2016,New Mexico,1,nacda/2016_fall.pdf
+0.0,0.0,122931,2016,Santa Clara,1,nacda/2016_fall.pdf
+45.0,0.0,236939,2016,Washington State,1,nacda/2016_fall.pdf
+0.0,0.0,228246,2016,SMU,1,nacda/2016_fall.pdf
+25.0,0.0,151351,2016,Indiana,1,nacda/2016_fall.pdf
+58.5,0.0,230764,2016,Utah,1,nacda/2016_fall.pdf
+45.0,0.0,176080,2016,Mississippi State,1,nacda/2016_fall.pdf
+52.0,0.0,147767,2016,Northwestern,1,nacda/2016_fall.pdf
+0.0,0.0,164988,2016,Boston University,1,nacda/2016_fall.pdf
+0.0,25.0,218724,2016,Coastal Carolina,1,nacda/2016_fall.pdf
+0.0,0.0,191649,2016,Hofstra,1,nacda/2016_fall.pdf
+0.0,100.0,200332,2016,North Dakota State,1,nacda/2016_fall.pdf
+25.0,0.0,137351,2016,South Florida,1,nacda/2016_fall.pdf
+0.0,0.0,163286,2016,Maryland,1,nacda/2016_fall.pdf
+0.0,0.0,199847,2016,Wake Forest,1,nacda/2016_fall.pdf
+72.0,0.0,228875,2016,TCU,1,nacda/2016_fall.pdf
+0.0,70.0,154095,2016,Northern Iowa,1,nacda/2016_fall.pdf
+0.0,0.0,216597,2016,Villanova,1,nacda/2016_fall.pdf
+45.0,0.0,157951,2016,Western Kentucky,1,nacda/2016_fall.pdf
+63.0,0.0,223232,2016,Baylor,1,nacda/2016_fall.pdf
+0.0,90.0,101480,2016,Jacksonville State,1,nacda/2016_fall.pdf
+0.0,0.0,156620,2016,Eastern Kentucky,1,nacda/2016_fall.pdf
+0.0,83.0,233374,2016,Richmond,1,nacda/2016_fall.pdf
+0.0,83.0,227881,2016,Sam Houston State,1,nacda/2016_fall.pdf
+57.0,0.0,159391,2016,LSU,1,nacda/2016_fall.pdf
+0.0,0.0,217402,2016,Providence,1,nacda/2016_fall.pdf
+0.0,53.0,232423,2016,James Madison,1,nacda/2016_fall.pdf
+0.0,0.0,243780,2016,Purdue,1,nacda/2016_fall.pdf
+0.0,25.0,230603,2016,Southern Utah,1,nacda/2016_fall.pdf
+0.0,0.0,182670,2016,Dartmouth,1,nacda/2016_fall.pdf
+50.0,0.0,139959,2016,Georgia,1,nacda/2016_fall.pdf
+0.0,0.0,127060,2016,Denver,1,nacda/2016_fall.pdf
+0.0,0.0,191931,2016,Iona,1,nacda/2016_fall.pdf
+0.0,0.0,199218,2016,North Carolina Wilmington,1,nacda/2016_fall.pdf
+0.0,0.0,218663,2016,South Carolina,1,nacda/2016_fall.pdf
+25.0,0.0,229115,2016,Texas Tech,1,nacda/2016_fall.pdf
+0.0,0.0,141574,2016,Hawaii,1,nacda/2016_fall.pdf
+70.5,0.0,225511,2016,Houston,1,nacda/2016_fall.pdf
+45.0,0.0,122755,2016,San Jose State,1,nacda/2016_fall.pdf
+0.0,70.0,217688,2016,Charleston Southern,1,nacda/2016_fall.pdf
+0.0,70.0,190099,2016,Colgate,2,nacda/2016_fall.pdf
+0.0,70.0,145813,2016,Illinois State,2,nacda/2016_fall.pdf
+45.0,0.0,172699,2016,Western Michigan,2,nacda/2016_fall.pdf
+67.5,0.0,153658,2016,Iowa,2,nacda/2016_fall.pdf
+0.0,0.0,228796,2016,UTEP,2,nacda/2016_fall.pdf
+0.0,0.0,145637,2016,Illinois,2,nacda/2016_fall.pdf
+0.0,0.0,236595,2016,Seattle,2,nacda/2016_fall.pdf
+0.0,0.0,110705,2016,UC Santa Barbara,2,nacda/2016_fall.pdf
+0.0,0.0,221999,2016,Vanderbilt,2,nacda/2016_fall.pdf
+0.0,53.0,217864,2016,Citadel,2,nacda/2016_fall.pdf
+0.0,53.0,159717,2016,McNeese State,2,nacda/2016_fall.pdf
+0.0,53.0,180489,2016,Montana,2,nacda/2016_fall.pdf
+0.0,53.0,209807,2016,Portland State,2,nacda/2016_fall.pdf
+0.0,53.0,221740,2016,Tennessee Chattanooga,2,nacda/2016_fall.pdf
+0.0,53.0,149772,2016,Western Illinois,2,nacda/2016_fall.pdf
+0.0,0.0,230782,2016,Weber State,2,nacda/2016_fall.pdf
+51.0,0.0,221759,2016,Tennessee,2,nacda/2016_fall.pdf
+0.0,0.0,196060,2016,Albany,2,nacda/2016_fall.pdf
+0.0,0.0,131159,2016,American,2,nacda/2016_fall.pdf
+25.0,0.0,104151,2016,Arizona State,2,nacda/2016_fall.pdf
+25.0,0.0,106458,2016,Arkansas State,2,nacda/2016_fall.pdf
+0.0,0.0,110565,2016,Cal State Fullerton,2,nacda/2016_fall.pdf
+25.0,0.0,201885,2016,Cincinnati,2,nacda/2016_fall.pdf
+25.0,0.0,126818,2016,Colorado State,2,nacda/2016_fall.pdf
+0.0,0.0,153269,2016,Drake,2,nacda/2016_fall.pdf
+0.0,25.0,212106,2016,Duquesne,2,nacda/2016_fall.pdf
+0.0,0.0,198516,2016,Elon,2,nacda/2016_fall.pdf
+0.0,0.0,433660,2016,Florida Gulf Coast,2,nacda/2016_fall.pdf
+0.0,0.0,131520,2016,Howard,2,nacda/2016_fall.pdf
+25.0,0.0,155399,2016,Kansas State,2,nacda/2016_fall.pdf
+0.0,0.0,157085,2016,Kentucky,2,nacda/2016_fall.pdf
+0.0,0.0,239105,2016,Marquette,2,nacda/2016_fall.pdf
+25.0,0.0,135726,2016,Miami (FL),2,nacda/2016_fall.pdf
+0.0,0.0,178396,2016,Missouri,2,nacda/2016_fall.pdf
+0.0,25.0,183044,2016,New Hampshire,2,nacda/2016_fall.pdf
+0.0,0.0,199139,2016,North Carolina Charlotte,2,nacda/2016_fall.pdf
+0.0,0.0,171571,2016,Oakland,2,nacda/2016_fall.pdf
+25.0,0.0,204857,2016,Ohio,2,nacda/2016_fall.pdf
+0.0,0.0,215062,2016,Pennsylvania,2,nacda/2016_fall.pdf
+0.0,0.0,122436,2016,San Diego,2,nacda/2016_fall.pdf
+0.0,0.0,102094,2016,South Alabama,2,nacda/2016_fall.pdf
+0.0,25.0,219356,2016,South Dakota State,2,nacda/2016_fall.pdf
+0.0,0.0,230737,2016,Utah Valley,2,nacda/2016_fall.pdf
+0.0,0.0,156125,2016,Wichita State,2,nacda/2016_fall.pdf
+0.0,0.0,235316,2016,Gonzaga,2,nacda/2016_fall.pdf
+0.0,0.0,122612,2016,San Francisco,2,nacda/2016_fall.pdf
+45.0,0.0,197869,2016,Appalachian State,2,nacda/2016_fall.pdf
+45.0,0.0,139931,2016,Georgia Southern,2,nacda/2016_fall.pdf
+45.0,0.0,159647,2016,Louisiana Tech,2,nacda/2016_fall.pdf
+45.0,0.0,237525,2016,Marshall,2,nacda/2016_fall.pdf
+45.0,0.0,182290,2016,Nevada,2,nacda/2016_fall.pdf
+45.0,0.0,122409,2016,San Diego State,2,nacda/2016_fall.pdf
+45.0,0.0,206084,2016,Toledo,2,nacda/2016_fall.pdf
+0.0,0.0,217156,2016,Brown,2,nacda/2016_fall.pdf
+0.0,0.0,227757,2016,Rice,2,nacda/2016_fall.pdf
+0.0,0.0,130794,2016,Yale,2,nacda/2016_fall.pdf
+0.0,0.0,190150,2016,Columbia,2,nacda/2016_fall.pdf
+0.0,0.0,190415,2016,Cornell,2,nacda/2016_fall.pdf
+0.0,0.0,169798,2016,Eastern Michigan,2,nacda/2016_fall.pdf
+0.0,0.0,226091,2016,Lamar,2,nacda/2016_fall.pdf
+0.0,0.0,228431,2016,Stephen F. Austin,2,nacda/2016_fall.pdf
+0.0,0.0,219709,2016,Belmont,2,nacda/2016_fall.pdf
+25.0,0.0,201441,2016,Bowling Green,2,nacda/2016_fall.pdf
+0.0,0.0,150163,2016,Butler,2,nacda/2016_fall.pdf
+0.0,0.0,110422,2016,Cal Poly,2,nacda/2016_fall.pdf
+25.0,0.0,169248,2016,Central Michigan,2,nacda/2016_fall.pdf
+0.0,0.0,202134,2016,Cleveland State,2,nacda/2016_fall.pdf
+0.0,0.0,130943,2016,Delaware,2,nacda/2016_fall.pdf
+0.0,25.0,144892,2016,Eastern Illinois,2,nacda/2016_fall.pdf
+0.0,0.0,150534,2016,Evansville,2,nacda/2016_fall.pdf
+0.0,0.0,129242,2016,Fairfield,2,nacda/2016_fall.pdf
+0.0,0.0,184603,2016,Fairleigh Dickinson,2,nacda/2016_fall.pdf
+0.0,0.0,133951,2016,Florida International,2,nacda/2016_fall.pdf
+0.0,25.0,191241,2016,Fordham,2,nacda/2016_fall.pdf
+25.0,0.0,139940,2016,Georgia State,2,nacda/2016_fall.pdf
+0.0,0.0,166027,2016,Harvard,2,nacda/2016_fall.pdf
+0.0,0.0,175856,2016,Jackson State,2,nacda/2016_fall.pdf
+0.0,0.0,213543,2016,Lehigh,2,nacda/2016_fall.pdf
+0.0,0.0,232557,2016,Liberty,2,nacda/2016_fall.pdf
+0.0,0.0,219976,2016,Lipscomb,2,nacda/2016_fall.pdf
+0.0,0.0,192439,2016,LIU Brooklyn,2,nacda/2016_fall.pdf
+0.0,0.0,110583,2016,Long Beach State,2,nacda/2016_fall.pdf
+0.0,0.0,166629,2016,Massachusetts,2,nacda/2016_fall.pdf
+25.0,0.0,220862,2016,Memphis,2,nacda/2016_fall.pdf
+25.0,0.0,220978,2016,Middle Tennessee State,2,nacda/2016_fall.pdf
+0.0,0.0,179566,2016,Missouri State,2,nacda/2016_fall.pdf
+0.0,0.0,157401,2016,Murray State,2,nacda/2016_fall.pdf
+0.0,0.0,188030,2016,New Mexico State,2,nacda/2016_fall.pdf
+0.0,0.0,136172,2016,North Florida,2,nacda/2016_fall.pdf
+0.0,0.0,227216,2016,North Texas,3,nacda/2016_fall.pdf
+0.0,0.0,105330,2016,Northern Arizona,3,nacda/2016_fall.pdf
+0.0,0.0,127741,2016,Northern Colorado,3,nacda/2016_fall.pdf
+25.0,0.0,147703,2016,Northern Illinois,3,nacda/2016_fall.pdf
+25.0,0.0,215293,2016,Pittsburgh,3,nacda/2016_fall.pdf
+0.0,0.0,233277,2016,Radford,3,nacda/2016_fall.pdf
+0.0,0.0,186283,2016,Rider,3,nacda/2016_fall.pdf
+0.0,0.0,215655,2016,Robert Morris,3,nacda/2016_fall.pdf
+0.0,0.0,195474,2016,Siena,3,nacda/2016_fall.pdf
+0.0,0.0,160612,2016,Southeastern Louisiana,3,nacda/2016_fall.pdf
+0.0,0.0,149222,2016,Southern Illinois,3,nacda/2016_fall.pdf
+25.0,0.0,176372,2016,Southern Mississippi,3,nacda/2016_fall.pdf
+0.0,0.0,195809,2016,St. John's (NY),3,nacda/2016_fall.pdf
+25.0,0.0,216339,2016,Temple,3,nacda/2016_fall.pdf
+0.0,0.0,224147,2016,Texas A&M Corpus Christi,3,nacda/2016_fall.pdf
+0.0,0.0,132903,2016,UCF,3,nacda/2016_fall.pdf
+25.0,0.0,230728,2016,Utah State,3,nacda/2016_fall.pdf
+0.0,0.0,231174,2016,Vermont,3,nacda/2016_fall.pdf
+0.0,0.0,218964,2016,Winthrop,3,nacda/2016_fall.pdf
+64.5,0.0,243744,2017,Stanford,1,nacda/2017_fall.pdf
+0.0,0.0,110662,2017,UCLA,1,nacda/2017_fall.pdf
+25.0,0.0,199120,2017,North Carolina,1,nacda/2017_fall.pdf
+69.0,0.0,240444,2017,Wisconsin,1,nacda/2017_fall.pdf
+45.0,0.0,230038,2017,BYU,1,nacda/2017_fall.pdf
+67.5,0.0,170976,2017,Michigan,1,nacda/2017_fall.pdf
+72.0,0.0,214777,2017,Penn State,1,nacda/2017_fall.pdf
+75.0,0.0,123961,2017,USC,1,nacda/2017_fall.pdf
+80.0,0.0,236948,2017,Washington,1,nacda/2017_fall.pdf
+60.0,0.0,126614,2017,Colorado,1,nacda/2017_fall.pdf
+0.0,0.0,234076,2017,Virginia,1,nacda/2017_fall.pdf
+45.0,0.0,199193,2017,North Carolina State,1,nacda/2017_fall.pdf
+100.0,0.0,217882,2017,Clemson,1,nacda/2017_fall.pdf
+0.0,0.0,209551,2017,Oregon,1,nacda/2017_fall.pdf
+66.0,0.0,207388,2017,Oklahoma State,1,nacda/2017_fall.pdf
+70.5,0.0,134097,2017,Florida State,1,nacda/2017_fall.pdf
+0.0,0.0,196413,2017,Syracuse,1,nacda/2017_fall.pdf
+25.0,0.0,106397,2017,Arkansas,1,nacda/2017_fall.pdf
+0.0,0.0,171100,2017,Michigan State,1,nacda/2017_fall.pdf
+53.0,0.0,230764,2017,Utah,1,nacda/2017_fall.pdf
+54.0,0.0,157289,2017,Louisville,1,nacda/2017_fall.pdf
+73.5,0.0,204796,2017,Ohio State,1,nacda/2017_fall.pdf
+0.0,0.0,217402,2017,Providence,1,nacda/2017_fall.pdf
+45.0,0.0,174066,2017,Minnesota,1,nacda/2017_fall.pdf
+25.0,0.0,157085,2017,Kentucky,1,nacda/2017_fall.pdf
+57.0,0.0,238032,2017,West Virginia,1,nacda/2017_fall.pdf
+63.0,0.0,134130,2017,Florida,1,nacda/2017_fall.pdf
+45.0,0.0,223232,2017,Baylor,1,nacda/2017_fall.pdf
+0.0,0.0,110635,2017,California,1,nacda/2017_fall.pdf
+45.0,0.0,187985,2017,New Mexico,1,nacda/2017_fall.pdf
+0.0,0.0,131496,2017,Georgetown,1,nacda/2017_fall.pdf
+45.0,0.0,199847,2017,Wake Forest,1,nacda/2017_fall.pdf
+0.0,0.0,228778,2017,Texas,1,nacda/2017_fall.pdf
+25.0,0.0,181464,2017,Nebraska,1,nacda/2017_fall.pdf
+0.0,0.0,152080,2017,Notre Dame,1,nacda/2017_fall.pdf
+0.0,0.0,166027,2017,Harvard,1,nacda/2017_fall.pdf
+25.0,0.0,218663,2017,South Carolina,1,nacda/2017_fall.pdf
+0.0,0.0,178396,2017,Missouri,1,nacda/2017_fall.pdf
+90.0,0.0,100751,2017,Alabama,1,nacda/2017_fall.pdf
+0.0,0.0,209825,2017,Portland,1,nacda/2017_fall.pdf
+0.0,0.0,181002,2017,Creighton,1,nacda/2017_fall.pdf
+25.0,0.0,236939,2017,Washington State,1,nacda/2017_fall.pdf
+45.0,0.0,207971,2017,Tulsa,1,nacda/2017_fall.pdf
+85.0,0.0,207500,2017,Oklahoma,1,nacda/2017_fall.pdf
+25.0,0.0,163286,2017,Maryland,1,nacda/2017_fall.pdf
+0.0,0.0,186131,2017,Princeton,1,nacda/2017_fall.pdf
+0.0,0.0,198419,2017,Duke,1,nacda/2017_fall.pdf
+0.0,0.0,129020,2017,UConn,1,nacda/2017_fall.pdf
+58.5,0.0,233921,2017,Virginia Tech,1,nacda/2017_fall.pdf
+0.0,53.0,216597,2017,Villanova,1,nacda/2017_fall.pdf
+0.0,0.0,176017,2017,Ole Miss,1,nacda/2017_fall.pdf
+0.0,0.0,155317,2017,Kansas,1,nacda/2017_fall.pdf
+25.0,0.0,142115,2017,Boise State,1,nacda/2017_fall.pdf
+0.0,0.0,182670,2017,Dartmouth,1,nacda/2017_fall.pdf
+0.0,0.0,153603,2017,Iowa State,1,nacda/2017_fall.pdf
+25.0,0.0,228723,2017,Texas A&M,1,nacda/2017_fall.pdf
+0.0,0.0,130943,2017,Delaware,1,nacda/2017_fall.pdf
+0.0,100.0,232423,2017,James Madison,1,nacda/2017_fall.pdf
+0.0,0.0,182281,2017,UNLV,1,nacda/2017_fall.pdf
+52.0,0.0,100858,2017,Auburn,1,nacda/2017_fall.pdf
+45.0,0.0,164924,2017,Boston College,1,nacda/2017_fall.pdf
+25.0,0.0,169798,2017,Eastern Michigan,1,nacda/2017_fall.pdf
+25.0,0.0,151351,2017,Indiana,1,nacda/2017_fall.pdf
+0.0,0.0,149231,2017,SIU Edwardsville,1,nacda/2017_fall.pdf
+45.0,0.0,147767,2017,Northwestern,1,nacda/2017_fall.pdf
+0.0,83.0,235097,2017,Eastern Washington,1,nacda/2017_fall.pdf
+0.0,0.0,127060,2017,Denver,1,nacda/2017_fall.pdf
+25.0,0.0,126818,2017,Colorado State,1,nacda/2017_fall.pdf
+0.0,0.0,228246,2017,SMU,1,nacda/2017_fall.pdf
+45.0,0.0,176080,2017,Mississippi State,1,nacda/2017_fall.pdf
+45.0,0.0,139959,2017,Georgia,1,nacda/2017_fall.pdf
+25.0,0.0,228875,2017,TCU,1,nacda/2017_fall.pdf
+0.0,0.0,105330,2017,Northern Arizona,1,nacda/2017_fall.pdf
+0.0,0.0,218724,2017,Coastal Carolina,1,nacda/2017_fall.pdf
+45.0,0.0,155399,2017,Kansas State,1,nacda/2017_fall.pdf
+45.0,0.0,141574,2017,Hawaii,1,nacda/2017_fall.pdf
+0.0,70.0,219356,2017,South Dakota State,1,nacda/2017_fall.pdf
+0.0,90.0,206695,2017,Youngstown State,1,nacda/2017_fall.pdf
+0.0,0.0,196060,2017,Albany,1,nacda/2017_fall.pdf
+0.0,83.0,200332,2017,North Dakota State,1,nacda/2017_fall.pdf
+55.0,0.0,137351,2017,South Florida,1,nacda/2017_fall.pdf
+0.0,53.0,183044,2017,New Hampshire,1,nacda/2017_fall.pdf
+0.0,53.0,200280,2017,North Dakota,1,nacda/2017_fall.pdf
+0.0,53.0,122436,2017,San Diego,1,nacda/2017_fall.pdf
+0.0,0.0,215062,2017,Pennsylvania,1,nacda/2017_fall.pdf
+25.0,0.0,215293,2017,Pittsburgh,1,nacda/2017_fall.pdf
+0.0,0.0,433660,2017,Florida Gulf Coast,1,nacda/2017_fall.pdf
+0.0,0.0,199139,2017,Charlotte,1,nacda/2017_fall.pdf
+0.0,25.0,145813,2017,Illinois State,1,nacda/2017_fall.pdf
+0.0,25.0,102049,2017,Samford,1,nacda/2017_fall.pdf
+49.0,0.0,122409,2017,San Diego State,1,nacda/2017_fall.pdf
+0.0,0.0,122612,2017,San Francisco,1,nacda/2017_fall.pdf
+0.0,0.0,122931,2017,Santa Clara,1,nacda/2017_fall.pdf
+25.0,0.0,220978,2017,Middle Tennessee State,1,nacda/2017_fall.pdf
+0.0,70.0,233374,2017,Richmond,2,nacda/2017_fall.pdf
+45.0,0.0,157951,2017,Western Kentucky,2,nacda/2017_fall.pdf
+0.0,70.0,218973,2017,Wofford,2,nacda/2017_fall.pdf
+0.0,70.0,227881,2017,Sam Houston State,2,nacda/2017_fall.pdf
+0.0,0.0,191931,2017,Iona,2,nacda/2017_fall.pdf
+0.0,0.0,104179,2017,Arizona,2,nacda/2017_fall.pdf
+61.5,0.0,159391,2017,LSU,2,nacda/2017_fall.pdf
+56.0,0.0,172699,2017,Western Michigan,2,nacda/2017_fall.pdf
+0.0,0.0,218070,2017,Furman,2,nacda/2017_fall.pdf
+25.0,0.0,221999,2017,Vanderbilt,2,nacda/2017_fall.pdf
+0.0,53.0,101480,2017,Jacksonville State,2,nacda/2017_fall.pdf
+0.0,53.0,217864,2017,Citadel,2,nacda/2017_fall.pdf
+0.0,53.0,221740,2017,Tennessee Chattanooga,2,nacda/2017_fall.pdf
+0.0,53.0,106704,2017,Central Arkansas,2,nacda/2017_fall.pdf
+51.0,0.0,135726,2017,Miami (FL),2,nacda/2017_fall.pdf
+0.0,0.0,145637,2017,Illinois,2,nacda/2017_fall.pdf
+0.0,0.0,231174,2017,Vermont,2,nacda/2017_fall.pdf
+25.0,0.0,220862,2017,Memphis,2,nacda/2017_fall.pdf
+0.0,0.0,202480,2017,Dayton,2,nacda/2017_fall.pdf
+0.0,0.0,150163,2017,Butler,2,nacda/2017_fall.pdf
+0.0,0.0,239105,2017,Marquette,2,nacda/2017_fall.pdf
+0.0,0.0,243780,2017,Purdue,2,nacda/2017_fall.pdf
+0.0,0.0,186380,2017,Rutgers,2,nacda/2017_fall.pdf
+0.0,0.0,200800,2017,Akron,2,nacda/2017_fall.pdf
+25.0,0.0,204024,2017,Miami (OH),2,nacda/2017_fall.pdf
+0.0,0.0,146719,2017,Loyola Chicago,2,nacda/2017_fall.pdf
+0.0,25.0,215743,2017,Saint Francis (PA),2,nacda/2017_fall.pdf
+0.0,0.0,131159,2017,American,2,nacda/2017_fall.pdf
+0.0,0.0,211291,2017,Bucknell,2,nacda/2017_fall.pdf
+50.0,0.0,221759,2017,Tennessee,2,nacda/2017_fall.pdf
+25.0,0.0,102094,2017,South Alabama,2,nacda/2017_fall.pdf
+0.0,0.0,100724,2017,Alabama State,2,nacda/2017_fall.pdf
+0.0,0.0,120883,2017,Pacific,2,nacda/2017_fall.pdf
+0.0,0.0,121150,2017,Pepperdine,2,nacda/2017_fall.pdf
+0.0,0.0,230603,2017,Southern Utah,2,nacda/2017_fall.pdf
+45.0,0.0,139755,2017,Georgia Tech,2,nacda/2017_fall.pdf
+45.0,0.0,159647,2017,Louisiana Tech,2,nacda/2017_fall.pdf
+45.0,0.0,232982,2017,Old Dominion,2,nacda/2017_fall.pdf
+45.0,0.0,176372,2017,Southern Mississippi,2,nacda/2017_fall.pdf
+0.0,0.0,228796,2017,UTEP,2,nacda/2017_fall.pdf
+45.0,0.0,197869,2017,Appalachian State,2,nacda/2017_fall.pdf
+45.0,0.0,106458,2017,Arkansas State,2,nacda/2017_fall.pdf
+45.0,0.0,142285,2017,Idaho,2,nacda/2017_fall.pdf
+45.0,0.0,102368,2017,Troy,2,nacda/2017_fall.pdf
+0.0,0.0,130794,2017,Yale,2,nacda/2017_fall.pdf
+0.0,0.0,227757,2017,Rice,2,nacda/2017_fall.pdf
+0.0,0.0,190415,2017,Cornell,2,nacda/2017_fall.pdf
+0.0,0.0,190150,2017,Columbia,2,nacda/2017_fall.pdf
+0.0,0.0,143358,2017,Bradley,2,nacda/2017_fall.pdf
+0.0,0.0,156620,2017,Eastern Kentucky,2,nacda/2017_fall.pdf
+0.0,0.0,228769,2017,Texas Arlington,2,nacda/2017_fall.pdf
+0.0,0.0,201885,2017,Cincinnati,2,nacda/2017_fall.pdf
+25.0,0.0,225511,2017,Houston,2,nacda/2017_fall.pdf
+25.0,0.0,216339,2017,Temple,2,nacda/2017_fall.pdf
+25.0,0.0,132903,2017,UCF,2,nacda/2017_fall.pdf
+0.0,0.0,191241,2017,Fordham,2,nacda/2017_fall.pdf
+0.0,0.0,166629,2017,Massachusetts,2,nacda/2017_fall.pdf
+0.0,0.0,219976,2017,Lipscomb,2,nacda/2017_fall.pdf
+0.0,0.0,229115,2017,Texas Tech,2,nacda/2017_fall.pdf
+0.0,25.0,230782,2017,Weber State,2,nacda/2017_fall.pdf
+0.0,25.0,217688,2017,Charleston Southern,2,nacda/2017_fall.pdf
+0.0,0.0,198695,2017,High Point,2,nacda/2017_fall.pdf
+0.0,0.0,232557,2017,Liberty,2,nacda/2017_fall.pdf
+0.0,0.0,233277,2017,Radford,2,nacda/2017_fall.pdf
+25.0,0.0,153658,2017,Iowa,2,nacda/2017_fall.pdf
+0.0,25.0,110422,2017,Cal Poly,2,nacda/2017_fall.pdf
+0.0,0.0,110608,2017,Cal State Northridge,2,nacda/2017_fall.pdf
+0.0,0.0,110583,2017,Long Beach State,2,nacda/2017_fall.pdf
+0.0,0.0,110644,2017,UC Davis,2,nacda/2017_fall.pdf
+0.0,0.0,167358,2017,Northeastern,2,nacda/2017_fall.pdf
+25.0,0.0,227216,2017,North Texas,2,nacda/2017_fall.pdf
+25.0,0.0,229027,2017,UTSA,2,nacda/2017_fall.pdf
+0.0,0.0,202134,2017,Cleveland State,2,nacda/2017_fall.pdf
+0.0,0.0,145600,2017,Illinois Chicago,2,nacda/2017_fall.pdf
+0.0,0.0,157447,2017,Northern Kentucky,2,nacda/2017_fall.pdf
+0.0,0.0,129242,2017,Fairfield,2,nacda/2017_fall.pdf
+0.0,0.0,185572,2017,Monmouth,2,nacda/2017_fall.pdf
+0.0,0.0,186283,2017,Rider,2,nacda/2017_fall.pdf
+0.0,0.0,203517,2017,Kent State,2,nacda/2017_fall.pdf
+0.0,0.0,147703,2017,Northern Illinois,2,nacda/2017_fall.pdf
+25.0,0.0,169248,2017,Central Michigan,2,nacda/2017_fall.pdf
+25.0,0.0,204857,2017,Ohio,2,nacda/2017_fall.pdf
+25.0,0.0,206084,2017,Toledo,2,nacda/2017_fall.pdf
+0.0,0.0,131520,2017,Howard,2,nacda/2017_fall.pdf
+0.0,25.0,199102,2017,North Carolina A&T,2,nacda/2017_fall.pdf
+0.0,0.0,179566,2017,Missouri State,2,nacda/2017_fall.pdf
+0.0,0.0,154095,2017,Northern Iowa,2,nacda/2017_fall.pdf
+0.0,0.0,156125,2017,Wichita State,2,nacda/2017_fall.pdf
+25.0,0.0,240727,2017,Wyoming,2,nacda/2017_fall.pdf
+0.0,0.0,192439,2017,LIU Brooklyn,2,nacda/2017_fall.pdf
+0.0,0.0,195173,2017,St. Francis (NY),2,nacda/2017_fall.pdf
+0.0,0.0,157401,2017,Murray State,2,nacda/2017_fall.pdf
+0.0,0.0,190099,2017,Colgate,2,nacda/2017_fall.pdf
+0.0,25.0,213543,2017,Lehigh,2,nacda/2017_fall.pdf
+0.0,0.0,220075,2017,East Tennessee State,2,nacda/2017_fall.pdf
+0.0,0.0,140447,2017,Mercer,3,nacda/2017_fall.pdf
+0.0,0.0,225399,2017,Houston Baptist,3,nacda/2017_fall.pdf
+0.0,0.0,224147,2017,Texas A&M Corpus Christi,3,nacda/2017_fall.pdf
+25.0,0.0,160658,2017,Louisiana Lafayette,3,nacda/2017_fall.pdf
+0.0,0.0,236595,2017,Seattle,3,nacda/2017_fall.pdf
+0.0,0.0,227368,2017,UTRGV,3,nacda/2017_fall.pdf
+55.0,0.0,243744,2018,Stanford,1,nacda/2018_fall.pdf
+70.5,0.0,214777,2018,Penn State,1,nacda/2018_fall.pdf
+73.5,0.0,240444,2018,Wisconsin,1,nacda/2018_fall.pdf
+25.0,0.0,110662,2018,UCLA,1,nacda/2018_fall.pdf
+25.0,0.0,170976,2018,Michigan,1,nacda/2018_fall.pdf
+58.5,0.0,171100,2018,Michigan State,1,nacda/2018_fall.pdf
+51.0,0.0,199193,2018,North Carolina State,1,nacda/2018_fall.pdf
+67.5,0.0,123961,2018,USC,1,nacda/2018_fall.pdf
+0.0,0.0,126614,2018,Colorado,1,nacda/2018_fall.pdf
+45.0,0.0,228778,2018,Texas,1,nacda/2018_fall.pdf
+45.0,0.0,198419,2018,Duke,1,nacda/2018_fall.pdf
+25.0,0.0,234076,2018,Virginia,1,nacda/2018_fall.pdf
+0.0,0.0,186131,2018,Princeton,1,nacda/2018_fall.pdf
+60.0,0.0,236948,2018,Washington,1,nacda/2018_fall.pdf
+0.0,0.0,199120,2018,North Carolina,1,nacda/2018_fall.pdf
+25.0,0.0,209551,2018,Oregon,1,nacda/2018_fall.pdf
+45.0,0.0,199847,2018,Wake Forest,1,nacda/2018_fall.pdf
+45.0,0.0,153603,2018,Iowa State,1,nacda/2018_fall.pdf
+0.0,0.0,230038,2018,BYU,1,nacda/2018_fall.pdf
+66.0,0.0,152080,2018,Notre Dame,1,nacda/2018_fall.pdf
+25.0,0.0,157289,2018,Louisville,1,nacda/2018_fall.pdf
+61.5,0.0,207388,2018,Oklahoma State,1,nacda/2018_fall.pdf
+45.0,0.0,134097,2018,Florida State,1,nacda/2018_fall.pdf
+25.0,0.0,236939,2018,Washington State,1,nacda/2018_fall.pdf
+100.0,0.0,100751,2018,Alabama,1,nacda/2018_fall.pdf
+49.0,0.0,233921,2018,Virginia Tech,1,nacda/2018_fall.pdf
+52.0,0.0,142115,2018,Boise State,1,nacda/2018_fall.pdf
+80.0,0.0,217882,2018,Clemson,1,nacda/2018_fall.pdf
+57.0,0.0,147767,2018,Northwestern,1,nacda/2018_fall.pdf
+0.0,53.0,218070,2018,Furman,1,nacda/2018_fall.pdf
+0.0,0.0,196413,2018,Syracuse,1,nacda/2018_fall.pdf
+0.0,0.0,106397,2018,Arkansas,1,nacda/2018_fall.pdf
+0.0,0.0,134130,2018,Florida,1,nacda/2018_fall.pdf
+0.0,0.0,110635,2018,California,1,nacda/2018_fall.pdf
+0.0,0.0,174066,2018,Minnesota,1,nacda/2018_fall.pdf
+0.0,0.0,223232,2018,Baylor,1,nacda/2018_fall.pdf
+90.0,0.0,139959,2018,Georgia,1,nacda/2018_fall.pdf
+25.0,0.0,126818,2018,Colorado State,1,nacda/2018_fall.pdf
+0.0,0.0,151351,2018,Indiana,1,nacda/2018_fall.pdf
+0.0,0.0,122612,2018,San Francisco,1,nacda/2018_fall.pdf
+45.0,0.0,230764,2018,Utah,1,nacda/2018_fall.pdf
+0.0,53.0,196097,2018,Stony Brook,1,nacda/2018_fall.pdf
+0.0,0.0,131496,2018,Georgetown,1,nacda/2018_fall.pdf
+0.0,70.0,183044,2018,New Hampshire,1,nacda/2018_fall.pdf
+25.0,0.0,230728,2018,Utah State,1,nacda/2018_fall.pdf
+0.0,0.0,176017,2018,Ole Miss,1,nacda/2018_fall.pdf
+0.0,0.0,190150,2018,Columbia,1,nacda/2018_fall.pdf
+45.0,0.0,243780,2018,Purdue,1,nacda/2018_fall.pdf
+45.0,0.0,218663,2018,South Carolina,1,nacda/2018_fall.pdf
+0.0,25.0,105330,2018,Northern Arizona,1,nacda/2018_fall.pdf
+0.0,53.0,230603,2018,Southern Utah,1,nacda/2018_fall.pdf
+25.0,0.0,228246,2018,SMU,1,nacda/2018_fall.pdf
+25.0,0.0,178396,2018,Missouri,1,nacda/2018_fall.pdf
+0.0,0.0,163286,2018,Maryland,1,nacda/2018_fall.pdf
+0.0,90.0,232423,2018,James Madison,1,nacda/2018_fall.pdf
+64.5,0.0,100858,2018,Auburn,1,nacda/2018_fall.pdf
+63.0,0.0,135726,2018,Miami (FL),1,nacda/2018_fall.pdf
+25.0,0.0,228723,2018,Texas A&M,1,nacda/2018_fall.pdf
+25.0,0.0,200800,2018,Akron,1,nacda/2018_fall.pdf
+0.0,0.0,120883,2018,Pacific,1,nacda/2018_fall.pdf
+53.0,0.0,137351,2018,South Florida,1,nacda/2018_fall.pdf
+0.0,53.0,154095,2018,Northern Iowa,1,nacda/2018_fall.pdf
+0.0,53.0,106704,2018,Central Arkansas,1,nacda/2018_fall.pdf
+0.0,53.0,122436,2018,San Diego,1,nacda/2018_fall.pdf
+0.0,0.0,129020,2018,UConn,1,nacda/2018_fall.pdf
+0.0,0.0,181464,2018,Nebraska,1,nacda/2018_fall.pdf
+75.0,0.0,204796,2018,Ohio State,1,nacda/2018_fall.pdf
+0.0,0.0,187985,2018,New Mexico,1,nacda/2018_fall.pdf
+0.0,100.0,200332,2018,North Dakota State,1,nacda/2018_fall.pdf
+0.0,0.0,216597,2018,Villanova,1,nacda/2018_fall.pdf
+25.0,0.0,157085,2018,Kentucky,1,nacda/2018_fall.pdf
+0.0,0.0,145637,2018,Illinois,1,nacda/2018_fall.pdf
+72.0,0.0,132903,2018,UCF,1,nacda/2018_fall.pdf
+45.0,0.0,220978,2018,Middle Tennessee State,1,nacda/2018_fall.pdf
+0.0,70.0,486840,2018,Kennesaw State,1,nacda/2018_fall.pdf
+0.0,0.0,182670,2018,Dartmouth,1,nacda/2018_fall.pdf
+69.0,0.0,228875,2018,TCU,1,nacda/2018_fall.pdf
+0.0,0.0,209825,2018,Portland,1,nacda/2018_fall.pdf
+25.0,0.0,238032,2018,West Virginia,1,nacda/2018_fall.pdf
+0.0,0.0,150163,2018,Butler,1,nacda/2018_fall.pdf
+0.0,0.0,218724,2018,Coastal Carolina,1,nacda/2018_fall.pdf
+85.0,0.0,207500,2018,Oklahoma,1,nacda/2018_fall.pdf
+0.0,0.0,221759,2018,Tennessee,1,nacda/2018_fall.pdf
+0.0,83.0,227881,2018,Sam Houston State,1,nacda/2018_fall.pdf
+0.0,83.0,219356,2018,South Dakota State,1,nacda/2018_fall.pdf
+56.0,0.0,159391,2018,LSU,1,nacda/2018_fall.pdf
+0.0,53.0,219471,2018,South Dakota,1,nacda/2018_fall.pdf
+0.0,0.0,169798,2018,Eastern Michigan,1,nacda/2018_fall.pdf
+0.0,0.0,215293,2018,Pittsburgh,1,nacda/2018_fall.pdf
+0.0,0.0,204024,2018,Miami (OH),1,nacda/2018_fall.pdf
+0.0,0.0,234030,2018,VCU,1,nacda/2018_fall.pdf
+25.0,0.0,133951,2018,Florida International,1,nacda/2018_fall.pdf
+25.0,0.0,157951,2018,Western Kentucky,1,nacda/2018_fall.pdf
+0.0,0.0,129242,2018,Fairfield,1,nacda/2018_fall.pdf
+25.0,0.0,104179,2018,Arizona,1,nacda/2018_fall.pdf
+0.0,0.0,191241,2018,Fordham,1,nacda/2018_fall.pdf
+0.0,70.0,230782,2018,Weber State,1,nacda/2018_fall.pdf
+0.0,70.0,218973,2018,Wofford,1,nacda/2018_fall.pdf
+0.0,0.0,191931,2018,Iona,1,nacda/2018_fall.pdf
+0.0,0.0,172699,2018,Western Michigan,1,nacda/2018_fall.pdf
+0.0,0.0,190099,2018,Colgate,1,nacda/2018_fall.pdf
+0.0,0.0,122931,2018,Santa Clara,1,nacda/2018_fall.pdf
+0.0,0.0,217402,2018,Providence,1,nacda/2018_fall.pdf
+54.0,0.0,176080,2018,Mississippi State,1,nacda/2018_fall.pdf
+0.0,0.0,215770,2018,Saint Joseph's,1,nacda/2018_fall.pdf
+0.0,0.0,130943,2018,Delaware,1,nacda/2018_fall.pdf
+0.0,53.0,101480,2018,Jacksonville State,1,nacda/2018_fall.pdf
+0.0,0.0,164988,2018,Boston University,2,nacda/2018_fall.pdf
+0.0,25.0,102049,2018,Samford,2,nacda/2018_fall.pdf
+0.0,0.0,156620,2018,Eastern Kentucky,2,nacda/2018_fall.pdf
+0.0,0.0,196060,2018,Albany,2,nacda/2018_fall.pdf
+50.0,0.0,220862,2018,Memphis,2,nacda/2018_fall.pdf
+0.0,0.0,156125,2018,Wichita State,2,nacda/2018_fall.pdf
+0.0,0.0,181002,2018,Creighton,2,nacda/2018_fall.pdf
+0.0,0.0,198695,2018,High Point,2,nacda/2018_fall.pdf
+0.0,0.0,186380,2018,Rutgers,2,nacda/2018_fall.pdf
+0.0,0.0,110422,2018,Cal Poly,2,nacda/2018_fall.pdf
+0.0,0.0,110565,2018,Cal State Fullerton,2,nacda/2018_fall.pdf
+0.0,0.0,199218,2018,North Carolina Wilmington,2,nacda/2018_fall.pdf
+25.0,0.0,227216,2018,North Texas,2,nacda/2018_fall.pdf
+0.0,0.0,232982,2018,Old Dominion,2,nacda/2018_fall.pdf
+0.0,25.0,185572,2018,Monmouth,2,nacda/2018_fall.pdf
+25.0,0.0,206084,2018,Toledo,2,nacda/2018_fall.pdf
+0.0,0.0,179566,2018,Missouri State,2,nacda/2018_fall.pdf
+25.0,0.0,122409,2018,San Diego State,2,nacda/2018_fall.pdf
+0.0,0.0,221999,2018,Vanderbilt,2,nacda/2018_fall.pdf
+0.0,0.0,127060,2018,Denver,2,nacda/2018_fall.pdf
+0.0,0.0,100724,2018,Alabama State,2,nacda/2018_fall.pdf
+0.0,0.0,236595,2018,Seattle,2,nacda/2018_fall.pdf
+0.0,0.0,121150,2018,Pepperdine,2,nacda/2018_fall.pdf
+45.0,0.0,216339,2018,Temple,2,nacda/2018_fall.pdf
+45.0,0.0,155399,2018,Kansas State,2,nacda/2018_fall.pdf
+45.0,0.0,153658,2018,Iowa,2,nacda/2018_fall.pdf
+45.0,0.0,133669,2018,Florida Atlantic,2,nacda/2018_fall.pdf
+45.0,0.0,159647,2018,Louisiana Tech,2,nacda/2018_fall.pdf
+45.0,0.0,237525,2018,Marshall,2,nacda/2018_fall.pdf
+45.0,0.0,204857,2018,Ohio,2,nacda/2018_fall.pdf
+45.0,0.0,199102,2018,North Carolina A&T,2,nacda/2018_fall.pdf
+45.0,0.0,110556,2018,Fresno State,2,nacda/2018_fall.pdf
+45.0,0.0,240727,2018,Wyoming,2,nacda/2018_fall.pdf
+45.0,0.0,197869,2018,Appalachian State,2,nacda/2018_fall.pdf
+45.0,0.0,139940,2018,Georgia State,2,nacda/2018_fall.pdf
+45.0,0.0,102368,2018,Troy,2,nacda/2018_fall.pdf
+45.0,0.0,188030,2018,New Mexico State,2,nacda/2018_fall.pdf
+0.0,0.0,207971,2018,Tulsa,2,nacda/2018_fall.pdf
+0.0,0.0,198136,2018,Campbell,2,nacda/2018_fall.pdf
+0.0,0.0,159717,2018,McNeese State,2,nacda/2018_fall.pdf
+0.0,0.0,228459,2018,Texas State,2,nacda/2018_fall.pdf
+0.0,0.0,139755,2018,Georgia Tech,2,nacda/2018_fall.pdf
+0.0,0.0,130794,2018,Yale,2,nacda/2018_fall.pdf
+0.0,0.0,222178,2018,Abilene Christian,2,nacda/2018_fall.pdf
+25.0,0.0,164924,2018,Boston College,2,nacda/2018_fall.pdf
+25.0,0.0,225511,2018,Houston,2,nacda/2018_fall.pdf
+0.0,0.0,131469,2018,George Washington,2,nacda/2018_fall.pdf
+0.0,0.0,213367,2018,La Salle,2,nacda/2018_fall.pdf
+0.0,0.0,166629,2018,Massachusetts,2,nacda/2018_fall.pdf
+0.0,0.0,433660,2018,Florida Gulf Coast,2,nacda/2018_fall.pdf
+0.0,0.0,219976,2018,Lipscomb,2,nacda/2018_fall.pdf
+0.0,0.0,155317,2018,Kansas,2,nacda/2018_fall.pdf
+25.0,0.0,229115,2018,Texas Tech,2,nacda/2018_fall.pdf
+0.0,0.0,239105,2018,Marquette,2,nacda/2018_fall.pdf
+0.0,0.0,235097,2018,Eastern Washington,2,nacda/2018_fall.pdf
+0.0,0.0,200280,2018,North Dakota,2,nacda/2018_fall.pdf
+0.0,0.0,218539,2018,Presbyterian College,2,nacda/2018_fall.pdf
+0.0,0.0,233277,2018,Radford,2,nacda/2018_fall.pdf
+0.0,0.0,141574,2018,Hawaii,2,nacda/2018_fall.pdf
+0.0,0.0,110644,2018,UC Davis,2,nacda/2018_fall.pdf
+0.0,0.0,217819,2018,College of Charleston,2,nacda/2018_fall.pdf
+0.0,25.0,198516,2018,Elon,2,nacda/2018_fall.pdf
+0.0,0.0,191649,2018,Hofstra,2,nacda/2018_fall.pdf
+0.0,0.0,231624,2018,William & Mary,2,nacda/2018_fall.pdf
+0.0,0.0,227757,2018,Rice,2,nacda/2018_fall.pdf
+25.0,0.0,176372,2018,Southern Mississippi,2,nacda/2018_fall.pdf
+25.0,0.0,100663,2018,UAB,2,nacda/2018_fall.pdf
+0.0,0.0,202134,2018,Cleveland State,2,nacda/2018_fall.pdf
+0.0,0.0,145600,2018,Illinois Chicago,2,nacda/2018_fall.pdf
+0.0,0.0,151111,2018,IUPUI,2,nacda/2018_fall.pdf
+0.0,0.0,166027,2018,Harvard,2,nacda/2018_fall.pdf
+25.0,0.0,169248,2018,Central Michigan,2,nacda/2018_fall.pdf
+25.0,0.0,147703,2018,Northern Illinois,2,nacda/2018_fall.pdf
+0.0,0.0,131520,2018,Howard,2,nacda/2018_fall.pdf
+0.0,25.0,128771,2018,Central Connecticut State,2,nacda/2018_fall.pdf
+0.0,0.0,192439,2018,LIU Brooklyn,2,nacda/2018_fall.pdf
+0.0,0.0,215743,2018,Saint Francis (PA),2,nacda/2018_fall.pdf
+0.0,0.0,195173,2018,St. Francis (NY),2,nacda/2018_fall.pdf
+0.0,0.0,219602,2018,Austin Peay State,2,nacda/2018_fall.pdf
+0.0,0.0,157401,2018,Murray State,2,nacda/2018_fall.pdf
+25.0,0.0,104151,2018,Arizona State,2,nacda/2018_fall.pdf
+0.0,0.0,209542,2018,Oregon State,2,nacda/2018_fall.pdf
+0.0,0.0,131159,2018,American,2,nacda/2018_fall.pdf
+0.0,0.0,211291,2018,Bucknell,2,nacda/2018_fall.pdf
+0.0,25.0,213543,2018,Lehigh,2,nacda/2018_fall.pdf
+0.0,0.0,220075,2018,East Tennessee State,2,nacda/2018_fall.pdf
+0.0,0.0,140447,2018,Mercer,2,nacda/2018_fall.pdf
+0.0,0.0,199148,2018,North Carolina Greensboro,2,nacda/2018_fall.pdf
+0.0,0.0,226091,2018,Lamar,2,nacda/2018_fall.pdf
+0.0,25.0,159966,2018,Nicholls State,2,nacda/2018_fall.pdf
+0.0,0.0,181394,2018,Nebraska Omaha,2,nacda/2018_fall.pdf
+0.0,25.0,149772,2018,Western Illinois,2,nacda/2018_fall.pdf
+25.0,0.0,106458,2018,Arkansas State,2,nacda/2018_fall.pdf
+0.0,0.0,102094,2018,South Alabama,2,nacda/2018_fall.pdf
+25.0,0.0,159009,2018,Grambling State,2,nacda/2018_fall.pdf
+0.0,0.0,110486,2018,Cal State Bakersfield,2,nacda/2018_fall.pdf
+0.0,0.0,230737,2018,Utah Valley,2,nacda/2018_fall.pdf
+45.0,0.0,243744,2019,Stanford,1,nacda/2019_fall.pdf
+61.5,0.0,170976,2019,Michigan,1,nacda/2019_fall.pdf
+57.0,0.0,214777,2019,Penn State,1,nacda/2019_fall.pdf
+45.0,0.0,240444,2019,Wisconsin,1,nacda/2019_fall.pdf
+45.0,0.0,230038,2019,BYU,1,nacda/2019_fall.pdf
+45.0,0.0,199847,2019,Wake Forest,1,nacda/2019_fall.pdf
+45.0,0.0,198419,2019,Duke,1,nacda/2019_fall.pdf
+63.0,0.0,236948,2019,Washington,1,nacda/2019_fall.pdf
+75.0,0.0,152080,2019,Notre Dame,1,nacda/2019_fall.pdf
+25.0,0.0,199193,2019,North Carolina State,1,nacda/2019_fall.pdf
+0.0,0.0,186131,2019,Princeton,1,nacda/2019_fall.pdf
+45.0,0.0,209551,2019,Oregon,1,nacda/2019_fall.pdf
+69.0,0.0,228778,2019,Texas,1,nacda/2019_fall.pdf
+45.0,0.0,234076,2019,Virginia,1,nacda/2019_fall.pdf
+0.0,0.0,199120,2019,North Carolina,1,nacda/2019_fall.pdf
+45.0,0.0,174066,2019,Minnesota,1,nacda/2019_fall.pdf
+0.0,0.0,134097,2019,Florida State,1,nacda/2019_fall.pdf
+0.0,0.0,123961,2019,USC,1,nacda/2019_fall.pdf
+60.0,0.0,196413,2019,Syracuse,1,nacda/2019_fall.pdf
+0.0,0.0,126614,2019,Colorado,1,nacda/2019_fall.pdf
+66.0,0.0,157085,2019,Kentucky,1,nacda/2019_fall.pdf
+0.0,0.0,209825,2019,Portland,1,nacda/2019_fall.pdf
+0.0,0.0,151351,2019,Indiana,1,nacda/2019_fall.pdf
+73.5,0.0,134130,2019,Florida,1,nacda/2019_fall.pdf
+50.0,0.0,142115,2019,Boise State,1,nacda/2019_fall.pdf
+0.0,0.0,163286,2019,Maryland,1,nacda/2019_fall.pdf
+67.5,0.0,236939,2019,Washington State,1,nacda/2019_fall.pdf
+25.0,0.0,233921,2019,Virginia Tech,1,nacda/2019_fall.pdf
+58.5,0.0,228723,2019,Texas A&M,1,nacda/2019_fall.pdf
+0.0,0.0,131496,2019,Georgetown,1,nacda/2019_fall.pdf
+25.0,0.0,171100,2019,Michigan State,1,nacda/2019_fall.pdf
+45.0,0.0,223232,2019,Baylor,1,nacda/2019_fall.pdf
+45.0,0.0,207388,2019,Oklahoma State,1,nacda/2019_fall.pdf
+0.0,0.0,106397,2019,Arkansas,1,nacda/2019_fall.pdf
+0.0,0.0,176017,2019,Ole Miss,1,nacda/2019_fall.pdf
+25.0,0.0,153603,2019,Iowa State,1,nacda/2019_fall.pdf
+0.0,0.0,110662,2019,UCLA,1,nacda/2019_fall.pdf
+52.0,0.0,238032,2019,West Virginia,1,nacda/2019_fall.pdf
+0.0,0.0,221759,2019,Tennessee,1,nacda/2019_fall.pdf
+64.5,0.0,132903,2019,UCF,1,nacda/2019_fall.pdf
+0.0,0.0,218070,2019,Furman,1,nacda/2019_fall.pdf
+0.0,53.0,232423,2019,James Madison,1,nacda/2019_fall.pdf
+100.0,0.0,217882,2019,Clemson,1,nacda/2019_fall.pdf
+0.0,0.0,157289,2019,Louisville,1,nacda/2019_fall.pdf
+0.0,0.0,105330,2019,Northern Arizona,1,nacda/2019_fall.pdf
+25.0,0.0,218663,2019,South Carolina,1,nacda/2019_fall.pdf
+72.0,0.0,159391,2019,LSU,1,nacda/2019_fall.pdf
+0.0,0.0,129020,2019,UConn,1,nacda/2019_fall.pdf
+25.0,0.0,243780,2019,Purdue,1,nacda/2019_fall.pdf
+0.0,70.0,190099,2019,Colgate,1,nacda/2019_fall.pdf
+0.0,0.0,219976,2019,Lipscomb,1,nacda/2019_fall.pdf
+0.0,0.0,145637,2019,Illinois,1,nacda/2019_fall.pdf
+85.0,0.0,204796,2019,Ohio State,1,nacda/2019_fall.pdf
+55.0,0.0,147767,2019,Northwestern,1,nacda/2019_fall.pdf
+0.0,0.0,230603,2019,Southern Utah,1,nacda/2019_fall.pdf
+51.0,0.0,201885,2019,Cincinnati,1,nacda/2019_fall.pdf
+0.0,0.0,216597,2019,Villanova,1,nacda/2019_fall.pdf
+0.0,0.0,127060,2019,Denver,1,nacda/2019_fall.pdf
+0.0,100.0,200332,2019,North Dakota State,1,nacda/2019_fall.pdf
+0.0,0.0,191931,2019,Iona,1,nacda/2019_fall.pdf
+70.5,0.0,139959,2019,Georgia,1,nacda/2019_fall.pdf
+25.0,0.0,139755,2019,Georgia Tech,1,nacda/2019_fall.pdf
+45.0,0.0,153658,2019,Iowa,1,nacda/2019_fall.pdf
+0.0,0.0,209542,2019,Oregon State,1,nacda/2019_fall.pdf
+45.0,0.0,228875,2019,TCU,1,nacda/2019_fall.pdf
+0.0,0.0,126818,2019,Colorado State,1,nacda/2019_fall.pdf
+0.0,90.0,235097,2019,Eastern Washington,1,nacda/2019_fall.pdf
+0.0,0.0,181464,2019,Nebraska,1,nacda/2019_fall.pdf
+0.0,0.0,200800,2019,Akron,1,nacda/2019_fall.pdf
+0.0,0.0,187985,2019,New Mexico,1,nacda/2019_fall.pdf
+90.0,0.0,100751,2019,Alabama,1,nacda/2019_fall.pdf
+0.0,25.0,122436,2019,San Diego,1,nacda/2019_fall.pdf
+0.0,0.0,123554,2019,St. Mary's College of California,1,nacda/2019_fall.pdf
+0.0,83.0,161253,2019,Maine,1,nacda/2019_fall.pdf
+0.0,83.0,219356,2019,South Dakota State,1,nacda/2019_fall.pdf
+80.0,0.0,207500,2019,Oklahoma,1,nacda/2019_fall.pdf
+0.0,0.0,227757,2019,Rice,1,nacda/2019_fall.pdf
+0.0,0.0,196060,2019,Albany,1,nacda/2019_fall.pdf
+0.0,0.0,186380,2019,Rutgers,1,nacda/2019_fall.pdf
+0.0,53.0,154095,2019,Northern Iowa,1,nacda/2019_fall.pdf
+0.0,0.0,228459,2019,Texas State,1,nacda/2019_fall.pdf
+25.0,0.0,227216,2019,North Texas,1,nacda/2019_fall.pdf
+25.0,0.0,215293,2019,Pittsburgh,1,nacda/2019_fall.pdf
+25.0,0.0,137351,2019,South Florida,1,nacda/2019_fall.pdf
+0.0,0.0,191649,2019,Hofstra,1,nacda/2019_fall.pdf
+0.0,0.0,104179,2019,Arizona,1,nacda/2019_fall.pdf
+25.0,0.0,230764,2019,Utah,1,nacda/2019_fall.pdf
+25.0,0.0,178396,2019,Missouri,1,nacda/2019_fall.pdf
+25.0,0.0,221999,2019,Vanderbilt,1,nacda/2019_fall.pdf
+49.0,0.0,176080,2019,Mississippi State,1,nacda/2019_fall.pdf
+0.0,0.0,182670,2019,Dartmouth,1,nacda/2019_fall.pdf
+0.0,70.0,486840,2019,Kennesaw State,1,nacda/2019_fall.pdf
+0.0,70.0,230782,2019,Weber State,1,nacda/2019_fall.pdf
+0.0,70.0,110644,2019,UC Davis,1,nacda/2019_fall.pdf
+0.0,0.0,166027,2019,Harvard,1,nacda/2019_fall.pdf
+45.0,0.0,100858,2019,Auburn,1,nacda/2019_fall.pdf
+0.0,0.0,239105,2019,Marquette,1,nacda/2019_fall.pdf
+0.0,0.0,240727,2019,Wyoming,1,nacda/2019_fall.pdf
+0.0,0.0,156620,2019,Eastern Kentucky,1,nacda/2019_fall.pdf
+0.0,0.0,190150,2019,Columbia,1,nacda/2019_fall.pdf
+56.0,0.0,110556,2019,Fresno State,1,nacda/2019_fall.pdf
+0.0,0.0,215062,2019,Pennsylvania,1,nacda/2019_fall.pdf
+25.0,0.0,216339,2019,Temple,2,nacda/2019_fall.pdf
+0.0,53.0,212106,2019,Duquesne,2,nacda/2019_fall.pdf
+0.0,0.0,215770,2019,Saint Joseph's,2,nacda/2019_fall.pdf
+0.0,53.0,180461,2019,Montana State,2,nacda/2019_fall.pdf
+0.0,0.0,231624,2019,William & Mary,2,nacda/2019_fall.pdf
+0.0,0.0,130794,2019,Yale,2,nacda/2019_fall.pdf
+0.0,0.0,204024,2019,Miami (OH),2,nacda/2019_fall.pdf
+53.0,0.0,230728,2019,Utah State,2,nacda/2019_fall.pdf
+0.0,53.0,101480,2019,Jacksonville State,2,nacda/2019_fall.pdf
+0.0,53.0,179557,2019,Southeast Missouri State,2,nacda/2019_fall.pdf
+0.0,53.0,218973,2019,Wofford,2,nacda/2019_fall.pdf
+0.0,53.0,159966,2019,Nicholls State,2,nacda/2019_fall.pdf
+25.0,0.0,164924,2019,Boston College,2,nacda/2019_fall.pdf
+0.0,25.0,196097,2019,Stony Brook,2,nacda/2019_fall.pdf
+25.0,0.0,220862,2019,Memphis,2,nacda/2019_fall.pdf
+0.0,0.0,433660,2019,Florida Gulf Coast,2,nacda/2019_fall.pdf
+0.0,0.0,155317,2019,Kansas,2,nacda/2019_fall.pdf
+0.0,0.0,229115,2019,Texas Tech,2,nacda/2019_fall.pdf
+0.0,0.0,181002,2019,Creighton,2,nacda/2019_fall.pdf
+0.0,0.0,198695,2019,High Point,2,nacda/2019_fall.pdf
+25.0,0.0,141574,2019,Hawaii,2,nacda/2019_fall.pdf
+0.0,0.0,110583,2019,Long Beach State,2,nacda/2019_fall.pdf
+0.0,0.0,110653,2019,UC Irvine,2,nacda/2019_fall.pdf
+0.0,0.0,199139,2019,Charlotte,2,nacda/2019_fall.pdf
+0.0,0.0,185572,2019,Monmouth,2,nacda/2019_fall.pdf
+25.0,0.0,169798,2019,Eastern Michigan,2,nacda/2019_fall.pdf
+0.0,0.0,131520,2019,Howard,2,nacda/2019_fall.pdf
+0.0,0.0,143358,2019,Bradley,2,nacda/2019_fall.pdf
+0.0,0.0,157401,2019,Murray State,2,nacda/2019_fall.pdf
+0.0,0.0,164988,2019,Boston University,2,nacda/2019_fall.pdf
+0.0,25.0,220075,2019,East Tennessee State,2,nacda/2019_fall.pdf
+0.0,0.0,117946,2019,Loyola Marymount,2,nacda/2019_fall.pdf
+0.0,0.0,120883,2019,Pacific,2,nacda/2019_fall.pdf
+0.0,0.0,121150,2019,Pepperdine,2,nacda/2019_fall.pdf
+0.0,0.0,122931,2019,Santa Clara,2,nacda/2019_fall.pdf
+45.0,0.0,160755,2019,Tulane,2,nacda/2019_fall.pdf
+45.0,0.0,133951,2019,Florida International,2,nacda/2019_fall.pdf
+45.0,0.0,159647,2019,Louisiana Tech,2,nacda/2019_fall.pdf
+45.0,0.0,237525,2019,Marshall,2,nacda/2019_fall.pdf
+45.0,0.0,100663,2019,UAB,2,nacda/2019_fall.pdf
+45.0,0.0,204857,2019,Ohio,2,nacda/2019_fall.pdf
+45.0,0.0,199102,2019,North Carolina A&T,2,nacda/2019_fall.pdf
+45.0,0.0,182290,2019,Nevada,2,nacda/2019_fall.pdf
+45.0,0.0,197869,2019,Appalachian State,2,nacda/2019_fall.pdf
+45.0,0.0,139931,2019,Georgia Southern,2,nacda/2019_fall.pdf
+45.0,0.0,102368,2019,Troy,2,nacda/2019_fall.pdf
+0.0,0.0,207971,2019,Tulsa,2,nacda/2019_fall.pdf
+0.0,0.0,190415,2019,Cornell,2,nacda/2019_fall.pdf
+0.0,0.0,217156,2019,Brown,2,nacda/2019_fall.pdf
+0.0,0.0,219709,2019,Belmont,2,nacda/2019_fall.pdf
+25.0,0.0,135726,2019,Miami (FL),2,nacda/2019_fall.pdf
+0.0,0.0,183044,2019,New Hampshire,2,nacda/2019_fall.pdf
+25.0,0.0,225511,2019,Houston,2,nacda/2019_fall.pdf
+0.0,0.0,228246,2019,SMU,2,nacda/2019_fall.pdf
+0.0,0.0,202480,2019,Dayton,2,nacda/2019_fall.pdf
+0.0,0.0,131469,2019,George Washington,2,nacda/2019_fall.pdf
+0.0,0.0,217484,2019,Rhode Island,2,nacda/2019_fall.pdf
+0.0,0.0,179159,2019,Saint Louis,2,nacda/2019_fall.pdf
+0.0,0.0,180489,2019,Montana,2,nacda/2019_fall.pdf
+0.0,0.0,198136,2019,Campbell,2,nacda/2019_fall.pdf
+0.0,0.0,233277,2019,Radford,2,nacda/2019_fall.pdf
+0.0,0.0,110422,2019,Cal Poly,2,nacda/2019_fall.pdf
+0.0,0.0,110671,2019,UC Riverside,2,nacda/2019_fall.pdf
+0.0,25.0,130943,2019,Delaware,2,nacda/2019_fall.pdf
+0.0,25.0,198516,2019,Elon,2,nacda/2019_fall.pdf
+0.0,0.0,199218,2019,North Carolina Wilmington,2,nacda/2019_fall.pdf
+0.0,25.0,164076,2019,Towson,2,nacda/2019_fall.pdf
+25.0,0.0,220978,2019,Middle Tennessee State,2,nacda/2019_fall.pdf
+0.0,0.0,145600,2019,Illinois Chicago,2,nacda/2019_fall.pdf
+0.0,0.0,240277,2019,Wisconsin Green Bay,2,nacda/2019_fall.pdf
+0.0,0.0,240453,2019,Wisconsin Milwaukee,2,nacda/2019_fall.pdf
+0.0,0.0,186283,2019,Rider,2,nacda/2019_fall.pdf
+0.0,0.0,201441,2019,Bowling Green,2,nacda/2019_fall.pdf
+25.0,0.0,196088,2019,Buffalo,2,nacda/2019_fall.pdf
+25.0,0.0,147703,2019,Northern Illinois,2,nacda/2019_fall.pdf
+25.0,0.0,206084,2019,Toledo,2,nacda/2019_fall.pdf
+25.0,0.0,172699,2019,Western Michigan,2,nacda/2019_fall.pdf
+0.0,0.0,145813,2019,Illinois State,2,nacda/2019_fall.pdf
+0.0,0.0,146719,2019,Loyola Chicago,2,nacda/2019_fall.pdf
+25.0,0.0,122409,2019,San Diego State,2,nacda/2019_fall.pdf
+0.0,0.0,122755,2019,San Jose State,2,nacda/2019_fall.pdf
+0.0,0.0,217165,2019,Bryant,2,nacda/2019_fall.pdf
+0.0,0.0,128771,2019,Central Connecticut State,2,nacda/2019_fall.pdf
+0.0,0.0,192439,2019,LIU Brooklyn,2,nacda/2019_fall.pdf
+25.0,0.0,104151,2019,Arizona State,2,nacda/2019_fall.pdf
+25.0,0.0,110635,2019,California,2,nacda/2019_fall.pdf
+0.0,0.0,199148,2019,North Carolina Greensboro,2,nacda/2019_fall.pdf
+0.0,0.0,102049,2019,Samford,2,nacda/2019_fall.pdf
+0.0,0.0,222178,2019,Abilene Christian,2,nacda/2019_fall.pdf
+0.0,0.0,106704,2019,Central Arkansas,2,nacda/2019_fall.pdf
+0.0,25.0,225627,2019,Incarnate Word,2,nacda/2019_fall.pdf
+0.0,25.0,226091,2019,Lamar,2,nacda/2019_fall.pdf
+0.0,0.0,228431,2019,Stephen F. Austin,2,nacda/2019_fall.pdf
+0.0,0.0,219471,2019,South Dakota,2,nacda/2019_fall.pdf
+0.0,0.0,106245,2019,Arkansas Little Rock,2,nacda/2019_fall.pdf
+25.0,0.0,106458,2019,Arkansas State,2,nacda/2019_fall.pdf
+0.0,0.0,139940,2019,Georgia State,2,nacda/2019_fall.pdf
+25.0,0.0,160658,2019,Louisiana Lafayette,2,nacda/2019_fall.pdf
+0.0,0.0,100724,2019,Alabama State,2,nacda/2019_fall.pdf
+25.0,0.0,175342,2019,Alcorn State,2,nacda/2019_fall.pdf
+0.0,0.0,104717,2019,Grand Canyon,2,nacda/2019_fall.pdf
+0.0,0.0,188030,2019,New Mexico State,2,nacda/2019_fall.pdf

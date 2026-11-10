@@ -1,0 +1,842 @@
+[
+  {
+    "source": "eada",
+    "year": 2010,
+    "file": "eada/2010.zip",
+    "url": "https://ope.ed.gov/athletics/api/dataFiles/file?fileName=EADA%20All%20Data%20Combined%202009-2010_SAS_SPSS_EXCEL.zip",
+    "description": "All data combined for academic year 2009-10"
+  },
+  {
+    "source": "eada",
+    "year": 2011,
+    "file": "eada/2011.zip",
+    "url": "https://ope.ed.gov/athletics/api/dataFiles/file?fileName=EADA%20All%20Data%20Combined%202010-2011_SAS_SPSS_EXCEL.zip",
+    "description": "All data combined for academic year 2010-11"
+  },
+  {
+    "source": "eada",
+    "year": 2012,
+    "file": "eada/2012.zip",
+    "url": "https://ope.ed.gov/athletics/api/dataFiles/file?fileName=EADA%20All%20Data%20Combined%202011-2012_SAS_SPSS_EXCEL.zip",
+    "description": "All data combined for academic year 2011-12"
+  },
+  {
+    "source": "eada",
+    "year": 2013,
+    "file": "eada/2013.zip",
+    "url": "https://ope.ed.gov/athletics/api/dataFiles/file?fileName=EADA%20All%20Data%20Combined%202012-2013_SAS_SPSS_EXCEL.zip",
+    "description": "All data combined for academic year 2012-13"
+  },
+  {
+    "source": "eada",
+    "year": 2014,
+    "file": "eada/2014.zip",
+    "url": "https://ope.ed.gov/athletics/api/dataFiles/file?fileName=EADA%20All%20Data%20Combined%202013-2014_SAS_SPSS_EXCEL.zip",
+    "description": "All data combined for academic year 2013-14"
+  },
+  {
+    "source": "eada",
+    "year": 2015,
+    "file": "eada/2015.zip",
+    "url": "https://ope.ed.gov/athletics/api/dataFiles/file?fileName=EADA%20All%20Data%20Combined%202014-2015_SAS_SPSS_EXCEL.zip",
+    "description": "All data combined for academic year 2014-15"
+  },
+  {
+    "source": "eada",
+    "year": 2016,
+    "file": "eada/2016.zip",
+    "url": "https://ope.ed.gov/athletics/api/dataFiles/file?fileName=EADA%20All%20Data%20Combined%202015-2016_SAS_SPSS_EXCEL.zip",
+    "description": "All data combined for academic year 2015-16"
+  },
+  {
+    "source": "eada",
+    "year": 2017,
+    "file": "eada/2017.zip",
+    "url": "https://ope.ed.gov/athletics/api/dataFiles/file?fileName=EADA_All_Data_Combined_2016-2017_SAS_SPSS_EXCEL.zip",
+    "description": "All data combined for academic year 2016-17"
+  },
+  {
+    "source": "eada",
+    "year": 2018,
+    "file": "eada/2018.zip",
+    "url": "https://ope.ed.gov/athletics/api/dataFiles/file?fileName=EADA_All_Data_Combined_2017-2018_SAS_SPSS_EXCEL.zip",
+    "description": "All data combined for academic year 2017-18"
+  },
+  {
+    "source": "eada",
+    "year": 2019,
+    "file": "eada/2019.zip",
+    "url": "https://ope.ed.gov/athletics/api/dataFiles/file?fileName=EADA_All_Data_Combined_2018-2019_SAS_SPSS_EXCEL.zip",
+    "description": "All data combined for academic year 2018-19"
+  },
+  {
+    "source": "ipeds",
+    "year": 2010,
+    "file": "ipeds/hd2010.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/hd2010.zip",
+    "description": "IPEDS hd2010; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "ipeds",
+    "year": 2010,
+    "file": "ipeds/ic2010.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ic2010.zip",
+    "description": "IPEDS ic2010; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "ipeds",
+    "year": 2010,
+    "file": "ipeds/ef2010a.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ef2010a.zip",
+    "description": "IPEDS ef2010a; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "ipeds",
+    "year": 2010,
+    "file": "ipeds/ic2010_ay.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ic2010_ay.zip",
+    "description": "IPEDS ic2010_ay; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "ipeds",
+    "year": 2010,
+    "file": "ipeds/f0910_f1a.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/f0910_f1a.zip",
+    "description": "IPEDS f0910_f1a; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "documentation",
+    "year": 2010,
+    "file": "ipeds/ic2010_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ic2010_Dict.zip",
+    "description": "Official variable definitions"
+  },
+  {
+    "source": "documentation",
+    "year": 2010,
+    "file": "ipeds/ef2010a_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ef2010a_Dict.zip",
+    "description": "Official variable definitions"
+  },
+  {
+    "source": "documentation",
+    "year": 2010,
+    "file": "ipeds/f0910_f1a_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/f0910_f1a_Dict.zip",
+    "description": "Official variable definitions"
+  },
+  {
+    "source": "ipeds",
+    "year": 2011,
+    "file": "ipeds/hd2011.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/hd2011.zip",
+    "description": "IPEDS hd2011; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "ipeds",
+    "year": 2011,
+    "file": "ipeds/ic2011.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ic2011.zip",
+    "description": "IPEDS ic2011; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "ipeds",
+    "year": 2011,
+    "file": "ipeds/ef2011a.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ef2011a.zip",
+    "description": "IPEDS ef2011a; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "ipeds",
+    "year": 2011,
+    "file": "ipeds/ic2011_ay.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ic2011_ay.zip",
+    "description": "IPEDS ic2011_ay; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "ipeds",
+    "year": 2011,
+    "file": "ipeds/f1011_f1a.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/f1011_f1a.zip",
+    "description": "IPEDS f1011_f1a; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "documentation",
+    "year": 2011,
+    "file": "ipeds/ic2011_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ic2011_Dict.zip",
+    "description": "Official variable definitions"
+  },
+  {
+    "source": "documentation",
+    "year": 2011,
+    "file": "ipeds/ef2011a_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ef2011a_Dict.zip",
+    "description": "Official variable definitions"
+  },
+  {
+    "source": "documentation",
+    "year": 2011,
+    "file": "ipeds/f1011_f1a_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/f1011_f1a_Dict.zip",
+    "description": "Official variable definitions"
+  },
+  {
+    "source": "ipeds",
+    "year": 2012,
+    "file": "ipeds/hd2012.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/hd2012.zip",
+    "description": "IPEDS hd2012; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "ipeds",
+    "year": 2012,
+    "file": "ipeds/ic2012.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ic2012.zip",
+    "description": "IPEDS ic2012; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "ipeds",
+    "year": 2012,
+    "file": "ipeds/ef2012a.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ef2012a.zip",
+    "description": "IPEDS ef2012a; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "ipeds",
+    "year": 2012,
+    "file": "ipeds/ic2012_ay.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ic2012_ay.zip",
+    "description": "IPEDS ic2012_ay; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "ipeds",
+    "year": 2012,
+    "file": "ipeds/f1112_f1a.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/f1112_f1a.zip",
+    "description": "IPEDS f1112_f1a; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "documentation",
+    "year": 2012,
+    "file": "ipeds/ic2012_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ic2012_Dict.zip",
+    "description": "Official variable definitions"
+  },
+  {
+    "source": "documentation",
+    "year": 2012,
+    "file": "ipeds/ef2012a_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ef2012a_Dict.zip",
+    "description": "Official variable definitions"
+  },
+  {
+    "source": "documentation",
+    "year": 2012,
+    "file": "ipeds/f1112_f1a_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/f1112_f1a_Dict.zip",
+    "description": "Official variable definitions"
+  },
+  {
+    "source": "ipeds",
+    "year": 2013,
+    "file": "ipeds/hd2013.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/hd2013.zip",
+    "description": "IPEDS hd2013; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "ipeds",
+    "year": 2013,
+    "file": "ipeds/ic2013.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ic2013.zip",
+    "description": "IPEDS ic2013; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "ipeds",
+    "year": 2013,
+    "file": "ipeds/ef2013a.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ef2013a.zip",
+    "description": "IPEDS ef2013a; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "ipeds",
+    "year": 2013,
+    "file": "ipeds/ic2013_ay.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ic2013_ay.zip",
+    "description": "IPEDS ic2013_ay; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "ipeds",
+    "year": 2013,
+    "file": "ipeds/f1213_f1a.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/f1213_f1a.zip",
+    "description": "IPEDS f1213_f1a; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "documentation",
+    "year": 2013,
+    "file": "ipeds/ic2013_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ic2013_Dict.zip",
+    "description": "Official variable definitions"
+  },
+  {
+    "source": "documentation",
+    "year": 2013,
+    "file": "ipeds/ef2013a_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ef2013a_Dict.zip",
+    "description": "Official variable definitions"
+  },
+  {
+    "source": "documentation",
+    "year": 2013,
+    "file": "ipeds/f1213_f1a_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/f1213_f1a_Dict.zip",
+    "description": "Official variable definitions"
+  },
+  {
+    "source": "ipeds",
+    "year": 2014,
+    "file": "ipeds/hd2014.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/hd2014.zip",
+    "description": "IPEDS hd2014; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "ipeds",
+    "year": 2014,
+    "file": "ipeds/adm2014.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/adm2014.zip",
+    "description": "IPEDS adm2014; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "ipeds",
+    "year": 2014,
+    "file": "ipeds/ef2014a.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ef2014a.zip",
+    "description": "IPEDS ef2014a; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "ipeds",
+    "year": 2014,
+    "file": "ipeds/ic2014_ay.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ic2014_ay.zip",
+    "description": "IPEDS ic2014_ay; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "ipeds",
+    "year": 2014,
+    "file": "ipeds/f1314_f1a.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/f1314_f1a.zip",
+    "description": "IPEDS f1314_f1a; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "documentation",
+    "year": 2014,
+    "file": "ipeds/adm2014_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/adm2014_Dict.zip",
+    "description": "Official variable definitions"
+  },
+  {
+    "source": "documentation",
+    "year": 2014,
+    "file": "ipeds/ef2014a_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ef2014a_Dict.zip",
+    "description": "Official variable definitions"
+  },
+  {
+    "source": "documentation",
+    "year": 2014,
+    "file": "ipeds/f1314_f1a_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/f1314_f1a_Dict.zip",
+    "description": "Official variable definitions"
+  },
+  {
+    "source": "ipeds",
+    "year": 2015,
+    "file": "ipeds/hd2015.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/hd2015.zip",
+    "description": "IPEDS hd2015; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "ipeds",
+    "year": 2015,
+    "file": "ipeds/adm2015.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/adm2015.zip",
+    "description": "IPEDS adm2015; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "ipeds",
+    "year": 2015,
+    "file": "ipeds/ef2015a.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ef2015a.zip",
+    "description": "IPEDS ef2015a; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "ipeds",
+    "year": 2015,
+    "file": "ipeds/ic2015_ay.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ic2015_ay.zip",
+    "description": "IPEDS ic2015_ay; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "ipeds",
+    "year": 2015,
+    "file": "ipeds/f1415_f1a.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/f1415_f1a.zip",
+    "description": "IPEDS f1415_f1a; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "documentation",
+    "year": 2015,
+    "file": "ipeds/adm2015_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/adm2015_Dict.zip",
+    "description": "Official variable definitions"
+  },
+  {
+    "source": "documentation",
+    "year": 2015,
+    "file": "ipeds/ef2015a_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ef2015a_Dict.zip",
+    "description": "Official variable definitions"
+  },
+  {
+    "source": "documentation",
+    "year": 2015,
+    "file": "ipeds/f1415_f1a_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/f1415_f1a_Dict.zip",
+    "description": "Official variable definitions"
+  },
+  {
+    "source": "ipeds",
+    "year": 2016,
+    "file": "ipeds/hd2016.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/hd2016.zip",
+    "description": "IPEDS hd2016; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "ipeds",
+    "year": 2016,
+    "file": "ipeds/adm2016.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/adm2016.zip",
+    "description": "IPEDS adm2016; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "ipeds",
+    "year": 2016,
+    "file": "ipeds/ef2016a.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ef2016a.zip",
+    "description": "IPEDS ef2016a; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "ipeds",
+    "year": 2016,
+    "file": "ipeds/ic2016_ay.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ic2016_ay.zip",
+    "description": "IPEDS ic2016_ay; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "ipeds",
+    "year": 2016,
+    "file": "ipeds/f1516_f1a.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/f1516_f1a.zip",
+    "description": "IPEDS f1516_f1a; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "documentation",
+    "year": 2016,
+    "file": "ipeds/adm2016_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/adm2016_Dict.zip",
+    "description": "Official variable definitions"
+  },
+  {
+    "source": "documentation",
+    "year": 2016,
+    "file": "ipeds/ef2016a_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ef2016a_Dict.zip",
+    "description": "Official variable definitions"
+  },
+  {
+    "source": "documentation",
+    "year": 2016,
+    "file": "ipeds/f1516_f1a_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/f1516_f1a_Dict.zip",
+    "description": "Official variable definitions"
+  },
+  {
+    "source": "ipeds",
+    "year": 2017,
+    "file": "ipeds/hd2017.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/hd2017.zip",
+    "description": "IPEDS hd2017; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "ipeds",
+    "year": 2017,
+    "file": "ipeds/adm2017.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/adm2017.zip",
+    "description": "IPEDS adm2017; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "ipeds",
+    "year": 2017,
+    "file": "ipeds/ef2017a.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ef2017a.zip",
+    "description": "IPEDS ef2017a; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "ipeds",
+    "year": 2017,
+    "file": "ipeds/ic2017_ay.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ic2017_ay.zip",
+    "description": "IPEDS ic2017_ay; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "ipeds",
+    "year": 2017,
+    "file": "ipeds/f1617_f1a.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/f1617_f1a.zip",
+    "description": "IPEDS f1617_f1a; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "documentation",
+    "year": 2017,
+    "file": "ipeds/adm2017_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/adm2017_Dict.zip",
+    "description": "Official variable definitions"
+  },
+  {
+    "source": "documentation",
+    "year": 2017,
+    "file": "ipeds/ef2017a_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ef2017a_Dict.zip",
+    "description": "Official variable definitions"
+  },
+  {
+    "source": "documentation",
+    "year": 2017,
+    "file": "ipeds/f1617_f1a_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/f1617_f1a_Dict.zip",
+    "description": "Official variable definitions"
+  },
+  {
+    "source": "ipeds",
+    "year": 2018,
+    "file": "ipeds/hd2018.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/hd2018.zip",
+    "description": "IPEDS hd2018; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "ipeds",
+    "year": 2018,
+    "file": "ipeds/adm2018.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/adm2018.zip",
+    "description": "IPEDS adm2018; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "ipeds",
+    "year": 2018,
+    "file": "ipeds/ef2018a.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ef2018a.zip",
+    "description": "IPEDS ef2018a; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "ipeds",
+    "year": 2018,
+    "file": "ipeds/ic2018_ay.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ic2018_ay.zip",
+    "description": "IPEDS ic2018_ay; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "ipeds",
+    "year": 2018,
+    "file": "ipeds/f1718_f1a.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/f1718_f1a.zip",
+    "description": "IPEDS f1718_f1a; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "documentation",
+    "year": 2018,
+    "file": "ipeds/adm2018_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/adm2018_Dict.zip",
+    "description": "Official variable definitions"
+  },
+  {
+    "source": "documentation",
+    "year": 2018,
+    "file": "ipeds/ef2018a_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ef2018a_Dict.zip",
+    "description": "Official variable definitions"
+  },
+  {
+    "source": "documentation",
+    "year": 2018,
+    "file": "ipeds/f1718_f1a_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/f1718_f1a_Dict.zip",
+    "description": "Official variable definitions"
+  },
+  {
+    "source": "ipeds",
+    "year": 2019,
+    "file": "ipeds/hd2019.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/hd2019.zip",
+    "description": "IPEDS hd2019; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "ipeds",
+    "year": 2019,
+    "file": "ipeds/adm2019.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/adm2019.zip",
+    "description": "IPEDS adm2019; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "ipeds",
+    "year": 2019,
+    "file": "ipeds/ef2019a.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ef2019a.zip",
+    "description": "IPEDS ef2019a; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "ipeds",
+    "year": 2019,
+    "file": "ipeds/ic2019_ay.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ic2019_ay.zip",
+    "description": "IPEDS ic2019_ay; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "ipeds",
+    "year": 2019,
+    "file": "ipeds/f1819_f1a.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/f1819_f1a.zip",
+    "description": "IPEDS f1819_f1a; preserve imputation flags and dictionaries"
+  },
+  {
+    "source": "documentation",
+    "year": 2019,
+    "file": "ipeds/adm2019_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/adm2019_Dict.zip",
+    "description": "Official variable definitions"
+  },
+  {
+    "source": "documentation",
+    "year": 2019,
+    "file": "ipeds/ef2019a_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ef2019a_Dict.zip",
+    "description": "Official variable definitions"
+  },
+  {
+    "source": "documentation",
+    "year": 2019,
+    "file": "ipeds/f1819_f1a_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/f1819_f1a_Dict.zip",
+    "description": "Official variable definitions"
+  },
+  {
+    "source": "nacda",
+    "year": 2010,
+    "file": "nacda/2010.pdf",
+    "url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/nacda.com/documents/2018/7/19/d1final.pdf",
+    "description": "2009-10 Division I FINAL standings (archive link order verified)"
+  },
+  {
+    "source": "nacda",
+    "year": 2010,
+    "file": "nacda/2010_fall.pdf",
+    "url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/nacda.com/documents/2018/7/19/d1dcupjan14relstand.pdf",
+    "description": "Division I fall standings, 2010 ending year; high-profile sport points"
+  },
+  {
+    "source": "nacda",
+    "year": 2010,
+    "file": "nacda/2010_winter.pdf",
+    "url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/nacda.com/documents/2018/7/19/D1april29releasestands.pdf",
+    "description": "Division I winter standings, 2010 ending year; high-profile sport points"
+  },
+  {
+    "source": "nacda",
+    "year": 2011,
+    "file": "nacda/2011.pdf",
+    "url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/nacda.com/documents/2018/7/19/finald12011.pdf",
+    "description": "2010-11 Division I FINAL standings (archive link order verified)"
+  },
+  {
+    "source": "nacda",
+    "year": 2011,
+    "file": "nacda/2011_fall.pdf",
+    "url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/nacda.com/documents/2018/7/19/DIFullReleaseJan12.pdf",
+    "description": "Division I fall standings, 2011 ending year; high-profile sport points"
+  },
+  {
+    "source": "nacda",
+    "year": 2011,
+    "file": "nacda/2011_winter.pdf",
+    "url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/nacda.com/documents/2018/7/19/DIApril21.pdf",
+    "description": "Division I winter standings, 2011 ending year; high-profile sport points"
+  },
+  {
+    "source": "nacda",
+    "year": 2012,
+    "file": "nacda/2012.pdf",
+    "url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/nacda.com/documents/2018/7/19/finalD1.pdf",
+    "description": "2011-12 Division I FINAL standings (archive link order verified)"
+  },
+  {
+    "source": "nacda",
+    "year": 2012,
+    "file": "nacda/2012_fall.pdf",
+    "url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/nacda.com/documents/2018/7/19/jan12dIrelease.pdf",
+    "description": "Division I fall standings, 2012 ending year; high-profile sport points"
+  },
+  {
+    "source": "nacda",
+    "year": 2012,
+    "file": "nacda/2012_winter.pdf",
+    "url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/nacda.com/documents/2018/7/19/apr26dI.pdf",
+    "description": "Division I winter standings, 2012 ending year; high-profile sport points"
+  },
+  {
+    "source": "nacda",
+    "year": 2013,
+    "file": "nacda/2013.pdf",
+    "url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/nacda.com/documents/2018/7/19/June27release.pdf",
+    "description": "2012-13 Division I FINAL standings (archive link order verified)"
+  },
+  {
+    "source": "nacda",
+    "year": 2013,
+    "file": "nacda/2013_fall.pdf",
+    "url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/nacda.com/documents/2018/7/19/Jan10DIrelease.pdf",
+    "description": "Division I fall standings, 2013 ending year; high-profile sport points"
+  },
+  {
+    "source": "nacda",
+    "year": 2013,
+    "file": "nacda/2013_winter.pdf",
+    "url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/nacda.com/documents/2018/7/19/apr25DIrelease.pdf",
+    "description": "Division I winter standings, 2013 ending year; high-profile sport points"
+  },
+  {
+    "source": "nacda",
+    "year": 2014,
+    "file": "nacda/2014.pdf",
+    "url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/nacda.com/documents/2018/7/19/june26stand.pdf",
+    "description": "2013-14 Division I FINAL standings (archive link order verified)"
+  },
+  {
+    "source": "nacda",
+    "year": 2014,
+    "file": "nacda/2014_fall.pdf",
+    "url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/nacda.com/documents/2018/7/19/Jan9DIRelease.pdf",
+    "description": "Division I fall standings, 2014 ending year; high-profile sport points"
+  },
+  {
+    "source": "nacda",
+    "year": 2014,
+    "file": "nacda/2014_winter.pdf",
+    "url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/nacda.com/documents/2018/7/19/Apr24DIRelease.pdf",
+    "description": "Division I winter standings, 2014 ending year; high-profile sport points"
+  },
+  {
+    "source": "nacda",
+    "year": 2015,
+    "file": "nacda/2015.pdf",
+    "url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/nacda.com/documents/2018/7/19/DIJune25.pdf",
+    "description": "2014-15 Division I FINAL standings (archive link order verified)"
+  },
+  {
+    "source": "nacda",
+    "year": 2015,
+    "file": "nacda/2015_fall.pdf",
+    "url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/nacda.com/documents/2018/7/19/1415Div1Jan15.pdf",
+    "description": "Division I fall standings, 2015 ending year; high-profile sport points"
+  },
+  {
+    "source": "nacda",
+    "year": 2015,
+    "file": "nacda/2015_winter.pdf",
+    "url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/nacda.com/documents/2018/7/19/1415DIApril23.pdf",
+    "description": "Division I winter standings, 2015 ending year; high-profile sport points"
+  },
+  {
+    "source": "nacda",
+    "year": 2016,
+    "file": "nacda/2016.pdf",
+    "url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/nacda.com/documents/2018/7/19/D1StandJune30.pdf",
+    "description": "2015-16 Division I FINAL standings (archive link order verified)"
+  },
+  {
+    "source": "nacda",
+    "year": 2016,
+    "file": "nacda/2016_fall.pdf",
+    "url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/nacda.com/documents/2018/7/19/Jan18Div1Stand.pdf",
+    "description": "Division I fall standings, 2016 ending year; high-profile sport points"
+  },
+  {
+    "source": "nacda",
+    "year": 2016,
+    "file": "nacda/2016_winter.pdf",
+    "url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/nacda.com/documents/2018/7/19/D1StandFinalWinter.pdf",
+    "description": "Division I winter standings, 2016 ending year; high-profile sport points"
+  },
+  {
+    "source": "nacda",
+    "year": 2017,
+    "file": "nacda/2017.pdf",
+    "url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/nacda.com/documents/2018/7/19/D1final2017.pdf",
+    "description": "2016-17 Division I FINAL standings (archive link order verified)"
+  },
+  {
+    "source": "nacda",
+    "year": 2017,
+    "file": "nacda/2017_fall.pdf",
+    "url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/nacda.com/documents/2018/7/19/Jan12DivIOverall.pdf",
+    "description": "Division I fall standings, 2017 ending year; high-profile sport points"
+  },
+  {
+    "source": "nacda",
+    "year": 2017,
+    "file": "nacda/2017_winter.pdf",
+    "url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/nacda.com/documents/2018/7/19/April27FinalDIOverallUPDATE.pdf",
+    "description": "Division I winter standings, 2017 ending year; high-profile sport points"
+  },
+  {
+    "source": "nacda",
+    "year": 2018,
+    "file": "nacda/2018.pdf",
+    "url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/nacda.com/documents/2018/7/18/June29overallDI.pdf",
+    "description": "2017-18 Division I FINAL standings (archive link order verified)"
+  },
+  {
+    "source": "nacda",
+    "year": 2018,
+    "file": "nacda/2018_fall.pdf",
+    "url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/nacda.com/documents/2018/7/18/Jan11overallDI.pdf",
+    "description": "Division I fall standings, 2018 ending year; high-profile sport points"
+  },
+  {
+    "source": "nacda",
+    "year": 2018,
+    "file": "nacda/2018_winter.pdf",
+    "url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/nacda.com/documents/2018/7/18/April26overallDI.pdf",
+    "description": "Division I winter standings, 2018 ending year; high-profile sport points"
+  },
+  {
+    "source": "nacda",
+    "year": 2019,
+    "file": "nacda/2019.pdf",
+    "url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/nacda.com/documents/2019/6/27/June28DIOverall.pdf",
+    "description": "2018-19 Division I FINAL standings (archive link order verified)"
+  },
+  {
+    "source": "nacda",
+    "year": 2019,
+    "file": "nacda/2019_fall.pdf",
+    "url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/nacda.com/documents/2019/1/9/JAN10Overall.pdf",
+    "description": "Division I fall standings, 2019 ending year; high-profile sport points"
+  },
+  {
+    "source": "nacda",
+    "year": 2019,
+    "file": "nacda/2019_winter.pdf",
+    "url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/nacda.com/documents/2019/4/23/April25DIOverall.pdf",
+    "description": "Division I winter standings, 2019 ending year; high-profile sport points"
+  }
+]

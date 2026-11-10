@@ -1,0 +1,13 @@
+{
+  "dollars": "nominal",
+  "year_convention": "fiscal_year_ending",
+  "support_and_student_fees_are_separate": true,
+  "columns": {
+    "unitid": "REPLACE_WITH_EXPORT_UNITID_COLUMN",
+    "year": "REPLACE_WITH_EXPORT_FISCAL_ENDING_YEAR_COLUMN",
+    "total_revenue": "REPLACE_WITH_TOTAL_REVENUE_COLUMN",
+    "institution_government_support": "REPLACE_WITH_INSTITUTIONAL_GOVERNMENT_SUPPORT_EXCLUDING_FEES_COLUMN",
+    "student_fees": "REPLACE_WITH_STUDENT_FEES_COLUMN",
+    "total_expenses": "REPLACE_WITH_TOTAL_EXPENSE_COLUMN"
+  }
+}

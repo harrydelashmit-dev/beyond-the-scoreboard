@@ -1,0 +1,202 @@
+[
+  {
+    "source": "ipeds",
+    "year": 2010,
+    "file": "ipeds/f200910_f1a.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/f200910_f1a.zip",
+    "description": "IPEDS f200910_f1a; preserve imputation flags and dictionaries",
+    "retrieved_utc": "2026-11-10T23:09:49.805408+00:00",
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://nces.ed.gov/ipeds/datacenter/data/f200910_f1a.zip"
+  },
+  {
+    "source": "documentation",
+    "year": 2010,
+    "file": "ipeds/f200910_f1a_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/f200910_f1a_Dict.zip",
+    "description": "Official variable definitions",
+    "retrieved_utc": "2026-11-10T23:09:50.612651+00:00",
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://nces.ed.gov/ipeds/datacenter/data/f200910_f1a_Dict.zip"
+  },
+  {
+    "source": "ipeds",
+    "year": 2011,
+    "file": "ipeds/f201011_f1a.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/f201011_f1a.zip",
+    "description": "IPEDS f201011_f1a; preserve imputation flags and dictionaries",
+    "retrieved_utc": "2026-11-10T23:09:54.749010+00:00",
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://nces.ed.gov/ipeds/datacenter/data/f201011_f1a.zip"
+  },
+  {
+    "source": "documentation",
+    "year": 2011,
+    "file": "ipeds/f201011_f1a_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/f201011_f1a_Dict.zip",
+    "description": "Official variable definitions",
+    "retrieved_utc": "2026-11-10T23:09:55.825151+00:00",
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://nces.ed.gov/ipeds/datacenter/data/f201011_f1a_Dict.zip"
+  },
+  {
+    "source": "ipeds",
+    "year": 2012,
+    "file": "ipeds/f201112_f1a.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/f201112_f1a.zip",
+    "description": "IPEDS f201112_f1a; preserve imputation flags and dictionaries",
+    "retrieved_utc": "2026-11-10T23:10:00.357445+00:00",
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://nces.ed.gov/ipeds/datacenter/data/f201112_f1a.zip"
+  },
+  {
+    "source": "documentation",
+    "year": 2012,
+    "file": "ipeds/f201112_f1a_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/f201112_f1a_Dict.zip",
+    "description": "Official variable definitions",
+    "retrieved_utc": "2026-11-10T23:10:01.691447+00:00",
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://nces.ed.gov/ipeds/datacenter/data/f201112_f1a_Dict.zip"
+  },
+  {
+    "source": "ipeds",
+    "year": 2013,
+    "file": "ipeds/f201213_f1a.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/f201213_f1a.zip",
+    "description": "IPEDS f201213_f1a; preserve imputation flags and dictionaries",
+    "retrieved_utc": "2026-11-10T23:10:06.066190+00:00",
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://nces.ed.gov/ipeds/datacenter/data/f201213_f1a.zip"
+  },
+  {
+    "source": "documentation",
+    "year": 2013,
+    "file": "ipeds/f201213_f1a_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/f201213_f1a_Dict.zip",
+    "description": "Official variable definitions",
+    "retrieved_utc": "2026-11-10T23:10:07.067142+00:00",
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://nces.ed.gov/ipeds/datacenter/data/f201213_f1a_Dict.zip"
+  },
+  {
+    "source": "ipeds",
+    "year": 2014,
+    "file": "ipeds/f201314_f1a.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/f201314_f1a.zip",
+    "description": "IPEDS f201314_f1a; preserve imputation flags and dictionaries",
+    "retrieved_utc": "2026-11-10T23:10:10.622929+00:00",
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://nces.ed.gov/ipeds/datacenter/data/f201314_f1a.zip"
+  },
+  {
+    "source": "documentation",
+    "year": 2014,
+    "file": "ipeds/f201314_f1a_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/f201314_f1a_Dict.zip",
+    "description": "Official variable definitions",
+    "retrieved_utc": "2026-11-10T23:10:11.249186+00:00",
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://nces.ed.gov/ipeds/datacenter/data/f201314_f1a_Dict.zip"
+  },
+  {
+    "source": "ipeds",
+    "year": 2015,
+    "file": "ipeds/f201415_f1a.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/f201415_f1a.zip",
+    "description": "IPEDS f201415_f1a; preserve imputation flags and dictionaries",
+    "retrieved_utc": "2026-11-10T23:10:13.902227+00:00",
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://nces.ed.gov/ipeds/datacenter/data/f201415_f1a.zip"
+  },
+  {
+    "source": "documentation",
+    "year": 2015,
+    "file": "ipeds/f201415_f1a_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/f201415_f1a_Dict.zip",
+    "description": "Official variable definitions",
+    "retrieved_utc": "2026-11-10T23:10:15.350003+00:00",
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://nces.ed.gov/ipeds/datacenter/data/f201415_f1a_Dict.zip"
+  },
+  {
+    "source": "ipeds",
+    "year": 2016,
+    "file": "ipeds/f201516_f1a.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/f201516_f1a.zip",
+    "description": "IPEDS f201516_f1a; preserve imputation flags and dictionaries",
+    "retrieved_utc": "2026-11-10T23:10:19.237819+00:00",
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://nces.ed.gov/ipeds/datacenter/data/f201516_f1a.zip"
+  },
+  {
+    "source": "documentation",
+    "year": 2016,
+    "file": "ipeds/f201516_f1a_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/f201516_f1a_Dict.zip",
+    "description": "Official variable definitions",
+    "retrieved_utc": "2026-11-10T23:10:19.789180+00:00",
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://nces.ed.gov/ipeds/datacenter/data/f201516_f1a_Dict.zip"
+  },
+  {
+    "source": "ipeds",
+    "year": 2017,
+    "file": "ipeds/f201617_f1a.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/f201617_f1a.zip",
+    "description": "IPEDS f201617_f1a; preserve imputation flags and dictionaries",
+    "retrieved_utc": "2026-11-10T23:10:23.965561+00:00",
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://nces.ed.gov/ipeds/datacenter/data/f201617_f1a.zip"
+  },
+  {
+    "source": "documentation",
+    "year": 2017,
+    "file": "ipeds/f201617_f1a_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/f201617_f1a_Dict.zip",
+    "description": "Official variable definitions",
+    "retrieved_utc": "2026-11-10T23:10:25.210382+00:00",
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://nces.ed.gov/ipeds/datacenter/data/f201617_f1a_Dict.zip"
+  },
+  {
+    "source": "ipeds",
+    "year": 2018,
+    "file": "ipeds/f201718_f1a.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/f201718_f1a.zip",
+    "description": "IPEDS f201718_f1a; preserve imputation flags and dictionaries",
+    "retrieved_utc": "2026-11-10T23:10:30.512602+00:00",
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://nces.ed.gov/ipeds/datacenter/data/f201718_f1a.zip"
+  },
+  {
+    "source": "documentation",
+    "year": 2018,
+    "file": "ipeds/f201718_f1a_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/f201718_f1a_Dict.zip",
+    "description": "Official variable definitions",
+    "retrieved_utc": "2026-11-10T23:10:31.266374+00:00",
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://nces.ed.gov/ipeds/datacenter/data/f201718_f1a_Dict.zip"
+  },
+  {
+    "source": "ipeds",
+    "year": 2019,
+    "file": "ipeds/f201819_f1a.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/f201819_f1a.zip",
+    "description": "IPEDS f201819_f1a; preserve imputation flags and dictionaries",
+    "retrieved_utc": "2026-11-10T23:10:35.444222+00:00",
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://nces.ed.gov/ipeds/datacenter/data/f201819_f1a.zip"
+  },
+  {
+    "source": "documentation",
+    "year": 2019,
+    "file": "ipeds/f201819_f1a_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/f201819_f1a_Dict.zip",
+    "description": "Official variable definitions",
+    "retrieved_utc": "2026-11-10T23:10:36.223703+00:00",
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://nces.ed.gov/ipeds/datacenter/data/f201819_f1a_Dict.zip"
+  }
+]

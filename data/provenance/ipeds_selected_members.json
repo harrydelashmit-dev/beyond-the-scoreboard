@@ -1,0 +1,82 @@
+[
+  {
+    "component": "ic2010",
+    "selected_member": "ic2010_rv.csv"
+  },
+  {
+    "component": "f0910_f1a",
+    "selected_member": "f0910_f1a_rv.csv"
+  },
+  {
+    "component": "ic2011",
+    "selected_member": "ic2011_rv.csv"
+  },
+  {
+    "component": "f1011_f1a",
+    "selected_member": "f1011_f1a_rv.csv"
+  },
+  {
+    "component": "ic2012",
+    "selected_member": "ic2012_rv.csv"
+  },
+  {
+    "component": "f1112_f1a",
+    "selected_member": "f1112_f1a_rv.csv"
+  },
+  {
+    "component": "ic2013",
+    "selected_member": "ic2013_rv.csv"
+  },
+  {
+    "component": "f1213_f1a",
+    "selected_member": "f1213_f1a_rv.csv"
+  },
+  {
+    "component": "adm2014",
+    "selected_member": "adm2014_rv.csv"
+  },
+  {
+    "component": "f1314_f1a",
+    "selected_member": "f1314_f1a_rv.csv"
+  },
+  {
+    "component": "adm2015",
+    "selected_member": "adm2015_rv.csv"
+  },
+  {
+    "component": "f1415_f1a",
+    "selected_member": "f1415_f1a_rv.csv"
+  },
+  {
+    "component": "adm2016",
+    "selected_member": "adm2016_rv.csv"
+  },
+  {
+    "component": "f1516_f1a",
+    "selected_member": "f1516_f1a_rv.csv"
+  },
+  {
+    "component": "adm2017",
+    "selected_member": "adm2017_rv.csv"
+  },
+  {
+    "component": "f1617_f1a",
+    "selected_member": "f1617_f1a_rv.csv"
+  },
+  {
+    "component": "adm2018",
+    "selected_member": "adm2018_rv.csv"
+  },
+  {
+    "component": "f1718_f1a",
+    "selected_member": "f1718_f1a_rv.csv"
+  },
+  {
+    "component": "adm2019",
+    "selected_member": "adm2019_rv.csv"
+  },
+  {
+    "component": "f1819_f1a",
+    "selected_member": "f1819_f1a_rv.csv"
+  }
+]
