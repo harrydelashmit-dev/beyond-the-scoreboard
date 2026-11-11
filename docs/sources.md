@@ -7,7 +7,7 @@ Retrieved November 10, 2026. Original source files are cached locally in ignored
 | [U.S. Department of Education EADA](https://ope.ed.gov/athletics/) | Ten all-data-combined academic-year archives, 2009–10 through 2018–19; total expenses, reported revenue, men's football/basketball expenses, sport participation categories, Division I classification, UNITID | Public bulk download, no login used. Federal data; cite Department of Education EADA. Retain the original codebook inside each ZIP. Data are institutional self-reports, not audited causal or economic profit estimates. |
 | [NACDA previous Directors' Cup standings](https://nacda.com/sports/2018/7/17/directorscup-nacda-directorscup-previous-standings-html.aspx) | Ten final Division I standings PDFs and twenty fall/winter PDFs, ending 2010–2019; published rank/points, football and men's basketball sport points | Public PDFs. Publisher copyright remains; no blanket open-data license is asserted. Original PDFs are not republished in Git. Small derived factual tables, source/page references, and reproducible download URLs support this noncommercial academic analysis. Seek permission before broader redistribution of publisher content. |
 | [NCES IPEDS complete files](https://nces.ed.gov/ipeds/use-the-data/download-access-database) | Ten years each of HD, IC/ADM, EF-A, IC-AY and public GASB finance F1A; thirty official codebook ZIPs | Public federal bulk CSV files, no login or API key used. Preserve imputation flags and revised-version selection. Cite NCES IPEDS and each survey year. Finance coverage and reporting entity differ across schools. |
-| [Knight-Newhouse reports](https://knightnewhousedata.org/reports) | Download procedure and import adapter prepared; no raw export obtained | Registration and CAPTCHA are required for raw downloads. Noncommercial use requires attribution; commercial use requires permission. Raw exports and normalized financial data are ignored by Git. |
+| [Knight-Newhouse reports](https://knightnewhousedata.org/reports/30e5ca83) | Registered Excel workbook obtained for 2010–2019: 240 listed institutions, 2,400 rows, eight measures; native IPEDS IDs, subdivision and FBS conference. Revenue/expenses available for 2,289 rows. | User completed registration, terms, and CAPTCHA. Noncommercial use requires attribution; commercial use requires permission. Raw exports and school-level financial data are ignored by Git. |
 
 ## Reproducible acquisition
 
@@ -23,7 +23,19 @@ NACDA's linked document wrappers can return HTML. The configured URLs use the pu
 
 ## Preferred financial source: Knight-Newhouse
 
-Use [custom reports](https://knightnewhousedata.org/reports), select institutions individually (not a median/aggregate), choose 2010–2019 fiscal years, and turn inflation adjustment off. Export total athletic expenses, total revenue, institutional/government support **excluding student fees**, student fees, and institutional identifiers. Complete the [registration/download form](https://knightnewhousedata.org/form/data-download) and CAPTCHA personally. An account must not be invented, and the CAPTCHA is not bypassed.
+The original workbook is now saved locally under ignored `data/private/knight_reports/`. Its [acquisition record](knight_acquisition.md), `data/provenance/knight_acquisition.json`, and `data/provenance/knight_coverage.csv` document the exact report, SHA-256, validation, and missing coverage. It is staged as `data/private/knight_source_panel.csv`; no Knight-based statistical results have yet been finalized.
+
+To reproduce acquisition, use [custom reports](https://knightnewhousedata.org/reports), select **Data (Custom)** and all listed institutions individually, choose 2010–2019 fiscal years, and turn inflation adjustment off. Select Total Expenses, Total Revenues, Donor Contributions, Ticket Sales, Institutional/Government Support, Student Fees, Total Football Spending, and Total Football Coaching Salaries. Leave combined support/fee aggregates and 2025-only participation measures unchecked. Generate the report after the human CAPTCHA. Open **DOWNLOAD DATA from that generated report**, complete registration/terms/CAPTCHA, then use its Excel Data Download link. The generic standalone download link previously returned a 404 HTML page despite the .xlsx filename; that file was rejected. A 21-year all-metric report timed out; this ten-year, eight-metric report succeeded.
+
+Stage the actual workbook, preserving all missing values:
+
+```text
+python -m scoreboard.knight_export --input data/private/knight_reports/knight_2010_2019_30e5ca83.xlsx --source-url https://knightnewhousedata.org/reports/30e5ca83
+```
+
+`--verify-capture data/private/knight_reports/dda3742f.displayed.json` additionally checks the saved 2019 browser capture. This acquisition checked all 1,920 cells, including missing values. A fresh user can omit that optional capture check and retain the workbook hash/coverage checks. Native IPEDS IDs avoid inventing a school identifier; historical mergers and reporting entities still need review.
+
+The following generic adapter remains available **after** reviewing fiscal-year alignment and transfer/support definitions. It deliberately requires complete financial fields; do not pass the entire missing-data source panel to it or replace missing values with zero.
 
 Copy `config/knight_mapping.example.json` to an ignored local mapping file, replace headings with the actual export headings, and confirm that support and fees are separate. If the export has only school names, build and review a name-to-UNITID crosswalk first; do not invent identifiers. Then run:
 

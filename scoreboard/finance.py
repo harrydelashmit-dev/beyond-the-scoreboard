@@ -7,7 +7,8 @@ from .models import fixed_effects
 def run(panel):
     path=ROOT/'data/private/knight_normalized.csv'
     if not path.exists():
-        status=pd.DataFrame([dict(link='cup_to_generated_revenue',status='pending_registered_knight_export',n=0,schools=0)])
+        pending='pending_knight_merge_and_definition_review' if (ROOT/'data/private/knight_source_panel.csv').exists() else 'pending_registered_knight_export'
+        status=pd.DataFrame([dict(link='cup_to_generated_revenue',status=pending,n=0,schools=0)])
         status.to_csv(ROOT/'results/finance_model_status.csv',index=False)
         return status.iloc[0].to_dict()
     k=pd.read_csv(path);unique(k,['unitid','year'])

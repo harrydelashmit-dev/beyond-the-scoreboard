@@ -4,7 +4,7 @@
 
 A working, reproducible research starter for university administrators evaluating athletic spending, competitive performance, subsequent student demand, and cautious financial scenarios. This project tests the proposed relationships and reports inconclusive findings as readily as positive ones.
 
-**All data acquisition, cleaning, joins, calculations, regressions, tests, and chart generation are written in Python.** CSV/JSON store data and configuration; Markdown documents the work; HTML/SVG/PNG are generated static outputs. There is no JavaScript, R, Excel formula logic, or non-Python analytics layer.
+**All project cleaning, joins, calculations, regressions, tests, chart generation, and automated download scripts are written in Python.** The registered Knight-Newhouse workbook is obtained through its website and processed in Python. CSV/JSON store data and configuration; Markdown documents the work; HTML/SVG/PNG are generated static outputs. There is no JavaScript, R, Excel formula logic, or non-Python analytics layer in the repository.
 
 Read [FINDINGS.md](FINDINGS.md) first. It contains the actual executed coefficients, confidence intervals, and sample sizes. The earlier conversation's football/FPI pilot is not reproduced or treated as evidence here.
 
@@ -50,6 +50,8 @@ The main estimates are observational associations. Neither significant coefficie
 | `scoreboard/clean.py` | EADA/IPEDS readers, Cup PDF parsing, school aliases and exact-year joins |
 | `scoreboard/models.py` | Fixed-effects estimation, clustered inference, sensitivity tables |
 | `scoreboard/knight.py` | Validated import of a legitimately obtained registered export |
+| `scoreboard/knight_export.py` | Stage the actual 2010–2019 registered workbook, validate identifiers/coverage, check displayed values |
+| `scoreboard/knight_reports.py` | Parse displayed report captures in Python; distinguish missing values from zeros |
 | `scoreboard/scenarios.py` | Explicit hypothetical accounting calculations |
 | `scoreboard/report.py` | Python-generated figures and findings |
 | `config/` | Exact source URLs and reviewed institution aliases |
@@ -64,7 +66,7 @@ The main estimates are observational associations. Neither significant coefficie
 
 The public-source Python starter executes end to end, includes real historical data, and produces tested empirical results and charts. A separate private GitHub repository protects unrelated projects.
 
-Knight-Newhouse's raw export requires registration and a CAPTCHA. Follow [the source instructions](docs/sources.md) and supply a legitimate export to complete the preferred generated-revenue link. The repository does not represent EADA total revenue as externally generated revenue. No private export, fabricated registration details, or credentials are committed.
+The **Knight-Newhouse 2010–2019 workbook has now been obtained and staged locally**: 240 listed institutions, 2,400 source rows, and eight financial measures. Total revenue and expenses are both reported for 2,289 school-years; missing observations remain missing. All 1,920 cells in the 2019 portion agree with a separately generated 2019 report. See [the acquisition record](docs/knight_acquisition.md) and [source instructions](docs/sources.md). The expanded revenue and Flutie analyses still require the identifier, timing, definition, and merge review; existing FINDINGS.md results have not been replaced or presented as Knight-based estimates. No private export or credentials are committed.
 
 The project owner must invite the other four group members and instructor. Each member must commit their own substantive work from their own account; this starter does not manufacture group contributions. Confirm that the local assignment PDF revision matches the previously uploaded copy, obtain instructor topic approval, review the data/methodology, complete final slides, rehearse, attend consultation, and submit peer evaluations. The [assignment checklist](docs/assignment_checklist.md) records the requirements and dates; the [presentation plan](docs/presentation_plan.md) allocates a 20-minute talk among five people.
 
