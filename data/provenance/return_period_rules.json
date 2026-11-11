@@ -1,0 +1,17 @@
+{
+  "baseline_years": [
+    2010,
+    2011,
+    2012
+  ],
+  "evaluation_begins": 2013,
+  "all_DI_budget_median_2019_dollars": 21596461.2874862,
+  "FBS_budget_median_2019_dollars": 54915097.29051808,
+  "FBS_enrollment_geometric_median": 27669.449777849015,
+  "high_support_cutoff": 0.5,
+  "power_comparison": "2014 FBS conference frozen before 2015-2019 evaluation; exclude independents",
+  "source_panel_sha256": "c6e59b7e8bd33bc0fbcf6d729fa603468b7b813cf31ccb8d50cfa79c73823917",
+  "money": "Millions of 2019 CPI-U dollars; source levels unchanged in feasibility_panel.csv",
+  "support": "Institutional/government support + student fees. Gap and allocated support differ by reported total balance.",
+  "source_rows": 2400
+}

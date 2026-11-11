@@ -1,0 +1,40 @@
+{
+  "status": "passed",
+  "source_rows_preserved": 2400,
+  "accounting_identities": "passed",
+  "full_rank_independent_OLS": [
+    {
+      "model": "R_annual",
+      "n": 2002,
+      "schools": 227,
+      "status": "passed"
+    },
+    {
+      "model": "R_three_year",
+      "n": 1545,
+      "schools": 225,
+      "status": "passed"
+    },
+    {
+      "model": "H_high_support",
+      "n": 1521,
+      "schools": 219,
+      "status": "passed"
+    },
+    {
+      "model": "S_fpi_support_m",
+      "n": 813,
+      "schools": 109,
+      "status": "passed"
+    },
+    {
+      "model": "U_small_revenue",
+      "n": 571,
+      "schools": 98,
+      "status": "passed"
+    }
+  ],
+  "shared_case_coefficient_bridges": "passed",
+  "models_sha256": "dc15095b30c6112d95eb014d7321a67026b7a70e04e65c75b2fa1ec20475c8a5",
+  "caveat": "Numerical agreement and accounting identities do not establish causal identification"
+}

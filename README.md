@@ -8,6 +8,8 @@ A reproducible management-accounting/economics study asking: **Does the financia
 
 **Start with [the expanded feasibility report](FEASIBILITY_REPORT.md)** or its [formatted HTML version](results/feasibility_report.html). It contains all 18 primary tests, sample sizes, coefficients, confidence intervals and adjusted p-values, plus the complete sensitivity results. Football FPI is associated with next-year ticket receipts (+6.41% per 10 FPI points; 95% interval +3.99% to +8.89%; 817 observations, 109 schools). Spending-success and primary student-demand tests remain uncertain; basketball applications show an exploratory signal in annual-change models. These results do not identify causal ROI.
 
+**New CFO extension: [cost recovery and who benefits](CFO_RETURN_REPORT.md)** ([formatted HTML](results/return_report.html)). Annual changes imply approximately **$0.64 additional nonallocated-revenue proxy per $1 of spending** (95% CI $0.50–$0.79; 2,002 school-years, 227 schools), with a three-year cumulative slope of $0.68. Programs with high prior support dependence have materially weaker recovery ($0.30 versus $0.70; direct difference survives correction). None of the six primary support-response tests establishes that success reduces support; smaller-program breakthrough advantages remain unconfirmed. For 222 matched programs, real support dollars rose 31.7% even while support/expenses fell from 31.2% to 28.0%. These are observational accounting relationships, not causal investment returns. All 14 primary tests, 95 specifications, contrary sensitivity results and sparse negative AP-event comparisons are retained.
+
 The earlier 52-school pilot was independently checked on a broader sample; its directions are supported, but its exact numerical results are **not reproduced** without the original membership/specification. [FINDINGS.md](FINDINGS.md) preserves the earlier EADA-only starter separately.
 
 ## Run it
@@ -17,6 +19,20 @@ Use Python 3.12. From the repository root:
 ```text
 python -m venv .venv
 ```
+
+For the CFO extension, after building the audited private expanded panel as below, run:
+
+```text
+python run_project.py --returns --download --test
+```
+
+This acquires the official BLS CPI-U series, estimates all recorded primary and sensitivity models, performs school-omission checks and independent numerical/source validation, then builds the report and five chart pairs. The private Knight observations are required for estimation. For an offline reproduction of the report and figures from saved aggregate results only:
+
+```text
+python run_project.py --returns --report-only --test
+```
+
+The [CFO extension methods](docs/cfo_extension_methods.md) distinguish annual changes, cumulative flows, accounting gaps, actual support, group comparisons and their limitations. The plan was committed before extension estimation at `a45a7a6`; earlier feasibility findings were already known.
 
 Activate `.venv` using your operating system's normal activation method, then:
 

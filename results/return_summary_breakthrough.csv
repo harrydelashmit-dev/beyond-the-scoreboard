@@ -1,0 +1,4 @@
+Outcome,Larger-budget FBS: % [95% CI],Smaller-budget FBS: % [95% CI],Difference in log slopes,Raw difference p,Holm difference p,N / schools
+Next-year revenue proxy,"+0.79% [-0.99, +2.59]","+3.11% [+0.81, +5.46]",+0.0228,0.056,0.169,571 / 98
+Following-fall applications,"+1.26% [-0.82, +3.37]","-0.32% [-3.00, +2.44]",-0.0157,0.297,0.594,651 / 99
+Following-fall enrollment,"+1.35% [-0.19, +2.91]","+1.36% [-0.10, +2.83]",+0.0001,0.994,0.994,681 / 100

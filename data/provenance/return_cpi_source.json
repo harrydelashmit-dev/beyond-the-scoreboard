@@ -1,0 +1,16 @@
+{
+  "source": "U.S. Bureau of Labor Statistics, public API",
+  "file": "economic/bls_api.json",
+  "url": "https://api.bls.gov/publicAPI/v2/timeseries/data/CUUR0000SA0?startyear=2010&endyear=2019&annualaverage=true",
+  "series": "CUUR0000SA0",
+  "restriction": "Public federal statistical data; attribute BLS",
+  "retrieved_utc": "2026-11-11T03:12:50.131091+00:00",
+  "status": "ok",
+  "resolved_url": "https://api.bls.gov/publicAPI/v2/timeseries/data/CUUR0000SA0?startyear=2010&endyear=2019&annualaverage=true",
+  "bytes": 11583,
+  "sha256": "d0a273849c065222add3a2dfdb72c4822b659769b5b87b6e9060ac42cf9d3bb1",
+  "aggregation": "Published annual M13 CPI-U values verified against twelve monthly NSA CPI-U values; calendar-year fiscal approximation",
+  "basis": "2019 dollars",
+  "official_definition": "https://www.bls.gov/cpi/tables/supplemental-files/historical-cpi-u-202310.pdf",
+  "unused_initial_probe": "FRED graph CSV failed (remote disconnected). No observations were taken from the failed response."
+}

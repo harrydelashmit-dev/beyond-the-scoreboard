@@ -28,5 +28,10 @@
     "Leave-one-school-out slope influence for primary recovery and breakthrough interaction models"
   ],
   "restriction": "All individual Knight amounts, school-level classifications based on those amounts and exact regression samples stay in ignored data/private. Publish only aggregate outputs. No invented source observations, causal ROI claims, or significance-based stopping.",
-  "extra_years_decision": "First establish whether the existing panel answers these comparisons. Earlier pre-NIL years can extend history and lags; extra years cannot identify causal returns. Post-2020 data would be analyzed separately because COVID/NIL/reporting changes create different regimes. More report fields (media rights, transfers, operating/capital distinctions) may matter more than simply more years."
+  "extra_years_decision": "First establish whether the existing panel answers these comparisons. Earlier pre-NIL years can extend history and lags; extra years cannot identify causal returns. Post-2020 data would be analyzed separately because COVID/NIL/reporting changes create different regimes. More report fields (media rights, transfers, operating/capital distinctions) may matter more than simply more years.",
+  "secondary_followups_added_after_first_extension_estimates": [
+    "Joint budget-size and baseline-support interactions because these baseline characteristics overlap; report both whether significant or not; leave-one-school-out audit of the high-support interaction",
+    "Dollar expense/revenue/gap/support responses to outperformance in smaller-budget FBS programs, with identical cases, alongside percentage revenue responses",
+    "Influence audit of the negative AP-breakthrough applications/enrollment interactions; sparse event support and opposite-signed findings must be reported"
+  ]
 }

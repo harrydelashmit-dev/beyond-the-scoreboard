@@ -1,0 +1,522 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>CFO cost recovery</title><style>body{font:16px/1.6 system-ui,sans-serif;color:#15324f;max-width:1200px;margin:auto;padding:32px}h1{font-size:36px;line-height:1.2}h2{margin-top:48px}header{border-bottom:5px solid #008681;padding-bottom:24px}table{border-collapse:collapse;font-size:13px;width:100%}td,th{padding:9px;border-bottom:1px solid #d8e1e5;text-align:left}th{background:#15324f;color:white}tr:nth-child(even){background:#f2f6f7}.table-wrap{overflow:auto;margin:24px 0}img{width:100%;height:auto}figure{margin:30px 0}code{font-size:13px;background:#eef3f5;overflow-wrap:anywhere}a{color:#00736f}@media print{body{font-size:10pt;padding:0}figure,table{break-inside:avoid}}</style><header><p>AC 547 · PYTHON ANALYTICS</p><h1>Beyond the Scoreboard — cost recovery and who benefits</h1><p>Four selected research directions · Accounting evidence and limits</p></header><section><h2>Presentation decision</h2><p><strong>These four directions provide a worthwhile presentation.</strong> The clearest new finding is a positive but incomplete financial recovery relationship, with materially weaker recovery among programs previously dependent on institutional/government support and student fees. The smaller-program surprise advantage remains uncertain. A stronger project question is: <strong>When does athletics revenue growth keep up with spending, and who carries the remaining financial burden?</strong></p><p>Annual real-dollar changes imply <strong>0.64 dollars of additional revenue proxy per additional spending dollar</strong> (95% interval 0.50–0.79; N=2,002, 227 schools). The three-year cumulative budget-flow slope is <strong>0.68</strong> (0.55–0.81; N=1,545, 225 schools). Both slopes are below one after adjustment across all fourteen primary extension tests.</p><p>These are conditional associations between reported budgets. They do not estimate what would happen if a CFO randomly increased spending. Revenue can fund spending, reporting rules can link the measures, and omitted pricing, facilities and institutional strategy can affect both. No causal ROI, profit-maximizing budget, or guaranteed future payoff is identified.</p><p><strong>Scope:</strong> the original feasibility report remains intact. This extension tests cost recovery, school differences, support dependence and statistical football outperformance using the same audited source window. Every planned primary comparison and all sensitivity statuses are retained; favorable and unfavorable results appear together.</p></section><section><h2>Data, definitions and the recorded plan</h2><p>The registered Knight-Newhouse export has 2,400 listed school-years for 240 institutions in 2010–2019. The prior public-DI eligibility and institutional-merger exclusions are retained. All original values remain unchanged; no missing financial observation, Cup score or institutional outcome is invented. Raw finances, joined panels, exact model cases and finance-based school classifications remain in ignored <code>data/private/</code>.</p><p><strong>R = exported total revenues − institutional/government support − student fees. E = exported total expenses. S = institutional/government support + student fees.</strong> R is a net nonallocated-revenue proxy: total revenues already net transfers to the institution, and expenses may include excess transfers. Gifts can be restricted/in-kind. E−R is an accounting gap proxy; S is observed allocated support. They differ by E−total revenues. Neither is a verified cash deficit or audited economic profit.</p><p>All new dollar comparisons use published BLS CPI-U annual averages (series CUUR0000SA0), independently checked against all twelve months per year, in 2019 dollars. Calendar-year CPI approximates fiscal-year prices and does not measure athletics-specific cost inflation. Zero support and decreases are retained.</p><p><code>config/return_plan.json</code> was committed at <strong>a45a7a6</strong> before extension estimation; the earlier feasibility results were already known. There are <strong>14 primary null tests</strong> in families of 2 cost-recovery, 3 school-type, 6 self-support and 3 smaller-program-outperformance comparisons. This is exploratory project development, not an independent externally preregistered replication. After the first estimates, joint budget/support interactions, shared-case dollar outperformance bridges and influence checks of negative AP results were added as disclosed secondary follow-ups.</p><p>Baseline groups require three observed years, 2010–2012. The all-DI budget median is <strong>21.60 million</strong> and the FBS-specific median is <strong>54.92 million</strong>, in 2019 dollars. Group outcomes begin in 2013. Support dependence is fixed at baseline S/E ≥50%; Power Five membership is frozen in 2014 for evaluation in 2015–2019, excluding independents. Smaller athletics budgets and smaller enrollment are separate definitions.</p><p>All <strong>95 specifications</strong> ran; <strong>95 estimated</strong>, 0 not estimable. Status, exclusions, controls, fixed effects, school counts, exact years, pointwise 95% intervals, raw and adjusted p-values are in <code>results/return_*.csv</code>. Numerical/source validation: <strong>passed</strong>. Four annual flows must be observed for the three-year comparisons; late anchors are lost to future outcomes. No post-2019 outcome is supplied.</p></section><section><h2>1. Does additional revenue cover additional spending?</h2><p>Primary annual model: ΔR_t = βΔE_t + enrollment-growth control + conference-by-year indicators + error. Differences use exact prior calendar years and include spending decreases. The test is <strong>H0: β=1</strong>, not H0: β=0. Errors cluster by school with cluster-count-minus-one t inference. Time cells with one case are excluded.</p><p>Primary three-year model: [R_t+R_(t+1)+R_(t+2)−3R_(t−1)] is regressed on the identical expression for E, with the end-to-pre enrollment log change and conference-by-year indicators. Every component is observed for an eligible program; incomplete windows remain missing. Windows overlap, so school clustering is essential. This compares accumulated budget flows relative to the preceding annual budget; it is not a return on a one-time investment. A fixed 3% real discount sensitivity discounts both revenue and expense flows.</p><div class="table-wrap"><table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Specification</th>
+      <th>Revenue / spending dollar</th>
+      <th>95% interval</th>
+      <th>Raw p: slope = 1</th>
+      <th>N / schools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Annual changes (primary)</td>
+      <td>0.642</td>
+      <td>[0.500, 0.785]</td>
+      <td>1.56e-06</td>
+      <td>2,002 / 227</td>
+    </tr>
+    <tr>
+      <td>Three-year cumulative (primary)</td>
+      <td>0.681</td>
+      <td>[0.549, 0.813]</td>
+      <td>3.37e-06</td>
+      <td>1,545 / 225</td>
+    </tr>
+    <tr>
+      <td>School/year levels</td>
+      <td>0.929</td>
+      <td>[0.821, 1.037]</td>
+      <td>0.198</td>
+      <td>2,258 / 228</td>
+    </tr>
+    <tr>
+      <td>School/conference-year levels</td>
+      <td>0.699</td>
+      <td>[0.557, 0.841]</td>
+      <td>4.01e-05</td>
+      <td>2,232 / 227</td>
+    </tr>
+    <tr>
+      <td>Changes with school effects</td>
+      <td>0.634</td>
+      <td>[0.473, 0.796]</td>
+      <td>1.27e-05</td>
+      <td>2,002 / 227</td>
+    </tr>
+    <tr>
+      <td>Changes, year effects</td>
+      <td>0.721</td>
+      <td>[0.584, 0.858]</td>
+      <td>8.31e-05</td>
+      <td>2,026 / 228</td>
+    </tr>
+    <tr>
+      <td>Three-year flows, 3% real discount</td>
+      <td>0.681</td>
+      <td>[0.549, 0.813]</td>
+      <td>3.27e-06</td>
+      <td>1,545 / 225</td>
+    </tr>
+    <tr>
+      <td>Three-year flows with school effects</td>
+      <td>0.617</td>
+      <td>[0.451, 0.783]</td>
+      <td>8.89e-06</td>
+      <td>1,545 / 225</td>
+    </tr>
+    <tr>
+      <td>Only positive spending changes</td>
+      <td>0.623</td>
+      <td>[0.495, 0.752]</td>
+      <td>2.65e-08</td>
+      <td>1,459 / 225</td>
+    </tr>
+    <tr>
+      <td>Exclude 1%/99% change tails</td>
+      <td>0.452</td>
+      <td>[0.367, 0.537]</td>
+      <td>2.20e-28</td>
+      <td>1,935 / 227</td>
+    </tr>
+    <tr>
+      <td>Exclude 2015–2017</td>
+      <td>0.625</td>
+      <td>[0.474, 0.776]</td>
+      <td>1.91e-06</td>
+      <td>1,334 / 227</td>
+    </tr>
+    <tr>
+      <td>Ten-year financial reporters</td>
+      <td>0.643</td>
+      <td>[0.499, 0.787]</td>
+      <td>1.87e-06</td>
+      <td>1,944 / 217</td>
+    </tr>
+    <tr>
+      <td>Nominal-dollar sensitivity</td>
+      <td>0.642</td>
+      <td>[0.499, 0.784]</td>
+      <td>1.36e-06</td>
+      <td>2,002 / 227</td>
+    </tr>
+  </tbody>
+</table></div><figure><img src="figures/returns_cost_recovery.png" alt="returns cost recovery"></figure><p>The primary annual coefficient corresponds to <strong>64.2 cents of additional R and 35.8 cents of additional E−R gap per extra spending dollar</strong>. The latter is an exact same-case coefficient identity. It does not imply the university immediately funds that entire gap: the same-case observed support slope is 0.111; changes in reported total balance account for the remainder.</p><p><strong>Material sensitivity:</strong> the simpler school/year level model has a confidence interval that includes one. Conference-year effects remove common changes such as conference media distributions, while school/year effects retain those differences. Annual-change models remain below one with either time control. The primary recovery result is therefore robust across the stated change specifications, while a universal claim across every possible financial model would be too strong. Shared revenue/expense funding decisions and measurement error can bias the slopes.</p><p>Descriptively, <strong>26.9% of 1,466 observed spending-increase years</strong> had revenue growth at least as large as expense growth in the annual-model cases. The ratio of total associated revenue growth to total positive expense growth is 0.665, with a school-bootstrap interval [0.584, 0.747]. This selected positive-increase descriptive comparison is different from the all-change adjusted regression. It is not a probability that a new investment will pay off. Group coverage ratios, decreases and sample counts are fully reported in <code>return_observed_coverage.csv</code>.</p><p>The distributed-lag check includes current and previous spending changes together; its coefficients are reported in the full CSV. The previous change adds no detectable independent association in this window. It cannot resolve the longer-run return to facilities or recruit development.</p></section><section><h2>2. Which types of schools appear to benefit most?</h2><p>The table reports direct group interactions in annual-change models. Fixed baseline group indicators also allow different average growth. A higher slope means revenue growth more closely accompanies spending growth; it does not establish that the group has a positive net return or a larger causal payoff.</p><div class="table-wrap"><table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Comparison</th>
+      <th>Reference group: slope [95% CI]</th>
+      <th>Comparison group: slope [95% CI]</th>
+      <th>Difference (second − first)</th>
+      <th>Raw difference p</th>
+      <th>Holm difference p</th>
+      <th>N / schools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Baseline athletics budget</td>
+      <td>Larger: 0.672 [0.498, 0.846]</td>
+      <td>Smaller: 0.372 [0.146, 0.597]</td>
+      <td>-0.301</td>
+      <td>0.037</td>
+      <td>0.074</td>
+      <td>1,521 / 219</td>
+    </tr>
+    <tr>
+      <td>Baseline support / expenses</td>
+      <td>Below 50%: 0.699 [0.517, 0.881]</td>
+      <td>At least 50%: 0.304 [0.229, 0.379]</td>
+      <td>-0.395</td>
+      <td>7.13e-05</td>
+      <td>2.14e-04</td>
+      <td>1,521 / 219</td>
+    </tr>
+    <tr>
+      <td>2014 FBS membership</td>
+      <td>Other FBS: 0.427 [0.236, 0.618]</td>
+      <td>Power Five: 0.672 [0.460, 0.884]</td>
+      <td>+0.245</td>
+      <td>0.096</td>
+      <td>0.096</td>
+      <td>498 / 100</td>
+    </tr>
+  </tbody>
+</table></div><figure><img src="figures/returns_school_types.png" alt="returns school types"></figure><p><strong>The clearest separator is prior support dependence.</strong> The high-support slope is 0.304, versus 0.699 for less-dependent programs. The direct difference is -0.395 (95% interval [-0.588, -0.203]; raw p=7.13e-05, family-Holm p=2.14e-04, all-14-Holm p=8.55e-04). This is consistent with weaker commercial cost recovery in programs that historically relied more on allocations.</p><p>Smaller-budget programs also have a lower point estimate, but their direct difference does not clear family adjustment. The Power Five comparison points toward stronger recovery in Power Five schools, but the confidence interval for the direct difference includes zero. Neither is presented as a confirmed group advantage. Groups overlap and are not randomly assigned. In the secondary joint budget/support model, the high-support difference remains negative (-0.376, raw p=1.09e-04), while the budget interaction is uncertain (-0.059, p=0.567). These secondary results suggest support dependence is more informative than budget size alone in this panel; every coefficient is retained.</p><p>These comparisons can help a CFO choose a relevant reference group. They do not justify a school league table or extrapolation to private universities, which have different reporting coverage and can have different admissions responses. Participation, education, campus culture and other mission benefits are outside this financial measurement; incomplete commercial recovery does not establish that those benefits have no value.</p></section><section><h2>6. Does success make athletics more self-supporting?</h2><p>Success at ending-year t predicts actual allocated support S in fiscal t+1 and S/E as a percentage. Models absorb school and contemporaneous conference-by-year effects and control prior log enrollment. Football FPI belongs to season t−1; Cup and Sweet16 belong to the season ending t. Six primary exposure tests receive one family adjustment.</p><div class="table-wrap"><table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Success measure</th>
+      <th>Next-year outcome</th>
+      <th>Association</th>
+      <th>95% interval</th>
+      <th>Raw p</th>
+      <th>Holm p</th>
+      <th>N / schools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Cup +100 points</td>
+      <td>Support, millions of 2019 dollars</td>
+      <td>-0.04</td>
+      <td>[-0.32, +0.24]</td>
+      <td>0.792</td>
+      <td>1.000</td>
+      <td>1,503 / 216</td>
+    </tr>
+    <tr>
+      <td>Cup +100 points</td>
+      <td>Support / expenses, percentage points</td>
+      <td>-0.20</td>
+      <td>[-0.59, +0.18]</td>
+      <td>0.301</td>
+      <td>1.000</td>
+      <td>1,503 / 216</td>
+    </tr>
+    <tr>
+      <td>Football FPI +10</td>
+      <td>Support, millions of 2019 dollars</td>
+      <td>-0.30</td>
+      <td>[-0.67, +0.07]</td>
+      <td>0.113</td>
+      <td>0.563</td>
+      <td>813 / 109</td>
+    </tr>
+    <tr>
+      <td>Football FPI +10</td>
+      <td>Support / expenses, percentage points</td>
+      <td>-0.62</td>
+      <td>[-1.20, -0.04]</td>
+      <td>0.038</td>
+      <td>0.225</td>
+      <td>813 / 109</td>
+    </tr>
+    <tr>
+      <td>Basketball Sweet16</td>
+      <td>Support, millions of 2019 dollars</td>
+      <td>-0.15</td>
+      <td>[-0.72, +0.41]</td>
+      <td>0.594</td>
+      <td>1.000</td>
+      <td>1,786 / 227</td>
+    </tr>
+    <tr>
+      <td>Basketball Sweet16</td>
+      <td>Support / expenses, percentage points</td>
+      <td>-0.29</td>
+      <td>[-1.01, +0.43]</td>
+      <td>0.430</td>
+      <td>1.000</td>
+      <td>1,786 / 227</td>
+    </tr>
+  </tbody>
+</table></div><figure><img src="figures/returns_self_support.png" alt="returns self support"></figure><p><strong>None of the six tests survives the family-adjusted 5% threshold.</strong> Football has a negative support-share point estimate with an unadjusted p-value below .05, but that evidence does not survive correction and actual support dollars remain uncertain. Tickets rising after football success, as in the earlier study, therefore does not establish that the institution reduces its contribution. Expenses, support and gap responses on identical cases, student-fee dollars per enrolled student and year-effect variants appear in the full output.</p><p><strong>An additional useful accounting finding:</strong> among 222 programs with complete matched endpoints, real allocated support rose <strong>31.7%</strong> from 2010 to 2019, even as support fell from <strong>31.2% to 28.0% of expenses</strong>. A program can appear less dependent as a percentage while the dollar burden still grows. This is descriptive evidence about the panel, not an estimated consequence of winning.</p><figure><img src="figures/returns_support_dollars_share.png" alt="returns support dollars share"></figure><p>The sum of E−R increased over these matched endpoints. A gap increase and an allocated-support increase should be reconciled, not equated: the reported total-revenue/expense balance also changed. <code>return_matched_endpoints.csv</code> contains the full four-measure bridge.</p></section><section><h2>3. Does unexpected success benefit smaller programs more?</h2><p>The main measure is FPI per ten points above an expanding AR(1) forecast trained only on previous seasons. Smaller-budget FBS programs are defined before evaluation using their 2010–2012 budgets. Models absorb school and conference-year effects and control prior FPI and prior enrollment. This controls earlier strength but cannot turn statistical outperformance into an exogenous surprise. Historical FPI was downloaded at the present vintage; revisions may mean it differs from information known at the time. Inference is conditional on the estimated forecast rule.</p><div class="table-wrap"><table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Outcome</th>
+      <th>Larger-budget FBS: % [95% CI]</th>
+      <th>Smaller-budget FBS: % [95% CI]</th>
+      <th>Difference in log slopes</th>
+      <th>Raw difference p</th>
+      <th>Holm difference p</th>
+      <th>N / schools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Next-year revenue proxy</td>
+      <td>+0.79% [-0.99, +2.59]</td>
+      <td>+3.11% [+0.81, +5.46]</td>
+      <td>+0.0228</td>
+      <td>0.056</td>
+      <td>0.169</td>
+      <td>571 / 98</td>
+    </tr>
+    <tr>
+      <td>Following-fall applications</td>
+      <td>+1.26% [-0.82, +3.37]</td>
+      <td>-0.32% [-3.00, +2.44]</td>
+      <td>-0.0157</td>
+      <td>0.297</td>
+      <td>0.594</td>
+      <td>651 / 99</td>
+    </tr>
+    <tr>
+      <td>Following-fall enrollment</td>
+      <td>+1.35% [-0.19, +2.91]</td>
+      <td>+1.36% [-0.10, +2.83]</td>
+      <td>+0.0001</td>
+      <td>0.994</td>
+      <td>0.994</td>
+      <td>681 / 100</td>
+    </tr>
+  </tbody>
+</table></div><figure><img src="figures/returns_breakthrough.png" alt="returns breakthrough"></figure><p><strong>The hypothesized smaller-program advantage is not established.</strong> Smaller-budget schools have a positive within-group revenue association, but the direct smaller-versus-larger revenue difference does not clear the raw 5% threshold or family adjustment. A significant subgroup slope alongside an insignificant other subgroup slope would not prove a difference. Applications and enrollment interactions are also inconclusive. Percentage changes do not imply equal dollar gains across different revenue bases.</p><p>Secondary comparisons use smaller enrollment, lower 2005–2008 historical FPI prominence, non-Power FBS membership, and preseason-unranked-to-final-AP-top20 breakthroughs. All outcomes and group differences are retained. The AP budget interaction for applications and enrollment is <strong>negative</strong>, rather than the proposed smaller-program advantage: log-slope differences -0.143 (raw p=0.002) and -0.095 (p=0.001). The smaller-program samples have 11 application-event rows across 10 schools and 12 enrollment-event rows across 11 schools. Events remain sparse and this is an exploratory, unadjusted family. These results are reported without implying that surprise wins cause lower demand.</p><p>A shared-case secondary bridge estimates following-year expense, revenue, gap and support dollar responses to outperformance for each budget group. These clarify why a positive percentage revenue response alone cannot establish that an unexpected strong season finances its associated costs.</p></section><section><h2>Robustness, inference and numerical validation</h2><div class="table-wrap"><table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>model</th>
+      <th>omissions</th>
+      <th>min_coefficient</th>
+      <th>max_coefficient</th>
+      <th>max_null_p</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>H_high_support</td>
+      <td>219</td>
+      <td>-0.427209</td>
+      <td>-0.330809</td>
+      <td>0.000519</td>
+    </tr>
+    <tr>
+      <td>R_annual</td>
+      <td>227</td>
+      <td>0.590451</td>
+      <td>0.664969</td>
+      <td>0.000016</td>
+    </tr>
+    <tr>
+      <td>R_three_year</td>
+      <td>225</td>
+      <td>0.648537</td>
+      <td>0.721451</td>
+      <td>0.000015</td>
+    </tr>
+    <tr>
+      <td>U_ap_small_budget_fbs_applications</td>
+      <td>99</td>
+      <td>-0.172639</td>
+      <td>-0.129750</td>
+      <td>0.004484</td>
+    </tr>
+    <tr>
+      <td>U_ap_small_budget_fbs_enrollment</td>
+      <td>100</td>
+      <td>-0.113310</td>
+      <td>-0.082900</td>
+      <td>0.002594</td>
+    </tr>
+    <tr>
+      <td>U_small_applications</td>
+      <td>99</td>
+      <td>-0.020763</td>
+      <td>-0.009261</td>
+      <td>0.494285</td>
+    </tr>
+    <tr>
+      <td>U_small_enrollment</td>
+      <td>100</td>
+      <td>-0.004444</td>
+      <td>0.002435</td>
+      <td>0.999595</td>
+    </tr>
+    <tr>
+      <td>U_small_revenue</td>
+      <td>98</td>
+      <td>0.019639</td>
+      <td>0.026036</td>
+      <td>0.103281</td>
+    </tr>
+  </tbody>
+</table></div><p>The influence table omits one program at a time; null p refers to slope=1 for recovery and interaction=0 otherwise. Omission identities and individual source amounts are not published. Cost-recovery estimates remain below one throughout these omissions; AP interactions remain negative. This is a robustness check, not independent replication. The AP/high-support influence rows are secondary diagnostics added after viewing the first extension estimates.</p><p>Independent full-rank dummy-variable OLS checks cover annual recovery, cumulative recovery, high-support interaction, FPI/support and the smaller-budget outperformance/revenue model. Source-cell preservation, exact-year CPI and accounting identities are checked separately. The actual validation record is <code>data/provenance/return_validation.json</code>; stale coefficient hashes do not count as passed.</p><p>Fourteen primary tests use Holm adjustments within their recorded families and across all fourteen; all pointwise intervals and raw p-values remain visible. The secondary specifications are exploratory and unadjusted, including AP negative interactions. The complete primary table follows; cost-recovery test p-values refer to β=1. Primary results from the earlier feasibility study are a separate previously examined family, not pooled into these extension corrections.</p><div class="table-wrap"><table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>model</th>
+      <th>family</th>
+      <th>coefficient</th>
+      <th>ci_low</th>
+      <th>ci_high</th>
+      <th>primary_null</th>
+      <th>test_p</th>
+      <th>holm_family_p</th>
+      <th>holm_all_primary_p</th>
+      <th>n</th>
+      <th>schools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>R_annual</td>
+      <td>cost_recovery</td>
+      <td>0.642444</td>
+      <td>0.499659</td>
+      <td>0.785230</td>
+      <td>1.0</td>
+      <td>0.000002</td>
+      <td>0.000003</td>
+      <td>0.000022</td>
+      <td>2002</td>
+      <td>227</td>
+    </tr>
+    <tr>
+      <td>R_three_year</td>
+      <td>cost_recovery</td>
+      <td>0.680860</td>
+      <td>0.548920</td>
+      <td>0.812800</td>
+      <td>1.0</td>
+      <td>0.000003</td>
+      <td>0.000003</td>
+      <td>0.000044</td>
+      <td>1545</td>
+      <td>225</td>
+    </tr>
+    <tr>
+      <td>H_small_budget_all</td>
+      <td>school_types</td>
+      <td>-0.300520</td>
+      <td>-0.582848</td>
+      <td>-0.018193</td>
+      <td>0.0</td>
+      <td>0.037065</td>
+      <td>0.074131</td>
+      <td>0.407719</td>
+      <td>1521</td>
+      <td>219</td>
+    </tr>
+    <tr>
+      <td>H_high_support</td>
+      <td>school_types</td>
+      <td>-0.395229</td>
+      <td>-0.587580</td>
+      <td>-0.202879</td>
+      <td>0.0</td>
+      <td>0.000071</td>
+      <td>0.000214</td>
+      <td>0.000855</td>
+      <td>1521</td>
+      <td>219</td>
+    </tr>
+    <tr>
+      <td>H_power_2014</td>
+      <td>school_types</td>
+      <td>0.244842</td>
+      <td>-0.044550</td>
+      <td>0.534234</td>
+      <td>0.0</td>
+      <td>0.096352</td>
+      <td>0.096352</td>
+      <td>0.770818</td>
+      <td>498</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>S_cup_support_m</td>
+      <td>self_support</td>
+      <td>-0.037545</td>
+      <td>-0.317889</td>
+      <td>0.242799</td>
+      <td>0.0</td>
+      <td>0.792053</td>
+      <td>1.000000</td>
+      <td>1.000000</td>
+      <td>1503</td>
+      <td>216</td>
+    </tr>
+    <tr>
+      <td>S_cup_support_pct_expense</td>
+      <td>self_support</td>
+      <td>-0.204089</td>
+      <td>-0.591731</td>
+      <td>0.183554</td>
+      <td>0.0</td>
+      <td>0.300558</td>
+      <td>1.000000</td>
+      <td>1.000000</td>
+      <td>1503</td>
+      <td>216</td>
+    </tr>
+    <tr>
+      <td>S_fpi_support_m</td>
+      <td>self_support</td>
+      <td>-0.297902</td>
+      <td>-0.666950</td>
+      <td>0.071146</td>
+      <td>0.0</td>
+      <td>0.112510</td>
+      <td>0.562548</td>
+      <td>0.787568</td>
+      <td>813</td>
+      <td>109</td>
+    </tr>
+    <tr>
+      <td>S_fpi_support_pct_expense</td>
+      <td>self_support</td>
+      <td>-0.620141</td>
+      <td>-1.203800</td>
+      <td>-0.036481</td>
+      <td>0.0</td>
+      <td>0.037516</td>
+      <td>0.225093</td>
+      <td>0.407719</td>
+      <td>813</td>
+      <td>109</td>
+    </tr>
+    <tr>
+      <td>S_sweet16_support_m</td>
+      <td>self_support</td>
+      <td>-0.152768</td>
+      <td>-0.717398</td>
+      <td>0.411863</td>
+      <td>0.0</td>
+      <td>0.594456</td>
+      <td>1.000000</td>
+      <td>1.000000</td>
+      <td>1786</td>
+      <td>227</td>
+    </tr>
+    <tr>
+      <td>S_sweet16_support_pct_expense</td>
+      <td>self_support</td>
+      <td>-0.287910</td>
+      <td>-1.005534</td>
+      <td>0.429715</td>
+      <td>0.0</td>
+      <td>0.430025</td>
+      <td>1.000000</td>
+      <td>1.000000</td>
+      <td>1786</td>
+      <td>227</td>
+    </tr>
+    <tr>
+      <td>U_small_revenue</td>
+      <td>small_school_breakthrough</td>
+      <td>0.022771</td>
+      <td>-0.000615</td>
+      <td>0.046156</td>
+      <td>0.0</td>
+      <td>0.056207</td>
+      <td>0.168622</td>
+      <td>0.505865</td>
+      <td>571</td>
+      <td>98</td>
+    </tr>
+    <tr>
+      <td>U_small_applications</td>
+      <td>small_school_breakthrough</td>
+      <td>-0.015672</td>
+      <td>-0.045349</td>
+      <td>0.014005</td>
+      <td>0.0</td>
+      <td>0.297240</td>
+      <td>0.594480</td>
+      <td>1.000000</td>
+      <td>651</td>
+      <td>99</td>
+    </tr>
+    <tr>
+      <td>U_small_enrollment</td>
+      <td>small_school_breakthrough</td>
+      <td>0.000069</td>
+      <td>-0.018511</td>
+      <td>0.018649</td>
+      <td>0.0</td>
+      <td>0.994168</td>
+      <td>0.994168</td>
+      <td>1.000000</td>
+      <td>681</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table></div></section><section><h2>What to present and what more data would improve</h2><p>A defensible presentation has four findings: (1) stronger football performance predicts later ticket receipts in the earlier analysis; (2) in this extension, spending and revenue move together but primary adjusted cost-recovery slopes are below one; (3) historically support-dependent programs have weaker recovery; (4) success does not reliably predict lower actual support or a larger smaller-program admissions benefit. The matched-endpoint dollars-versus-share example makes the accounting implication concrete. A worthwhile research result does not require every step of the proposed pathway to be significant.</p><p>The existing four directions have enough value to present; there is no need to search the other four ideas merely to obtain a small p-value. The extra descriptive risk check finds different revenue-growth volatility across baseline-support groups, but that is a cross-program descriptive comparison and is not claimed as an insurance effect. Full risk counts are in <code>return_revenue_volatility.csv</code>.</p><p><strong>Best next acquisition:</strong> additional Knight report fields for media/conference distributions, transfers, capital/debt and operating categories would help separate conference windfalls, transfers and expense composition. Earlier consistent pre-NIL years would improve baseline history, long lags and precision, provided corresponding public outcomes can be aligned. More years by themselves do not solve endogeneity. 2020–2021 COVID years and later NIL/revenue-sharing years belong in explicitly separate regime analyses; pooling them to increase N could obscure structural changes. No additional Knight login is required for the completed historical pass.</p><p>A university-specific causal investment case would additionally need project-level operating/capital cash flows, ticket price/capacity, gift restrictions, actual net tuition contribution, capacity and displacement, and an identification strategy. The current source supports an accounting risk/feasibility study. Student demand remains a possible benefit rather than a budget offset presumed to occur.</p><p>Reproduction: <code>python run_project.py --returns --download --test</code> uses the existing audited private feasibility panel and retrieves/validates CPI. <code>python -m scoreboard.validate_returns</code> reruns independent checks. <code>python run_project.py --returns --report-only</code> rebuilds this report and its five chart pairs from aggregate outputs without registered financial data. All analytic logic, models, tests and charts are Python. Human group commits, consultation and the final presentation remain assignment requirements.</p></section><section><h2>Primary sources and definitions</h2><p><a href="https://knightnewhousedata.org/about-the-data">Knight-Newhouse methodology</a> defines financial years, transfers, allocations and reporting limitations. The registered workbook/report provenance remains in the original acquisition documents. <a href="https://api.bls.gov/publicAPI/v2/timeseries/data/CUUR0000SA0?startyear=2010&amp;endyear=2019&amp;annualaverage=true">BLS public API</a> supplies the actual CPI values, with the <a href="https://www.bls.gov/cpi/tables/supplemental-files/historical-cpi-u-202310.pdf">official historical CPI-U table</a> documenting the series. ESPN/NACDA/IPEDS URLs, source vintage and matching rules are retained in <code>docs/sources.md</code> and the feasibility manifests.</p><p>For external context, <a href="https://www.gao.gov/products/gao-26-108640">GAO’s 2026 athletics-finance study</a> independently reports widespread gaps between generated revenue and expenses in NCAA data, including a 2014–2015 comparison. It uses a different sample, definitions and period; it does not validate our coefficients or supply missing observations. The earlier feasibility report compares the project with published Flutie Effect studies.</p></section></html>

@@ -1,0 +1,9 @@
+period,start,end,schools,measure,start_sum_m,end_sum_m,change_sum_m,interpretation
+Full historical period,2010,2019,222,expense_m,7501.737810061057,11008.862615,3507.1248049389424,"Matched reporting programs, constant 2019 dollars; amounts are aggregate annual flows at endpoints"
+Full historical period,2010,2019,222,revenue_m,5542.055163619272,8060.44184012,2518.386676500728,"Matched reporting programs, constant 2019 dollars; amounts are aggregate annual flows at endpoints"
+Full historical period,2010,2019,222,support_m,2342.424975920103,3085.27062488,742.8456489598968,"Matched reporting programs, constant 2019 dollars; amounts are aggregate annual flows at endpoints"
+Full historical period,2010,2019,222,total_m,7884.480139539375,11145.712465,3261.2323254606245,"Matched reporting programs, constant 2019 dollars; amounts are aggregate annual flows at endpoints"
+After baseline,2013,2019,225,expense_m,8501.21639169323,11022.921478,2521.705086306769,"Matched reporting programs, constant 2019 dollars; amounts are aggregate annual flows at endpoints"
+After baseline,2013,2019,225,revenue_m,6145.330201216413,8031.98163812,1886.6514369035872,"Matched reporting programs, constant 2019 dollars; amounts are aggregate annual flows at endpoints"
+After baseline,2013,2019,225,support_m,2641.9360500327193,3125.990187879999,484.0541378472806,"Matched reporting programs, constant 2019 dollars; amounts are aggregate annual flows at endpoints"
+After baseline,2013,2019,225,total_m,8787.266251249133,11157.971825999999,2370.7055747508675,"Matched reporting programs, constant 2019 dollars; amounts are aggregate annual flows at endpoints"

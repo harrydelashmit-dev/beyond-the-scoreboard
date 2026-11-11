@@ -2,6 +2,24 @@
 
 Validation date: November 10, 2026. Python 3.12; exact directly used package versions are pinned in `requirements.txt`.
 
+## CFO return extension
+
+- **32 local tests passed** after adding five CFO extension tests. A clone without the registered workbook skips the existing private-workbook test; source-free aggregate tests still run.
+- All 95 primary/secondary specifications estimated, including all fourteen planned primary tests. Cost-recovery nulls explicitly test slope=1, and direct group interactions test slope differences=0. Family and all-fourteen Holm corrections are verified.
+- All 2,400 source rows and eight original financial measures are preserved. Original financial observations, baselines and exact model cases remain private. Published BLS annual CPI is checked against every month of the exact decade; missing months, duplicate periods and wrong series fail validation.
+- Independent full-rank dummy OLS agrees on coefficients, school-clustered standard errors and p-values for five real-data models: annual recovery, cumulative recovery, high-support interaction, FPI-to-support and smaller-budget outperformance-to-revenue. Accounting identities and identical-case bridges are checked. Results and hash are in `data/provenance/return_validation.json`.
+- The sensitivity grid includes contrary evidence: the school/year level interval includes dollar-for-dollar recovery; smaller-program breakthrough superiority is unconfirmed; sparse AP interactions for applications/enrollment are negative. Primary labels and grids were retained.
+- One-school omission checks cover recovery, high-support interaction and both statistical-outperformance and AP-event interactions. Full omission ranges and counts are saved; the checks do not supply causal identification. Five PNG/SVG scientific figure pairs and a static report are generated in Python.
+- `data/provenance/return_execution.json` records coefficient/input/plan hashes, Python/package versions and code hashes. Versioned-text digests normalize CRLF/LF; private-source bytes are hashed exactly. `--report-only` checks the saved coefficient hash and distinguishes aggregate reproduction from licensed-data re-estimation.
+
+```text
+python run_project.py --returns --download --test
+python -m scoreboard.validate_returns
+python run_project.py --returns --report-only --test
+```
+
+See `CFO_RETURN_REPORT.md` and `docs/cfo_extension_methods.md`. The earlier expanded private panel must exist before the first command. More years are optional research extensions, not required access for these completed estimates.
+
 ## Expanded feasibility update
 
 - **27 local tests passed** after the expanded build and final portability check, including real registered-workbook checks. The public GitHub path skips the licensed-workbook test when the file is absent; the raw workbook is not redistributed.
