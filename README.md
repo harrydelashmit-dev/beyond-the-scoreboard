@@ -12,6 +12,8 @@ A reproducible management-accounting/economics study asking: **Does the financia
 
 The earlier 52-school pilot was independently checked on a broader sample; its directions are supported, but its exact numerical results are **not reproduced** without the original membership/specification. [FINDINGS.md](FINDINGS.md) preserves the earlier EADA-only starter separately.
 
+**Presentation:** the [20-minute, twelve-slide outline](docs/20_minute_outline.md) includes five equal speaking roles, a sourced opening hook, plain-language talking points, chart links, handoffs, closing language and backup slides. Six simpler [PNG/SVG chart pairs](results/presentation_charts) are generated from existing aggregate results with `python -m scoreboard.presentation_charts`. This does not rerun regressions or require private source data. The final slide deck, names and rehearsal remain group work.
+
 ## Run it
 
 Use Python 3.12. From the repository root:

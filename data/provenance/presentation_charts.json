@@ -1,0 +1,110 @@
+{
+  "purpose": "Presentation simplification of existing aggregate results; no new models or observations",
+  "sources": {
+    "results/feasibility_models.csv": "b034148c899f3c20850fc150159c41df6648297e6f38c51df1c4b7bc6b3ad51e",
+    "results/return_models.csv": "dc15095b30c6112d95eb014d7321a67026b7a70e04e65c75b2fa1ec20475c8a5",
+    "results/return_matched_endpoints.csv": "fc4d4b2f936cfc061ce1e9b6301f356dfb3ae57ef96f5ac191b370e4408ce450"
+  },
+  "plotted_coefficients": [
+    {
+      "model": "C_cup_applications",
+      "term": "cup_100",
+      "coefficient": 0.0061032194684274,
+      "ci_low": -0.0066148873148584,
+      "ci_high": 0.0188213262517133,
+      "n": 1431,
+      "schools": 214
+    },
+    {
+      "model": "C_fpi_applications",
+      "term": "fpi_10",
+      "coefficient": 0.0192202965084345,
+      "ci_low": -0.0034833439024125,
+      "ci_high": 0.0419239369192815,
+      "n": 908,
+      "schools": 112
+    },
+    {
+      "model": "C_sweet16_applications",
+      "term": "sweet16",
+      "coefficient": 0.0110497602436466,
+      "ci_low": -0.0239524523108205,
+      "ci_high": 0.0460519727981138,
+      "n": 1694,
+      "schools": 225
+    },
+    {
+      "model": "B_fpi_ticket_sales",
+      "term": "fpi_10",
+      "coefficient": 0.0621655197423647,
+      "ci_low": 0.0391627762051523,
+      "ci_high": 0.085168263279577,
+      "n": 817,
+      "schools": 109
+    },
+    {
+      "model": "R_annual",
+      "term": "change_expense_m",
+      "coefficient": 0.6424442441948807,
+      "ci_low": 0.4996589195996228,
+      "ci_high": 0.7852295687901385,
+      "n": 2002,
+      "schools": 227
+    },
+    {
+      "model": "R_three_year",
+      "term": "cumulative_expense_m",
+      "coefficient": 0.6808601538431387,
+      "ci_low": 0.5489202332486885,
+      "ci_high": 0.8128000744375888,
+      "n": 1545,
+      "schools": 225
+    },
+    {
+      "model": "H_high_support",
+      "term": "group0_slope",
+      "coefficient": 0.6991545798932309,
+      "ci_low": 0.5168868903653199,
+      "ci_high": 0.881422269421142,
+      "n": 1521,
+      "schools": 219
+    },
+    {
+      "model": "H_high_support",
+      "term": "group1_slope",
+      "coefficient": 0.3039254203936202,
+      "ci_low": 0.2291009202236208,
+      "ci_high": 0.3787499205636196,
+      "n": 1521,
+      "schools": 219
+    },
+    {
+      "model": "U_small_revenue",
+      "term": "larger_slope",
+      "coefficient": 0.0078357262244963,
+      "ci_low": -0.0099107282759196,
+      "ci_high": 0.0255821807249123,
+      "n": 571,
+      "schools": 98
+    },
+    {
+      "model": "U_small_revenue",
+      "term": "smaller_slope",
+      "coefficient": 0.0306062449527254,
+      "ci_low": 0.0080205347326163,
+      "ci_high": 0.0531919551728344,
+      "n": 571,
+      "schools": 98
+    }
+  ],
+  "figures": [
+    "05_applications.png",
+    "06_football_tickets.png",
+    "07_cost_recovery.png",
+    "08_support_groups.png",
+    "09_support_dollars_share.png",
+    "10_breakthrough.png"
+  ],
+  "transformations": "Log-outcome coefficients and endpoints: 100*expm1(b); dollar/dollar slopes: 100*b cents; endpoint millions / 1000 = billions",
+  "uncertainty": "Original pointwise 95% school-clustered intervals. Primary decision wording uses the original Holm-adjusted tests."
+}

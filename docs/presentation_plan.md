@@ -1,5 +1,7 @@
 # Five-member presentation plan (20 minutes)
 
+**Use the [detailed twelve-slide outline](20_minute_outline.md) for the current presentation.** It includes exact timing, five equal speaking roles, opening/closing language, chart links, handoffs and backup slides. The earlier planning notes below are retained as context.
+
 This is a working Track A outline, not a finished slide deck. Replace role labels with the five actual group members. Each member must make substantive commits from their own GitHub account and be able to explain the entire project.
 
 | Member | Time | Content and repository contribution |
