@@ -12,7 +12,7 @@ A reproducible management-accounting/economics study asking: **Does the financia
 
 The earlier 52-school pilot was independently checked on a broader sample; its directions are supported, but its exact numerical results are **not reproduced** without the original membership/specification. [FINDINGS.md](FINDINGS.md) preserves the earlier EADA-only starter separately.
 
-**Presentation:** the [20-minute, twelve-slide outline](docs/20_minute_outline.md) includes five equal speaking roles, a sourced opening hook, plain-language talking points, chart links, handoffs, closing language and backup slides. Six simpler [PNG/SVG chart pairs](results/presentation_charts) are generated from existing aggregate results with `python -m scoreboard.presentation_charts`. This does not rerun regressions or require private source data. The final slide deck, names and rehearsal remain group work.
+**Presentation:** the [20-minute, twelve-slide outline](docs/20_minute_outline.md) has been turned into a saved presentation with six scientific charts, named notes for Evan West, Luis Ramos, Harrison Delashmit, Robert Philyaw and Morgan Beckler, plus four hidden backups. Harrison presents the core financial findings. See [delivery and PowerPoint export](docs/presentation_delivery.md) and the [speaker notes](docs/speaker_notes.md). Six simpler [PNG/SVG chart pairs](results/presentation_charts) come from existing aggregate results via `python -m scoreboard.presentation_charts`. `python -m scoreboard.presentation_notes` rebuilds the plain content/configuration and notes without financial re-estimation. Rehearsal, consultation and individual group contributions remain group work.
 
 ## Run it
 

@@ -13,3 +13,4 @@ jobs:
       - run: python run_project.py --expanded --report-only
       - run: python run_project.py --returns --report-only
       - run: python -m scoreboard.presentation_charts
+      - run: python -m scoreboard.presentation_notes

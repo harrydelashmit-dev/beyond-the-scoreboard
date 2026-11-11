@@ -8,6 +8,8 @@
 
 **Main message:** Strong football performance is associated with higher ticket receipts. Growing athletics revenue generally falls short of growing spending in our main models, particularly among programs with high prior support dependence. Recruitment benefits remain uncertain in our sample.
 
+**Named speaking plan:** Evan West (0:00–4:00), Luis Ramos (4:00–8:00), Harrison Delashmit (8:00–12:00), Robert Philyaw (12:00–16:00), Morgan Beckler (16:00–20:00). Harrison presents the core financial findings: football ticket receipts and dollar-for-dollar cost recovery. These names replace Member 1–5 in the original plan.
+
 ## Run of show
 
 | Slide | Time | Member | Plain-language slide title | Visual |
