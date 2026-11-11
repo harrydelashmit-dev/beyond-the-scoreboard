@@ -1,0 +1,606 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Beyond the Scoreboard — Feasibility</title><style>body{font:16px/1.65 system-ui,sans-serif;color:#15324f;max-width:1200px;margin:0 auto;padding:32px}header{border-bottom:5px solid #008681;padding:20px 0 28px;margin-bottom:40px}.eyebrow{letter-spacing:.12em;font-size:12px;color:#008681;font-weight:700}h1{font-size:36px;line-height:1.2;max-width:900px}h2{font-size:24px;line-height:1.3;margin-top:48px}section{margin-bottom:40px}a{color:#00736f}code{font-size:13px;background:#eef3f5;padding:2px 5px;overflow-wrap:anywhere}table{border-collapse:collapse;font-size:13px;width:100%}th,td{padding:10px 12px;border-bottom:1px solid #d8e1e5;text-align:left}th{background:#15324f;color:white}tr:nth-child(even){background:#f2f6f7}.table-wrap{overflow-x:auto;margin:24px 0}figure{margin:32px 0}img{width:100%;height:auto}strong{font-weight:750}@media print{body{max-width:none;font-size:10pt;padding:0}figure,table{break-inside:avoid}h2{break-after:avoid}}</style><header><p class="eyebrow">AC 547 · TRACK A · PYTHON ANALYTICS</p><h1>Beyond the Scoreboard — expanded feasibility report</h1><p>Historical 2010–2019 sources · Observational evidence and CFO scenarios</p></header><section><h2>Feasibility decision</h2><p><strong>Proceed with the project as a conditional financial-return study.</strong> The strongest validated relationship is football strength predicting subsequent athletics receipts. The available data do not establish that additional spending causes better performance or a positive university-wide return.</p><p>In the primary model, 10 more FPI points are associated with <strong>6.41% higher next-year ticket receipts</strong> (95% interval 3.99% to 8.89%; raw p=4.82e-07; financial-family Holm p=4.34e-06; N=817, 109 schools). Revenue after reported allocated support is associated with a <strong>2.46% increase</strong> (interval 0.90% to 4.04%; Holm p=0.017), subject to the transfer-definition qualification below.</p><p>None of the three primary spending-success tests or six primary student-demand tests passes the family-adjusted 5% threshold. Basketball nevertheless shows a positive applications association in first-difference and school-trend models. That is a useful, specification-sensitive finding to investigate—not a reason to claim either a universal Flutie Effect or no Flutie Effect.</p><p>The proposed spending → success → receipts/student demand → financial return chain remains a pathway to test. The regressions do not identify causal mediation and their coefficients must not be multiplied into an ROI estimate.</p></section><section><h2>Dataset and merge audit</h2><p>The registered workbook contains 2,400 rows for 240 listed institutions. There are 2,289 rows with total revenue and expense data. Historical subdivision eligibility yields 2,322 Division I school-years; excluding three programs with consolidation/scope changes leaves 2,292 primary-eligible rows before model-specific missingness and lags. Missing financial observations and Cup scores remain missing.</p><p>All 2,400 source rows retain their original financial values and join to an IPEDS institution. The stable athletics-program key is distinct from the retained original source IDs. Kennesaw’s former ID 140164 maps to program 486840; the fall-2015 duplicate is resolved to the active consolidated IPEDS entity. Kennesaw, UTRGV, and Purdue Fort Wayne are excluded from primary models and included in a sensitivity analysis.</p><p>ESPN football season s maps to academic/fiscal ending year s+1; each FPI snapshot is verified to occur after the season in January/February. Fall IC conference collection t−1 maps to the season ending t, checked against Nebraska’s Big12-to-BigTen transition. IPEDS pre-2014 APPDATE cohort rules and reported/imputed flags use the original dictionaries.</p><p>Football student demand uses fall t following football season t−1. Cup/Sweet16 demand uses fall t+1 following the spring season ending t. Financial returns use fiscal t+1. Alternate-fall and extra-year lags are reported. No outcomes after 2019 are invented. Early and late source years are lost where a required lag/outcome is unavailable.</p><p>Sweet16 and main64 indicators come from exhaustive annual NACDA ledgers: exactly 16 and 64 matched schools each year. A negative event-membership indicator is derived only after that completeness check; it is not a fabricated zero Cup score. Final/opening AP polls are checked against their own year/type; opening polls require all ranked teams to have played zero games.</p><div class="table-wrap"><table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Year</th>
+      <th>Listed schools</th>
+      <th>DI schools</th>
+      <th>Primary eligible</th>
+      <th>Expense reports</th>
+      <th>Cup matches</th>
+      <th>FPI schools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2010</td>
+      <td>240</td>
+      <td>230</td>
+      <td>227</td>
+      <td>226</td>
+      <td>196</td>
+      <td>103</td>
+    </tr>
+    <tr>
+      <td>2011</td>
+      <td>240</td>
+      <td>230</td>
+      <td>227</td>
+      <td>226</td>
+      <td>195</td>
+      <td>103</td>
+    </tr>
+    <tr>
+      <td>2012</td>
+      <td>240</td>
+      <td>231</td>
+      <td>228</td>
+      <td>228</td>
+      <td>193</td>
+      <td>103</td>
+    </tr>
+    <tr>
+      <td>2013</td>
+      <td>240</td>
+      <td>232</td>
+      <td>229</td>
+      <td>230</td>
+      <td>199</td>
+      <td>107</td>
+    </tr>
+    <tr>
+      <td>2014</td>
+      <td>240</td>
+      <td>233</td>
+      <td>230</td>
+      <td>229</td>
+      <td>197</td>
+      <td>109</td>
+    </tr>
+    <tr>
+      <td>2015</td>
+      <td>240</td>
+      <td>233</td>
+      <td>230</td>
+      <td>231</td>
+      <td>195</td>
+      <td>111</td>
+    </tr>
+    <tr>
+      <td>2016</td>
+      <td>240</td>
+      <td>233</td>
+      <td>230</td>
+      <td>229</td>
+      <td>202</td>
+      <td>111</td>
+    </tr>
+    <tr>
+      <td>2017</td>
+      <td>240</td>
+      <td>233</td>
+      <td>230</td>
+      <td>230</td>
+      <td>195</td>
+      <td>111</td>
+    </tr>
+    <tr>
+      <td>2018</td>
+      <td>240</td>
+      <td>233</td>
+      <td>230</td>
+      <td>230</td>
+      <td>191</td>
+      <td>113</td>
+    </tr>
+    <tr>
+      <td>2019</td>
+      <td>240</td>
+      <td>234</td>
+      <td>231</td>
+      <td>230</td>
+      <td>199</td>
+      <td>112</td>
+    </tr>
+  </tbody>
+</table></div><p>Validation: source-cell preservation, exact future-cohort joins, all 18 primary sample sizes, and three independent full-rank dummy-OLS comparisons passed. The saved coefficients, standard errors and p-values agree with the independent implementation. Audit details are in <code>data/provenance/feasibility_validation.json</code>; school-level licensed join/sample files remain local.</p></section><section><h2>Specifications and inference</h2><p>The expanded plan was recorded before the new estimation in <code>config/feasibility_plan.json</code>. There are 18 primary exposure tests: three spending-success, nine success-finance, and six student-demand tests. Primary models absorb school and contemporaneous basketball-conference-by-year effects. This controls stable school differences and common annual conference conditions; lagged log total enrollment is included throughout. Spending models also control the lagged EADA sport participation-category count, a proxy for sponsored teams rather than an exact NCAA team count.</p><p>All uncertainty is clustered by school, with a Student t reference using schools minus one degrees of freedom; absorbed parameter rank enters the covariance correction. Singleton cells are removed recursively. Reported intervals are pointwise 95% intervals. Holm p-values adjust within the three primary families; the CSV also provides Holm adjustment across all 18. Secondary tests are exploratory and their displayed p-values are unadjusted.</p><p>All <strong>189 primary/secondary specifications</strong> executed; status and complete-case exclusions are recorded in <code>results/feasibility_model_status.csv</code> and <code>feasibility_sample_flow.csv</code>. Raw coefficients, controls, fixed effects, N, schools, years, intervals and p-values are in <code>feasibility_models.csv</code>. This is an internal research plan, not an externally registered protocol; the earlier EADA results were already known. Additional audit checks are fully reported and the primary grid was retained. Some specifications estimate different comparisons; a lower p-value does not make one the preferred causal model.</p></section><section><h2>1. Athletic spending and competitive success</h2><p>These are changes within the same program after the stated controls. Monetary predictors are logged; the table scales the result to 10% higher prior spending. Basketball uses EADA sport-specific expense because the registered Knight report does not provide that measure. Its binary Sweet16 outcome uses a linear probability model.</p><div class="table-wrap"><table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Test</th>
+      <th>Association</th>
+      <th>95% interval</th>
+      <th>Raw p</th>
+      <th>Holm p (family)</th>
+      <th>N / schools</th>
+      <th>Exposure years</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Prior total expense +10% → Cup</td>
+      <td>+4.64 Cup points</td>
+      <td>[-1.00, +10.27] Cup points</td>
+      <td>0.106</td>
+      <td>0.212</td>
+      <td>1,674 / 216</td>
+      <td>2011–2019</td>
+    </tr>
+    <tr>
+      <td>Prior football expense +10% → FPI</td>
+      <td>+0.45 FPI points</td>
+      <td>[-0.03, +0.94] FPI points</td>
+      <td>0.064</td>
+      <td>0.192</td>
+      <td>890 / 106</td>
+      <td>2011–2019</td>
+    </tr>
+    <tr>
+      <td>Prior basketball expense +10% → Sweet16 probability</td>
+      <td>+0.16 percentage points</td>
+      <td>[-0.74, +1.07] percentage points</td>
+      <td>0.721</td>
+      <td>0.721</td>
+      <td>2,004 / 226</td>
+      <td>2011–2019</td>
+    </tr>
+  </tbody>
+</table></div><p>The positive point estimates are compatible with spending helping performance, but these primary intervals include zero. Strong pooled spending/performance correlations mostly compare programs with different established resources. They cannot show that increasing a particular program’s budget will generate the same improvement. Current-spending, Cup-rank/percentile, pre-2018 scoring, balanced-Cup and coaching-reporting checks are included in the complete results.</p></section><section><h2>2. Competitive success and subsequent athletics finances</h2><div class="table-wrap"><table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Test</th>
+      <th>Association</th>
+      <th>95% interval</th>
+      <th>Raw p</th>
+      <th>Holm p (family)</th>
+      <th>N / schools</th>
+      <th>Exposure years</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>100 additional Cup points → Ticket receipts</td>
+      <td>+2.17%</td>
+      <td>[+0.25, +4.13]%</td>
+      <td>0.026</td>
+      <td>0.124</td>
+      <td>1,507 / 216</td>
+      <td>2011–2018</td>
+    </tr>
+    <tr>
+      <td>100 additional Cup points → Athletics donations</td>
+      <td>+0.87%</td>
+      <td>[-2.43, +4.28]%</td>
+      <td>0.608</td>
+      <td>1.000</td>
+      <td>1,484 / 213</td>
+      <td>2011–2018</td>
+    </tr>
+    <tr>
+      <td>100 additional Cup points → Revenue after allocated support (proxy)</td>
+      <td>+1.12%</td>
+      <td>[-0.01, +2.26]%</td>
+      <td>0.053</td>
+      <td>0.159</td>
+      <td>1,503 / 216</td>
+      <td>2011–2018</td>
+    </tr>
+    <tr>
+      <td>10 additional FPI points → Ticket receipts</td>
+      <td>+6.41%</td>
+      <td>[+3.99, +8.89]%</td>
+      <td>4.82e-07</td>
+      <td>4.34e-06</td>
+      <td>817 / 109</td>
+      <td>2011–2018</td>
+    </tr>
+    <tr>
+      <td>10 additional FPI points → Athletics donations</td>
+      <td>+6.58%</td>
+      <td>[+1.73, +11.66]%</td>
+      <td>0.008</td>
+      <td>0.054</td>
+      <td>813 / 109</td>
+      <td>2011–2018</td>
+    </tr>
+    <tr>
+      <td>10 additional FPI points → Revenue after allocated support (proxy)</td>
+      <td>+2.46%</td>
+      <td>[+0.90, +4.04]%</td>
+      <td>0.002</td>
+      <td>0.017</td>
+      <td>813 / 109</td>
+      <td>2011–2018</td>
+    </tr>
+    <tr>
+      <td>Sweet Sixteen appearance → Ticket receipts</td>
+      <td>+0.10%</td>
+      <td>[-5.58, +6.12]%</td>
+      <td>0.973</td>
+      <td>1.000</td>
+      <td>1,790 / 227</td>
+      <td>2011–2018</td>
+    </tr>
+    <tr>
+      <td>Sweet Sixteen appearance → Athletics donations</td>
+      <td>+8.59%</td>
+      <td>[+1.07, +16.68]%</td>
+      <td>0.025</td>
+      <td>0.124</td>
+      <td>1,747 / 225</td>
+      <td>2011–2018</td>
+    </tr>
+    <tr>
+      <td>Sweet Sixteen appearance → Revenue after allocated support (proxy)</td>
+      <td>+3.94%</td>
+      <td>[+0.60, +7.40]%</td>
+      <td>0.021</td>
+      <td>0.124</td>
+      <td>1,786 / 227</td>
+      <td>2011–2018</td>
+    </tr>
+  </tbody>
+</table></div><figure><img src="figures/feasibility_financial_returns.png" alt="feasibility financial returns"></figure><p>Exploratory actual-win and visibility checks are below. Actual winning percentage also has a positive ticket association, so the financial pattern is not confined to the FPI definition. Coarser AP/breakthrough indicators are less conclusive. These p-values are unadjusted and the success units are different.</p><div class="table-wrap"><table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Specification</th>
+      <th>Association</th>
+      <th>95% interval</th>
+      <th>Raw p</th>
+      <th>N / schools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Win percentage +10 points → tickets</td>
+      <td>+2.07%</td>
+      <td>[+1.13, +3.02]%</td>
+      <td>2.91e-05</td>
+      <td>817 / 109</td>
+    </tr>
+    <tr>
+      <td>Win percentage +10 points → revenue-after-support proxy</td>
+      <td>+0.70%</td>
+      <td>[+0.13, +1.28]%</td>
+      <td>0.017</td>
+      <td>813 / 109</td>
+    </tr>
+    <tr>
+      <td>Final AP top20 → tickets</td>
+      <td>+3.30%</td>
+      <td>[-0.32, +7.06]%</td>
+      <td>0.074</td>
+      <td>817 / 109</td>
+    </tr>
+    <tr>
+      <td>Opening-unranked → final top20 → tickets</td>
+      <td>+0.82%</td>
+      <td>[-3.56, +5.41]%</td>
+      <td>0.715</td>
+      <td>817 / 109</td>
+    </tr>
+  </tbody>
+</table></div><p>Football’s ticket and revenue-after-support associations pass both within-financial-family Holm correction and the all-18-primary correction. Its donor association is positive at the raw 5% level but does not pass the nine-test financial-family correction. Cup/ticket and Sweet16/donation or revenue-proxy associations also fail that family correction. A small raw p-value is not labeled confirmatory evidence when its adjusted test does not pass.</p><p>The success measures have different units and samples. A smaller p-value for football does not by itself establish a statistically larger effect than basketball/Cup success or a superior return per dollar spent. The common-sample models address sample comparability; causal cost-effectiveness remains unidentified.</p><p>The receipt components are all-sports ticket receipts and athletics-designated donations, not football-only ticket receipts or all university philanthropy. Donations can contain restricted or in-kind support. Revenue after support is <strong>exported total revenues minus the separate institutional/government-support and student-fee fields</strong>. Total revenue already nets transfers to the institution; source expense definitions can include excess transfers. This is a qualified accounting proxy, not gross externally generated revenue, cash operating profit, or the university’s economic return. The <a href="https://knightnewhousedata.org/about-the-data">Knight methodology</a> explains the reporting categories.</p><figure><img src="figures/feasibility_football_robustness.png" alt="feasibility football robustness"></figure><p>The next-year football/ticket result remains positive after prior-budget controls, first differencing and school-specific trends. At a two-year financial lag, the estimate is 2.06% (interval -0.75% to 4.95%; raw p=0.151), which includes zero. The annual association must not be projected automatically into a permanent revenue gain.</p></section><section><h2>3. The Flutie Effect: applications and first-time enrollment</h2><div class="table-wrap"><table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Test</th>
+      <th>Association</th>
+      <th>95% interval</th>
+      <th>Raw p</th>
+      <th>Holm p (family)</th>
+      <th>N / schools</th>
+      <th>Exposure years</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>100 additional Cup points → applications</td>
+      <td>+0.61%</td>
+      <td>[-0.66, +1.90]%</td>
+      <td>0.345</td>
+      <td>1.000</td>
+      <td>1,431 / 214</td>
+      <td>2011–2018</td>
+    </tr>
+    <tr>
+      <td>100 additional Cup points → first time enrollment</td>
+      <td>+0.29%</td>
+      <td>[-0.61, +1.19]%</td>
+      <td>0.531</td>
+      <td>1.000</td>
+      <td>1,532 / 218</td>
+      <td>2011–2018</td>
+    </tr>
+    <tr>
+      <td>10 additional FPI points → applications</td>
+      <td>+1.94%</td>
+      <td>[-0.35, +4.28]%</td>
+      <td>0.096</td>
+      <td>0.481</td>
+      <td>908 / 112</td>
+      <td>2011–2019</td>
+    </tr>
+    <tr>
+      <td>10 additional FPI points → first time enrollment</td>
+      <td>+1.03%</td>
+      <td>[+0.03, +2.04]%</td>
+      <td>0.044</td>
+      <td>0.267</td>
+      <td>948 / 112</td>
+      <td>2011–2019</td>
+    </tr>
+    <tr>
+      <td>Sweet Sixteen appearance → applications</td>
+      <td>+1.11%</td>
+      <td>[-2.37, +4.71]%</td>
+      <td>0.535</td>
+      <td>1.000</td>
+      <td>1,694 / 225</td>
+      <td>2011–2018</td>
+    </tr>
+    <tr>
+      <td>Sweet Sixteen appearance → first time enrollment</td>
+      <td>+0.36%</td>
+      <td>[-1.27, +2.01]%</td>
+      <td>0.667</td>
+      <td>1.000</td>
+      <td>1,816 / 229</td>
+      <td>2011–2018</td>
+    </tr>
+  </tbody>
+</table></div><figure><img src="figures/feasibility_student_demand.png" alt="feasibility student demand"></figure><p>No primary demand measure clears the six-test Holm correction. Football’s first-time-enrollment coefficient has a raw p just below .05 but not an adjusted p below .05. Cup estimates are comparatively small; FPI/application and Sweet16/application intervals still admit meaningful positive or negative associations. Failure to reject zero does not prove no effect or identify whether measurement, capacity, omitted changes, or limited identifying variation explains the result.</p><div class="table-wrap"><table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Specification</th>
+      <th>Association</th>
+      <th>95% interval</th>
+      <th>Raw p</th>
+      <th>N / schools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Sweet16, primary level model</td>
+      <td>+1.11%</td>
+      <td>[-2.37, +4.71]%</td>
+      <td>0.535</td>
+      <td>1,694 / 225</td>
+    </tr>
+    <tr>
+      <td>Sweet16, annual changes</td>
+      <td>+3.39%</td>
+      <td>[+1.53, +5.29]%</td>
+      <td>3.60e-04</td>
+      <td>1,411 / 226</td>
+    </tr>
+    <tr>
+      <td>Sweet16, school-specific trends</td>
+      <td>+3.46%</td>
+      <td>[+0.20, +6.82]%</td>
+      <td>0.038</td>
+      <td>1,713 / 226</td>
+    </tr>
+    <tr>
+      <td>Sweet16, two-year outcome lag</td>
+      <td>-0.21%</td>
+      <td>[-3.34, +3.03]%</td>
+      <td>0.897</td>
+      <td>1,480 / 225</td>
+    </tr>
+    <tr>
+      <td>Final AP top20, following fall</td>
+      <td>+1.56%</td>
+      <td>[-1.82, +5.07]%</td>
+      <td>0.367</td>
+      <td>908 / 112</td>
+    </tr>
+    <tr>
+      <td>Opening-unranked → final AP top20</td>
+      <td>-0.44%</td>
+      <td>[-3.94, +3.18]%</td>
+      <td>0.806</td>
+      <td>908 / 112</td>
+    </tr>
+    <tr>
+      <td>Main64 basketball appearance</td>
+      <td>+0.11%</td>
+      <td>[-2.25, +2.52]%</td>
+      <td>0.930</td>
+      <td>1,694 / 225</td>
+    </tr>
+  </tbody>
+</table></div><figure><img src="figures/feasibility_basketball_robustness.png" alt="feasibility basketball robustness"></figure><p>The Sweet16 annual-change coefficient is approximately .0334 log points (about 3.4% in the application-growth factor), while allowing school-specific trends gives roughly 3.5% higher application levels. Both are exploratory, unadjusted findings. The primary level model and extra-year model remain inconclusive. These results suggest that growth assumptions matter; they do not justify selecting the favorable model as proof. AP top20, preseason-unranked breakthroughs, main64 participation, football win percentage and other lags are all reported, including their insignificant results.</p><p>The following diagnostic holds the school-year cases fixed to separate sample composition from the growth/control choices. Differences are calculated on the full calendar panel before applying the common-case restriction. The table varies level versus annual-change outcomes, conference/year versus year controls, and school-specific trends; it does not replace the primary model.</p><div class="table-wrap"><table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Specification</th>
+      <th>Association</th>
+      <th>95% interval</th>
+      <th>Raw p</th>
+      <th>N / schools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Same cases: levels, school + conference/year</td>
+      <td>+1.26%</td>
+      <td>[-2.62, +5.29]%</td>
+      <td>0.529</td>
+      <td>1,393 / 225</td>
+    </tr>
+    <tr>
+      <td>Same cases: levels, school + year</td>
+      <td>+1.00%</td>
+      <td>[-2.89, +5.06]%</td>
+      <td>0.617</td>
+      <td>1,393 / 225</td>
+    </tr>
+    <tr>
+      <td>Same cases: annual changes, year</td>
+      <td>+3.40%</td>
+      <td>[+1.51, +5.33]%</td>
+      <td>4.33e-04</td>
+      <td>1,393 / 225</td>
+    </tr>
+    <tr>
+      <td>Same cases: annual changes, conference/year</td>
+      <td>+3.14%</td>
+      <td>[+1.24, +5.07]%</td>
+      <td>0.001</td>
+      <td>1,393 / 225</td>
+    </tr>
+    <tr>
+      <td>Same cases: levels, school-specific trends</td>
+      <td>+3.31%</td>
+      <td>[-0.38, +7.14]%</td>
+      <td>0.079</td>
+      <td>1,393 / 225</td>
+    </tr>
+  </tbody>
+</table></div><p>On these identical cases, the annual-change estimate remains positive with conference/year controls. Level models remain inconclusive, and the school-trend interval now includes zero. Thus sample composition alone does not explain the change-model signal, but the favorable trend result is not stable across the two samples. No one model is promoted after seeing its significance.</p><p>Same-sample aggregate-only, football-only, basketball-only and joint comparisons use identical FBS school-years and the same subsequent fall. A joint coefficient holds total Cup performance—including the high-profile sports—fixed, so it is a conditional composition comparison, not the sport’s total effect. These comparisons are in the <code>common_</code> models.</p></section><section><h2>Independent audit of the earlier football pilot</h2><div class="table-wrap"><table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Relationship</th>
+      <th>Earlier claim</th>
+      <th>Independent pooled r</th>
+      <th>Between-school r</th>
+      <th>Within-school r</th>
+      <th>Pooled N / schools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Football expense / FPI</td>
+      <td>0.556</td>
+      <td>0.694</td>
+      <td>0.844</td>
+      <td>-0.068</td>
+      <td>649 / 111</td>
+    </tr>
+    <tr>
+      <td>Coaching compensation / FPI</td>
+      <td>0.646</td>
+      <td>0.739</td>
+      <td>0.876</td>
+      <td>0.042</td>
+      <td>648 / 111</td>
+    </tr>
+    <tr>
+      <td>FPI / ticket receipts</td>
+      <td>0.479</td>
+      <td>0.676</td>
+      <td>0.768</td>
+      <td>0.085</td>
+      <td>650 / 111</td>
+    </tr>
+  </tbody>
+</table></div><figure><img src="figures/feasibility_pooled_within.png" alt="feasibility pooled within"></figure><p>The independently assembled FY2014–2019 data show positive pooled correlations in the same directions, with different magnitudes and about 111 schools rather than the unknown original 52. The school/year-only following-year ticket model gives <strong>6.14% per 10 FPI points</strong> (interval 3.43% to 8.92%, p=1.30e-05, N=539, 110 schools), compared with the earlier conversational claim of 3.2%. Its usable fiscal exposure years are 2014–2018 because next-year receipts must exist.</p><p>This independently supports the directional football/receipt relationship. <strong>It does not reproduce the original numerical pilot.</strong> Its 52-school membership, raw data, precise period alignment and complete specification were not supplied. Our coaching field measures total compensation for all football coaches; the original field definition is unavailable. No schools were selected to match its coefficients. FY2014–2019 aligns to football seasons 2013–2018; a season-2014-onward subset and an explicitly incorrect same-printed-label timing diagnostic are retained in <code>pilot_models.csv</code> and <code>pilot_correlations.csv</code>. The aligned 2019 football season would require FY2020 financial data, outside the historical export.</p></section><section><h2>Sensitivity, influence and subgroup limits</h2><p>The full specification grid includes school/year effects, conference/year effects, prior-budget controls, first differences, school trends, extra-year lags, positive-log versus inverse-hyperbolic-sine financial outcomes, reported-only IPEDS values, merger inclusion, expense-tail trimming, scoring-period restrictions and balanced Cup coverage. None is selected as the headline because of its p-value.</p><div class="table-wrap"><table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>model</th>
+      <th>omissions</th>
+      <th>coefficient_min</th>
+      <th>coefficient_max</th>
+      <th>largest_raw_p</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>B_fpi_net_nonallocated_revenue_proxy</td>
+      <td>109</td>
+      <td>0.0218</td>
+      <td>0.0274</td>
+      <td>0.005</td>
+    </tr>
+    <tr>
+      <td>B_fpi_ticket_sales</td>
+      <td>109</td>
+      <td>0.0572</td>
+      <td>0.0649</td>
+      <td>1.43e-06</td>
+    </tr>
+    <tr>
+      <td>C_cup_applications</td>
+      <td>214</td>
+      <td>0.0044</td>
+      <td>0.0076</td>
+      <td>0.464</td>
+    </tr>
+    <tr>
+      <td>C_fpi_applications</td>
+      <td>112</td>
+      <td>0.0104</td>
+      <td>0.0220</td>
+      <td>0.245</td>
+    </tr>
+    <tr>
+      <td>C_sweet16_applications</td>
+      <td>225</td>
+      <td>0.0022</td>
+      <td>0.0197</td>
+      <td>0.892</td>
+    </tr>
+    <tr>
+      <td>C_sweet16_applications_first_differences</td>
+      <td>226</td>
+      <td>0.0304</td>
+      <td>0.0381</td>
+      <td>0.001</td>
+    </tr>
+  </tbody>
+</table></div><p>The omission table reports raw log-scale coefficients: each school is omitted once, with remaining singleton cells removed again. The football ticket and revenue-proxy coefficients remain positive and raw-significant throughout; the Sweet16 annual-change signal also survives each omission. This is an influence diagnostic, not independent replication or a multiplicity-adjusted causal test.</p><p>Historical Power Five versus other-FBS differences are tested directly using interaction terms on the 2015–2019 sample, excluding independents. The broad FPI/application and revenue-proxy interaction tests do not establish different returns by group. Some Sweet16 subgroup interactions have small raw p-values, but the smaller-program cell below has only one success school/event. Those estimates cannot support a general recommendation for smaller universities.</p><div class="table-wrap"><table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>group</th>
+      <th>n</th>
+      <th>schools</th>
+      <th>event_rows</th>
+      <th>event_schools</th>
+      <th>switching_schools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>all</td>
+      <td>417</td>
+      <td>105</td>
+      <td>44</td>
+      <td>27</td>
+      <td>27</td>
+    </tr>
+    <tr>
+      <td>power_five</td>
+      <td>212</td>
+      <td>53</td>
+      <td>43</td>
+      <td>26</td>
+      <td>26</td>
+    </tr>
+    <tr>
+      <td>other_fbs</td>
+      <td>205</td>
+      <td>52</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+  </tbody>
+</table></div><p>Historical prominence is based only on 2005–2008 FPI. Expanding-window AR(1) forecasts use past seasons only, but the historical rating vintage was retrieved in 2026; these are not real-time forecast vintages. Their residuals measure statistical outperformance, not known student expectations. A separate opening-unranked-to-final-top20 indicator uses actual AP poll ledgers. Results and interaction intervals are reported in the <code>outperformance_</code> and <code>breakthrough_prominence_</code> models. Sparse events and exploratory testing limit subgroup conclusions.</p></section><section><h2>Comparison with published Flutie Effect research</h2><p><a href="https://devingpope.com/assets/files/Website_SEJ%20Sports.pdf">Pope and Pope (2009), Southern Economic Journal</a> studied roughly 330 Division I schools over 1983–2002. They reported application increases around 2–8% for top-20 football and top-16 basketball success, with larger responses at private schools. Their broader population, earlier period and outcome definitions differ from this public-school financial sample. Their findings motivate the visibility measures; they do not guarantee the same result here.</p><p><a href="https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12642">McFarland, Groothuis and Guignet (2024), Contemporary Economic Policy</a> used 121 FBS institutions, football 2014–2018 and applications 2015–2019. They estimated roughly 2.1% more Group-of-Five applications per 10 percentage points of winning percentage. Their Table 2 marks that total-applications result at the <strong>10% significance level, not 5%</strong>. Their specification reports year effects and institutional/state controls; ours also absorbs school effects and uses different controls/sample.</p><p>Our public-school, conference/year-controlled comparison gives <strong>0.32%</strong> for other FBS schools per 10 winning-percentage points (interval -0.68% to 1.34%; raw p=0.525; N=524, 106 schools). The group-difference test is also inconclusive. This is a comparison of research questions, not a reproduction or refutation of the published model. Its private-school coverage and faculty-pay, state-income and high-school-graduate controls are not duplicated.</p></section><section><h2>CFO interpretation and cautious financial scenarios</h2><p>The evidence supports treating football success as relevant to an athletics receipt forecast, conditional on the model. It does not give the CFO an identified spending-to-success conversion, attributable enrollment response, or causal return on a proposed investment. Funding should not be justified by multiplying pooled correlations, adding applicants as tuition-paying students, or counting athletics donations twice.</p><div class="table-wrap"><table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Hypothetical extra annual receipts</th>
+      <th>Extra enrolled student stock to break even</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>$0</td>
+      <td>834</td>
+    </tr>
+    <tr>
+      <td>$1,000,000</td>
+      <td>667</td>
+    </tr>
+    <tr>
+      <td>$3,000,000</td>
+      <td>334</td>
+    </tr>
+  </tbody>
+</table></div><figure><img src="figures/feasibility_cfo_break_even.png" alt="feasibility cfo break even"></figure><p>With a 500-student capacity limit and $6,000 contribution per student, the student channel supplies at most $3m annually. The zero- and $1m-receipt cases in this $5m-cost example therefore cannot break even within that capacity; the unconstrained student requirements exceed 500.</p><p>The separate ten-year cohort scenarios distinguish <strong>planned new first-time intake</strong> from the extra enrolled stock: four study years, explicit retention and a 500-student capacity limit determine how many additional students are actually in attendance. As one purely hypothetical example, 100 planned extra entrants annually, 90% retention, $6,000 net tuition contribution, $1m extra annual athletics receipts and $5m extra annual athletics cash cost yield a ten-year NPV of <strong>-$16.82m</strong> at a 6% rate with no initial capital outlay. This is scenario arithmetic, not an empirical estimate of an athletics-induced enrollment increase.</p><p>The tables vary receipts, student intake, retention, discount rates and initial capital outlay. Capacity limits can reduce admitted extra intake. Tuition contribution is after aid/discounts and incremental student-service cost; annual athletics cash cost excludes the separately modeled initial capital expenditure. Constant-dollar flows require a consistent real discount rate. Persistence of demand, displaced students, restrictions on gifts, opportunity costs and program-specific financing would need institution-level review. See <code>cfo_break_even_scenarios.csv</code> and <code>cfo_npv_scenarios.csv</code>.</p></section><section><h2>Deliverables, reproduction and actual remaining limits</h2><p>The Python implementation, public source URLs, hashes, data dictionaries, period/ID rules, model outputs, exclusion counts, six new PNG/SVG figure pairs and this report are available in the project repository. Expanded descriptive statistics, annual nominal financial summaries and aggregate EADA/Knight reconciliation are in <code>feasibility_descriptive_statistics.csv</code>, <code>feasibility_annual_financial_summary.csv</code> and <code>source_reconciliation_summary.csv</code>. Large source changes are flagged for review, without automatic deletion or treating a genuine demand jump as an error. The registered workbook and school-level finances remain local under <code>data/private/</code>; no access credentials or registrations are fabricated or committed.</p><p>Full local study: <code>python -m scoreboard.performance --download</code>, stage the registered workbook as documented, then <code>python -m scoreboard.feasibility --build</code>. Independent verification: <code>python -m scoreboard.validate_feasibility</code>. Report-only reproduction from saved aggregate results: <code>python -m scoreboard.feasibility --report-only</code>. The earlier EADA-only results remain a separate starter analysis, not the preferred financial evidence.</p><p><strong>Remaining research limits:</strong> exact original 52-school replication requires its missing sample/specification; the transfer-netted financial proxy cannot establish gross cash profit; real sponsored-team counts are proxied; private-school generalizability is limited; only observed Cup scorers enter Cup models; some applications precede final postseason information; reporting changes, admissions marketing/platform changes, pricing/capacity and reverse causality remain possible. More observations cannot by themselves solve causal identification.</p><p><strong>Remaining assignment actions:</strong> the group must review the feasibility conclusions, confirm the assignment PDF revision, obtain topic approval, arrange instructor consultation, invite the four other members/instructor to the shared repository, contribute their own substantive commits, and produce/rehearse final slides. This report is a completed feasibility analysis, not a claim that those human collaboration and submission requirements are complete.</p></section></html>

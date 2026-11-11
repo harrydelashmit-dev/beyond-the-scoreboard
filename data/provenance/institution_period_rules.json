@@ -1,0 +1,22 @@
+{
+  "stable_key": "unitid is the athletics-program key in this private joined panel; original source IDs retained",
+  "old_to_program": {
+    "140164": 486840
+  },
+  "primary_merger_exclusions": {
+    "486840": "Kennesaw consolidation; old UNITID 140164",
+    "227368": "UT Pan American/UTRGV consolidation, 2015",
+    "151102": "IPFW split/Purdue Fort Wayne institutional scope change, 2018"
+  },
+  "ipeds_fall_2015_ksu": "Keep active consolidated 486840 row with reported enrollment; retain closed former 140164 candidate in private audit",
+  "conference_year": "Fall IC collection t-1 maps to athletic year ending t; verified using Nebraska Big12/BigTen transition",
+  "financial_year": "Knight year is academic/fiscal ending year, as source YEAR definition states",
+  "football_year": "ESPN season s maps to athletic ending year s+1; January/February postseason run date checked",
+  "basketball_event_zeros": "Derived only from exhaustive matched 16/64-school annual positive ledgers; Cup scores stay missing",
+  "expanded_cup_aliases": {
+    "Air Force": 128328,
+    "Army": 197036,
+    "Army West Point": 197036,
+    "Navy": 164155
+  }
+}

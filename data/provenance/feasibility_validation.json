@@ -1,0 +1,52 @@
+{
+  "validated_utc": "2026-11-11T02:44:12.006694+00:00",
+  "panel_sha256": "c6e59b7e8bd33bc0fbcf6d729fa603468b7b813cf31ccb8d50cfa79c73823917",
+  "results_sha256": "b034148c899f3c20850fc150159c41df6648297e6f38c51df1c4b7bc6b3ad51e",
+  "all_18_primary_sample_counts_checked": true,
+  "all_2400_financial_rows_preserved": true,
+  "all_2400_ipeds_identity_matches": true,
+  "exact_future_fall_joins_checked": true,
+  "source_manifest_entries_hash_verified": 191,
+  "five_basketball_common_samples_identical": true,
+  "football_season_plus_one_checked": true,
+  "conference_fall_plus_one_checked": true,
+  "independent_primary_models": [
+    {
+      "model": "A_spend_cup",
+      "n": 1674,
+      "schools": 216,
+      "sparse_coefficient": 0.486735922061963,
+      "independent_coefficient": 0.4867359220618789,
+      "sparse_se": 0.2999444732239602,
+      "independent_se": 0.2999444732244577,
+      "sparse_p": 0.1061074885731139,
+      "independent_p": 0.10610748857375016,
+      "status": "passed_full_rank_dummy_ols"
+    },
+    {
+      "model": "B_fpi_ticket_sales",
+      "n": 817,
+      "schools": 109,
+      "sparse_coefficient": 0.0621655197423647,
+      "independent_coefficient": 0.062165519742368926,
+      "sparse_se": 0.011604808424148,
+      "independent_se": 0.011604808424151996,
+      "sparse_p": 4.824554993359563e-07,
+      "independent_p": 4.824554993390508e-07,
+      "status": "passed_full_rank_dummy_ols"
+    },
+    {
+      "model": "C_sweet16_applications",
+      "n": 1694,
+      "schools": 225,
+      "sparse_coefficient": 0.0110497602436466,
+      "independent_coefficient": 0.01104976024365606,
+      "sparse_se": 0.0177621119771336,
+      "independent_se": 0.017762111977110584,
+      "sparse_p": 0.5345106429065347,
+      "independent_p": 0.5345106429056556,
+      "status": "passed_full_rank_dummy_ols"
+    }
+  ],
+  "limits": "Checks establish source consistency and numerical implementation; they do not establish correct institutional reporting or causal identification."
+}

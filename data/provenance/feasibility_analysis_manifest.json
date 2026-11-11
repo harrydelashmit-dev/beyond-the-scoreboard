@@ -1,0 +1,43 @@
+{
+  "execution_recorded_utc": "2026-11-11T02:52:18.186799+00:00",
+  "panel_sha256": "c6e59b7e8bd33bc0fbcf6d729fa603468b7b813cf31ccb8d50cfa79c73823917",
+  "results_sha256": "b034148c899f3c20850fc150159c41df6648297e6f38c51df1c4b7bc6b3ad51e",
+  "plan_sha256": "ca90a8e2f108910ea6c72ededc595eb6bfb67c85934b380a807bacb1bf25d777",
+  "source_workbook_sha256": "477628256f02980011bf749aa3c1941f8cb939d90fd3640e91b7f62f986cec52",
+  "plan": "config/feasibility_plan.json",
+  "initial_plan_commit": "629d6ca",
+  "primary_tests": 18,
+  "full_results": "results/feasibility_models.csv",
+  "private_samples": "data/private/feasibility_samples",
+  "causal_identification": false,
+  "original_52_school_pilot_membership_available": false,
+  "python_version": "3.12.14",
+  "tracked_text_hash_convention": "CRLF normalized to LF; ignored binary sources and private panel use byte-exact hashes",
+  "package_versions": {
+    "pandas": "3.0.1",
+    "numpy": "2.5.4",
+    "scipy": "1.18.1",
+    "statsmodels": "0.14.6",
+    "matplotlib": "3.10.8",
+    "openpyxl": "3.1.5"
+  },
+  "code_sha256": {
+    "scoreboard/__init__.py": "fbed72e47e529b6a92d6813ea8678e6bead9dc2eaa3a603efe3248c638447754",
+    "scoreboard/cfo_scenarios.py": "95eaac983267615cffdc0b9700fadf3259f048dae66abffecefa7d7d9916c84d",
+    "scoreboard/clean.py": "71738ef1c0f86f1824e237b97d6550cb1a9d18e460b345680490f060757f87a4",
+    "scoreboard/download.py": "935fa5e7b3ab49913f02b2c998744e84be1ac5849a55b79115d91e21940d71f1",
+    "scoreboard/feasibility.py": "4f42b583a221b9cbeece759e264b0f07ed551f69419207d523365b33982abaaa",
+    "scoreboard/feasibility_data.py": "e07c56eb048b44b1ee9d956027fe587e8dc859cced9130ede36cfabe9eb1a3cd",
+    "scoreboard/feasibility_report.py": "d0a723b54894720338440018b2e48b6312e48037ddc7ced445a9d77f1a3ca94d",
+    "scoreboard/finance.py": "835f370d177dc1f1c3fe256276d84f0d33a2632b3af4fed620fce0bf5016c6f2",
+    "scoreboard/hashes.py": "500c501edb69ab2678736f10f98268e4b4067962a871959c5cd1d86ca358316b",
+    "scoreboard/knight.py": "15bc1a4fae3e29ef7d5d1f46cc7a76eeca3d818a0352a81c878ac8d04f77e2a9",
+    "scoreboard/knight_export.py": "0201b633671e2aa269302f6c6e0dad5db5795cbc12c757d0c3a9288142b86f09",
+    "scoreboard/knight_reports.py": "d40a9c0d1176ab23ac54ff64d0eb39d8a99bc420c2c20402fc8ba0b3adecaf22",
+    "scoreboard/models.py": "7c10a5acf406c3ea6c6a05f3a3b48a0af65c8bfe557bc588ab189b62514b466a",
+    "scoreboard/performance.py": "67fdb7421318def535ed20c0ea76f222557eee37fbc7557cc096e7e576455502",
+    "scoreboard/report.py": "405ee41eafca6c2ea16f1ba2225e2701ba3115d27e695f1e4120aea32450b528",
+    "scoreboard/scenarios.py": "176b9daccb3354c2a03c630e400dc7bf2b3711811d089b2a9ad5e4cff5adcf05",
+    "scoreboard/validate_feasibility.py": "39dcd45ab17796d36c3dd41ccb815a470f3cd34bfb3ad04332a9ab0b6c424a2c"
+  }
+}

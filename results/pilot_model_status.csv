@@ -1,0 +1,5 @@
+model,status,primary,initial_n,n,schools
+pilot_fpi_ticket,estimated,False,667,539,110
+pilot_fpi_ticket_size_adjusted,estimated,False,667,539,110
+pilot_season2014plus_ticket,estimated,False,558,431,109
+pilot_same_label_timing_diagnostic,estimated,False,670,543,111

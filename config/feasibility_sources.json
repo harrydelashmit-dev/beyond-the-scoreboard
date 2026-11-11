@@ -1,0 +1,499 @@
+[
+  {
+    "source": "espn",
+    "year": 2005,
+    "file": "espn/fpi_2005.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2005/powerindex?limit=500&lang=en&region=us",
+    "description": "Historical final/latest season FPI; football season start year, not fiscal ending year"
+  },
+  {
+    "source": "espn",
+    "year": 2006,
+    "file": "espn/fpi_2006.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2006/powerindex?limit=500&lang=en&region=us",
+    "description": "Historical final/latest season FPI; football season start year, not fiscal ending year"
+  },
+  {
+    "source": "espn",
+    "year": 2007,
+    "file": "espn/fpi_2007.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2007/powerindex?limit=500&lang=en&region=us",
+    "description": "Historical final/latest season FPI; football season start year, not fiscal ending year"
+  },
+  {
+    "source": "espn",
+    "year": 2008,
+    "file": "espn/fpi_2008.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2008/powerindex?limit=500&lang=en&region=us",
+    "description": "Historical final/latest season FPI; football season start year, not fiscal ending year"
+  },
+  {
+    "source": "espn",
+    "year": 2009,
+    "file": "espn/fpi_2009.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2009/powerindex?limit=500&lang=en&region=us",
+    "description": "Historical final/latest season FPI; football season start year, not fiscal ending year"
+  },
+  {
+    "source": "espn",
+    "year": 2010,
+    "file": "espn/fpi_2010.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2010/powerindex?limit=500&lang=en&region=us",
+    "description": "Historical final/latest season FPI; football season start year, not fiscal ending year"
+  },
+  {
+    "source": "espn",
+    "year": 2011,
+    "file": "espn/fpi_2011.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2011/powerindex?limit=500&lang=en&region=us",
+    "description": "Historical final/latest season FPI; football season start year, not fiscal ending year"
+  },
+  {
+    "source": "espn",
+    "year": 2012,
+    "file": "espn/fpi_2012.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2012/powerindex?limit=500&lang=en&region=us",
+    "description": "Historical final/latest season FPI; football season start year, not fiscal ending year"
+  },
+  {
+    "source": "espn",
+    "year": 2013,
+    "file": "espn/fpi_2013.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2013/powerindex?limit=500&lang=en&region=us",
+    "description": "Historical final/latest season FPI; football season start year, not fiscal ending year"
+  },
+  {
+    "source": "espn",
+    "year": 2014,
+    "file": "espn/fpi_2014.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2014/powerindex?limit=500&lang=en&region=us",
+    "description": "Historical final/latest season FPI; football season start year, not fiscal ending year"
+  },
+  {
+    "source": "espn",
+    "year": 2015,
+    "file": "espn/fpi_2015.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2015/powerindex?limit=500&lang=en&region=us",
+    "description": "Historical final/latest season FPI; football season start year, not fiscal ending year"
+  },
+  {
+    "source": "espn",
+    "year": 2016,
+    "file": "espn/fpi_2016.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2016/powerindex?limit=500&lang=en&region=us",
+    "description": "Historical final/latest season FPI; football season start year, not fiscal ending year"
+  },
+  {
+    "source": "espn",
+    "year": 2017,
+    "file": "espn/fpi_2017.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2017/powerindex?limit=500&lang=en&region=us",
+    "description": "Historical final/latest season FPI; football season start year, not fiscal ending year"
+  },
+  {
+    "source": "espn",
+    "year": 2018,
+    "file": "espn/fpi_2018.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2018/powerindex?limit=500&lang=en&region=us",
+    "description": "Historical final/latest season FPI; football season start year, not fiscal ending year"
+  },
+  {
+    "source": "espn",
+    "year": 2019,
+    "file": "espn/fpi_2019.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2019/powerindex?limit=500&lang=en&region=us",
+    "description": "Historical final/latest season FPI; football season start year, not fiscal ending year"
+  },
+  {
+    "source": "espn",
+    "year": 2009,
+    "file": "espn/standings_2009.json",
+    "url": "https://site.api.espn.com/apis/v2/sports/football/college-football/standings?season=2009",
+    "description": "Historical ESPN football standings and records"
+  },
+  {
+    "source": "espn",
+    "year": 2010,
+    "file": "espn/standings_2010.json",
+    "url": "https://site.api.espn.com/apis/v2/sports/football/college-football/standings?season=2010",
+    "description": "Historical ESPN football standings and records"
+  },
+  {
+    "source": "espn",
+    "year": 2011,
+    "file": "espn/standings_2011.json",
+    "url": "https://site.api.espn.com/apis/v2/sports/football/college-football/standings?season=2011",
+    "description": "Historical ESPN football standings and records"
+  },
+  {
+    "source": "espn",
+    "year": 2012,
+    "file": "espn/standings_2012.json",
+    "url": "https://site.api.espn.com/apis/v2/sports/football/college-football/standings?season=2012",
+    "description": "Historical ESPN football standings and records"
+  },
+  {
+    "source": "espn",
+    "year": 2013,
+    "file": "espn/standings_2013.json",
+    "url": "https://site.api.espn.com/apis/v2/sports/football/college-football/standings?season=2013",
+    "description": "Historical ESPN football standings and records"
+  },
+  {
+    "source": "espn",
+    "year": 2014,
+    "file": "espn/standings_2014.json",
+    "url": "https://site.api.espn.com/apis/v2/sports/football/college-football/standings?season=2014",
+    "description": "Historical ESPN football standings and records"
+  },
+  {
+    "source": "espn",
+    "year": 2015,
+    "file": "espn/standings_2015.json",
+    "url": "https://site.api.espn.com/apis/v2/sports/football/college-football/standings?season=2015",
+    "description": "Historical ESPN football standings and records"
+  },
+  {
+    "source": "espn",
+    "year": 2016,
+    "file": "espn/standings_2016.json",
+    "url": "https://site.api.espn.com/apis/v2/sports/football/college-football/standings?season=2016",
+    "description": "Historical ESPN football standings and records"
+  },
+  {
+    "source": "espn",
+    "year": 2017,
+    "file": "espn/standings_2017.json",
+    "url": "https://site.api.espn.com/apis/v2/sports/football/college-football/standings?season=2017",
+    "description": "Historical ESPN football standings and records"
+  },
+  {
+    "source": "espn",
+    "year": 2018,
+    "file": "espn/standings_2018.json",
+    "url": "https://site.api.espn.com/apis/v2/sports/football/college-football/standings?season=2018",
+    "description": "Historical ESPN football standings and records"
+  },
+  {
+    "source": "espn",
+    "year": 2019,
+    "file": "espn/standings_2019.json",
+    "url": "https://site.api.espn.com/apis/v2/sports/football/college-football/standings?season=2019",
+    "description": "Historical ESPN football standings and records"
+  },
+  {
+    "source": "ipeds",
+    "year": 2010,
+    "file": "ipeds/ic2010.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ic2010.zip",
+    "description": "Institutional characteristics: annual athletics conference fields and original dictionary"
+  },
+  {
+    "source": "ipeds",
+    "year": 2010,
+    "file": "ipeds/ic2010_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ic2010_dict.zip",
+    "description": "Institutional characteristics: annual athletics conference fields and original dictionary"
+  },
+  {
+    "source": "ipeds",
+    "year": 2011,
+    "file": "ipeds/ic2011.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ic2011.zip",
+    "description": "Institutional characteristics: annual athletics conference fields and original dictionary"
+  },
+  {
+    "source": "ipeds",
+    "year": 2011,
+    "file": "ipeds/ic2011_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ic2011_dict.zip",
+    "description": "Institutional characteristics: annual athletics conference fields and original dictionary"
+  },
+  {
+    "source": "ipeds",
+    "year": 2012,
+    "file": "ipeds/ic2012.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ic2012.zip",
+    "description": "Institutional characteristics: annual athletics conference fields and original dictionary"
+  },
+  {
+    "source": "ipeds",
+    "year": 2012,
+    "file": "ipeds/ic2012_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ic2012_dict.zip",
+    "description": "Institutional characteristics: annual athletics conference fields and original dictionary"
+  },
+  {
+    "source": "ipeds",
+    "year": 2013,
+    "file": "ipeds/ic2013.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ic2013.zip",
+    "description": "Institutional characteristics: annual athletics conference fields and original dictionary"
+  },
+  {
+    "source": "ipeds",
+    "year": 2013,
+    "file": "ipeds/ic2013_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ic2013_dict.zip",
+    "description": "Institutional characteristics: annual athletics conference fields and original dictionary"
+  },
+  {
+    "source": "ipeds",
+    "year": 2014,
+    "file": "ipeds/ic2014.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ic2014.zip",
+    "description": "Institutional characteristics: annual athletics conference fields and original dictionary"
+  },
+  {
+    "source": "ipeds",
+    "year": 2014,
+    "file": "ipeds/ic2014_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ic2014_dict.zip",
+    "description": "Institutional characteristics: annual athletics conference fields and original dictionary"
+  },
+  {
+    "source": "ipeds",
+    "year": 2015,
+    "file": "ipeds/ic2015.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ic2015.zip",
+    "description": "Institutional characteristics: annual athletics conference fields and original dictionary"
+  },
+  {
+    "source": "ipeds",
+    "year": 2015,
+    "file": "ipeds/ic2015_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ic2015_dict.zip",
+    "description": "Institutional characteristics: annual athletics conference fields and original dictionary"
+  },
+  {
+    "source": "ipeds",
+    "year": 2016,
+    "file": "ipeds/ic2016.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ic2016.zip",
+    "description": "Institutional characteristics: annual athletics conference fields and original dictionary"
+  },
+  {
+    "source": "ipeds",
+    "year": 2016,
+    "file": "ipeds/ic2016_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ic2016_dict.zip",
+    "description": "Institutional characteristics: annual athletics conference fields and original dictionary"
+  },
+  {
+    "source": "ipeds",
+    "year": 2017,
+    "file": "ipeds/ic2017.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ic2017.zip",
+    "description": "Institutional characteristics: annual athletics conference fields and original dictionary"
+  },
+  {
+    "source": "ipeds",
+    "year": 2017,
+    "file": "ipeds/ic2017_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ic2017_dict.zip",
+    "description": "Institutional characteristics: annual athletics conference fields and original dictionary"
+  },
+  {
+    "source": "ipeds",
+    "year": 2018,
+    "file": "ipeds/ic2018.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ic2018.zip",
+    "description": "Institutional characteristics: annual athletics conference fields and original dictionary"
+  },
+  {
+    "source": "ipeds",
+    "year": 2018,
+    "file": "ipeds/ic2018_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ic2018_dict.zip",
+    "description": "Institutional characteristics: annual athletics conference fields and original dictionary"
+  },
+  {
+    "source": "ipeds",
+    "year": 2019,
+    "file": "ipeds/ic2019.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ic2019.zip",
+    "description": "Institutional characteristics: annual athletics conference fields and original dictionary"
+  },
+  {
+    "source": "ipeds",
+    "year": 2019,
+    "file": "ipeds/ic2019_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ic2019_dict.zip",
+    "description": "Institutional characteristics: annual athletics conference fields and original dictionary"
+  },
+  {
+    "source": "espn",
+    "year": 2026,
+    "file": "espn/team_catalog.json",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams?limit=1000",
+    "description": "ESPN stable team ID/name catalog; names only, never used for historical conference classification"
+  },
+  {
+    "source": "ipeds",
+    "year": 2009,
+    "file": "ipeds/ic2009.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ic2009.zip",
+    "description": "Fall 2009 institutional conference and dictionary for athletics ending 2010"
+  },
+  {
+    "source": "ipeds",
+    "year": 2009,
+    "file": "ipeds/ic2009_dict.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/ic2009_dict.zip",
+    "description": "Fall 2009 institutional conference and dictionary for athletics ending 2010"
+  },
+  {
+    "source": "espn",
+    "year": 2009,
+    "file": "espn/ap_final_2009.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2009/types/3/weeks/1/rankings/1?lang=en&region=us",
+    "description": "Verified final AP Top 25, football season 2009"
+  },
+  {
+    "source": "espn",
+    "year": 2009,
+    "file": "espn/ap_preseason_2009.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2009/types/2/weeks/1/rankings/1?lang=en&region=us",
+    "description": "Verified preseason AP Top 25, football season 2009; week1 regular-season endpoint verified by all ranked teams having 0 wins and 0 losses"
+  },
+  {
+    "source": "espn",
+    "year": 2010,
+    "file": "espn/ap_final_2010.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2010/types/3/weeks/1/rankings/1?lang=en&region=us",
+    "description": "Verified final AP Top 25, football season 2010"
+  },
+  {
+    "source": "espn",
+    "year": 2010,
+    "file": "espn/ap_preseason_2010.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2010/types/2/weeks/1/rankings/1?lang=en&region=us",
+    "description": "Verified preseason AP Top 25, football season 2010; week1 regular-season endpoint verified by all ranked teams having 0 wins and 0 losses"
+  },
+  {
+    "source": "espn",
+    "year": 2011,
+    "file": "espn/ap_final_2011.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2011/types/3/weeks/1/rankings/1?lang=en&region=us",
+    "description": "Verified final AP Top 25, football season 2011"
+  },
+  {
+    "source": "espn",
+    "year": 2011,
+    "file": "espn/ap_preseason_2011.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2011/types/2/weeks/1/rankings/1?lang=en&region=us",
+    "description": "Verified preseason AP Top 25, football season 2011; week1 regular-season endpoint verified by all ranked teams having 0 wins and 0 losses"
+  },
+  {
+    "source": "espn",
+    "year": 2012,
+    "file": "espn/ap_final_2012.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2012/types/3/weeks/1/rankings/1?lang=en&region=us",
+    "description": "Verified final AP Top 25, football season 2012"
+  },
+  {
+    "source": "espn",
+    "year": 2012,
+    "file": "espn/ap_preseason_2012.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2012/types/2/weeks/1/rankings/1?lang=en&region=us",
+    "description": "Verified preseason AP Top 25, football season 2012; week1 regular-season endpoint verified by all ranked teams having 0 wins and 0 losses"
+  },
+  {
+    "source": "espn",
+    "year": 2013,
+    "file": "espn/ap_final_2013.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2013/types/3/weeks/1/rankings/1?lang=en&region=us",
+    "description": "Verified final AP Top 25, football season 2013"
+  },
+  {
+    "source": "espn",
+    "year": 2013,
+    "file": "espn/ap_preseason_2013.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2013/types/2/weeks/1/rankings/1?lang=en&region=us",
+    "description": "Verified preseason AP Top 25, football season 2013; week1 regular-season endpoint verified by all ranked teams having 0 wins and 0 losses"
+  },
+  {
+    "source": "espn",
+    "year": 2014,
+    "file": "espn/ap_final_2014.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2014/types/3/weeks/1/rankings/1?lang=en&region=us",
+    "description": "Verified final AP Top 25, football season 2014"
+  },
+  {
+    "source": "espn",
+    "year": 2014,
+    "file": "espn/ap_preseason_2014.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2014/types/2/weeks/1/rankings/1?lang=en&region=us",
+    "description": "Verified preseason AP Top 25, football season 2014; week1 regular-season endpoint verified by all ranked teams having 0 wins and 0 losses"
+  },
+  {
+    "source": "espn",
+    "year": 2015,
+    "file": "espn/ap_final_2015.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2015/types/3/weeks/1/rankings/1?lang=en&region=us",
+    "description": "Verified final AP Top 25, football season 2015"
+  },
+  {
+    "source": "espn",
+    "year": 2015,
+    "file": "espn/ap_preseason_2015.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2015/types/2/weeks/1/rankings/1?lang=en&region=us",
+    "description": "Verified preseason AP Top 25, football season 2015; week1 regular-season endpoint verified by all ranked teams having 0 wins and 0 losses"
+  },
+  {
+    "source": "espn",
+    "year": 2016,
+    "file": "espn/ap_final_2016.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2016/types/3/weeks/1/rankings/1?lang=en&region=us",
+    "description": "Verified final AP Top 25, football season 2016"
+  },
+  {
+    "source": "espn",
+    "year": 2016,
+    "file": "espn/ap_preseason_2016.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2016/types/2/weeks/1/rankings/1?lang=en&region=us",
+    "description": "Verified preseason AP Top 25, football season 2016; week1 regular-season endpoint verified by all ranked teams having 0 wins and 0 losses"
+  },
+  {
+    "source": "espn",
+    "year": 2017,
+    "file": "espn/ap_final_2017.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2017/types/3/weeks/1/rankings/1?lang=en&region=us",
+    "description": "Verified final AP Top 25, football season 2017"
+  },
+  {
+    "source": "espn",
+    "year": 2017,
+    "file": "espn/ap_preseason_2017.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2017/types/2/weeks/1/rankings/1?lang=en&region=us",
+    "description": "Verified preseason AP Top 25, football season 2017; week1 regular-season endpoint verified by all ranked teams having 0 wins and 0 losses"
+  },
+  {
+    "source": "espn",
+    "year": 2018,
+    "file": "espn/ap_final_2018.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2018/types/3/weeks/1/rankings/1?lang=en&region=us",
+    "description": "Verified final AP Top 25, football season 2018"
+  },
+  {
+    "source": "espn",
+    "year": 2018,
+    "file": "espn/ap_preseason_2018.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2018/types/2/weeks/1/rankings/1?lang=en&region=us",
+    "description": "Verified preseason AP Top 25, football season 2018; week1 regular-season endpoint verified by all ranked teams having 0 wins and 0 losses"
+  },
+  {
+    "source": "espn",
+    "year": 2019,
+    "file": "espn/ap_final_2019.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2019/types/3/weeks/1/rankings/1?lang=en&region=us",
+    "description": "Verified final AP Top 25, football season 2019"
+  },
+  {
+    "source": "espn",
+    "year": 2019,
+    "file": "espn/ap_preseason_2019.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2019/types/2/weeks/1/rankings/1?lang=en&region=us",
+    "description": "Verified preseason AP Top 25, football season 2019; week1 regular-season endpoint verified by all ranked teams having 0 wins and 0 losses"
+  }
+]

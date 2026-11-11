@@ -1,0 +1,132 @@
+espn_id,espn_location,espn_display_name,unitid,method
+2005,Air Force,Air Force Falcons,128328,reviewed_alias
+2006,Akron,Akron Zips,200800,exact_normalized
+333,Alabama,Alabama Crimson Tide,100751,exact_normalized
+2026,App State,App State Mountaineers,197869,reviewed_alias
+9,Arizona State,Arizona State Sun Devils,104151,exact_normalized
+12,Arizona,Arizona Wildcats,104179,exact_normalized
+8,Arkansas,Arkansas Razorbacks,106397,exact_normalized
+2032,Arkansas State,Arkansas State Red Wolves,106458,exact_normalized
+349,Army,Army Black Knights,197036,reviewed_alias
+2,Auburn,Auburn Tigers,100858,exact_normalized
+252,BYU,BYU Cougars,230038,exact_normalized
+2050,Ball State,Ball State Cardinals,150136,exact_normalized
+239,Baylor,Baylor Bears,223232,exact_normalized
+68,Boise State,Boise State Broncos,142115,exact_normalized
+103,Boston College,Boston College Eagles,164924,reviewed_alias
+189,Bowling Green,Bowling Green Falcons,201441,exact_normalized
+2084,Buffalo,Buffalo Bulls,196088,exact_normalized
+25,California,California Golden Bears,110635,exact_normalized
+2117,Central Michigan,Central Michigan Chippewas,169248,exact_normalized
+2429,Charlotte,Charlotte 49ers,199139,exact_normalized
+2132,Cincinnati,Cincinnati Bearcats,201885,exact_normalized
+228,Clemson,Clemson Tigers,217882,exact_normalized
+324,Coastal Carolina,Coastal Carolina Chanticleers,218724,exact_normalized
+38,Colorado,Colorado Buffaloes,126614,exact_normalized
+36,Colorado State,Colorado State Rams,126818,exact_normalized
+150,Duke,Duke Blue Devils,198419,exact_normalized
+151,East Carolina,East Carolina Pirates,198464,exact_normalized
+2199,Eastern Michigan,Eastern Michigan Eagles,169798,exact_normalized
+2226,Florida Atlantic,Florida Atlantic Owls,133669,exact_normalized
+57,Florida,Florida Gators,134130,exact_normalized
+2229,Florida International,Florida International Panthers,133951,exact_normalized
+52,Florida State,Florida State Seminoles,134097,exact_normalized
+278,Fresno State,Fresno State Bulldogs,110556,exact_normalized
+61,Georgia,Georgia Bulldogs,139959,exact_normalized
+290,Georgia Southern,Georgia Southern Eagles,139931,exact_normalized
+2247,Georgia State,Georgia State Panthers,139940,exact_normalized
+59,Georgia Tech,Georgia Tech Yellow Jackets,139755,exact_normalized
+62,Hawai'i,Hawai'i Rainbow Warriors,141574,exact_normalized
+248,Houston,Houston Cougars,225511,exact_normalized
+70,Idaho,Idaho Vandals,142285,exact_normalized
+356,Illinois,Illinois Fighting Illini,145637,exact_normalized
+84,Indiana,Indiana Hoosiers,151351,exact_normalized
+2294,Iowa,Iowa Hawkeyes,153658,exact_normalized
+66,Iowa State,Iowa State Cyclones,153603,exact_normalized
+2305,Kansas,Kansas Jayhawks,155317,exact_normalized
+2306,Kansas State,Kansas State Wildcats,155399,exact_normalized
+2309,Kent State,Kent State Golden Flashes,203517,exact_normalized
+96,Kentucky,Kentucky Wildcats,157085,exact_normalized
+99,LSU,LSU Tigers,159391,exact_normalized
+2335,Liberty,Liberty Flames,232557,exact_normalized
+309,Louisiana,Louisiana Ragin' Cajuns,160658,reviewed_alias
+2348,Louisiana Tech,Louisiana Tech Bulldogs,159647,exact_normalized
+97,Louisville,Louisville Cardinals,157289,exact_normalized
+276,Marshall,Marshall Thundering Herd,237525,exact_normalized
+120,Maryland,Maryland Terrapins,163286,exact_normalized
+113,Massachusetts,Massachusetts Minutemen,166629,exact_normalized
+235,Memphis,Memphis Tigers,220862,exact_normalized
+193,Miami (OH),Miami (OH) RedHawks,204024,exact_normalized
+2390,Miami,Miami Hurricanes,135726,exact_normalized
+127,Michigan State,Michigan State Spartans,171100,exact_normalized
+130,Michigan,Michigan Wolverines,170976,exact_normalized
+2393,Middle Tennessee,Middle Tennessee Blue Raiders,220978,reviewed_alias
+135,Minnesota,Minnesota Golden Gophers,174066,exact_normalized
+344,Mississippi State,Mississippi State Bulldogs,176080,exact_normalized
+142,Missouri,Missouri Tigers,178396,exact_normalized
+152,NC State,NC State Wolfpack,199193,reviewed_alias
+2426,Navy,Navy Midshipmen,164155,reviewed_alias
+158,Nebraska,Nebraska Cornhuskers,181464,exact_normalized
+2440,Nevada,Nevada Wolf Pack,182290,exact_normalized
+167,New Mexico,New Mexico Lobos,187985,exact_normalized
+166,New Mexico State,New Mexico State Aggies,188030,exact_normalized
+153,North Carolina,North Carolina Tar Heels,199120,exact_normalized
+249,North Texas,North Texas Mean Green,227216,exact_normalized
+2459,Northern Illinois,Northern Illinois Huskies,147703,exact_normalized
+77,Northwestern,Northwestern Wildcats,147767,exact_normalized
+87,Notre Dame,Notre Dame Fighting Irish,152080,exact_normalized
+195,Ohio,Ohio Bobcats,204857,exact_normalized
+194,Ohio State,Ohio State Buckeyes,204796,exact_normalized
+201,Oklahoma,Oklahoma Sooners,207500,exact_normalized
+197,Oklahoma State,Oklahoma State Cowboys,207388,exact_normalized
+295,Old Dominion,Old Dominion Monarchs,232982,exact_normalized
+145,Ole Miss,Ole Miss Rebels,176017,exact_normalized
+2483,Oregon,Oregon Ducks,209551,exact_normalized
+204,Oregon State,Oregon State Beavers,209542,exact_normalized
+213,Penn State,Penn State Nittany Lions,214777,exact_normalized
+221,Pittsburgh,Pittsburgh Panthers,215293,exact_normalized
+2509,Purdue,Purdue Boilermakers,243780,exact_normalized
+242,Rice,Rice Owls,227757,exact_normalized
+164,Rutgers,Rutgers Scarlet Knights,186380,exact_normalized
+2567,SMU,SMU Mustangs,228246,exact_normalized
+21,San Diego State,San Diego State Aztecs,122409,exact_normalized
+23,San José State,San José State Spartans,122755,reviewed_alias
+6,South Alabama,South Alabama Jaguars,102094,exact_normalized
+2579,South Carolina,South Carolina Gamecocks,218663,exact_normalized
+58,South Florida,South Florida Bulls,137351,exact_normalized
+2572,Southern Miss,Southern Miss Golden Eagles,176372,reviewed_alias
+24,Stanford,Stanford Cardinal,243744,exact_normalized
+183,Syracuse,Syracuse Orange,196413,exact_normalized
+2628,TCU,TCU Horned Frogs,228875,exact_normalized
+218,Temple,Temple Owls,216339,exact_normalized
+2633,Tennessee,Tennessee Volunteers,221759,exact_normalized
+245,Texas A&M,Texas A&M Aggies,228723,exact_normalized
+251,Texas,Texas Longhorns,228778,exact_normalized
+326,Texas State,Texas State Bobcats,228459,exact_normalized
+2641,Texas Tech,Texas Tech Red Raiders,229115,exact_normalized
+2649,Toledo,Toledo Rockets,206084,exact_normalized
+2653,Troy,Troy Trojans,102368,exact_normalized
+2655,Tulane,Tulane Green Wave,160755,exact_normalized
+202,Tulsa,Tulsa Golden Hurricane,207971,exact_normalized
+5,UAB,UAB Blazers,100663,exact_normalized
+2116,UCF,UCF Knights,132903,exact_normalized
+26,UCLA,UCLA Bruins,110662,exact_normalized
+41,UConn,UConn Huskies,129020,exact_normalized
+2433,UL Monroe,UL Monroe Warhawks,159993,reviewed_alias
+2439,UNLV,UNLV Rebels,182281,exact_normalized
+30,USC,USC Trojans,123961,exact_normalized
+2638,UTEP,UTEP Miners,228796,exact_normalized
+2636,UTSA,UTSA Roadrunners,229027,exact_normalized
+328,Utah State,Utah State Aggies,230728,exact_normalized
+254,Utah,Utah Utes,230764,exact_normalized
+238,Vanderbilt,Vanderbilt Commodores,221999,exact_normalized
+258,Virginia,Virginia Cavaliers,234076,exact_normalized
+259,Virginia Tech,Virginia Tech Hokies,233921,exact_normalized
+154,Wake Forest,Wake Forest Demon Deacons,199847,exact_normalized
+264,Washington,Washington Huskies,236948,exact_normalized
+265,Washington State,Washington State Cougars,236939,exact_normalized
+277,West Virginia,West Virginia Mountaineers,238032,exact_normalized
+98,Western Kentucky,Western Kentucky Hilltoppers,157951,exact_normalized
+2711,Western Michigan,Western Michigan Broncos,172699,exact_normalized
+275,Wisconsin,Wisconsin Badgers,240444,exact_normalized
+2751,Wyoming,Wyoming Cowboys,240727,exact_normalized

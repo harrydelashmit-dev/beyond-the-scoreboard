@@ -1,0 +1,112 @@
+[
+  {
+    "source": "espn",
+    "year": 2009,
+    "file": "espn/ap_preseason_2009.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2009/types/1/weeks/1/rankings/1?lang=en&region=us",
+    "description": "Verified preseason AP Top 25, football season 2009",
+    "retrieved_utc": "2026-11-11T01:45:57.564913+00:00",
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2009/types/1/weeks/1/rankings/1?lang=en&region=us"
+  },
+  {
+    "source": "espn",
+    "year": 2010,
+    "file": "espn/ap_preseason_2010.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2010/types/1/weeks/1/rankings/1?lang=en&region=us",
+    "description": "Verified preseason AP Top 25, football season 2010",
+    "retrieved_utc": "2026-11-11T01:45:57.567989+00:00",
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2010/types/1/weeks/1/rankings/1?lang=en&region=us"
+  },
+  {
+    "source": "espn",
+    "year": 2011,
+    "file": "espn/ap_preseason_2011.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2011/types/1/weeks/1/rankings/1?lang=en&region=us",
+    "description": "Verified preseason AP Top 25, football season 2011",
+    "retrieved_utc": "2026-11-11T01:45:57.847684+00:00",
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2011/types/1/weeks/1/rankings/1?lang=en&region=us"
+  },
+  {
+    "source": "espn",
+    "year": 2012,
+    "file": "espn/ap_preseason_2012.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2012/types/1/weeks/1/rankings/1?lang=en&region=us",
+    "description": "Verified preseason AP Top 25, football season 2012",
+    "retrieved_utc": "2026-11-11T01:45:58.309201+00:00",
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2012/types/1/weeks/1/rankings/1?lang=en&region=us"
+  },
+  {
+    "source": "espn",
+    "year": 2013,
+    "file": "espn/ap_preseason_2013.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2013/types/1/weeks/1/rankings/1?lang=en&region=us",
+    "description": "Verified preseason AP Top 25, football season 2013",
+    "retrieved_utc": "2026-11-11T01:46:01.173306+00:00",
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2013/types/1/weeks/1/rankings/1?lang=en&region=us"
+  },
+  {
+    "source": "espn",
+    "year": 2014,
+    "file": "espn/ap_preseason_2014.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2014/types/1/weeks/1/rankings/1?lang=en&region=us",
+    "description": "Verified preseason AP Top 25, football season 2014",
+    "retrieved_utc": "2026-11-11T01:46:01.378823+00:00",
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2014/types/1/weeks/1/rankings/1?lang=en&region=us"
+  },
+  {
+    "source": "espn",
+    "year": 2015,
+    "file": "espn/ap_preseason_2015.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2015/types/1/weeks/1/rankings/1?lang=en&region=us",
+    "description": "Verified preseason AP Top 25, football season 2015",
+    "retrieved_utc": "2026-11-11T01:46:01.793187+00:00",
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2015/types/1/weeks/1/rankings/1?lang=en&region=us"
+  },
+  {
+    "source": "espn",
+    "year": 2016,
+    "file": "espn/ap_preseason_2016.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2016/types/1/weeks/1/rankings/1?lang=en&region=us",
+    "description": "Verified preseason AP Top 25, football season 2016",
+    "retrieved_utc": "2026-11-11T01:46:02.239096+00:00",
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2016/types/1/weeks/1/rankings/1?lang=en&region=us"
+  },
+  {
+    "source": "espn",
+    "year": 2017,
+    "file": "espn/ap_preseason_2017.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2017/types/1/weeks/1/rankings/1?lang=en&region=us",
+    "description": "Verified preseason AP Top 25, football season 2017",
+    "retrieved_utc": "2026-11-11T01:46:04.876751+00:00",
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2017/types/1/weeks/1/rankings/1?lang=en&region=us"
+  },
+  {
+    "source": "espn",
+    "year": 2018,
+    "file": "espn/ap_preseason_2018.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2018/types/1/weeks/1/rankings/1?lang=en&region=us",
+    "description": "Verified preseason AP Top 25, football season 2018",
+    "retrieved_utc": "2026-11-11T01:46:05.160969+00:00",
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2018/types/1/weeks/1/rankings/1?lang=en&region=us"
+  },
+  {
+    "source": "espn",
+    "year": 2019,
+    "file": "espn/ap_preseason_2019.json",
+    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2019/types/1/weeks/1/rankings/1?lang=en&region=us",
+    "description": "Verified preseason AP Top 25, football season 2019",
+    "retrieved_utc": "2026-11-11T01:46:05.520272+00:00",
+    "status": "failed",
+    "error": "404 Client Error: Not Found for url: https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2019/types/1/weeks/1/rankings/1?lang=en&region=us"
+  }
+]

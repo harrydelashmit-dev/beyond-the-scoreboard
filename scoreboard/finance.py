@@ -7,6 +7,14 @@ from .models import fixed_effects
 def run(panel):
     path=ROOT/'data/private/knight_normalized.csv'
     if not path.exists():
+        expanded=ROOT/'results/feasibility_models.csv'
+        if expanded.exists():
+            models=pd.read_csv(expanded)
+            row=models[models.model.eq('B_cup_net_nonallocated_revenue_proxy')&models.primary&models.exposure_term].iloc[0]
+            status=pd.DataFrame([dict(link='cup_to_generated_revenue',
+                status='expanded_proxy_results_available_see_FEASIBILITY_REPORT',n=int(row.n),schools=int(row.schools))])
+            status.to_csv(ROOT/'results/finance_model_status.csv',index=False)
+            return status.iloc[0].to_dict()
         pending='pending_knight_merge_and_definition_review' if (ROOT/'data/private/knight_source_panel.csv').exists() else 'pending_registered_knight_export'
         status=pd.DataFrame([dict(link='cup_to_generated_revenue',status=pending,n=0,schools=0)])
         status.to_csv(ROOT/'results/finance_model_status.csv',index=False)

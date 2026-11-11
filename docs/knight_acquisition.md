@@ -1,5 +1,7 @@
 # Knight-Newhouse historical data acquired
 
+**Subsequent update:** the audit and three-part feasibility analysis are now complete in [FEASIBILITY_REPORT.md](../FEASIBILITY_REPORT.md). This document preserves the acquisition checkpoint and its original remaining-review notes; current interpretation is in the expanded report/methods.
+
 On November 10, 2026, the project obtained a valid registered Excel export from the [2010–2019 custom report](https://knightnewhousedata.org/reports/30e5ca83). The user personally completed registration, terms, and CAPTCHA. The workbook contains `Data` and `Data Dictionary` sheets, native IPEDS IDs, fiscal reporting years, NCAA subdivisions, FBS conferences, and these eight measures:
 
 - Total athletics expenses and total athletics revenues

@@ -13,13 +13,17 @@ import statsmodels.api as sm
 from statsmodels.stats.multitest import multipletests
 from .download import ROOT
 
-def fixed_effects(data, outcome, exposures, controls=()):
-    cols=[outcome,*exposures,*controls,'unitid','year']
+def fixed_effects(data, outcome, exposures, controls=(), *, time_effect='year', school_trends=False, contrasts=None):
+    cols=list(dict.fromkeys([outcome,*exposures,*controls,'unitid','year',time_effect]))
     d=data[cols].replace([np.inf,-np.inf],np.nan).dropna().copy()
-    # Single-observation schools contribute no within-school identifying variation.
-    d=d[d.groupby('unitid').unitid.transform('size')>=2]
+    # Recursively remove singletons from either absorbed dimension: they have no
+    # identifying within-cell variation, including in conference-by-year models.
+    while len(d):
+        keep=(d.groupby('unitid').unitid.transform('size')>=2)&(d.groupby(time_effect)[time_effect].transform('size')>=2)
+        if keep.all():break
+        d=d[keep].copy()
     if len(d)<50 or d.unitid.nunique()<20:raise ValueError('Insufficient observations/clusters for panel model')
-    si,schools=pd.factorize(d.unitid);ti,years=pd.factorize(d.year)
+    si,schools=pd.factorize(d.unitid);ti,years=pd.factorize(d[time_effect])
     n=len(d);g=len(schools);t=len(years)
     design=hstack([csr_matrix((np.ones(n),(np.arange(n),si)),shape=(n,g)),csr_matrix((np.ones(n),(np.arange(n),ti)),shape=(n,t))],format='csr')
     # Rank of bipartite institution-year incidence matrix = vertices-components.
@@ -30,6 +34,10 @@ def fixed_effects(data, outcome, exposures, controls=()):
     for a,b in zip(si,ti):parent[find(a)]=find(g+b)
     components=len({find(i) for i in range(g+t)})
     rank_fe=g+t-components
+    if school_trends:
+        trend=d.year.to_numpy(dtype=float)-d.year.mean()
+        design=hstack([design,csr_matrix((trend,(np.arange(n),si)),shape=(n,g))],format='csr')
+        rank_fe=np.linalg.matrix_rank(design.toarray())
     variables=[outcome,*exposures,*controls]
     projected=[]
     for col in variables:
@@ -52,7 +60,15 @@ def fixed_effects(data, outcome, exposures, controls=()):
     rows=[]
     for i,col in enumerate([*exposures,*controls]):
         b=fit.params[i];p=2*stats.t.sf(abs(b/se[i]),g-1)
-        rows.append(dict(term=col,coefficient=b,std_error=se[i],p_value=p,ci_low=b-critical*se[i],ci_high=b+critical*se[i],n=n,schools=g,year_min=int(d.year.min()),year_max=int(d.year.max()),within_r2=fit.rsquared,outcome=outcome,controls=';'.join(controls),fixed_effects='school;year',cluster='school',df_resid=n-k))
+        rows.append(dict(term=col,coefficient=b,std_error=se[i],p_value=p,ci_low=b-critical*se[i],ci_high=b+critical*se[i],n=n,schools=g,year_min=int(d.year.min()),year_max=int(d.year.max()),within_r2=fit.rsquared,outcome=outcome,controls=';'.join(controls),fixed_effects='school;'+time_effect+(';school_linear_trends' if school_trends else ''),cluster='school',df_resid=n-k))
+    for name,weights in (contrasts or {}).items():
+        columns=[*exposures,*controls]
+        if set(weights)-set(columns):raise ValueError('Unknown term in linear contrast')
+        w=np.array([weights.get(col,0) for col in columns])
+        b=float(w@fit.params);s=float(np.sqrt(w@covariance@w))
+        row=rows[0].copy()
+        row.update(term=name,coefficient=b,std_error=s,p_value=2*stats.t.sf(abs(b/s),g-1),ci_low=b-critical*s,ci_high=b+critical*s)
+        rows.append(row)
     residuals=d[['unitid','year']].copy();residuals['observed_within']=y;residuals['fitted_within']=fit.fittedvalues;residuals['residual']=fit.resid
     return rows,residuals
 

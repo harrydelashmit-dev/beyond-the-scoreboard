@@ -1,5 +1,7 @@
 # Beyond the Scoreboard: working empirical findings
 
+**Historical EADA-only starter:** use `FEASIBILITY_REPORT.md` for the audited Knight/ESPN financial and Flutie analysis. This page preserves the earlier public-source model results separately.
+
 ## Decision finding
 
 This historical panel does **not establish a causal athletics spending → success → student-demand payoff**. The primary estimates have 95% confidence intervals that include zero. This does not prove there is no effect. No causal university ROI has been estimated.
@@ -37,7 +39,7 @@ Sport points come from the archived fall/winter releases, which can be revised b
 
 ## Accounting conclusions
 
-EADA reported revenue is not subsidy-adjusted generated revenue. The secondary EADA reported-revenue regression therefore tests a different measure and cannot establish direct financial self-sufficiency. Knight-Newhouse financial model status: **pending_knight_merge_and_definition_review**. The registered 2010–2019 workbook has been acquired and staged locally; acquisition and coverage are documented in `docs/knight_acquisition.md`. Historical identifiers, fiscal-year matching, and transfer/support definitions still require review before estimating the preferred generated-revenue models. Existing estimates in this report have not been replaced with unreviewed Knight results. The original workbook and school-level financial observations remain in ignored data/private.
+EADA reported revenue is not subsidy-adjusted generated revenue. The secondary EADA reported-revenue regression therefore tests a different measure and cannot establish direct financial self-sufficiency. Financial model status: **expanded_proxy_results_available_see_FEASIBILITY_REPORT**. The registered 2010–2019 Knight workbook has now been acquired, joined with audited source IDs/calendars and analyzed in the separate `FEASIBILITY_REPORT.md`. Its revenue-after-support measure remains qualified by transfer/reporting definitions. This page preserves the earlier EADA estimates; it does not present them as Knight financial estimates. The original workbook and school-level financial observations remain in ignored data/private.
 
 In the explicit hypothetical scenario, a $5m annual increase in athletics cost, no added generated athletics revenue, and $6,000 annual net contribution per extra student would require **834 additional students** to cover the cost (833.33 before rounding). The project does not identify that many students attributable to athletics. Alternative assumptions are in `return_scenarios.csv`.
 

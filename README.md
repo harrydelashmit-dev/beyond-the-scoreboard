@@ -2,11 +2,13 @@
 
 **AC 547 · Track A · Python-only analytics · 2010–2019 historical panel**
 
-A working, reproducible research starter for university administrators evaluating athletic spending, competitive performance, subsequent student demand, and cautious financial scenarios. This project tests the proposed relationships and reports inconclusive findings as readily as positive ones.
+A reproducible management-accounting/economics study asking: **Does the financial return associated with athletic investment depend on the type of competitive success?** Spending → success → receipts/student demand → worthwhile return is a proposed pathway, not a proven causal chain.
 
 **All project cleaning, joins, calculations, regressions, tests, chart generation, and automated download scripts are written in Python.** The registered Knight-Newhouse workbook is obtained through its website and processed in Python. CSV/JSON store data and configuration; Markdown documents the work; HTML/SVG/PNG are generated static outputs. There is no JavaScript, R, Excel formula logic, or non-Python analytics layer in the repository.
 
-Read [FINDINGS.md](FINDINGS.md) first. It contains the actual executed coefficients, confidence intervals, and sample sizes. The earlier conversation's football/FPI pilot is not reproduced or treated as evidence here.
+**Start with [the expanded feasibility report](FEASIBILITY_REPORT.md)** or its [formatted HTML version](results/feasibility_report.html). It contains all 18 primary tests, sample sizes, coefficients, confidence intervals and adjusted p-values, plus the complete sensitivity results. Football FPI is associated with next-year ticket receipts (+6.41% per 10 FPI points; 95% interval +3.99% to +8.89%; 817 observations, 109 schools). Spending-success and primary student-demand tests remain uncertain; basketball applications show an exploratory signal in annual-change models. These results do not identify causal ROI.
+
+The earlier 52-school pilot was independently checked on a broader sample; its directions are supported, but its exact numerical results are **not reproduced** without the original membership/specification. [FINDINGS.md](FINDINGS.md) preserves the earlier EADA-only starter separately.
 
 ## Run it
 
@@ -23,7 +25,7 @@ python -m pip install -r requirements.txt
 python run_project.py --download --test
 ```
 
-The first run downloads 120 official files/codebooks. It takes several minutes and requires internet access, but no API key for the available sources. EADA Excel parsing can be slow; intermediate caches accelerate subsequent runs. Source files are hashed and retained locally under ignored `data/raw/`. The Git repository includes compact processed public data so an offline analysis rerun is also possible:
+This first command downloads and rebuilds the original 120-file EADA/IPEDS/NACDA source panel. EADA Excel parsing can be slow; intermediate caches accelerate subsequent runs. Source files are hashed and retained locally under ignored `data/raw/`. The Git repository includes compact processed public data so an offline rerun of that public-source starter is also possible:
 
 ```text
 python run_project.py --from-processed --test
@@ -31,13 +33,33 @@ python run_project.py --from-processed --test
 
 To rebuild cleaned data from an existing raw cache, use `python run_project.py --test`. Remove only the generated `data/interim/cup_*.csv` or `eada_*.csv` caches after changing their parser logic, or use a fresh clone/cache. Do not refresh raw files casually when trying to reproduce the saved data vintage.
 
+### Expanded Knight-Newhouse / ESPN study
+
+Obtain the registered 2010–2019 workbook using [the documented report/export procedure](docs/sources.md). Save it under ignored `data/private/knight_reports/`, then stage it in Python:
+
+```text
+python -m scoreboard.knight_export --input data/private/knight_reports/knight_2010_2019_30e5ca83.xlsx --source-url https://knightnewhousedata.org/reports/30e5ca83
+python run_project.py --expanded --download --test
+python -m scoreboard.validate_feasibility
+```
+
+The expanded workflow uses the already built/versioned federal/Cup extracts, downloads or verifies 71 configured performance/conference files (including overlap with existing files), rebuilds the audited private panel, estimates the primary and sensitivity models, checks influence, and writes the report/figures/scenarios. ESPN FPI, win records and opening/final AP polls are obtained through public endpoints; no API key is used. For a full fresh raw-source rebuild, run the original `--download --test` command first. A registered Knight workbook is necessary to re-estimate the financial models; the raw data and all school-level financial joins/samples are excluded from Git.
+
+Anyone with the repository can regenerate the expanded report and figures from **saved aggregate coefficients**, without the registered workbook or network access:
+
+```text
+python run_project.py --expanded --report-only --test
+```
+
+That command does not re-estimate licensed-source regressions. [Expanded methods](docs/expanded_methods.md) distinguish complete estimation from report-only reproduction.
+
 ## Results and design
 
-- Three primary tests: prior expenses → Cup points; Cup points → fall t+1 applications; Cup points → fall t+1 first-time enrollment.
-- School and year effects, school-clustered intervals, complete-case sample reporting, and Holm adjustment for the primary tests.
-- Exploratory football/basketball Cup success comparison on a common FBS sample; timing, first-difference, sample, and scoring-rule sensitivities.
-- EADA reported-revenue analysis is explicitly separate from subsidy-adjusted generated revenue.
-- Break-even scenarios use additional enrolled students and net tuition contribution, with transparent hypothetical assumptions.
+- Three separate analyses: spending/success; success/athletics receipts; success/applications and first-time enrollment.
+- 18 primary tests with school and conference-by-year controls, school-clustered intervals, exact-calendar lags and Holm adjustment within families and across all 18.
+- Fully reported sensitivity grid: school/year controls, first differences, school trends, common samples, visibility thresholds, rare-event support, conference groups, past-only prominence/outperformance, and leave-one-school-out checks.
+- Native Knight financial measures, separately qualified revenue-after-support proxy, and EADA reconciliation. No splicing missing Knight observations from EADA.
+- CFO break-even and cohort/retention/capacity/NPV scenarios, with hypothetical benefits clearly separated from causal estimates.
 
 The main estimates are observational associations. Neither significant coefficients nor an appealing diagram establish a causal chain or university ROI. Missing observations are never invented or assigned zero to make a panel look complete.
 
@@ -52,6 +74,12 @@ The main estimates are observational associations. Neither significant coefficie
 | `scoreboard/knight.py` | Validated import of a legitimately obtained registered export |
 | `scoreboard/knight_export.py` | Stage the actual 2010–2019 registered workbook, validate identifiers/coverage, check displayed values |
 | `scoreboard/knight_reports.py` | Parse displayed report captures in Python; distinguish missing values from zeros |
+| `scoreboard/performance.py` | Verified historical ESPN FPI, wins/AP polls and exhaustive NACDA basketball events |
+| `scoreboard/feasibility_data.py` | Historical IDs, fiscal/football/fall calendars, conferences, support proxies, private audited panel |
+| `scoreboard/feasibility.py` | Expanded model grid, pilot audit, common cases, rare events and influence checks |
+| `scoreboard/feasibility_report.py` | Expanded report, aggregate tables and six new figure pairs |
+| `scoreboard/validate_feasibility.py` | Source-cell/calendar checks and independent real-data dummy-OLS validation |
+| `scoreboard/cfo_scenarios.py` | Explicit student cohorts, retention, capacity, capital and discounted cash flows |
 | `scoreboard/scenarios.py` | Explicit hypothetical accounting calculations |
 | `scoreboard/report.py` | Python-generated figures and findings |
 | `config/` | Exact source URLs and reviewed institution aliases |
@@ -64,9 +92,9 @@ The main estimates are observational associations. Neither significant coefficie
 
 ## What is complete and what remains
 
-The public-source Python starter executes end to end, includes real historical data, and produces tested empirical results and charts. A separate private GitHub repository protects unrelated projects.
+The public-source starter and expanded three-part feasibility analysis execute end to end. A separate private GitHub repository protects unrelated projects; Fenix-Jobsite is outside this project.
 
-The **Knight-Newhouse 2010–2019 workbook has now been obtained and staged locally**: 240 listed institutions, 2,400 source rows, and eight financial measures. Total revenue and expenses are both reported for 2,289 school-years; missing observations remain missing. All 1,920 cells in the 2019 portion agree with a separately generated 2019 report. See [the acquisition record](docs/knight_acquisition.md) and [source instructions](docs/sources.md). The expanded revenue and Flutie analyses still require the identifier, timing, definition, and merge review; existing FINDINGS.md results have not been replaced or presented as Knight-based estimates. No private export or credentials are committed.
+The Knight-Newhouse workbook is acquired, staged and joined with retained source IDs and audited calendars. All 1,920 cells in the 2019 portion match a separately generated report. Every source financial value and exact future-cohort join is checked, and three real-data model results agree with an independent full-rank dummy-OLS implementation. The financial transfer/support qualification remains a measurement limit, not an unfulfilled registration step. See [acquisition](docs/knight_acquisition.md), [validation](docs/validation.md), and [the feasibility report](FEASIBILITY_REPORT.md).
 
 The project owner must invite the other four group members and instructor. Each member must commit their own substantive work from their own account; this starter does not manufacture group contributions. Confirm that the local assignment PDF revision matches the previously uploaded copy, obtain instructor topic approval, review the data/methodology, complete final slides, rehearse, attend consultation, and submit peer evaluations. The [assignment checklist](docs/assignment_checklist.md) records the requirements and dates; the [presentation plan](docs/presentation_plan.md) allocates a 20-minute talk among five people.
 
@@ -74,4 +102,4 @@ The optional 2022–2025 extension is deferred. Its NIL, realignment, pandemic, 
 
 ## Data use and credit
 
-Cite U.S. Department of Education EADA, NCES IPEDS, and NACDA/Learfield Directors' Cup for the original data; exact URLs and source pages accompany the derived data. Original publisher PDFs and registered Knight-Newhouse exports are not redistributed in Git. This repository grants no rights to third-party data. See [sources and restrictions](docs/sources.md) before reuse. No confidential sources are used.
+Cite the Knight-Newhouse College Athletics Database (a joint project of the Knight Commission and Syracuse University's S.I. Newhouse School), ESPN/AP, U.S. Department of Education EADA, NCES IPEDS, and NACDA/Learfield Directors' Cup. Exact URLs, retrieval times and source hashes are retained. Original publisher PDFs/ESPN JSON and registered financial exports are not redistributed in Git. Derived factual performance tables and aggregate research results support this noncommercial academic project; no unrestricted third-party data license is asserted. See [sources and restrictions](docs/sources.md). No credentials or confidential institutional records are used.

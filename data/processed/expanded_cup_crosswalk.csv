@@ -1,0 +1,2917 @@
+cup_name,year,unitid,match_method
+Stanford,2010,243744.0,exact_normalized
+Florida,2010,134130.0,exact_normalized
+Virginia,2010,234076.0,reviewed_alias
+UCLA,2010,110662.0,reviewed_alias
+Florida State,2010,134097.0,exact_normalized
+Texas A&M,2010,228723.0,exact_normalized
+North Carolina,2010,199120.0,reviewed_alias
+Ohio State,2010,204796.0,reviewed_alias
+California,2010,110635.0,reviewed_alias
+Duke,2010,198419.0,exact_normalized
+Penn State,2010,214777.0,reviewed_alias
+Oklahoma,2010,207500.0,reviewed_alias
+Southern California,2010,123961.0,exact_normalized
+Oregon,2010,209551.0,exact_normalized
+Texas,2010,228778.0,reviewed_alias
+Tennessee,2010,221759.0,exact_normalized
+Nebraska,2010,181464.0,reviewed_alias
+Minnesota,2010,174066.0,reviewed_alias
+Louisiana State U.,2010,159391.0,reviewed_alias
+Georgia,2010,139959.0,exact_normalized
+Wisconsin,2010,240444.0,reviewed_alias
+Arizona State,2010,104151.0,exact_normalized
+Alabama,2010,100751.0,exact_normalized
+Washington,2010,236948.0,reviewed_alias
+Michigan,2010,170976.0,reviewed_alias
+Auburn,2010,100858.0,exact_normalized
+Notre Dame,2010,152080.0,exact_normalized
+Maryland,2010,163286.0,reviewed_alias
+Kentucky,2010,157085.0,exact_normalized
+Arizona,2010,104179.0,exact_normalized
+Baylor (Tex.),2010,223232.0,reviewed_alias
+Princeton (N.J.),2010,186131.0,reviewed_alias
+Oklahoma State,2010,207388.0,reviewed_alias
+Iowa State,2010,153603.0,exact_normalized
+Illinois,2010,145637.0,reviewed_alias
+Brigham Young (Utah),2010,230038.0,reviewed_alias
+West Virginia,2010,238032.0,exact_normalized
+Virginia Tech,2010,233921.0,reviewed_alias
+Michigan State,2010,171100.0,exact_normalized
+Texas Christian U.,2010,228875.0,exact_normalized
+Louisville,2010,157289.0,exact_normalized
+South Carolina,2010,218663.0,reviewed_alias
+Indiana,2010,151351.0,reviewed_alias
+Texas Tech,2010,229115.0,exact_normalized
+Georgia Tech,2010,139755.0,reviewed_alias
+Arkansas,2010,106397.0,exact_normalized
+New Mexico,2010,187985.0,reviewed_alias
+Clemson,2010,217882.0,exact_normalized
+Missouri,2010,178396.0,reviewed_alias
+Northwestern,2010,147767.0,exact_normalized
+Villanova (Pa.),2010,216597.0,reviewed_alias
+Cornell (N.Y.),2010,190415.0,reviewed_alias
+Wake Forest,2010,199847.0,exact_normalized
+Purdue,2010,243780.0,reviewed_alias
+Iowa,2010,153658.0,exact_normalized
+Mississippi,2010,176017.0,exact_normalized
+Syracuse,2010,196413.0,exact_normalized
+Miami (Fla.),2010,135726.0,reviewed_alias
+Vanderbilt,2010,221999.0,exact_normalized
+Boise State,2010,142115.0,exact_normalized
+Hawaii,2010,141574.0,reviewed_alias
+Connecticut,2010,129020.0,exact_normalized
+Boston College,2010,164924.0,reviewed_alias
+Harvard,2010,166027.0,exact_normalized
+Denver,2010,127060.0,exact_normalized
+San Diego State,2010,122409.0,exact_normalized
+St. John's (N.Y.),2010,195809.0,reviewed_alias
+Oregon State,2010,209542.0,exact_normalized
+Colorado,2010,126614.0,reviewed_alias
+Georgetown,2010,131496.0,exact_normalized
+Kent State,2010,203517.0,reviewed_alias
+New Hampshire,2010,183044.0,reviewed_alias
+Kansas,2010,155317.0,exact_normalized
+Southern Methodist (Tex.),2010,228246.0,reviewed_alias
+Utah,2010,230764.0,exact_normalized
+Yale,2010,130794.0,exact_normalized
+Tulsa,2010,207971.0,exact_normalized
+Northern Arizona,2010,105330.0,exact_normalized
+Middle Tennessee State,2010,220978.0,exact_normalized
+Washington State,2010,236939.0,exact_normalized
+Pennsylvania,2010,215062.0,exact_normalized
+Central Michigan,2010,169248.0,exact_normalized
+Texas El Paso,2010,228796.0,exact_normalized
+Army,2010,197036.0,reviewed_ipeds_alias
+Navy,2010,164155.0,reviewed_ipeds_alias
+Akron,2010,200800.0,reviewed_alias
+UNLV,2010,182281.0,reviewed_alias
+UC Santa Barbara,2010,110705.0,reviewed_alias
+North Carolina State,2010,199193.0,reviewed_alias
+UC Irvine,2010,110653.0,reviewed_alias
+Brown (R.I.),2010,217156.0,reviewed_alias
+Portland,2010,209825.0,exact_normalized
+St. Mary's (Calif.),2010,123554.0,reviewed_alias
+William and Mary (Va.),2010,231624.0,reviewed_alias
+Southern Illinois,2010,149222.0,reviewed_alias
+Air Force,2010,128328.0,reviewed_ipeds_alias
+Rutgers (N.J.),2010,186380.0,reviewed_alias
+Rice (Tex.),2010,227757.0,reviewed_alias
+Dayton,2010,202480.0,exact_normalized
+Northern Iowa,2010,154095.0,exact_normalized
+Vermont,2010,231174.0,exact_normalized
+East Tennessee State,2010,220075.0,exact_normalized
+Pepperdine (Calif.),2010,121150.0,reviewed_alias
+San Diego,2010,122436.0,exact_normalized
+South Florida,2010,137351.0,reviewed_alias
+Central Florida,2010,132903.0,exact_normalized
+Ohio,2010,204857.0,reviewed_alias
+Xavier,2010,206622.0,exact_normalized
+Temple,2010,216339.0,exact_normalized
+Butler (Ind.),2010,150163.0,reviewed_alias
+Houston,2010,225511.0,exact_normalized
+Pittsburgh,2010,215293.0,reviewed_alias
+Fresno State,2010,110556.0,reviewed_alias
+Mississippi State,2010,176080.0,exact_normalized
+Liberty (Va.),2010,232557.0,reviewed_alias
+Cincinnati,2010,201885.0,reviewed_alias
+Bucknell (Pa.),2010,211291.0,reviewed_alias
+Boston University,2010,164988.0,reviewed_alias
+Murray State (Ky.),2010,157401.0,reviewed_alias
+Wichita State (Kans.),2010,156125.0,reviewed_alias
+Miami (Ohio),2010,204024.0,reviewed_alias
+Richmond (Va.),2010,233374.0,reviewed_alias
+Colorado State,2010,126818.0,exact_normalized
+Kansas State,2010,155399.0,exact_normalized
+Hampton (Va.),2010,232265.0,reviewed_alias
+Oral Roberts (Okla.),2010,207582.0,reviewed_alias
+Stony Brook,2010,196097.0,exact_normalized
+Dartmouth (N.H.),2010,182670.0,reviewed_alias
+Florida International,2010,133951.0,exact_normalized
+Loyola Marymount (Calif.),2010,117946.0,reviewed_alias
+East Carolina (N.C.),2010,198464.0,reviewed_alias
+Sacramento State (Calif.),2010,110617.0,reviewed_alias
+Montana,2010,180489.0,exact_normalized
+Wisconsin Green Bay,2010,240277.0,exact_normalized
+Gonzaga (Wash.),2010,235316.0,reviewed_alias
+Coastal Carolina (S.C.),2010,218724.0,reviewed_alias
+Indiana State,2010,151324.0,exact_normalized
+Providence,2010,217402.0,exact_normalized
+Charleston (S.C.),2010,217819.0,reviewed_alias
+Lehigh (Pa.),2010,213543.0,reviewed_alias
+Montana State,2010,180461.0,exact_normalized
+Tulane,2010,160755.0,reviewed_alias
+Fairleigh Dickinson (N.J.),2010,184603.0,reviewed_alias
+Louisiana Lafayette,2010,160658.0,exact_normalized
+Marist (N.Y.),2010,192819.0,reviewed_alias
+Binghamton (N.Y.),2010,196079.0,reviewed_alias
+Jacksonville State (Ala.),2010,101480.0,reviewed_alias
+Long Island - Brooklyn,2010,192439.0,reviewed_alias
+St. Louis,2010,179159.0,reviewed_alias
+Appalachian State,2010,197869.0,exact_normalized
+Columbia/Barnard (N.Y.),2010,190150.0,reviewed_alias
+George Mason (Va.),2010,232186.0,reviewed_alias
+Virginia Commonwealth,2010,234030.0,exact_normalized
+Memphis (Tenn.),2010,220862.0,reviewed_alias
+Illinois State,2010,145813.0,exact_normalized
+Iona (N.Y.),2010,191931.0,reviewed_alias
+North Carolina Wilmington,2010,199218.0,exact_normalized
+Cal State Fullerton,2010,110565.0,reviewed_alias
+Idaho,2010,142285.0,exact_normalized
+American,2010,131159.0,exact_normalized
+Drexel (Pa.),2010,212054.0,reviewed_alias
+North Florida,2010,136172.0,exact_normalized
+Hofstra (N.Y.),2010,191649.0,reviewed_alias
+Wyoming,2010,240727.0,exact_normalized
+James Madison (Va.),2010,232423.0,reviewed_alias
+Old Dominion (Va.),2010,232982.0,reviewed_alias
+DePaul,2010,144740.0,exact_normalized
+Texas San Antonio,2010,229027.0,exact_normalized
+Buffalo,2010,196088.0,exact_normalized
+Nevada-Reno,2010,182290.0,exact_normalized
+Loyola University (Md.),2010,163046.0,reviewed_alias
+Towson (Md.),2010,164076.0,reviewed_alias
+Elon (N.C.),2010,198516.0,reviewed_alias
+Lipscomb (Tenn.),2010,219976.0,reviewed_alias
+Monmouth (N.J.),2010,185572.0,reviewed_alias
+South Carolina State,2010,218733.0,exact_normalized
+Winthrop (S.C.),2010,218964.0,reviewed_alias
+Wisconsin-Milwaukee,2010,240453.0,exact_normalized
+Eastern Michigan,2010,169798.0,exact_normalized
+Drake (Iowa),2010,153269.0,reviewed_alias
+Cleveland State,2010,202134.0,exact_normalized
+Tennessee Chattanooga,2010,221740.0,exact_normalized
+Indiana/Purdue Indianapolis,2010,151111.0,exact_normalized
+Southern Mississippi,2010,176372.0,exact_normalized
+McNeese State (La.),2010,159717.0,reviewed_alias
+North Carolina Charlotte,2010,199139.0,exact_normalized
+Santa Clara (Calif.),2010,122931.0,reviewed_alias
+South Dakota State,2010,219356.0,exact_normalized
+Sam Houston State (Tex.),2010,227881.0,reviewed_alias
+Western Michigan,2010,172699.0,exact_normalized
+Stephen F. Austin,2010,228431.0,reviewed_alias
+Lamar (Tex.),2010,226091.0,reviewed_alias
+Southern Utah,2010,230603.0,exact_normalized
+Southeastern Louisiana,2010,160612.0,exact_normalized
+Northern Colorado,2010,127741.0,exact_normalized
+Cal State Northridge,2010,110608.0,reviewed_alias
+New Mexico State,2010,188030.0,reviewed_alias
+Cal Poly,2010,110422.0,reviewed_alias
+Arkansas State,2010,106458.0,reviewed_alias
+North Carolina Greensboro,2010,199148.0,exact_normalized
+Radford (Va.),2010,233277.0,reviewed_alias
+UC Davis,2010,110644.0,reviewed_alias
+San Jose State (Calif.),2010,122755.0,reviewed_alias
+Arkansas Little Rock,2010,106245.0,exact_normalized
+Arkansas Pine Bluff,2010,106412.0,exact_normalized
+Austin Peay,2010,219602.0,reviewed_alias
+Bethune-Cookman (Fla.),2010,132602.0,reviewed_alias
+Bowling Green,2010,201441.0,reviewed_alias
+Delaware,2010,130943.0,exact_normalized
+Florida Atlantic,2010,133669.0,exact_normalized
+Fordham (N.Y.),2010,191241.0,reviewed_alias
+Indiana/Purdue Ft. Wayne,2010,151102.0,reviewed_alias
+Marquette,2010,239105.0,exact_normalized
+North Texas,2010,227216.0,exact_normalized
+Southern (La.),2010,160621.0,reviewed_alias
+Troy,2010,102368.0,exact_normalized
+Wofford (S.C.),2010,218973.0,reviewed_alias
+Portland State (Ore.),2010,209807.0,reviewed_alias
+Marshall,2010,237525.0,exact_normalized
+Western Kentucky,2010,157951.0,exact_normalized
+Georgia Southern,2010,139931.0,exact_normalized
+Illinois Chicago,2010,145600.0,exact_normalized
+Stetson (Fla.),2010,137546.0,reviewed_alias
+Maryland Eastern Shore,2010,163338.0,exact_normalized
+Cal State Bakersfield,2010,110486.0,reviewed_alias
+Sacred Heart (Conn.),2010,130253.0,reviewed_alias
+Rider (N.J.),2010,186283.0,reviewed_alias
+Furman (S.C.),2010,218070.0,reviewed_alias
+Campbell (N.C.),2010,198136.0,reviewed_alias
+Louisiana Monroe,2010,159993.0,exact_normalized
+South Alabama,2010,102094.0,exact_normalized
+Texas State San Marcos,2010,228459.0,exact_normalized
+Maine,2010,161253.0,exact_normalized
+St. Francis (Pa.),2010,215743.0,reviewed_alias
+Seton Hall (N.J.),2010,186584.0,reviewed_alias
+Alabama A&M,2010,100654.0,exact_normalized
+Alabama Birmingham,2010,100663.0,exact_normalized
+Alcorn State (Miss.),2010,175342.0,reviewed_alias
+Ball State,2010,150136.0,exact_normalized
+Central Connecticut State,2010,128771.0,exact_normalized
+Citadel,2010,217864.0,reviewed_alias
+Colgate (N.Y.),2010,190099.0,reviewed_alias
+Creighton (Nebr.),2010,181002.0,reviewed_alias
+Davidson (N.C.),2010,198385.0,reviewed_alias
+Delaware State,2010,130934.0,exact_normalized
+Eastern Illinois,2010,144892.0,exact_normalized
+Eastern Kentucky,2010,156620.0,exact_normalized
+Eastern Washington,2010,235097.0,exact_normalized
+Fairfield (Conn.),2010,129242.0,reviewed_alias
+Florida A&M,2010,133650.0,reviewed_alias
+Grambling State (La.),2010,159009.0,reviewed_alias
+Hartford (Conn.),2010,129525.0,reviewed_alias
+High Point (N.C.),2010,198695.0,reviewed_alias
+Holy Cross (Mass.),2010,166124.0,reviewed_alias
+Kennesaw State,2010,140164.0,reviewed_alias
+Long Beach State,2010,110583.0,reviewed_alias
+Louisiana Tech,2010,159647.0,exact_normalized
+Massachusetts,2010,166629.0,reviewed_alias
+Mercer (Ga.),2010,140447.0,reviewed_alias
+Missouri State,2010,179566.0,exact_normalized
+Morgan State (Md.),2010,163453.0,reviewed_alias
+Mount St. Mary's (Md.),2010,163462.0,reviewed_alias
+Niagara,2010,193973.0,exact_normalized
+North Dakota,2010,200280.0,exact_normalized
+North Dakota State,2010,200332.0,reviewed_alias
+Northern Illinois,2010,147703.0,exact_normalized
+Northwestern State (La.),2010,160038.0,reviewed_alias
+Oakland (Mich.),2010,171571.0,reviewed_alias
+Prairie View A&M (Tex.),2010,227526.0,reviewed_alias
+Quinnipiac (Conn.),2010,130226.0,reviewed_alias
+Robert Morris (Pa.),2010,215655.0,reviewed_alias
+Siena (N.Y.),2010,195474.0,reviewed_alias
+UC Riverside,2010,110671.0,reviewed_alias
+Utah State,2010,230728.0,exact_normalized
+Weber State (Utah),2010,230782.0,reviewed_alias
+Western Illinois,2010,149772.0,exact_normalized
+Wright State (Ohio),2010,206604.0,reviewed_alias
+Utah Valley State,2010,230737.0,reviewed_alias
+Georgia State,2010,139940.0,exact_normalized
+San Francisco,2010,122612.0,exact_normalized
+Detroit Mercy,2010,169716.0,exact_normalized
+Jackson State (Miss.),2010,175856.0,reviewed_alias
+Charleston Southern (S.C.),2010,217688.0,reviewed_alias
+Idaho State,2010,142276.0,exact_normalized
+Lafayette (Pa.),2010,213385.0,reviewed_alias
+Stanford,2011,243744.0,exact_normalized
+Ohio State,2011,204796.0,reviewed_alias
+California,2011,110635.0,reviewed_alias
+Florida,2011,134130.0,exact_normalized
+Duke,2011,198419.0,exact_normalized
+North Carolina,2011,199120.0,reviewed_alias
+Virginia,2011,234076.0,reviewed_alias
+Texas A&M,2011,228723.0,exact_normalized
+Florida State,2011,134097.0,exact_normalized
+Oklahoma,2011,207500.0,reviewed_alias
+UCLA,2011,110662.0,reviewed_alias
+Texas,2011,228778.0,reviewed_alias
+Penn State,2011,214777.0,reviewed_alias
+Southern California,2011,123961.0,exact_normalized
+Michigan,2011,170976.0,reviewed_alias
+Arizona,2011,104179.0,exact_normalized
+Maryland,2011,163286.0,reviewed_alias
+Notre Dame,2011,152080.0,exact_normalized
+Louisiana State U.,2011,159391.0,reviewed_alias
+Georgia,2011,139959.0,exact_normalized
+Washington,2011,236948.0,reviewed_alias
+Tennessee,2011,221759.0,exact_normalized
+Illinois,2011,145637.0,reviewed_alias
+Arkansas,2011,106397.0,exact_normalized
+Alabama,2011,100751.0,exact_normalized
+Wisconsin,2011,240444.0,reviewed_alias
+Arizona State,2011,104151.0,exact_normalized
+Indiana,2011,151351.0,reviewed_alias
+Minnesota,2011,174066.0,reviewed_alias
+Oregon,2011,209551.0,exact_normalized
+Auburn,2011,100858.0,exact_normalized
+Oklahoma State,2011,207388.0,reviewed_alias
+Nebraska,2011,181464.0,reviewed_alias
+Louisville,2011,157289.0,exact_normalized
+Baylor (Tex.),2011,223232.0,reviewed_alias
+Kentucky,2011,157085.0,exact_normalized
+Brigham Young (Utah),2011,230038.0,reviewed_alias
+Princeton (N.J.),2011,186131.0,reviewed_alias
+South Carolina,2011,218663.0,reviewed_alias
+West Virginia,2011,238032.0,exact_normalized
+Missouri,2011,178396.0,reviewed_alias
+Michigan State,2011,171100.0,exact_normalized
+Iowa,2011,153658.0,exact_normalized
+Connecticut,2011,129020.0,exact_normalized
+Virginia Tech,2011,233921.0,reviewed_alias
+Northwestern,2011,147767.0,exact_normalized
+Clemson,2011,217882.0,exact_normalized
+Texas Tech,2011,229115.0,exact_normalized
+Purdue,2011,243780.0,reviewed_alias
+Villanova (Pa.),2011,216597.0,reviewed_alias
+Miami (Fla.),2011,135726.0,reviewed_alias
+Tulsa,2011,207971.0,exact_normalized
+Texas Christian U.,2011,228875.0,exact_normalized
+Denver,2011,127060.0,exact_normalized
+Georgetown,2011,131496.0,exact_normalized
+Vanderbilt,2011,221999.0,exact_normalized
+New Mexico,2011,187985.0,reviewed_alias
+Kansas State,2011,155399.0,exact_normalized
+Georgia Tech,2011,139755.0,reviewed_alias
+Iowa State,2011,153603.0,exact_normalized
+Syracuse,2011,196413.0,exact_normalized
+Southern Methodist (Tex.),2011,228246.0,reviewed_alias
+Central Florida,2011,132903.0,exact_normalized
+Boston College,2011,164924.0,reviewed_alias
+Mississippi,2011,176017.0,exact_normalized
+Colorado,2011,126614.0,reviewed_alias
+North Carolina State,2011,199193.0,reviewed_alias
+Pennsylvania,2011,215062.0,exact_normalized
+Oregon State,2011,209542.0,exact_normalized
+Cornell (N.Y.),2011,190415.0,reviewed_alias
+Utah,2011,230764.0,exact_normalized
+Kansas,2011,155317.0,exact_normalized
+Kent State,2011,203517.0,reviewed_alias
+Wake Forest,2011,199847.0,exact_normalized
+San Diego State,2011,122409.0,exact_normalized
+New Hampshire,2011,183044.0,reviewed_alias
+Dartmouth (N.H.),2011,182670.0,reviewed_alias
+UC Irvine,2011,110653.0,reviewed_alias
+Mississippi State,2011,176080.0,exact_normalized
+San Diego,2011,122436.0,exact_normalized
+Iona (N.Y.),2011,191931.0,reviewed_alias
+Boston University,2011,164988.0,reviewed_alias
+Boise State,2011,142115.0,exact_normalized
+Yale,2011,130794.0,exact_normalized
+Brown (R.I.),2011,217156.0,reviewed_alias
+South Florida,2011,137351.0,reviewed_alias
+Fresno State,2011,110556.0,reviewed_alias
+East Carolina (N.C.),2011,198464.0,reviewed_alias
+Harvard,2011,166027.0,exact_normalized
+Navy,2011,164155.0,reviewed_ipeds_alias
+North Dakota State,2011,200332.0,reviewed_alias
+Air Force,2011,128328.0,reviewed_ipeds_alias
+Jacksonville State (Ala.),2011,101480.0,reviewed_alias
+St. John's (N.Y.),2011,195809.0,reviewed_alias
+Southern Mississippi,2011,176372.0,exact_normalized
+Marquette,2011,239105.0,exact_normalized
+William and Mary (Va.),2011,231624.0,reviewed_alias
+Lehigh (Pa.),2011,213543.0,reviewed_alias
+Old Dominion (Va.),2011,232982.0,reviewed_alias
+Butler (Ind.),2011,150163.0,reviewed_alias
+UNLV,2011,182281.0,reviewed_alias
+Akron,2011,200800.0,reviewed_alias
+Middle Tennessee State,2011,220978.0,exact_normalized
+Houston,2011,225511.0,exact_normalized
+Georgia Southern,2011,139931.0,exact_normalized
+Coastal Carolina (S.C.),2011,218724.0,reviewed_alias
+Army,2011,197036.0,reviewed_ipeds_alias
+Columbia/Barnard (N.Y.),2011,190150.0,reviewed_alias
+Liberty (Va.),2011,232557.0,reviewed_alias
+Dayton,2011,202480.0,exact_normalized
+Central Michigan,2011,169248.0,exact_normalized
+UC Santa Barbara,2011,110705.0,reviewed_alias
+Providence,2011,217402.0,exact_normalized
+Creighton (Nebr.),2011,181002.0,reviewed_alias
+James Madison (Va.),2011,232423.0,reviewed_alias
+Stony Brook,2011,196097.0,exact_normalized
+Temple,2011,216339.0,exact_normalized
+Sacred Heart (Conn.),2011,130253.0,reviewed_alias
+Sacramento State (Calif.),2011,110617.0,reviewed_alias
+Oral Roberts (Okla.),2011,207582.0,reviewed_alias
+Delaware,2011,130943.0,exact_normalized
+George Mason (Va.),2011,232186.0,reviewed_alias
+Albany,2011,196060.0,reviewed_alias
+Illinois State,2011,145813.0,exact_normalized
+Pittsburgh,2011,215293.0,reviewed_alias
+Virginia Commonwealth,2011,234030.0,exact_normalized
+Bucknell (Pa.),2011,211291.0,reviewed_alias
+Pepperdine (Calif.),2011,121150.0,reviewed_alias
+Southern Illinois,2011,149222.0,reviewed_alias
+American,2011,131159.0,exact_normalized
+Gonzaga (Wash.),2011,235316.0,reviewed_alias
+Hofstra (N.Y.),2011,191649.0,reviewed_alias
+Northern Arizona,2011,105330.0,exact_normalized
+Montana State,2011,180461.0,exact_normalized
+Washington State,2011,236939.0,exact_normalized
+Hawaii,2011,141574.0,reviewed_alias
+Tennessee Chattanooga,2011,221740.0,exact_normalized
+Richmond (Va.),2011,233374.0,reviewed_alias
+Wyoming,2011,240727.0,exact_normalized
+DePaul,2011,144740.0,exact_normalized
+Florida International,2011,133951.0,exact_normalized
+UC Davis,2011,110644.0,reviewed_alias
+Long Beach State,2011,110583.0,reviewed_alias
+Wichita State (Kans.),2011,156125.0,reviewed_alias
+Cal Poly,2011,110422.0,reviewed_alias
+Bethune-Cookman (Fla.),2011,132602.0,reviewed_alias
+Texas San Antonio,2011,229027.0,exact_normalized
+Northern Iowa,2011,154095.0,exact_normalized
+Portland,2011,209825.0,exact_normalized
+Cincinnati,2011,201885.0,reviewed_alias
+Eastern Washington,2011,235097.0,exact_normalized
+Marist (N.Y.),2011,192819.0,reviewed_alias
+Maryland Eastern Shore,2011,163338.0,exact_normalized
+South Carolina State,2011,218733.0,exact_normalized
+Wisconsin Green Bay,2011,240277.0,exact_normalized
+Xavier,2011,206622.0,exact_normalized
+Western Kentucky,2011,157951.0,exact_normalized
+Rutgers (N.J.),2011,186380.0,reviewed_alias
+Memphis (Tenn.),2011,220862.0,reviewed_alias
+Wofford (S.C.),2011,218973.0,reviewed_alias
+Colorado State,2011,126818.0,exact_normalized
+Stetson (Fla.),2011,137546.0,reviewed_alias
+Ohio,2011,204857.0,reviewed_alias
+Appalachian State,2011,197869.0,exact_normalized
+Binghamton (N.Y.),2011,196079.0,reviewed_alias
+North Dakota,2011,200280.0,exact_normalized
+Indiana State,2011,151324.0,exact_normalized
+Morehead State (Ky.),2011,157386.0,reviewed_alias
+Texas El Paso,2011,228796.0,exact_normalized
+Belmont (Tenn.),2011,219709.0,reviewed_alias
+Charleston (S.C.),2011,217819.0,reviewed_alias
+East Tennessee State,2011,220075.0,exact_normalized
+Santa Clara (Calif.),2011,122931.0,reviewed_alias
+Southeastern Louisiana,2011,160612.0,exact_normalized
+Murray State (Ky.),2011,157401.0,reviewed_alias
+Cal State Fullerton,2011,110565.0,reviewed_alias
+Vermont,2011,231174.0,exact_normalized
+North Carolina Greensboro,2011,199148.0,exact_normalized
+Texas State San Marcos,2011,228459.0,exact_normalized
+Miami (Ohio),2011,204024.0,reviewed_alias
+Troy,2011,102368.0,exact_normalized
+Illinois Chicago,2011,145600.0,exact_normalized
+Texas Arlington,2011,228769.0,exact_normalized
+Tulane,2011,160755.0,reviewed_alias
+Portland State (Ore.),2011,209807.0,reviewed_alias
+Toledo,2011,206084.0,exact_normalized
+Loyola University (Md.),2011,163046.0,reviewed_alias
+Northern Illinois,2011,147703.0,exact_normalized
+San Jose State (Calif.),2011,122755.0,reviewed_alias
+Nevada-Reno,2011,182290.0,exact_normalized
+North Carolina Wilmington,2011,199218.0,exact_normalized
+Rice (Tex.),2011,227757.0,reviewed_alias
+Loyola Marymount (Calif.),2011,117946.0,reviewed_alias
+Fairleigh Dickinson (N.J.),2011,184603.0,reviewed_alias
+North Carolina Charlotte,2011,199139.0,exact_normalized
+Pacific (Calif.),2011,120883.0,reviewed_alias
+Arkansas Little Rock,2011,106245.0,exact_normalized
+Jackson State (Miss.),2011,175856.0,reviewed_alias
+Southeast Missouri State,2011,179557.0,exact_normalized
+Stephen F. Austin,2011,228431.0,reviewed_alias
+Towson (Md.),2011,164076.0,reviewed_alias
+Western Illinois,2011,149772.0,exact_normalized
+San Francisco,2011,122612.0,exact_normalized
+Southern Utah,2011,230603.0,exact_normalized
+Alcorn State (Miss.),2011,175342.0,reviewed_alias
+Austin Peay,2011,219602.0,reviewed_alias
+Hampton (Va.),2011,232265.0,reviewed_alias
+Hartford (Conn.),2011,129525.0,reviewed_alias
+High Point (N.C.),2011,198695.0,reviewed_alias
+Jacksonville,2011,134945.0,exact_normalized
+Louisiana Lafayette,2011,160658.0,exact_normalized
+Maryland Baltimore County,2011,163268.0,exact_normalized
+Massachusetts,2011,166629.0,reviewed_alias
+Missouri State,2011,179566.0,exact_normalized
+Oakland (Mich.),2011,171571.0,reviewed_alias
+Samford (Ala.),2011,102049.0,reviewed_alias
+Siena (N.Y.),2011,195474.0,reviewed_alias
+St. Francis (Pa.),2011,215743.0,reviewed_alias
+St. Peter's (N.J.),2011,186432.0,reviewed_alias
+Utah State,2011,230728.0,exact_normalized
+Western Michigan,2011,172699.0,exact_normalized
+Cleveland State,2011,202134.0,exact_normalized
+North Texas,2011,227216.0,exact_normalized
+Kennesaw State,2011,140164.0,reviewed_alias
+Northwestern State (La.),2011,160038.0,reviewed_alias
+Utah Valley,2011,230737.0,exact_normalized
+New Mexico State,2011,188030.0,reviewed_alias
+Buffalo,2011,196088.0,exact_normalized
+Arkansas State,2011,106458.0,reviewed_alias
+Louisiana Tech,2011,159647.0,exact_normalized
+Northern Colorado,2011,127741.0,exact_normalized
+Sam Houston State (Tex.),2011,227881.0,reviewed_alias
+Gardner-Webb (N.C.),2011,198561.0,reviewed_alias
+Missouri Kansas City,2011,178402.0,exact_normalized
+UAB,2011,100663.0,reviewed_alias
+Delaware State,2011,130934.0,exact_normalized
+Weber State (Utah),2011,230782.0,reviewed_alias
+Alabama A&M,2011,100654.0,exact_normalized
+Ball State,2011,150136.0,exact_normalized
+Bowling Green,2011,201441.0,reviewed_alias
+Bradley (Ill.),2011,143358.0,reviewed_alias
+Drake (Iowa),2011,153269.0,reviewed_alias
+Eastern Kentucky,2011,156620.0,exact_normalized
+Fordham (N.Y.),2011,191241.0,reviewed_alias
+George Washington,2011,131469.0,exact_normalized
+Georgia State,2011,139940.0,exact_normalized
+Indiana/Purdue Ft. Wayne,2011,151102.0,reviewed_alias
+Lipscomb (Tenn.),2011,219976.0,reviewed_alias
+Long Island - Brooklyn,2011,192439.0,reviewed_alias
+Maine,2011,161253.0,exact_normalized
+Manhattan,2011,192703.0,exact_normalized
+McNeese State (La.),2011,159717.0,reviewed_alias
+Mercer (Ga.),2011,140447.0,reviewed_alias
+Monmouth (N.J.),2011,185572.0,reviewed_alias
+Montana,2011,180489.0,exact_normalized
+Niagara,2011,193973.0,exact_normalized
+North Carolina Asheville,2011,199111.0,exact_normalized
+Prairie View A&M (Tex.),2011,227526.0,reviewed_alias
+Quinnipiac (Conn.),2011,130226.0,reviewed_alias
+Radford (Va.),2011,233277.0,reviewed_alias
+Rider (N.J.),2011,186283.0,reviewed_alias
+Robert Morris (Pa.),2011,215655.0,reviewed_alias
+Seton Hall (N.J.),2011,186584.0,reviewed_alias
+South Dakota State,2011,219356.0,exact_normalized
+Southern (La.),2011,160621.0,reviewed_alias
+St. Francis (N.Y.),2011,195173.0,reviewed_alias
+St. Mary's (Calif.),2011,123554.0,reviewed_alias
+Tennessee Martin,2011,221768.0,exact_normalized
+Texas A&M Corpus Christi,2011,224147.0,exact_normalized
+Winthrop (S.C.),2011,218964.0,reviewed_alias
+Wisconsin-Milwaukee,2011,240453.0,exact_normalized
+Wright State (Ohio),2011,206604.0,reviewed_alias
+Detroit Mercy,2011,169716.0,exact_normalized
+Idaho State,2011,142276.0,exact_normalized
+Eastern Illinois,2011,144892.0,exact_normalized
+Drexel (Pa.),2011,212054.0,reviewed_alias
+Cal State Bakersfield,2011,110486.0,reviewed_alias
+Alabama State,2011,100724.0,exact_normalized
+Campbell (N.C.),2011,198136.0,reviewed_alias
+Citadel,2011,217864.0,reviewed_alias
+Eastern Michigan,2011,169798.0,exact_normalized
+Lamar (Tex.),2011,226091.0,reviewed_alias
+North Florida,2011,136172.0,exact_normalized
+Virginia Military,2011,234085.0,reviewed_alias
+Stanford,2012,243744.0,exact_normalized
+Florida,2012,134130.0,exact_normalized
+UCLA,2012,110662.0,reviewed_alias
+Ohio State,2012,204796.0,reviewed_alias
+Florida State,2012,134097.0,exact_normalized
+Texas,2012,228778.0,reviewed_alias
+Southern California,2012,123961.0,exact_normalized
+North Carolina,2012,199120.0,reviewed_alias
+Texas A&M,2012,228723.0,exact_normalized
+Michigan,2012,170976.0,reviewed_alias
+California,2012,110635.0,reviewed_alias
+Penn State,2012,214777.0,reviewed_alias
+LSU,2012,159391.0,reviewed_alias
+Oklahoma,2012,207500.0,reviewed_alias
+Virginia,2012,234076.0,reviewed_alias
+Duke,2012,198419.0,exact_normalized
+Notre Dame,2012,152080.0,exact_normalized
+Georgia,2012,139959.0,exact_normalized
+Arizona,2012,104179.0,exact_normalized
+Arkansas,2012,106397.0,exact_normalized
+Illinois,2012,145637.0,reviewed_alias
+Minnesota,2012,174066.0,reviewed_alias
+Alabama,2012,100751.0,exact_normalized
+Oregon,2012,209551.0,exact_normalized
+Baylor,2012,223232.0,exact_normalized
+Wisconsin,2012,240444.0,reviewed_alias
+Maryland,2012,163286.0,reviewed_alias
+Auburn,2012,100858.0,exact_normalized
+Kentucky,2012,157085.0,exact_normalized
+Arizona State,2012,104151.0,exact_normalized
+Washington,2012,236948.0,reviewed_alias
+Louisville,2012,157289.0,exact_normalized
+Tennessee,2012,221759.0,exact_normalized
+Michigan State,2012,171100.0,exact_normalized
+Virginia Tech,2012,233921.0,reviewed_alias
+South Carolina,2012,218663.0,reviewed_alias
+North Carolina State,2012,199193.0,reviewed_alias
+Indiana,2012,151351.0,reviewed_alias
+Princeton (N.J.),2012,186131.0,reviewed_alias
+Nebraska,2012,181464.0,reviewed_alias
+New Mexico,2012,187985.0,reviewed_alias
+Oklahoma State,2012,207388.0,reviewed_alias
+Brigham Young (Utah),2012,230038.0,reviewed_alias
+Northwestern,2012,147767.0,exact_normalized
+West Virginia,2012,238032.0,exact_normalized
+Iowa State,2012,153603.0,exact_normalized
+Purdue,2012,243780.0,reviewed_alias
+Iowa,2012,153658.0,exact_normalized
+Missouri,2012,178396.0,reviewed_alias
+Syracuse,2012,196413.0,exact_normalized
+Vanderbilt,2012,221999.0,exact_normalized
+Texas Christian U.,2012,228875.0,exact_normalized
+Harvard,2012,166027.0,exact_normalized
+Clemson,2012,217882.0,exact_normalized
+Central Florida,2012,132903.0,exact_normalized
+Kansas,2012,155317.0,exact_normalized
+Colorado,2012,126614.0,reviewed_alias
+Tulsa,2012,207971.0,exact_normalized
+Miami (Fla.),2012,135726.0,reviewed_alias
+Boston College,2012,164924.0,reviewed_alias
+Connecticut,2012,129020.0,exact_normalized
+Kansas State,2012,155399.0,exact_normalized
+Georgetown,2012,131496.0,exact_normalized
+Pepperdine (Calif.),2012,121150.0,reviewed_alias
+San Diego State,2012,122409.0,exact_normalized
+Oregon State,2012,209542.0,exact_normalized
+Cornell (N.Y.),2012,190415.0,reviewed_alias
+Stony Brook,2012,196097.0,exact_normalized
+UC Irvine,2012,110653.0,reviewed_alias
+Boise State,2012,142115.0,exact_normalized
+Texas Tech,2012,229115.0,exact_normalized
+Georgia Tech,2012,139755.0,reviewed_alias
+Kent State,2012,203517.0,reviewed_alias
+Utah,2012,230764.0,exact_normalized
+St. John's (N.Y.),2012,195809.0,reviewed_alias
+South Florida,2012,137351.0,reviewed_alias
+Mississippi,2012,176017.0,exact_normalized
+Lehigh (Pa.),2012,213543.0,reviewed_alias
+Old Dominion (Va.),2012,232982.0,reviewed_alias
+Mississippi State,2012,176080.0,exact_normalized
+San Diego,2012,122436.0,exact_normalized
+Illinois State,2012,145813.0,exact_normalized
+Boston University,2012,164988.0,reviewed_alias
+Yale,2012,130794.0,exact_normalized
+Denver,2012,127060.0,exact_normalized
+Dartmouth (N.H.),2012,182670.0,reviewed_alias
+Long Beach State,2012,110583.0,reviewed_alias
+Cincinnati,2012,201885.0,reviewed_alias
+North Dakota State,2012,200332.0,reviewed_alias
+Air Force,2012,128328.0,reviewed_ipeds_alias
+Creighton (Nebr.),2012,181002.0,reviewed_alias
+Wake Forest,2012,199847.0,exact_normalized
+Pennsylvania,2012,215062.0,exact_normalized
+Columbia/Barnard (N.Y.),2012,190150.0,reviewed_alias
+Liberty (Va.),2012,232557.0,reviewed_alias
+Loyola University (Md.),2012,163046.0,reviewed_alias
+Villanova (Pa.),2012,216597.0,reviewed_alias
+UC Santa Barbara,2012,110705.0,reviewed_alias
+Army,2012,197036.0,reviewed_ipeds_alias
+Southern Methodist (Tex.),2012,228246.0,reviewed_alias
+Wichita State (Kans.),2012,156125.0,reviewed_alias
+New Hampshire,2012,183044.0,reviewed_alias
+Ohio,2012,204857.0,reviewed_alias
+Temple,2012,216339.0,exact_normalized
+UNLV,2012,182281.0,reviewed_alias
+Northern Iowa,2012,154095.0,exact_normalized
+Washington State,2012,236939.0,exact_normalized
+Brown (R.I.),2012,217156.0,reviewed_alias
+Southern Illinois,2012,149222.0,reviewed_alias
+Marquette,2012,239105.0,exact_normalized
+Rutgers (N.J.),2012,186380.0,reviewed_alias
+Montana State,2012,180461.0,exact_normalized
+Oral Roberts (Okla.),2012,207582.0,reviewed_alias
+St. Mary's (Calif.),2012,123554.0,reviewed_alias
+Appalachian State,2012,197869.0,exact_normalized
+Delaware,2012,130943.0,exact_normalized
+Iona (N.Y.),2012,191931.0,reviewed_alias
+Louisiana Lafayette,2012,160658.0,exact_normalized
+Maryland Eastern Shore,2012,163338.0,exact_normalized
+Memphis (Tenn.),2012,220862.0,reviewed_alias
+Houston,2012,225511.0,exact_normalized
+UAB,2012,100663.0,reviewed_alias
+Samford (Ala.),2012,102049.0,reviewed_alias
+Southern Mississippi,2012,176372.0,exact_normalized
+Sacred Heart (Conn.),2012,130253.0,reviewed_alias
+Fairleigh Dickinson (N.J.),2012,184603.0,reviewed_alias
+Sam Houston State (Tex.),2012,227881.0,reviewed_alias
+Toledo,2012,206084.0,exact_normalized
+Montana,2012,180489.0,exact_normalized
+East Carolina (N.C.),2012,198464.0,reviewed_alias
+Pittsburgh,2012,215293.0,reviewed_alias
+Northern Illinois,2012,147703.0,exact_normalized
+Vermont,2012,231174.0,exact_normalized
+Virginia Commonwealth,2012,234030.0,exact_normalized
+Southern Utah,2012,230603.0,exact_normalized
+James Madison (Va.),2012,232423.0,reviewed_alias
+Portland,2012,209825.0,exact_normalized
+Hofstra (N.Y.),2012,191649.0,reviewed_alias
+Wyoming,2012,240727.0,exact_normalized
+Central Michigan,2012,169248.0,exact_normalized
+Gonzaga (Wash.),2012,235316.0,reviewed_alias
+Hawaii,2012,141574.0,reviewed_alias
+Texas Arlington,2012,228769.0,exact_normalized
+Texas El Paso,2012,228796.0,exact_normalized
+Texas State San Marcos,2012,228459.0,exact_normalized
+Georgia Southern,2012,139931.0,exact_normalized
+Binghamton (N.Y.),2012,196079.0,reviewed_alias
+Louisiana Tech,2012,159647.0,exact_normalized
+Providence,2012,217402.0,exact_normalized
+Navy,2012,164155.0,reviewed_ipeds_alias
+Middle Tennessee State,2012,220978.0,exact_normalized
+Eastern Kentucky,2012,156620.0,exact_normalized
+Indiana State,2012,151324.0,exact_normalized
+Albany,2012,196060.0,reviewed_alias
+Coastal Carolina (S.C.),2012,218724.0,reviewed_alias
+Dayton,2012,202480.0,exact_normalized
+Florida Gulf Coast,2012,433660.0,exact_normalized
+Western Michigan,2012,172699.0,exact_normalized
+North Carolina Charlotte,2012,199139.0,exact_normalized
+Colorado State,2012,126818.0,exact_normalized
+Norfolk State (Va.),2012,232937.0,reviewed_alias
+Tennessee Chattanooga,2012,221740.0,exact_normalized
+Maine,2012,161253.0,exact_normalized
+Rice (Tex.),2012,227757.0,reviewed_alias
+George Mason (Va.),2012,232186.0,reviewed_alias
+Cal Poly,2012,110422.0,reviewed_alias
+Eastern Michigan,2012,169798.0,exact_normalized
+Valparaiso,2012,152600.0,exact_normalized
+Akron,2012,200800.0,reviewed_alias
+St. Bonaventure (N.Y.),2012,195164.0,reviewed_alias
+Xavier,2012,206622.0,exact_normalized
+North Florida,2012,136172.0,exact_normalized
+Colgate (N.Y.),2012,190099.0,reviewed_alias
+North Dakota,2012,200280.0,exact_normalized
+Northern Arizona,2012,105330.0,exact_normalized
+Long Island - Brooklyn,2012,192439.0,reviewed_alias
+American,2012,131159.0,exact_normalized
+San Jose State (Calif.),2012,122755.0,reviewed_alias
+Western Kentucky,2012,157951.0,exact_normalized
+Towson (Md.),2012,164076.0,reviewed_alias
+North Carolina Wilmington,2012,199218.0,exact_normalized
+Charleston (S.C.),2012,217819.0,reviewed_alias
+DePaul,2012,144740.0,exact_normalized
+Fairfield (Conn.),2012,129242.0,reviewed_alias
+Fresno State,2012,110556.0,reviewed_alias
+Loyola Marymount (Calif.),2012,117946.0,reviewed_alias
+Marist (N.Y.),2012,192819.0,reviewed_alias
+Massachusetts,2012,166629.0,reviewed_alias
+Santa Clara (Calif.),2012,122931.0,reviewed_alias
+Tennessee Martin,2012,221768.0,exact_normalized
+UC Davis,2012,110644.0,reviewed_alias
+Wisconsin Green Bay,2012,240277.0,exact_normalized
+Wisconsin-Milwaukee,2012,240453.0,exact_normalized
+Richmond (Va.),2012,233374.0,reviewed_alias
+North Carolina Greensboro,2012,199148.0,exact_normalized
+Nevada-Reno,2012,182290.0,exact_normalized
+Texas San Antonio,2012,229027.0,exact_normalized
+Murray State (Ky.),2012,157401.0,reviewed_alias
+Jacksonville State (Ala.),2012,101480.0,reviewed_alias
+Arkansas State,2012,106458.0,reviewed_alias
+Illinois Chicago,2012,145600.0,exact_normalized
+Missouri State,2012,179566.0,exact_normalized
+Miami (Ohio),2012,204024.0,reviewed_alias
+Sacramento State (Calif.),2012,110617.0,reviewed_alias
+North Texas,2012,227216.0,exact_normalized
+Campbell (N.C.),2012,198136.0,reviewed_alias
+Hampton (Va.),2012,232265.0,reviewed_alias
+San Francisco,2012,122612.0,exact_normalized
+Lamar (Tex.),2012,226091.0,reviewed_alias
+Central Arkansas,2012,106704.0,exact_normalized
+Wofford (S.C.),2012,218973.0,reviewed_alias
+Indiana/Purdue Indianapolis,2012,151111.0,exact_normalized
+Austin Peay,2012,219602.0,reviewed_alias
+Belmont (Tenn.),2012,219709.0,reviewed_alias
+Bethune-Cookman (Fla.),2012,132602.0,reviewed_alias
+Bradley (Ill.),2012,143358.0,reviewed_alias
+Florida International,2012,133951.0,exact_normalized
+Monmouth (N.J.),2012,185572.0,reviewed_alias
+New Mexico State,2012,188030.0,reviewed_alias
+Prairie View A&M (Tex.),2012,227526.0,reviewed_alias
+Radford (Va.),2012,233277.0,reviewed_alias
+South Alabama,2012,102094.0,exact_normalized
+South Carolina State,2012,218733.0,exact_normalized
+South Dakota State,2012,219356.0,exact_normalized
+St. Louis,2012,179159.0,reviewed_alias
+Utah State,2012,230728.0,exact_normalized
+McNeese State (La.),2012,159717.0,reviewed_alias
+Marshall,2012,237525.0,exact_normalized
+Northern Colorado,2012,127741.0,exact_normalized
+Jackson State (Miss.),2012,175856.0,reviewed_alias
+Tennessee Tech,2012,221847.0,reviewed_alias
+Tulane,2012,160755.0,reviewed_alias
+South Dakota,2012,219471.0,exact_normalized
+Kennesaw State,2012,140164.0,reviewed_alias
+Cal State Bakersfield,2012,110486.0,reviewed_alias
+George Washington,2012,131469.0,exact_normalized
+Loyola Chicago,2012,146719.0,exact_normalized
+Mississippi Valley State,2012,176044.0,exact_normalized
+William and Mary (Va.),2012,231624.0,reviewed_alias
+Eastern Washington,2012,235097.0,exact_normalized
+Buffalo,2012,196088.0,exact_normalized
+Alcorn State (Miss.),2012,175342.0,reviewed_alias
+Arkansas Little Rock,2012,106245.0,exact_normalized
+Arkansas Pine Bluff,2012,106412.0,exact_normalized
+Ball State,2012,150136.0,exact_normalized
+Cal State Fullerton,2012,110565.0,reviewed_alias
+Canisius (N.Y.),2012,189705.0,reviewed_alias
+Citadel,2012,217864.0,reviewed_alias
+Davidson (N.C.),2012,198385.0,reviewed_alias
+Detroit Mercy,2012,169716.0,exact_normalized
+Drake (Iowa),2012,153269.0,reviewed_alias
+East Tennessee State,2012,220075.0,exact_normalized
+Elon (N.C.),2012,198516.0,reviewed_alias
+Furman (S.C.),2012,218070.0,reviewed_alias
+Georgia State,2012,139940.0,exact_normalized
+Idaho State,2012,142276.0,exact_normalized
+La Salle (Pa.),2012,213367.0,reviewed_alias
+Lipscomb (Tenn.),2012,219976.0,reviewed_alias
+Louisiana Monroe,2012,159993.0,exact_normalized
+Manhattan,2012,192703.0,exact_normalized
+Missouri Kansas City,2012,178402.0,exact_normalized
+Morehead State (Ky.),2012,157386.0,reviewed_alias
+Niagara,2012,193973.0,exact_normalized
+North Carolina Asheville,2012,199111.0,exact_normalized
+Northeastern (Mass.),2012,167358.0,reviewed_alias
+Oakland (Mich.),2012,171571.0,reviewed_alias
+Portland State (Ore.),2012,209807.0,reviewed_alias
+Southern (La.),2012,160621.0,reviewed_alias
+Stephen F. Austin,2012,228431.0,reviewed_alias
+Western Illinois,2012,149772.0,exact_normalized
+Winthrop (S.C.),2012,218964.0,reviewed_alias
+Bucknell (Pa.),2012,211291.0,reviewed_alias
+Utah Valley,2012,230737.0,exact_normalized
+Charleston Southern (S.C.),2012,217688.0,reviewed_alias
+Weber State (Utah),2012,230782.0,reviewed_alias
+Rider (N.J.),2012,186283.0,reviewed_alias
+Alabama State,2012,100724.0,exact_normalized
+Butler (Ind.),2012,150163.0,reviewed_alias
+Drexel (Pa.),2012,212054.0,reviewed_alias
+Mount St. Mary's (Md.),2012,163462.0,reviewed_alias
+Siena (N.Y.),2012,195474.0,reviewed_alias
+Southeastern Louisiana,2012,160612.0,exact_normalized
+Stanford,2013,243744.0,exact_normalized
+Florida,2013,134130.0,exact_normalized
+UCLA,2013,110662.0,reviewed_alias
+Michigan,2013,170976.0,reviewed_alias
+Texas A&M,2013,228723.0,exact_normalized
+Penn State,2013,214777.0,reviewed_alias
+Oklahoma,2013,207500.0,reviewed_alias
+North Carolina,2013,199120.0,reviewed_alias
+Notre Dame,2013,152080.0,exact_normalized
+Georgia,2013,139959.0,exact_normalized
+Florida State,2013,134097.0,exact_normalized
+Duke,2013,198419.0,exact_normalized
+Texas,2013,228778.0,reviewed_alias
+USC,2013,123961.0,reviewed_alias
+Oregon,2013,209551.0,exact_normalized
+Ohio State,2013,204796.0,reviewed_alias
+California,2013,110635.0,reviewed_alias
+Arizona State,2013,104151.0,exact_normalized
+LSU,2013,159391.0,reviewed_alias
+Virginia,2013,234076.0,reviewed_alias
+Arkansas,2013,106397.0,exact_normalized
+Minnesota,2013,174066.0,reviewed_alias
+Arizona,2013,104179.0,exact_normalized
+Nebraska,2013,181464.0,reviewed_alias
+Kentucky,2013,157085.0,exact_normalized
+Alabama,2013,100751.0,exact_normalized
+Oklahoma State,2013,207388.0,reviewed_alias
+Washington,2013,236948.0,reviewed_alias
+Wisconsin,2013,240444.0,reviewed_alias
+Michigan State,2013,171100.0,exact_normalized
+Illinois,2013,145637.0,reviewed_alias
+Indiana,2013,151351.0,reviewed_alias
+Auburn,2013,100858.0,exact_normalized
+North Carolina State,2013,199193.0,reviewed_alias
+Princeton,2013,186131.0,exact_normalized
+Virginia Tech,2013,233921.0,reviewed_alias
+Tennessee,2013,221759.0,exact_normalized
+Louisville,2013,157289.0,exact_normalized
+Syracuse,2013,196413.0,exact_normalized
+Northwestern,2013,147767.0,exact_normalized
+Iowa State,2013,153603.0,exact_normalized
+Purdue,2013,243780.0,reviewed_alias
+Brigham Young,2013,230038.0,reviewed_alias
+Maryland,2013,163286.0,reviewed_alias
+Baylor,2013,223232.0,exact_normalized
+Vanderbilt,2013,221999.0,exact_normalized
+South Carolina,2013,218663.0,reviewed_alias
+Texas Tech,2013,229115.0,exact_normalized
+Mississippi State,2013,176080.0,exact_normalized
+TCU,2013,228875.0,reviewed_alias
+New Mexico,2013,187985.0,reviewed_alias
+Clemson,2013,217882.0,exact_normalized
+Missouri,2013,178396.0,reviewed_alias
+Tulsa,2013,207971.0,exact_normalized
+Denver,2013,127060.0,exact_normalized
+Colorado,2013,126614.0,reviewed_alias
+Harvard,2013,166027.0,exact_normalized
+Kansas,2013,155317.0,exact_normalized
+Cornell,2013,190415.0,exact_normalized
+San Diego State,2013,122409.0,exact_normalized
+Mississippi,2013,176017.0,exact_normalized
+Yale,2013,130794.0,exact_normalized
+Georgetown,2013,131496.0,exact_normalized
+Wichita State,2013,156125.0,exact_normalized
+Iowa,2013,153658.0,exact_normalized
+Connecticut,2013,129020.0,exact_normalized
+UCF,2013,132903.0,reviewed_alias
+West Virginia,2013,238032.0,exact_normalized
+Oregon State,2013,209542.0,exact_normalized
+Dartmouth,2013,182670.0,exact_normalized
+Miami (Florida),2013,135726.0,reviewed_alias
+Kansas State,2013,155399.0,exact_normalized
+Air Force,2013,128328.0,reviewed_ipeds_alias
+Georgia Tech,2013,139755.0,reviewed_alias
+Villanova,2013,216597.0,exact_normalized
+Boston College,2013,164924.0,reviewed_alias
+Utah,2013,230764.0,exact_normalized
+Southern Methodist,2013,228246.0,reviewed_alias
+Coastal Carolina,2013,218724.0,exact_normalized
+Kent State,2013,203517.0,reviewed_alias
+Columbia,2013,190150.0,reviewed_alias
+Illinois State,2013,145813.0,exact_normalized
+Boise State,2013,142115.0,exact_normalized
+Creighton,2013,181002.0,exact_normalized
+South Florida,2013,137351.0,reviewed_alias
+Memphis,2013,220862.0,exact_normalized
+UNLV,2013,182281.0,reviewed_alias
+Central Michigan,2013,169248.0,exact_normalized
+Marquette,2013,239105.0,exact_normalized
+Boston University,2013,164988.0,reviewed_alias
+San Diego,2013,122436.0,exact_normalized
+Pepperdine,2013,121150.0,exact_normalized
+Akron,2013,200800.0,reviewed_alias
+Brown,2013,217156.0,exact_normalized
+Stony Brook,2013,196097.0,exact_normalized
+Northern Arizona,2013,105330.0,exact_normalized
+New Hampshire,2013,183044.0,reviewed_alias
+Wake Forest,2013,199847.0,exact_normalized
+Western Kentucky,2013,157951.0,exact_normalized
+North Dakota State,2013,200332.0,reviewed_alias
+Old Dominion,2013,232982.0,exact_normalized
+Pennsylvania,2013,215062.0,exact_normalized
+Navy,2013,164155.0,reviewed_ipeds_alias
+Louisiana Lafayette,2013,160658.0,exact_normalized
+Rice,2013,227757.0,exact_normalized
+San Jose State,2013,122755.0,exact_normalized
+Hawaii,2013,141574.0,reviewed_alias
+Fairleigh Dickinson,2013,184603.0,reviewed_alias
+Pittsburgh,2013,215293.0,reviewed_alias
+UC Irvine,2013,110653.0,reviewed_alias
+Virginia Commonwealth,2013,234030.0,exact_normalized
+Loyola Maryland,2013,163046.0,exact_normalized
+Saint Mary's (CA),2013,123554.0,reviewed_alias
+Army,2013,197036.0,reviewed_ipeds_alias
+Providence College,2013,217402.0,exact_normalized
+Sam Houston State,2013,227881.0,exact_normalized
+Georgia Southern,2013,139931.0,exact_normalized
+Indiana State,2013,151324.0,exact_normalized
+Miami (Ohio),2013,204024.0,reviewed_alias
+Rutgers,2013,186380.0,reviewed_alias
+Northern Iowa,2013,154095.0,exact_normalized
+Montana State,2013,180461.0,exact_normalized
+South Dakota State,2013,219356.0,exact_normalized
+Temple,2013,216339.0,exact_normalized
+Marist College,2013,192819.0,exact_normalized
+East Carolina,2013,198464.0,exact_normalized
+Gonzaga,2013,235316.0,exact_normalized
+Central Arkansas,2013,106704.0,exact_normalized
+William and Mary,2013,231624.0,exact_normalized
+Hofstra,2013,191649.0,exact_normalized
+Oral Roberts,2013,207582.0,exact_normalized
+Jackson State,2013,175856.0,exact_normalized
+Saint Louis,2013,179159.0,exact_normalized
+St. John's,2013,195809.0,reviewed_alias
+Arkansas State,2013,106458.0,reviewed_alias
+Eastern Illinois,2013,144892.0,exact_normalized
+Eastern Michigan,2013,169798.0,exact_normalized
+Massachusetts,2013,166629.0,reviewed_alias
+Weber State,2013,230782.0,exact_normalized
+Bowling Green,2013,201441.0,reviewed_alias
+Binghamton,2013,196079.0,exact_normalized
+Houston,2013,225511.0,exact_normalized
+Quinnipiac,2013,130226.0,exact_normalized
+Portland,2013,209825.0,exact_normalized
+Florida Gulf Coast,2013,433660.0,exact_normalized
+South Alabama,2013,102094.0,exact_normalized
+Liberty,2013,232557.0,exact_normalized
+UAB,2013,100663.0,reviewed_alias
+Texas at San Antonio,2013,229027.0,exact_normalized
+Colorado State,2013,126818.0,exact_normalized
+Austin Peay State,2013,219602.0,exact_normalized
+Cal Poly,2013,110422.0,reviewed_alias
+North Texas,2013,227216.0,exact_normalized
+Lehigh,2013,213543.0,exact_normalized
+Towson,2013,164076.0,exact_normalized
+Albany,2013,196060.0,reviewed_alias
+Butler,2013,150163.0,exact_normalized
+Dayton,2013,202480.0,exact_normalized
+East Tennessee State,2013,220075.0,exact_normalized
+Maryland Eastern Shore,2013,163338.0,exact_normalized
+North Carolina Wilmington,2013,199218.0,exact_normalized
+Iona,2013,191931.0,exact_normalized
+Texas El Paso,2013,228796.0,exact_normalized
+Middle Tennessee State,2013,220978.0,exact_normalized
+Ohio,2013,204857.0,reviewed_alias
+La Salle,2013,213367.0,exact_normalized
+New Mexico State,2013,188030.0,reviewed_alias
+Eastern Kentucky,2013,156620.0,exact_normalized
+North Dakota,2013,200280.0,exact_normalized
+Vermont,2013,231174.0,exact_normalized
+Eastern Washington,2013,235097.0,exact_normalized
+Tennessee Chattanooga,2013,221740.0,exact_normalized
+Cincinnati,2013,201885.0,reviewed_alias
+South Dakota,2013,219471.0,exact_normalized
+Utah State,2013,230728.0,exact_normalized
+North Florida,2013,136172.0,exact_normalized
+Northern Illinois,2013,147703.0,exact_normalized
+Cleveland State,2013,202134.0,exact_normalized
+Valparaiso,2013,152600.0,exact_normalized
+Appalachian State,2013,197869.0,exact_normalized
+Idaho,2013,142285.0,exact_normalized
+Wyoming,2013,240727.0,exact_normalized
+Canisius,2013,189705.0,exact_normalized
+Charleston,2013,217819.0,exact_normalized
+Colgate,2013,190099.0,exact_normalized
+Elon,2013,198516.0,exact_normalized
+Indiana/Purdue Fort Wayne,2013,151102.0,exact_normalized
+Northeastern,2013,167358.0,exact_normalized
+Northwestern State,2013,160038.0,reviewed_alias
+Santa Clara,2013,122931.0,exact_normalized
+Winthrop,2013,218964.0,exact_normalized
+Buffalo,2013,196088.0,exact_normalized
+Fresno State,2013,110556.0,reviewed_alias
+Washington State,2013,236939.0,exact_normalized
+North Carolina Charlotte,2013,199139.0,exact_normalized
+Jacksonville State,2013,101480.0,exact_normalized
+Toledo,2013,206084.0,exact_normalized
+Wofford College,2013,218973.0,exact_normalized
+Ball State,2013,150136.0,exact_normalized
+Southern Utah,2013,230603.0,exact_normalized
+Tulane,2013,160755.0,reviewed_alias
+UC Davis,2013,110644.0,reviewed_alias
+Drexel,2013,212054.0,exact_normalized
+Wisconsin Milwaukee,2013,240453.0,exact_normalized
+Cal State Fullerton,2013,110565.0,reviewed_alias
+Delaware,2013,130943.0,exact_normalized
+Sacramento State,2013,110617.0,reviewed_alias
+Marshall,2013,237525.0,exact_normalized
+San Francisco,2013,122612.0,exact_normalized
+LIU Brooklyn,2013,192439.0,exact_normalized
+James Madison,2013,232423.0,exact_normalized
+Stephen F. Austin State,2013,228431.0,exact_normalized
+North Carolina Greensboro,2013,199148.0,exact_normalized
+"Pacific, University of the",2013,120883.0,exact_normalized
+Citadel,2013,217864.0,reviewed_alias
+Missouri Kansas City,2013,178402.0,exact_normalized
+Wagner College,2013,197197.0,exact_normalized
+Bucknell,2013,211291.0,exact_normalized
+George Mason,2013,232186.0,exact_normalized
+American,2013,131159.0,exact_normalized
+Belmont,2013,219709.0,exact_normalized
+Bryant,2013,217165.0,exact_normalized
+Cal State Northridge,2013,110608.0,reviewed_alias
+Drake,2013,153269.0,exact_normalized
+Florida Atlantic,2013,133669.0,exact_normalized
+Hampton,2013,232265.0,exact_normalized
+Lafayette,2013,213385.0,exact_normalized
+Long Beach State,2013,110583.0,reviewed_alias
+Maryland Baltimore County,2013,163268.0,exact_normalized
+Mississippi Valley State,2013,176044.0,exact_normalized
+Montana,2013,180489.0,exact_normalized
+Niagara,2013,193973.0,exact_normalized
+Oakland,2013,171571.0,exact_normalized
+Prairie View A&M,2013,227526.0,exact_normalized
+South Carolina State,2013,218733.0,exact_normalized
+Southern,2013,160621.0,reviewed_alias
+Tennessee Martin,2013,221768.0,exact_normalized
+Troy,2013,102368.0,exact_normalized
+UC Santa Barbara,2013,110705.0,reviewed_alias
+Xavier,2013,206622.0,exact_normalized
+Saint Francis (NY),2013,195173.0,reviewed_alias
+High Point,2013,198695.0,exact_normalized
+Texas Arlington,2013,228769.0,exact_normalized
+Louisiana Tech,2013,159647.0,exact_normalized
+Loyola Chicago,2013,146719.0,exact_normalized
+Rider,2013,186283.0,exact_normalized
+Florida International,2013,133951.0,exact_normalized
+Rhode Island,2013,217484.0,exact_normalized
+Sacred Heart,2013,130253.0,exact_normalized
+Davidson,2013,198385.0,exact_normalized
+Detroit Mercy,2013,169716.0,exact_normalized
+Idaho State,2013,142276.0,exact_normalized
+Southern Illinois,2013,149222.0,reviewed_alias
+McNeese State,2013,159717.0,exact_normalized
+Missouri State,2013,179566.0,exact_normalized
+Utah Valley,2013,230737.0,exact_normalized
+Bethune-Cookman,2013,132602.0,exact_normalized
+Central Connecticut State,2013,128771.0,exact_normalized
+DePaul,2013,144740.0,exact_normalized
+Fairfield,2013,129242.0,exact_normalized
+Fordham,2013,191241.0,exact_normalized
+Georgia State,2013,139940.0,exact_normalized
+Illinois Chicago,2013,145600.0,exact_normalized
+Jacksonville,2013,134945.0,exact_normalized
+Longwood,2013,232566.0,exact_normalized
+Louisiana Monroe,2013,159993.0,exact_normalized
+Loyola Marymount,2013,117946.0,exact_normalized
+Mercer,2013,140447.0,exact_normalized
+Monmouth,2013,185572.0,exact_normalized
+Nevada,2013,182290.0,reviewed_alias
+North Carolina A&T State,2013,199102.0,exact_normalized
+Northern Colorado,2013,127741.0,exact_normalized
+Portland State,2013,209807.0,exact_normalized
+Radford,2013,233277.0,exact_normalized
+Saint Joseph's,2013,215770.0,exact_normalized
+Samford,2013,102049.0,exact_normalized
+Savannah State,2013,140960.0,exact_normalized
+South Carolina Upstate,2013,218742.0,exact_normalized
+Stetson,2013,137546.0,exact_normalized
+Texas A&M Corpus Christi,2013,224147.0,exact_normalized
+Western Illinois,2013,149772.0,exact_normalized
+Western Michigan,2013,172699.0,exact_normalized
+Wisconsin Green Bay,2013,240277.0,exact_normalized
+Campbell,2013,198136.0,exact_normalized
+Kennesaw State,2013,140164.0,reviewed_alias
+Cal State Bakersfield,2013,110486.0,reviewed_alias
+Gardner-Webb,2013,198561.0,exact_normalized
+Lamar,2013,226091.0,exact_normalized
+Texas State San Marcos,2013,228459.0,exact_normalized
+Alabama State,2013,100724.0,exact_normalized
+Houston Baptist,2013,225399.0,exact_normalized
+Southeast Missouri State,2013,179557.0,exact_normalized
+Southeastern Louisiana,2013,160612.0,exact_normalized
+St. Francis (PA),2013,215743.0,reviewed_alias
+Stanford,2014,243744.0,exact_normalized
+Florida,2014,134130.0,exact_normalized
+Notre Dame,2014,152080.0,exact_normalized
+Virginia,2014,234076.0,reviewed_alias
+Penn State,2014,214777.0,reviewed_alias
+Texas,2014,228778.0,reviewed_alias
+UCLA,2014,110662.0,reviewed_alias
+USC,2014,123961.0,reviewed_alias
+Duke,2014,198419.0,exact_normalized
+Texas A&M,2014,228723.0,exact_normalized
+Kentucky,2014,157085.0,exact_normalized
+Florida State,2014,134097.0,exact_normalized
+Michigan,2014,170976.0,reviewed_alias
+North Carolina,2014,199120.0,reviewed_alias
+Oregon,2014,209551.0,exact_normalized
+Georgia,2014,139959.0,exact_normalized
+Alabama,2014,100751.0,exact_normalized
+Wisconsin,2014,240444.0,reviewed_alias
+Oklahoma,2014,207500.0,reviewed_alias
+California,2014,110635.0,reviewed_alias
+Minnesota,2014,174066.0,reviewed_alias
+Oklahoma State,2014,207388.0,reviewed_alias
+Nebraska,2014,181464.0,reviewed_alias
+LSU,2014,159391.0,reviewed_alias
+Ohio State,2014,204796.0,reviewed_alias
+Arizona,2014,104179.0,exact_normalized
+Arizona State,2014,104151.0,exact_normalized
+Arkansas,2014,106397.0,exact_normalized
+Michigan State,2014,171100.0,exact_normalized
+Louisville,2014,157289.0,exact_normalized
+Baylor,2014,223232.0,exact_normalized
+Maryland,2014,163286.0,reviewed_alias
+Washington,2014,236948.0,reviewed_alias
+Auburn,2014,100858.0,exact_normalized
+South Carolina,2014,218663.0,reviewed_alias
+Indiana,2014,151351.0,reviewed_alias
+Virginia Tech,2014,233921.0,reviewed_alias
+Iowa State,2014,153603.0,exact_normalized
+Colorado,2014,126614.0,reviewed_alias
+Tennessee,2014,221759.0,exact_normalized
+North Carolina State,2014,199193.0,reviewed_alias
+BYU,2014,230038.0,reviewed_alias
+Denver,2014,127060.0,exact_normalized
+Princeton,2014,186131.0,exact_normalized
+Vanderbilt,2014,221999.0,exact_normalized
+Missouri,2014,178396.0,reviewed_alias
+Illinois,2014,145637.0,reviewed_alias
+Purdue,2014,243780.0,reviewed_alias
+Harvard,2014,166027.0,exact_normalized
+Northwestern,2014,147767.0,exact_normalized
+New Mexico,2014,187985.0,reviewed_alias
+Mississippi State,2014,176080.0,exact_normalized
+Syracuse,2014,196413.0,exact_normalized
+Ole Miss,2014,176017.0,reviewed_alias
+Kansas,2014,155317.0,exact_normalized
+San Diego State,2014,122409.0,exact_normalized
+UConn,2014,129020.0,reviewed_alias
+Dartmouth,2014,182670.0,exact_normalized
+Texas Tech,2014,229115.0,exact_normalized
+Clemson,2014,217882.0,exact_normalized
+Columbia,2014,190150.0,reviewed_alias
+Kent State,2014,203517.0,reviewed_alias
+Cornell,2014,190415.0,exact_normalized
+Miami (FL),2014,135726.0,reviewed_alias
+Boston College,2014,164924.0,reviewed_alias
+Georgetown,2014,131496.0,exact_normalized
+Pennsylvania,2014,215062.0,exact_normalized
+Villanova,2014,216597.0,exact_normalized
+West Virginia,2014,238032.0,exact_normalized
+Wake Forest,2014,199847.0,exact_normalized
+Providence,2014,217402.0,exact_normalized
+Utah,2014,230764.0,exact_normalized
+Akron,2014,200800.0,reviewed_alias
+Boise State,2014,142115.0,exact_normalized
+Oregon State,2014,209542.0,exact_normalized
+St. John's (NY),2014,195809.0,reviewed_alias
+TCU,2014,228875.0,reviewed_alias
+Iowa,2014,153658.0,exact_normalized
+Boston University,2014,164988.0,reviewed_alias
+Houston,2014,225511.0,exact_normalized
+North Dakota State,2014,200332.0,reviewed_alias
+New Hampshire,2014,183044.0,reviewed_alias
+Memphis,2014,220862.0,exact_normalized
+Arkansas State,2014,106458.0,reviewed_alias
+Pittsburgh,2014,215293.0,reviewed_alias
+Louisiana Lafayette,2014,160658.0,exact_normalized
+Air Force,2014,128328.0,reviewed_ipeds_alias
+Sam Houston State,2014,227881.0,exact_normalized
+Georgia Tech,2014,139755.0,reviewed_alias
+Navy,2014,164155.0,reviewed_ipeds_alias
+Rutgers,2014,186380.0,reviewed_alias
+Jacksonville State,2014,101480.0,exact_normalized
+South Florida,2014,137351.0,reviewed_alias
+Tulsa,2014,207971.0,exact_normalized
+UCF,2014,132903.0,reviewed_alias
+SMU,2014,228246.0,reviewed_alias
+Massachusetts,2014,166629.0,reviewed_alias
+UNLV,2014,182281.0,reviewed_alias
+Kansas State,2014,155399.0,exact_normalized
+UC Irvine,2014,110653.0,reviewed_alias
+William & Mary,2014,231624.0,exact_normalized
+Long Beach State,2014,110583.0,reviewed_alias
+Bryant,2014,217165.0,exact_normalized
+Rice,2014,227757.0,exact_normalized
+DePaul,2014,144740.0,exact_normalized
+UAB,2014,100663.0,reviewed_alias
+Pepperdine,2014,121150.0,exact_normalized
+Coastal Carolina,2014,218724.0,exact_normalized
+San Diego,2014,122436.0,exact_normalized
+Brown,2014,217156.0,exact_normalized
+Wisconsin Milwaukee,2014,240453.0,exact_normalized
+Old Dominion,2014,232982.0,exact_normalized
+Albany,2014,196060.0,reviewed_alias
+UTEP,2014,228796.0,reviewed_alias
+Loyola Chicago,2014,146719.0,exact_normalized
+East Tennessee State,2014,220075.0,exact_normalized
+Towson,2014,164076.0,exact_normalized
+Colorado State,2014,126818.0,exact_normalized
+Marquette,2014,239105.0,exact_normalized
+Tennessee Chattanooga,2014,221740.0,exact_normalized
+Wichita State,2014,156125.0,exact_normalized
+Northwestern State,2014,160038.0,reviewed_alias
+Western Kentucky,2014,157951.0,exact_normalized
+American,2014,131159.0,exact_normalized
+Northern Arizona,2014,105330.0,exact_normalized
+Creighton,2014,181002.0,exact_normalized
+Cal Poly,2014,110422.0,reviewed_alias
+Cal State Northridge,2014,110608.0,reviewed_alias
+Indiana State,2014,151324.0,exact_normalized
+Portland,2014,209825.0,exact_normalized
+Army,2014,197036.0,reviewed_ipeds_alias
+Southeastern Louisiana,2014,160612.0,exact_normalized
+Eastern Kentucky,2014,156620.0,exact_normalized
+Illinois State,2014,145813.0,exact_normalized
+East Carolina,2014,198464.0,exact_normalized
+Eastern Michigan,2014,169798.0,exact_normalized
+College of Charleston,2014,217819.0,exact_normalized
+Vermont,2014,231174.0,exact_normalized
+UC Santa Barbara,2014,110705.0,reviewed_alias
+Ohio,2014,204857.0,reviewed_alias
+Middle Tennessee State,2014,220978.0,exact_normalized
+Kennesaw State,2014,140164.0,reviewed_alias
+Butler,2014,150163.0,exact_normalized
+Iona,2014,191931.0,exact_normalized
+North Dakota,2014,200280.0,exact_normalized
+Liberty,2014,232557.0,exact_normalized
+UC Davis,2014,110644.0,reviewed_alias
+Jacksonville,2014,134945.0,exact_normalized
+Washington State,2014,236939.0,exact_normalized
+Fordham,2014,191241.0,exact_normalized
+Georgia State,2014,139940.0,exact_normalized
+Fresno State,2014,110556.0,reviewed_alias
+Southern Illinois,2014,149222.0,reviewed_alias
+Central Michigan,2014,169248.0,exact_normalized
+Elon,2014,198516.0,exact_normalized
+Dayton,2014,202480.0,exact_normalized
+Southern Utah,2014,230603.0,exact_normalized
+Montana,2014,180489.0,exact_normalized
+Hawaii,2014,141574.0,reviewed_alias
+Eastern Illinois,2014,144892.0,exact_normalized
+VCU,2014,234030.0,reviewed_alias
+UTSA,2014,229027.0,reviewed_alias
+George Mason,2014,232186.0,exact_normalized
+South Dakota,2014,219471.0,exact_normalized
+Drexel,2014,212054.0,exact_normalized
+Northern Iowa,2014,154095.0,exact_normalized
+Gonzaga,2014,235316.0,exact_normalized
+Pacific,2014,120883.0,exact_normalized
+South Alabama,2014,102094.0,exact_normalized
+Youngstown State,2014,206695.0,exact_normalized
+McNeese State,2014,159717.0,exact_normalized
+Cal State Fullerton,2014,110565.0,reviewed_alias
+Tulane,2014,160755.0,reviewed_alias
+Utah State,2014,230728.0,exact_normalized
+Campbell,2014,198136.0,exact_normalized
+Eastern Washington,2014,235097.0,exact_normalized
+Loyola Maryland,2014,163046.0,exact_normalized
+Stephen F. Austin,2014,228431.0,reviewed_alias
+Sacred Heart,2014,130253.0,exact_normalized
+Wyoming,2014,240727.0,exact_normalized
+St. Francis (NY),2014,195173.0,reviewed_alias
+Yale,2014,130794.0,exact_normalized
+Stony Brook,2014,196097.0,exact_normalized
+Weber State,2014,230782.0,exact_normalized
+Furman,2014,218070.0,exact_normalized
+Mercer,2014,140447.0,exact_normalized
+Georgia Southern,2014,139931.0,exact_normalized
+SIU Edwardsville,2014,149231.0,reviewed_alias
+UMBC,2014,163268.0,reviewed_alias
+Saint Joseph's,2014,215770.0,exact_normalized
+Winthrop,2014,218964.0,exact_normalized
+Delaware,2014,130943.0,exact_normalized
+James Madison,2014,232423.0,exact_normalized
+Quinnipiac,2014,130226.0,exact_normalized
+Western Michigan,2014,172699.0,exact_normalized
+South Carolina State,2014,218733.0,exact_normalized
+Bradley,2014,143358.0,exact_normalized
+Robert Morris,2014,215655.0,exact_normalized
+Jackson State,2014,175856.0,exact_normalized
+Idaho,2014,142285.0,exact_normalized
+Seattle,2014,236595.0,exact_normalized
+Florida Gulf Coast,2014,433660.0,exact_normalized
+San Francisco,2014,122612.0,exact_normalized
+Santa Clara,2014,122931.0,exact_normalized
+Montana State,2014,180461.0,exact_normalized
+Northeastern,2014,167358.0,exact_normalized
+Texas State,2014,228459.0,exact_normalized
+Massachusetts Lowell,2014,166513.0,exact_normalized
+Bowling Green,2014,201441.0,reviewed_alias
+Miami (OH),2014,204024.0,reviewed_alias
+New Mexico State,2014,188030.0,reviewed_alias
+South Dakota State,2014,219356.0,exact_normalized
+Charleston Southern,2014,217688.0,exact_normalized
+Hofstra,2014,191649.0,exact_normalized
+Lehigh,2014,213543.0,exact_normalized
+Bethune-Cookman,2014,132602.0,exact_normalized
+Hampton,2014,232265.0,exact_normalized
+Maryland Eastern Shore,2014,163338.0,exact_normalized
+Maine,2014,161253.0,exact_normalized
+Tennessee State,2014,221838.0,exact_normalized
+Temple,2014,216339.0,exact_normalized
+Binghamton,2014,196079.0,exact_normalized
+Cincinnati,2014,201885.0,reviewed_alias
+George Washington,2014,131469.0,exact_normalized
+Saint Louis,2014,179159.0,exact_normalized
+Lipscomb,2014,219976.0,exact_normalized
+Sacramento State,2014,110617.0,reviewed_alias
+North Carolina Wilmington,2014,199218.0,exact_normalized
+North Carolina Charlotte,2014,199139.0,exact_normalized
+Wisconsin Green Bay,2014,240277.0,exact_normalized
+Marist,2014,192819.0,exact_normalized
+Ball State,2014,150136.0,exact_normalized
+Fairleigh Dickinson,2014,184603.0,reviewed_alias
+Morehead State,2014,157386.0,exact_normalized
+Texas A&M Corpus Christi,2014,224147.0,exact_normalized
+Marshall,2014,237525.0,exact_normalized
+North Texas,2014,227216.0,exact_normalized
+Buffalo,2014,196088.0,exact_normalized
+Northern Illinois,2014,147703.0,exact_normalized
+Bucknell,2014,211291.0,exact_normalized
+Citadel,2014,217864.0,reviewed_alias
+North Florida,2014,136172.0,exact_normalized
+Cleveland State,2014,202134.0,exact_normalized
+San Jose State,2014,122755.0,exact_normalized
+Lamar,2014,226091.0,exact_normalized
+Radford,2014,233277.0,exact_normalized
+Rider,2014,186283.0,exact_normalized
+Cal State Bakersfield,2014,110486.0,reviewed_alias
+Alabama State,2014,100724.0,exact_normalized
+North Carolina Greensboro,2014,199148.0,exact_normalized
+Utah Valley,2014,230737.0,exact_normalized
+Xavier,2014,206622.0,exact_normalized
+Siena,2014,195474.0,exact_normalized
+LIU Brooklyn,2014,192439.0,exact_normalized
+Murray State,2014,157401.0,exact_normalized
+Texas Southern,2014,229063.0,exact_normalized
+NJIT,2014,185828.0,reviewed_alias
+Florida International,2014,133951.0,exact_normalized
+Duquesne,2014,212106.0,exact_normalized
+La Salle,2014,213367.0,exact_normalized
+South Carolina Upstate,2014,218742.0,exact_normalized
+Stetson,2014,137546.0,exact_normalized
+Idaho State,2014,142276.0,exact_normalized
+High Point,2014,198695.0,exact_normalized
+Wright State,2014,206604.0,reviewed_alias
+Canisius,2014,189705.0,exact_normalized
+Fairfield,2014,129242.0,exact_normalized
+Manhattan,2014,192703.0,exact_normalized
+Monmouth,2014,185572.0,exact_normalized
+Florida A&M,2014,133650.0,reviewed_alias
+North Carolina Central,2014,199157.0,exact_normalized
+Drake,2014,153269.0,exact_normalized
+Saint Francis (PA),2014,215743.0,reviewed_alias
+Tennessee Martin,2014,221768.0,exact_normalized
+Colgate,2014,190099.0,exact_normalized
+Lafayette,2014,213385.0,exact_normalized
+Samford,2014,102049.0,exact_normalized
+Wofford,2014,218973.0,exact_normalized
+Central Arkansas,2014,106704.0,exact_normalized
+IUPUI,2014,151111.0,reviewed_alias
+Alcorn State,2014,175342.0,exact_normalized
+Prairie View A&M,2014,227526.0,exact_normalized
+Loyola Marymount,2014,117946.0,exact_normalized
+Coppin State,2014,162283.0,exact_normalized
+Nevada,2014,182290.0,reviewed_alias
+Texas Arlington,2014,228769.0,exact_normalized
+Troy,2014,102368.0,exact_normalized
+Gardner-Webb,2014,198561.0,exact_normalized
+Seton Hall,2014,186584.0,exact_normalized
+Portland State,2014,209807.0,exact_normalized
+North Carolina A&T,2014,199102.0,reviewed_alias
+Detroit Mercy,2014,169716.0,exact_normalized
+Appalachian State,2014,197869.0,exact_normalized
+Davidson,2014,198385.0,exact_normalized
+Northern Colorado,2014,127741.0,exact_normalized
+Saint Peter's,2014,186432.0,exact_normalized
+Mount St. Mary's,2014,163462.0,exact_normalized
+Stanford,2015,243744.0,exact_normalized
+UCLA,2015,110662.0,reviewed_alias
+USC,2015,123961.0,reviewed_alias
+Florida,2015,134130.0,exact_normalized
+North Carolina,2015,199120.0,reviewed_alias
+Virginia,2015,234076.0,reviewed_alias
+Ohio State,2015,204796.0,reviewed_alias
+Penn State,2015,214777.0,reviewed_alias
+Texas,2015,228778.0,reviewed_alias
+Notre Dame,2015,152080.0,exact_normalized
+Florida State,2015,134097.0,exact_normalized
+California,2015,110635.0,reviewed_alias
+Oregon,2015,209551.0,exact_normalized
+Georgia,2015,139959.0,exact_normalized
+LSU,2015,159391.0,reviewed_alias
+Arkansas,2015,106397.0,exact_normalized
+Texas A&M,2015,228723.0,exact_normalized
+Wisconsin,2015,240444.0,reviewed_alias
+Michigan,2015,170976.0,reviewed_alias
+Duke,2015,198419.0,exact_normalized
+Oklahoma,2015,207500.0,reviewed_alias
+Kentucky,2015,157085.0,exact_normalized
+Baylor,2015,223232.0,exact_normalized
+Washington,2015,236948.0,reviewed_alias
+Alabama,2015,100751.0,exact_normalized
+Minnesota,2015,174066.0,reviewed_alias
+North Carolina State,2015,199193.0,reviewed_alias
+Oklahoma State,2015,207388.0,reviewed_alias
+Louisville,2015,157289.0,exact_normalized
+Arizona State,2015,104151.0,exact_normalized
+Illinois,2015,145637.0,reviewed_alias
+Auburn,2015,100858.0,exact_normalized
+Maryland,2015,163286.0,reviewed_alias
+Michigan State,2015,171100.0,exact_normalized
+Virginia Tech,2015,233921.0,reviewed_alias
+Arizona,2015,104179.0,exact_normalized
+TCU,2015,228875.0,reviewed_alias
+Tennessee,2015,221759.0,exact_normalized
+Nebraska,2015,181464.0,reviewed_alias
+Texas Tech,2015,229115.0,exact_normalized
+Princeton,2015,186131.0,exact_normalized
+Missouri,2015,178396.0,reviewed_alias
+Colorado,2015,126614.0,reviewed_alias
+Iowa,2015,153658.0,exact_normalized
+Iowa State,2015,153603.0,exact_normalized
+South Carolina,2015,218663.0,reviewed_alias
+Syracuse,2015,196413.0,exact_normalized
+BYU,2015,230038.0,reviewed_alias
+Denver,2015,127060.0,exact_normalized
+Northwestern,2015,147767.0,exact_normalized
+Vanderbilt,2015,221999.0,exact_normalized
+Mississippi State,2015,176080.0,exact_normalized
+Harvard,2015,166027.0,exact_normalized
+Providence,2015,217402.0,exact_normalized
+Miami (FL),2015,135726.0,reviewed_alias
+Utah,2015,230764.0,exact_normalized
+Clemson,2015,217882.0,exact_normalized
+New Mexico,2015,187985.0,reviewed_alias
+Georgetown,2015,131496.0,exact_normalized
+Purdue,2015,243780.0,reviewed_alias
+Indiana,2015,151351.0,reviewed_alias
+West Virginia,2015,238032.0,exact_normalized
+San Diego State,2015,122409.0,exact_normalized
+Boise State,2015,142115.0,exact_normalized
+Oregon State,2015,209542.0,exact_normalized
+Ole Miss,2015,176017.0,reviewed_alias
+Columbia,2015,190150.0,reviewed_alias
+Villanova,2015,216597.0,exact_normalized
+North Dakota State,2015,200332.0,reviewed_alias
+Boston College,2015,164924.0,reviewed_alias
+Kansas,2015,155317.0,exact_normalized
+Georgia Tech,2015,139755.0,reviewed_alias
+South Florida,2015,137351.0,reviewed_alias
+UConn,2015,129020.0,reviewed_alias
+Akron,2015,200800.0,reviewed_alias
+Dartmouth,2015,182670.0,exact_normalized
+Air Force,2015,128328.0,reviewed_ipeds_alias
+New Hampshire,2015,183044.0,reviewed_alias
+Pepperdine,2015,121150.0,exact_normalized
+Pennsylvania,2015,215062.0,exact_normalized
+UC Irvine,2015,110653.0,reviewed_alias
+Illinois State,2015,145813.0,exact_normalized
+Coastal Carolina,2015,218724.0,exact_normalized
+Rice,2015,227757.0,exact_normalized
+Tulsa,2015,207971.0,exact_normalized
+Albany,2015,196060.0,reviewed_alias
+UCF,2015,132903.0,reviewed_alias
+SMU,2015,228246.0,reviewed_alias
+Stephen F. Austin,2015,228431.0,reviewed_alias
+Wake Forest,2015,199847.0,exact_normalized
+Brown,2015,217156.0,exact_normalized
+Kansas State,2015,155399.0,exact_normalized
+Iona,2015,191931.0,exact_normalized
+Yale,2015,130794.0,exact_normalized
+Kent State,2015,203517.0,reviewed_alias
+Pittsburgh,2015,215293.0,reviewed_alias
+Houston,2015,225511.0,exact_normalized
+Dayton,2015,202480.0,exact_normalized
+St. John's (NY),2015,195809.0,reviewed_alias
+Hawaii,2015,141574.0,reviewed_alias
+Boston University,2015,164988.0,reviewed_alias
+Western Kentucky,2015,157951.0,exact_normalized
+Gonzaga,2015,235316.0,exact_normalized
+Rutgers,2015,186380.0,reviewed_alias
+Buffalo,2015,196088.0,exact_normalized
+UNLV,2015,182281.0,reviewed_alias
+Southern Illinois,2015,149222.0,reviewed_alias
+New Mexico State,2015,188030.0,reviewed_alias
+Northern Arizona,2015,105330.0,exact_normalized
+Florida Gulf Coast,2015,433660.0,exact_normalized
+Louisiana Lafayette,2015,160658.0,exact_normalized
+Cornell,2015,190415.0,exact_normalized
+Wichita State,2015,156125.0,exact_normalized
+San Diego,2015,122436.0,exact_normalized
+UTEP,2015,228796.0,reviewed_alias
+Eastern Kentucky,2015,156620.0,exact_normalized
+Tennessee Chattanooga,2015,221740.0,exact_normalized
+Montana State,2015,180461.0,exact_normalized
+Navy,2015,164155.0,reviewed_ipeds_alias
+Colorado State,2015,126818.0,exact_normalized
+South Alabama,2015,102094.0,exact_normalized
+Northern Iowa,2015,154095.0,exact_normalized
+Sam Houston State,2015,227881.0,exact_normalized
+William & Mary,2015,231624.0,exact_normalized
+VCU,2015,234030.0,reviewed_alias
+DePaul,2015,144740.0,exact_normalized
+Cincinnati,2015,201885.0,reviewed_alias
+Indiana State,2015,151324.0,exact_normalized
+UAB,2015,100663.0,reviewed_alias
+Furman,2015,218070.0,exact_normalized
+Eastern Michigan,2015,169798.0,exact_normalized
+Fordham,2015,191241.0,exact_normalized
+Xavier,2015,206622.0,exact_normalized
+Jacksonville State,2015,101480.0,exact_normalized
+James Madison,2015,232423.0,exact_normalized
+Cal State Fullerton,2015,110565.0,reviewed_alias
+South Dakota State,2015,219356.0,exact_normalized
+East Carolina,2015,198464.0,exact_normalized
+Lehigh,2015,213543.0,exact_normalized
+Northeastern,2015,167358.0,exact_normalized
+UC Davis,2015,110644.0,reviewed_alias
+Southern Utah,2015,230603.0,exact_normalized
+Central Michigan,2015,169248.0,exact_normalized
+Tulane,2015,160755.0,reviewed_alias
+Portland,2015,209825.0,exact_normalized
+Liberty,2015,232557.0,exact_normalized
+Stony Brook,2015,196097.0,exact_normalized
+UMBC,2015,163268.0,reviewed_alias
+North Carolina Charlotte,2015,199139.0,exact_normalized
+Old Dominion,2015,232982.0,exact_normalized
+Arkansas Little Rock,2015,106245.0,exact_normalized
+Bryant,2015,217165.0,exact_normalized
+Florida Atlantic,2015,133669.0,exact_normalized
+Loyola Chicago,2015,146719.0,exact_normalized
+North Carolina Wilmington,2015,199218.0,exact_normalized
+Oakland,2015,171571.0,exact_normalized
+Quinnipiac,2015,130226.0,exact_normalized
+Arkansas State,2015,106458.0,reviewed_alias
+Creighton,2015,181002.0,exact_normalized
+Miami (OH),2015,204024.0,reviewed_alias
+SIU Edwardsville,2015,149231.0,reviewed_alias
+Murray State,2015,157401.0,exact_normalized
+Eastern Washington,2015,235097.0,exact_normalized
+Marquette,2015,239105.0,exact_normalized
+Memphis,2015,220862.0,exact_normalized
+Ohio,2015,204857.0,reviewed_alias
+Sacred Heart,2015,130253.0,exact_normalized
+Kennesaw State,2015,140164.0,reviewed_alias
+Utah State,2015,230728.0,exact_normalized
+Middle Tennessee State,2015,220978.0,exact_normalized
+Washington State,2015,236939.0,exact_normalized
+Hampton,2015,232265.0,exact_normalized
+George Washington,2015,131469.0,exact_normalized
+Toledo,2015,206084.0,exact_normalized
+Hofstra,2015,191649.0,exact_normalized
+Wyoming,2015,240727.0,exact_normalized
+Massachusetts,2015,166629.0,reviewed_alias
+Alabama State,2015,100724.0,exact_normalized
+Nebraska Omaha,2015,181394.0,exact_normalized
+North Dakota,2015,200280.0,exact_normalized
+Bowling Green,2015,201441.0,reviewed_alias
+Jacksonville,2015,134945.0,exact_normalized
+Vermont,2015,231174.0,exact_normalized
+Lipscomb,2015,219976.0,exact_normalized
+Montana,2015,180489.0,exact_normalized
+American,2015,131159.0,exact_normalized
+UMKC,2015,178402.0,reviewed_alias
+Long Beach State,2015,110583.0,reviewed_alias
+Loyola Maryland,2015,163046.0,exact_normalized
+Northwestern State,2015,160038.0,reviewed_alias
+Texas Southern,2015,229063.0,exact_normalized
+College of Charleston,2015,217819.0,exact_normalized
+Monmouth,2015,185572.0,exact_normalized
+Rider,2015,186283.0,exact_normalized
+Binghamton,2015,196079.0,exact_normalized
+North Florida,2015,136172.0,exact_normalized
+Lamar,2015,226091.0,exact_normalized
+Idaho,2015,142285.0,exact_normalized
+Nevada,2015,182290.0,reviewed_alias
+Missouri State,2015,179566.0,exact_normalized
+Cal State Bakersfield,2015,110486.0,reviewed_alias
+East Tennessee State,2015,220075.0,exact_normalized
+Army West Point,2015,197036.0,reviewed_ipeds_alias
+Georgia State,2015,139940.0,exact_normalized
+Seton Hall,2015,186584.0,exact_normalized
+St. Mary's College of California,2015,123554.0,reviewed_alias
+Bradley,2015,143358.0,exact_normalized
+Richmond,2015,233374.0,exact_normalized
+Marshall,2015,237525.0,exact_normalized
+Bucknell,2015,211291.0,exact_normalized
+Northern Colorado,2015,127741.0,exact_normalized
+Campbell,2015,198136.0,exact_normalized
+Butler,2015,150163.0,exact_normalized
+Cal State Northridge,2015,110608.0,reviewed_alias
+Central Connecticut State,2015,128771.0,exact_normalized
+Drake,2015,153269.0,exact_normalized
+Fairfield,2015,129242.0,exact_normalized
+Florida A&M,2015,133650.0,reviewed_alias
+Fresno State,2015,110556.0,reviewed_alias
+High Point,2015,198695.0,exact_normalized
+Houston Baptist,2015,225399.0,exact_normalized
+Marist,2015,192819.0,exact_normalized
+Mercer,2015,140447.0,exact_normalized
+Radford,2015,233277.0,exact_normalized
+Saint Louis,2015,179159.0,exact_normalized
+Samford,2015,102049.0,exact_normalized
+Seattle,2015,236595.0,exact_normalized
+St. Francis (NY),2015,195173.0,reviewed_alias
+UC Santa Barbara,2015,110705.0,reviewed_alias
+Valparaiso,2015,152600.0,exact_normalized
+Western Michigan,2015,172699.0,exact_normalized
+Winthrop,2015,218964.0,exact_normalized
+Wisconsin Green Bay,2015,240277.0,exact_normalized
+Wright State,2015,206604.0,reviewed_alias
+North Texas,2015,227216.0,exact_normalized
+NJIT,2015,185828.0,reviewed_alias
+Southeastern Louisiana,2015,160612.0,exact_normalized
+Troy,2015,102368.0,exact_normalized
+Fairleigh Dickinson,2015,184603.0,reviewed_alias
+Louisiana Tech,2015,159647.0,exact_normalized
+Davidson,2015,198385.0,exact_normalized
+Weber State,2015,230782.0,exact_normalized
+Coppin State,2015,162283.0,exact_normalized
+McNeese State,2015,159717.0,exact_normalized
+Drexel,2015,212054.0,exact_normalized
+Texas State,2015,228459.0,exact_normalized
+Appalachian State,2015,197869.0,exact_normalized
+Charleston Southern,2015,217688.0,exact_normalized
+Robert Morris,2015,215655.0,exact_normalized
+Savannah State,2015,140960.0,exact_normalized
+Temple,2015,216339.0,exact_normalized
+Youngstown State,2015,206695.0,exact_normalized
+Alcorn State,2015,175342.0,exact_normalized
+Ball State,2015,150136.0,exact_normalized
+Belmont,2015,219709.0,exact_normalized
+Bethune-Cookman,2015,132602.0,exact_normalized
+Canisius,2015,189705.0,exact_normalized
+Central Arkansas,2015,106704.0,exact_normalized
+Colgate,2015,190099.0,exact_normalized
+Florida International,2015,133951.0,exact_normalized
+La Salle,2015,213367.0,exact_normalized
+Lafayette,2015,213385.0,exact_normalized
+LIU Brooklyn,2015,192439.0,exact_normalized
+Longwood,2015,232566.0,exact_normalized
+Loyola Marymount,2015,117946.0,exact_normalized
+Morehead State,2015,157386.0,exact_normalized
+Morgan State,2015,163453.0,exact_normalized
+Northern Illinois,2015,147703.0,exact_normalized
+Oral Roberts,2015,207582.0,exact_normalized
+Prairie View A&M,2015,227526.0,exact_normalized
+Santa Clara,2015,122931.0,exact_normalized
+Siena,2015,195474.0,exact_normalized
+South Carolina State,2015,218733.0,exact_normalized
+South Carolina Upstate,2015,218742.0,exact_normalized
+Tennessee State,2015,221838.0,exact_normalized
+Tennessee Tech,2015,221847.0,reviewed_alias
+Texas A&M Corpus Christi,2015,224147.0,exact_normalized
+Towson,2015,164076.0,exact_normalized
+UTSA,2015,229027.0,reviewed_alias
+Wagner,2015,197197.0,exact_normalized
+Wofford,2015,218973.0,exact_normalized
+Cleveland State,2015,202134.0,exact_normalized
+Georgia Southern,2015,139931.0,exact_normalized
+Cal Poly,2015,110422.0,reviewed_alias
+Citadel,2015,217864.0,reviewed_alias
+South Dakota,2015,219471.0,exact_normalized
+San Jose State,2015,122755.0,exact_normalized
+Utah Valley,2015,230737.0,exact_normalized
+George Mason,2015,232186.0,exact_normalized
+Manhattan,2015,192703.0,exact_normalized
+North Carolina A&T,2015,199102.0,reviewed_alias
+Saint Peter's,2015,186432.0,exact_normalized
+Texas Arlington,2015,228769.0,exact_normalized
+Stanford,2016,243744.0,exact_normalized
+Ohio State,2016,204796.0,reviewed_alias
+Michigan,2016,170976.0,reviewed_alias
+USC,2016,123961.0,reviewed_alias
+Florida,2016,134130.0,exact_normalized
+UCLA,2016,110662.0,reviewed_alias
+North Carolina,2016,199120.0,reviewed_alias
+Virginia,2016,234076.0,reviewed_alias
+Texas,2016,228778.0,reviewed_alias
+Oregon,2016,209551.0,exact_normalized
+California,2016,110635.0,reviewed_alias
+Texas A&M,2016,228723.0,exact_normalized
+Oklahoma State,2016,207388.0,reviewed_alias
+Washington,2016,236948.0,reviewed_alias
+Georgia,2016,139959.0,exact_normalized
+Oklahoma,2016,207500.0,reviewed_alias
+Notre Dame,2016,152080.0,exact_normalized
+Minnesota,2016,174066.0,reviewed_alias
+LSU,2016,159391.0,reviewed_alias
+Penn State,2016,214777.0,reviewed_alias
+Syracuse,2016,196413.0,exact_normalized
+Florida State,2016,134097.0,exact_normalized
+Arkansas,2016,106397.0,exact_normalized
+Duke,2016,198419.0,exact_normalized
+Arizona,2016,104179.0,exact_normalized
+Kentucky,2016,157085.0,exact_normalized
+Nebraska,2016,181464.0,reviewed_alias
+Wisconsin,2016,240444.0,reviewed_alias
+Louisville,2016,157289.0,exact_normalized
+BYU,2016,230038.0,reviewed_alias
+South Carolina,2016,218663.0,reviewed_alias
+North Carolina State,2016,199193.0,reviewed_alias
+Princeton,2016,186131.0,exact_normalized
+Tennessee,2016,221759.0,exact_normalized
+Auburn,2016,100858.0,exact_normalized
+Alabama,2016,100751.0,exact_normalized
+Arizona State,2016,104151.0,exact_normalized
+Virginia Tech,2016,233921.0,reviewed_alias
+TCU,2016,228875.0,reviewed_alias
+Miami (FL),2016,135726.0,reviewed_alias
+Indiana,2016,151351.0,reviewed_alias
+Clemson,2016,217882.0,exact_normalized
+Missouri,2016,178396.0,reviewed_alias
+Mississippi State,2016,176080.0,exact_normalized
+Purdue,2016,243780.0,reviewed_alias
+Colorado,2016,126614.0,reviewed_alias
+Texas Tech,2016,229115.0,exact_normalized
+Boston College,2016,164924.0,reviewed_alias
+Ole Miss,2016,176017.0,reviewed_alias
+Northwestern,2016,147767.0,exact_normalized
+Utah,2016,230764.0,exact_normalized
+Denver,2016,127060.0,exact_normalized
+Michigan State,2016,171100.0,exact_normalized
+Illinois,2016,145637.0,reviewed_alias
+Air Force,2016,128328.0,reviewed_ipeds_alias
+Baylor,2016,223232.0,exact_normalized
+UConn,2016,129020.0,reviewed_alias
+Vanderbilt,2016,221999.0,exact_normalized
+Maryland,2016,163286.0,reviewed_alias
+Pennsylvania,2016,215062.0,exact_normalized
+West Virginia,2016,238032.0,exact_normalized
+Iowa,2016,153658.0,exact_normalized
+New Mexico,2016,187985.0,reviewed_alias
+Iowa State,2016,153603.0,exact_normalized
+Kansas,2016,155317.0,exact_normalized
+South Florida,2016,137351.0,reviewed_alias
+Harvard,2016,166027.0,exact_normalized
+Wake Forest,2016,199847.0,exact_normalized
+Kansas State,2016,155399.0,exact_normalized
+Boise State,2016,142115.0,exact_normalized
+Akron,2016,200800.0,reviewed_alias
+Georgetown,2016,131496.0,exact_normalized
+Houston,2016,225511.0,exact_normalized
+Villanova,2016,216597.0,exact_normalized
+Tulsa,2016,207971.0,exact_normalized
+UC Santa Barbara,2016,110705.0,reviewed_alias
+Yale,2016,130794.0,exact_normalized
+Navy,2016,164155.0,reviewed_ipeds_alias
+Hawaii,2016,141574.0,reviewed_alias
+Georgia Tech,2016,139755.0,reviewed_alias
+Cornell,2016,190415.0,exact_normalized
+Dartmouth,2016,182670.0,exact_normalized
+Rutgers,2016,186380.0,reviewed_alias
+Oregon State,2016,209542.0,exact_normalized
+New Hampshire,2016,183044.0,reviewed_alias
+William & Mary,2016,231624.0,exact_normalized
+San Diego State,2016,122409.0,exact_normalized
+SMU,2016,228246.0,reviewed_alias
+Coastal Carolina,2016,218724.0,exact_normalized
+Brown,2016,217156.0,exact_normalized
+Middle Tennessee State,2016,220978.0,exact_normalized
+North Dakota State,2016,200332.0,reviewed_alias
+Northern Iowa,2016,154095.0,exact_normalized
+Sam Houston State,2016,227881.0,exact_normalized
+Furman,2016,218070.0,exact_normalized
+Columbia,2016,190150.0,reviewed_alias
+James Madison,2016,232423.0,exact_normalized
+Gonzaga,2016,235316.0,exact_normalized
+Wichita State,2016,156125.0,exact_normalized
+Stephen F. Austin,2016,228431.0,reviewed_alias
+Boston University,2016,164988.0,reviewed_alias
+Washington State,2016,236939.0,exact_normalized
+Cincinnati,2016,201885.0,reviewed_alias
+Quinnipiac,2016,130226.0,exact_normalized
+Providence,2016,217402.0,exact_normalized
+South Dakota State,2016,219356.0,exact_normalized
+Pepperdine,2016,121150.0,exact_normalized
+Rice,2016,227757.0,exact_normalized
+Tulane,2016,160755.0,reviewed_alias
+Pittsburgh,2016,215293.0,reviewed_alias
+Albany,2016,196060.0,reviewed_alias
+St. John's (NY),2016,195809.0,reviewed_alias
+Kent State,2016,203517.0,reviewed_alias
+East Carolina,2016,198464.0,exact_normalized
+Dayton,2016,202480.0,exact_normalized
+North Carolina Wilmington,2016,199218.0,exact_normalized
+Louisiana Lafayette,2016,160658.0,exact_normalized
+South Alabama,2016,102094.0,exact_normalized
+Southeastern Louisiana,2016,160612.0,exact_normalized
+Colorado State,2016,126818.0,exact_normalized
+UNLV,2016,182281.0,reviewed_alias
+Southern Illinois,2016,149222.0,reviewed_alias
+Iona,2016,191931.0,exact_normalized
+Jacksonville State,2016,101480.0,exact_normalized
+Creighton,2016,181002.0,exact_normalized
+George Washington,2016,131469.0,exact_normalized
+Winthrop,2016,218964.0,exact_normalized
+Arkansas State,2016,106458.0,reviewed_alias
+Long Beach State,2016,110583.0,reviewed_alias
+Loyola Marymount,2016,117946.0,exact_normalized
+UTEP,2016,228796.0,reviewed_alias
+North Florida,2016,136172.0,exact_normalized
+Weber State,2016,230782.0,exact_normalized
+LIU Brooklyn,2016,192439.0,exact_normalized
+Western Kentucky,2016,157951.0,exact_normalized
+Cal State Fullerton,2016,110565.0,reviewed_alias
+Santa Clara,2016,122931.0,exact_normalized
+Xavier,2016,206622.0,exact_normalized
+Western Michigan,2016,172699.0,exact_normalized
+Eastern Michigan,2016,169798.0,exact_normalized
+Southern Utah,2016,230603.0,exact_normalized
+Tennessee Chattanooga,2016,221740.0,exact_normalized
+Hofstra,2016,191649.0,exact_normalized
+New Mexico State,2016,188030.0,reviewed_alias
+Towson,2016,164076.0,exact_normalized
+Central Michigan,2016,169248.0,exact_normalized
+Utah Valley,2016,230737.0,exact_normalized
+Murray State,2016,157401.0,exact_normalized
+UCF,2016,132903.0,reviewed_alias
+San Jose State,2016,122755.0,exact_normalized
+Loyola Maryland,2016,163046.0,exact_normalized
+UC Riverside,2016,110671.0,reviewed_alias
+Northern Arizona,2016,105330.0,exact_normalized
+Idaho,2016,142285.0,exact_normalized
+Butler,2016,150163.0,exact_normalized
+McNeese State,2016,159717.0,exact_normalized
+Duquesne,2016,212106.0,exact_normalized
+Louisiana Tech,2016,159647.0,exact_normalized
+North Dakota,2016,200280.0,exact_normalized
+San Diego,2016,122436.0,exact_normalized
+Nevada,2016,182290.0,reviewed_alias
+Oakland,2016,171571.0,exact_normalized
+American,2016,131159.0,exact_normalized
+Eastern Kentucky,2016,156620.0,exact_normalized
+Cleveland State,2016,202134.0,exact_normalized
+Massachusetts,2016,166629.0,reviewed_alias
+Ohio,2016,204857.0,reviewed_alias
+Vermont,2016,231174.0,exact_normalized
+Temple,2016,216339.0,exact_normalized
+Northeastern,2016,167358.0,exact_normalized
+Richmond,2016,233374.0,exact_normalized
+Cal State Bakersfield,2016,110486.0,reviewed_alias
+Lehigh,2016,213543.0,exact_normalized
+Florida Gulf Coast,2016,433660.0,exact_normalized
+Alabama State,2016,100724.0,exact_normalized
+Georgia State,2016,139940.0,exact_normalized
+East Tennessee State,2016,220075.0,exact_normalized
+Memphis,2016,220862.0,exact_normalized
+North Carolina Charlotte,2016,199139.0,exact_normalized
+Montana State,2016,180461.0,exact_normalized
+North Carolina A&T,2016,199102.0,reviewed_alias
+VCU,2016,234030.0,reviewed_alias
+Charleston Southern,2016,217688.0,exact_normalized
+Stony Brook,2016,196097.0,exact_normalized
+Appalachian State,2016,197869.0,exact_normalized
+Buffalo,2016,196088.0,exact_normalized
+Florida Atlantic,2016,133669.0,exact_normalized
+Marquette,2016,239105.0,exact_normalized
+Miami (OH),2016,204024.0,reviewed_alias
+Rider,2016,186283.0,exact_normalized
+Old Dominion,2016,232982.0,exact_normalized
+Wyoming,2016,240727.0,exact_normalized
+Liberty,2016,232557.0,exact_normalized
+Southern Mississippi,2016,176372.0,exact_normalized
+Utah State,2016,230728.0,exact_normalized
+San Francisco,2016,122612.0,exact_normalized
+Army West Point,2016,197036.0,reviewed_ipeds_alias
+Colgate,2016,190099.0,exact_normalized
+Illinois State,2016,145813.0,exact_normalized
+Fresno State,2016,110556.0,reviewed_alias
+Bowling Green,2016,201441.0,reviewed_alias
+Campbell,2016,198136.0,exact_normalized
+DePaul,2016,144740.0,exact_normalized
+Seattle,2016,236595.0,exact_normalized
+Lamar,2016,226091.0,exact_normalized
+Fairleigh Dickinson,2016,184603.0,reviewed_alias
+Massachusetts Lowell,2016,166513.0,exact_normalized
+NJIT,2016,185828.0,reviewed_alias
+Texas State,2016,228459.0,exact_normalized
+College of Charleston,2016,217819.0,exact_normalized
+Rhode Island,2016,217484.0,exact_normalized
+Portland,2016,209825.0,exact_normalized
+Jacksonville,2016,134945.0,exact_normalized
+Seton Hall,2016,186584.0,exact_normalized
+Wagner,2016,197197.0,exact_normalized
+Citadel,2016,217864.0,reviewed_alias
+Kennesaw State,2016,486840.0,reviewed_alias
+Montana,2016,180489.0,exact_normalized
+Portland State,2016,209807.0,exact_normalized
+Western Illinois,2016,149772.0,exact_normalized
+Tennessee State,2016,221838.0,exact_normalized
+Hampton,2016,232265.0,exact_normalized
+Lipscomb,2016,219976.0,exact_normalized
+Arkansas Little Rock,2016,106245.0,exact_normalized
+Belmont,2016,219709.0,exact_normalized
+Bryant,2016,217165.0,exact_normalized
+Drake,2016,153269.0,exact_normalized
+Elon,2016,198516.0,exact_normalized
+Fairfield,2016,129242.0,exact_normalized
+Fordham,2016,191241.0,exact_normalized
+Howard,2016,131520.0,exact_normalized
+Jackson State,2016,175856.0,exact_normalized
+Longwood,2016,232566.0,exact_normalized
+Missouri State,2016,179566.0,exact_normalized
+North Carolina Asheville,2016,199111.0,exact_normalized
+Robert Morris,2016,215655.0,exact_normalized
+Saint Joseph's,2016,215770.0,exact_normalized
+South Carolina State,2016,218733.0,exact_normalized
+St. Bonaventure,2016,195164.0,exact_normalized
+Stetson,2016,137546.0,exact_normalized
+Texas A&M Corpus Christi,2016,224147.0,exact_normalized
+Valparaiso,2016,152600.0,exact_normalized
+Wisconsin Green Bay,2016,240277.0,exact_normalized
+Wright State,2016,206604.0,reviewed_alias
+Northern Illinois,2016,147703.0,exact_normalized
+St. Mary's College of California,2016,123554.0,reviewed_alias
+Georgia Southern,2016,139931.0,exact_normalized
+Marshall,2016,237525.0,exact_normalized
+Toledo,2016,206084.0,exact_normalized
+UMBC,2016,163268.0,reviewed_alias
+UAB,2016,100663.0,reviewed_alias
+North Texas,2016,227216.0,exact_normalized
+Bucknell,2016,211291.0,exact_normalized
+SIU Edwardsville,2016,149231.0,reviewed_alias
+Sacred Heart,2016,130253.0,exact_normalized
+Troy,2016,102368.0,exact_normalized
+Indiana State,2016,151324.0,exact_normalized
+Monmouth,2016,185572.0,exact_normalized
+Youngstown State,2016,206695.0,exact_normalized
+Binghamton,2016,196079.0,exact_normalized
+Delaware,2016,130943.0,exact_normalized
+George Mason,2016,232186.0,exact_normalized
+Samford,2016,102049.0,exact_normalized
+Siena,2016,195474.0,exact_normalized
+Southeast Missouri State,2016,179557.0,exact_normalized
+Drexel,2016,212054.0,exact_normalized
+Incarnate Word,2016,225627.0,exact_normalized
+Alcorn State,2016,175342.0,exact_normalized
+Austin Peay State,2016,219602.0,exact_normalized
+Ball State,2016,150136.0,exact_normalized
+Bethune-Cookman,2016,132602.0,exact_normalized
+Cal Poly,2016,110422.0,reviewed_alias
+Canisius,2016,189705.0,exact_normalized
+Central Arkansas,2016,106704.0,exact_normalized
+Eastern Illinois,2016,144892.0,exact_normalized
+Evansville,2016,150534.0,exact_normalized
+Florida A&M,2016,133650.0,reviewed_alias
+Florida International,2016,133951.0,exact_normalized
+Holy Cross,2016,166124.0,exact_normalized
+Maine,2016,161253.0,exact_normalized
+Marist,2016,192819.0,exact_normalized
+Northern Colorado,2016,127741.0,exact_normalized
+Oral Roberts,2016,207582.0,exact_normalized
+Radford,2016,233277.0,exact_normalized
+South Carolina Upstate,2016,218742.0,exact_normalized
+Tennessee Tech,2016,221847.0,reviewed_alias
+Texas Arlington,2016,228769.0,exact_normalized
+UTRGV,2016,227368.0,reviewed_alias
+Western Carolina,2016,200004.0,exact_normalized
+Wisconsin Milwaukee,2016,240453.0,exact_normalized
+Morgan State,2016,163453.0,exact_normalized
+South Dakota,2016,219471.0,exact_normalized
+Gardner-Webb,2016,198561.0,exact_normalized
+La Salle,2016,213367.0,exact_normalized
+Northwestern State,2016,160038.0,reviewed_alias
+Southern,2016,160621.0,reviewed_alias
+Tennessee Martin,2016,221768.0,exact_normalized
+UMKC,2016,178402.0,reviewed_alias
+Stanford,2017,243744.0,exact_normalized
+Ohio State,2017,204796.0,reviewed_alias
+Florida,2017,134130.0,exact_normalized
+USC,2017,123961.0,reviewed_alias
+North Carolina,2017,199120.0,reviewed_alias
+Michigan,2017,170976.0,reviewed_alias
+Texas,2017,228778.0,reviewed_alias
+Penn State,2017,214777.0,reviewed_alias
+Oregon,2017,209551.0,exact_normalized
+Kentucky,2017,157085.0,exact_normalized
+UCLA,2017,110662.0,reviewed_alias
+Texas A&M,2017,228723.0,exact_normalized
+Florida State,2017,134097.0,exact_normalized
+California,2017,110635.0,reviewed_alias
+Georgia,2017,139959.0,exact_normalized
+Wisconsin,2017,240444.0,reviewed_alias
+Oklahoma,2017,207500.0,reviewed_alias
+LSU,2017,159391.0,reviewed_alias
+Virginia,2017,234076.0,reviewed_alias
+Arkansas,2017,106397.0,exact_normalized
+South Carolina,2017,218663.0,reviewed_alias
+Washington,2017,236948.0,reviewed_alias
+Notre Dame,2017,152080.0,exact_normalized
+Baylor,2017,223232.0,exact_normalized
+Alabama,2017,100751.0,exact_normalized
+Louisville,2017,157289.0,exact_normalized
+Oklahoma State,2017,207388.0,reviewed_alias
+Auburn,2017,100858.0,exact_normalized
+North Carolina State,2017,199193.0,reviewed_alias
+Minnesota,2017,174066.0,reviewed_alias
+BYU,2017,230038.0,reviewed_alias
+Duke,2017,198419.0,exact_normalized
+Missouri,2017,178396.0,reviewed_alias
+Colorado,2017,126614.0,reviewed_alias
+Denver,2017,127060.0,exact_normalized
+Northwestern,2017,147767.0,exact_normalized
+Nebraska,2017,181464.0,reviewed_alias
+Illinois,2017,145637.0,reviewed_alias
+Ole Miss,2017,176017.0,reviewed_alias
+Virginia Tech,2017,233921.0,reviewed_alias
+Purdue,2017,243780.0,reviewed_alias
+Arizona,2017,104179.0,exact_normalized
+Arizona State,2017,104151.0,exact_normalized
+Syracuse,2017,196413.0,exact_normalized
+West Virginia,2017,238032.0,exact_normalized
+Tennessee,2017,221759.0,exact_normalized
+Indiana,2017,151351.0,reviewed_alias
+Princeton,2017,186131.0,exact_normalized
+Mississippi State,2017,176080.0,exact_normalized
+Maryland,2017,163286.0,reviewed_alias
+Iowa,2017,153658.0,exact_normalized
+Clemson,2017,217882.0,exact_normalized
+Michigan State,2017,171100.0,exact_normalized
+Utah,2017,230764.0,exact_normalized
+Wake Forest,2017,199847.0,exact_normalized
+Miami (FL),2017,135726.0,reviewed_alias
+Kansas,2017,155317.0,exact_normalized
+Harvard,2017,166027.0,exact_normalized
+Iowa State,2017,153603.0,exact_normalized
+TCU,2017,228875.0,reviewed_alias
+New Mexico,2017,187985.0,reviewed_alias
+Cornell,2017,190415.0,exact_normalized
+Kent State,2017,203517.0,reviewed_alias
+Vanderbilt,2017,221999.0,exact_normalized
+Texas Tech,2017,229115.0,exact_normalized
+Kansas State,2017,155399.0,exact_normalized
+Air Force,2017,128328.0,reviewed_ipeds_alias
+Tulsa,2017,207971.0,exact_normalized
+Oregon State,2017,209542.0,exact_normalized
+Pepperdine,2017,121150.0,exact_normalized
+Boise State,2017,142115.0,exact_normalized
+Boston College,2017,164924.0,reviewed_alias
+Georgetown,2017,131496.0,exact_normalized
+San Diego State,2017,122409.0,exact_normalized
+Navy,2017,164155.0,reviewed_ipeds_alias
+Yale,2017,130794.0,exact_normalized
+Pennsylvania,2017,215062.0,exact_normalized
+New Hampshire,2017,183044.0,reviewed_alias
+Providence,2017,217402.0,exact_normalized
+UNLV,2017,182281.0,reviewed_alias
+Hawaii,2017,141574.0,reviewed_alias
+Eastern Michigan,2017,169798.0,exact_normalized
+UTEP,2017,228796.0,reviewed_alias
+Houston,2017,225511.0,exact_normalized
+Cincinnati,2017,201885.0,reviewed_alias
+Dartmouth,2017,182670.0,exact_normalized
+James Madison,2017,232423.0,exact_normalized
+Akron,2017,200800.0,reviewed_alias
+Albany,2017,196060.0,reviewed_alias
+South Florida,2017,137351.0,reviewed_alias
+Middle Tennessee State,2017,220978.0,exact_normalized
+Pittsburgh,2017,215293.0,reviewed_alias
+UConn,2017,129020.0,reviewed_alias
+SIU Edwardsville,2017,149231.0,reviewed_alias
+Creighton,2017,181002.0,exact_normalized
+Villanova,2017,216597.0,exact_normalized
+UCF,2017,132903.0,reviewed_alias
+Colorado State,2017,126818.0,exact_normalized
+Furman,2017,218070.0,exact_normalized
+Florida Gulf Coast,2017,433660.0,exact_normalized
+Washington State,2017,236939.0,exact_normalized
+Georgia Tech,2017,139755.0,reviewed_alias
+Long Beach State,2017,110583.0,reviewed_alias
+Samford,2017,102049.0,exact_normalized
+Butler,2017,150163.0,exact_normalized
+Sam Houston State,2017,227881.0,exact_normalized
+South Dakota State,2017,219356.0,exact_normalized
+SMU,2017,228246.0,reviewed_alias
+Columbia,2017,190150.0,reviewed_alias
+North Dakota State,2017,200332.0,reviewed_alias
+Delaware,2017,130943.0,exact_normalized
+Massachusetts,2017,166629.0,reviewed_alias
+Northern Arizona,2017,105330.0,exact_normalized
+Youngstown State,2017,206695.0,exact_normalized
+Gonzaga,2017,235316.0,exact_normalized
+Rutgers,2017,186380.0,reviewed_alias
+Vermont,2017,231174.0,exact_normalized
+Arkansas State,2017,106458.0,reviewed_alias
+Campbell,2017,198136.0,exact_normalized
+Portland,2017,209825.0,exact_normalized
+Rice,2017,227757.0,exact_normalized
+Iona,2017,191931.0,exact_normalized
+Troy,2017,102368.0,exact_normalized
+Wyoming,2017,240727.0,exact_normalized
+Bucknell,2017,211291.0,exact_normalized
+Marquette,2017,239105.0,exact_normalized
+Towson,2017,164076.0,exact_normalized
+North Dakota,2017,200280.0,exact_normalized
+Montana State,2017,180461.0,exact_normalized
+Murray State,2017,157401.0,exact_normalized
+Old Dominion,2017,232982.0,exact_normalized
+San Francisco,2017,122612.0,exact_normalized
+Cal State Fullerton,2017,110565.0,reviewed_alias
+Xavier,2017,206622.0,exact_normalized
+Missouri State,2017,179566.0,exact_normalized
+Lehigh,2017,213543.0,exact_normalized
+Charlotte,2017,199139.0,reviewed_alias
+Central Michigan,2017,169248.0,exact_normalized
+East Tennessee State,2017,220075.0,exact_normalized
+Pacific,2017,120883.0,exact_normalized
+Wichita State,2017,156125.0,exact_normalized
+Memphis,2017,220862.0,exact_normalized
+Eastern Washington,2017,235097.0,exact_normalized
+Jacksonville State,2017,101480.0,exact_normalized
+Northern Iowa,2017,154095.0,exact_normalized
+Texas Southern,2017,229063.0,exact_normalized
+Miami (OH),2017,204024.0,reviewed_alias
+San Diego,2017,122436.0,exact_normalized
+Jacksonville,2017,134945.0,exact_normalized
+Coastal Carolina,2017,218724.0,exact_normalized
+Dayton,2017,202480.0,exact_normalized
+DePaul,2017,144740.0,exact_normalized
+Southern Utah,2017,230603.0,exact_normalized
+St. John's (NY),2017,195809.0,reviewed_alias
+Idaho,2017,142285.0,exact_normalized
+Southern Mississippi,2017,176372.0,exact_normalized
+Western Kentucky,2017,157951.0,exact_normalized
+New Mexico State,2017,188030.0,reviewed_alias
+Quinnipiac,2017,130226.0,exact_normalized
+Southern Illinois,2017,149222.0,reviewed_alias
+Appalachian State,2017,197869.0,exact_normalized
+Temple,2017,216339.0,exact_normalized
+Army West Point,2017,197036.0,reviewed_ipeds_alias
+St. Mary's College of California,2017,123554.0,reviewed_alias
+Brown,2017,217156.0,exact_normalized
+Northern Illinois,2017,147703.0,exact_normalized
+George Washington,2017,131469.0,exact_normalized
+San Jose State,2017,122755.0,exact_normalized
+Boston University,2017,164988.0,reviewed_alias
+Buffalo,2017,196088.0,exact_normalized
+North Carolina A&T,2017,199102.0,reviewed_alias
+Richmond,2017,233374.0,exact_normalized
+American,2017,131159.0,exact_normalized
+Western Michigan,2017,172699.0,exact_normalized
+Alabama State,2017,100724.0,exact_normalized
+Bryant,2017,217165.0,exact_normalized
+South Alabama,2017,102094.0,exact_normalized
+Georgia State,2017,139940.0,exact_normalized
+Central Arkansas,2017,106704.0,exact_normalized
+High Point,2017,198695.0,exact_normalized
+Tennessee Chattanooga,2017,221740.0,exact_normalized
+Rider,2017,186283.0,exact_normalized
+Illinois Chicago,2017,145600.0,exact_normalized
+Illinois State,2017,145813.0,exact_normalized
+Louisiana Lafayette,2017,160658.0,exact_normalized
+Monmouth,2017,185572.0,exact_normalized
+Saint Francis (PA),2017,215743.0,reviewed_alias
+UMBC,2017,163268.0,reviewed_alias
+Lipscomb,2017,219976.0,exact_normalized
+South Dakota,2017,219471.0,exact_normalized
+Santa Clara,2017,122931.0,exact_normalized
+Ohio,2017,204857.0,reviewed_alias
+Nevada,2017,182290.0,reviewed_alias
+Louisiana Tech,2017,159647.0,exact_normalized
+North Florida,2017,136172.0,exact_normalized
+Stony Brook,2017,196097.0,exact_normalized
+Wofford,2017,218973.0,exact_normalized
+Utah State,2017,230728.0,exact_normalized
+UC Davis,2017,110644.0,reviewed_alias
+Florida International,2017,133951.0,exact_normalized
+Northeastern,2017,167358.0,exact_normalized
+Cleveland State,2017,202134.0,exact_normalized
+Davidson,2017,198385.0,exact_normalized
+Southeastern Louisiana,2017,160612.0,exact_normalized
+Massachusetts Lowell,2017,166513.0,exact_normalized
+UC Irvine,2017,110653.0,reviewed_alias
+Wagner,2017,197197.0,exact_normalized
+UC Santa Barbara,2017,110705.0,reviewed_alias
+Tulane,2017,160755.0,reviewed_alias
+Fairleigh Dickinson,2017,184603.0,reviewed_alias
+Citadel,2017,217864.0,reviewed_alias
+Kennesaw State,2017,486840.0,reviewed_alias
+Bethune-Cookman,2017,132602.0,exact_normalized
+Drake,2017,153269.0,exact_normalized
+Elon,2017,198516.0,exact_normalized
+Fairfield,2017,129242.0,exact_normalized
+Florida A&M,2017,133650.0,reviewed_alias
+Fordham,2017,191241.0,exact_normalized
+LIU Brooklyn,2017,192439.0,exact_normalized
+Longwood,2017,232566.0,exact_normalized
+Loyola Chicago,2017,146719.0,exact_normalized
+North Carolina Wilmington,2017,199218.0,exact_normalized
+Northern Kentucky,2017,157447.0,exact_normalized
+Radford,2017,233277.0,exact_normalized
+Rhode Island,2017,217484.0,exact_normalized
+Robert Morris,2017,215655.0,exact_normalized
+Tennessee Tech,2017,221847.0,reviewed_alias
+Texas A&M Corpus Christi,2017,224147.0,exact_normalized
+Toledo,2017,206084.0,exact_normalized
+UMKC,2017,178402.0,reviewed_alias
+VCU,2017,234030.0,reviewed_alias
+Winthrop,2017,218964.0,exact_normalized
+Cal Poly,2017,110422.0,reviewed_alias
+Drexel,2017,212054.0,exact_normalized
+Sacramento State,2017,110617.0,reviewed_alias
+William & Mary,2017,231624.0,exact_normalized
+NJIT,2017,185828.0,reviewed_alias
+McNeese State,2017,159717.0,exact_normalized
+Maryland Eastern Shore,2017,163338.0,exact_normalized
+Incarnate Word,2017,225627.0,exact_normalized
+Liberty,2017,232557.0,exact_normalized
+Texas Arlington,2017,228769.0,exact_normalized
+Houston Baptist,2017,225399.0,exact_normalized
+Loyola Maryland,2017,163046.0,exact_normalized
+Seattle,2017,236595.0,exact_normalized
+Texas State,2017,228459.0,exact_normalized
+College of Charleston,2017,217819.0,exact_normalized
+Bradley,2017,143358.0,exact_normalized
+Eastern Kentucky,2017,156620.0,exact_normalized
+Gardner-Webb,2017,198561.0,exact_normalized
+Northern Colorado,2017,127741.0,exact_normalized
+Belmont,2017,219709.0,exact_normalized
+Cal State Northridge,2017,110608.0,reviewed_alias
+Canisius,2017,189705.0,exact_normalized
+Central Connecticut State,2017,128771.0,exact_normalized
+Charleston Southern,2017,217688.0,exact_normalized
+Colgate,2017,190099.0,exact_normalized
+Fresno State,2017,110556.0,reviewed_alias
+Hampton,2017,232265.0,exact_normalized
+Holy Cross,2017,166124.0,exact_normalized
+Howard,2017,131520.0,exact_normalized
+Jackson State,2017,175856.0,exact_normalized
+Lamar,2017,226091.0,exact_normalized
+Louisiana Monroe,2017,159993.0,exact_normalized
+Marist,2017,192819.0,exact_normalized
+Marshall,2017,237525.0,exact_normalized
+Mercer,2017,140447.0,exact_normalized
+Montana,2017,180489.0,exact_normalized
+Mount St. Mary's,2017,163462.0,exact_normalized
+North Carolina Asheville,2017,199111.0,exact_normalized
+North Carolina Greensboro,2017,199148.0,exact_normalized
+North Texas,2017,227216.0,exact_normalized
+Oral Roberts,2017,207582.0,exact_normalized
+Presbyterian College,2017,218539.0,exact_normalized
+Seton Hall,2017,186584.0,exact_normalized
+South Carolina State,2017,218733.0,exact_normalized
+South Carolina Upstate,2017,218742.0,exact_normalized
+St. Francis (NY),2017,195173.0,reviewed_alias
+Stephen F. Austin,2017,228431.0,reviewed_alias
+UTRGV,2017,227368.0,reviewed_alias
+UTSA,2017,229027.0,reviewed_alias
+Valparaiso,2017,152600.0,exact_normalized
+Weber State,2017,230782.0,exact_normalized
+Western Illinois,2017,149772.0,exact_normalized
+Wisconsin Green Bay,2017,240277.0,exact_normalized
+Detroit,2017,169716.0,reviewed_alias
+Cal State Bakersfield,2017,110486.0,reviewed_alias
+Utah Valley,2017,230737.0,exact_normalized
+Binghamton,2017,196079.0,exact_normalized
+George Mason,2017,232186.0,exact_normalized
+Georgia Southern,2017,139931.0,exact_normalized
+Tennessee State,2017,221838.0,exact_normalized
+New Orleans,2017,159939.0,exact_normalized
+North Carolina Central,2017,199157.0,exact_normalized
+Sacred Heart,2017,130253.0,exact_normalized
+Saint Peter's,2017,186432.0,exact_normalized
+Stanford,2018,243744.0,exact_normalized
+UCLA,2018,110662.0,reviewed_alias
+Florida,2018,134130.0,exact_normalized
+USC,2018,123961.0,reviewed_alias
+Texas,2018,228778.0,reviewed_alias
+Michigan,2018,170976.0,reviewed_alias
+Ohio State,2018,204796.0,reviewed_alias
+Georgia,2018,139959.0,exact_normalized
+Florida State,2018,134097.0,exact_normalized
+Texas A&M,2018,228723.0,exact_normalized
+Duke,2018,198419.0,exact_normalized
+Penn State,2018,214777.0,reviewed_alias
+North Carolina,2018,199120.0,reviewed_alias
+Alabama,2018,100751.0,exact_normalized
+North Carolina State,2018,199193.0,reviewed_alias
+Arkansas,2018,106397.0,exact_normalized
+Kentucky,2018,157085.0,exact_normalized
+Auburn,2018,100858.0,exact_normalized
+Minnesota,2018,174066.0,reviewed_alias
+California,2018,110635.0,reviewed_alias
+Virginia,2018,234076.0,reviewed_alias
+Notre Dame,2018,152080.0,exact_normalized
+Wisconsin,2018,240444.0,reviewed_alias
+Oregon,2018,209551.0,exact_normalized
+Oklahoma,2018,207500.0,reviewed_alias
+South Carolina,2018,218663.0,reviewed_alias
+LSU,2018,159391.0,reviewed_alias
+Virginia Tech,2018,233921.0,reviewed_alias
+Washington,2018,236948.0,reviewed_alias
+Louisville,2018,157289.0,exact_normalized
+Arizona State,2018,104151.0,exact_normalized
+Oklahoma State,2018,207388.0,reviewed_alias
+Missouri,2018,178396.0,reviewed_alias
+Northwestern,2018,147767.0,exact_normalized
+Tennessee,2018,221759.0,exact_normalized
+Illinois,2018,145637.0,reviewed_alias
+Colorado,2018,126614.0,reviewed_alias
+Ole Miss,2018,176017.0,reviewed_alias
+Purdue,2018,243780.0,reviewed_alias
+Princeton,2018,186131.0,exact_normalized
+Texas Tech,2018,229115.0,exact_normalized
+Mississippi State,2018,176080.0,exact_normalized
+Baylor,2018,223232.0,exact_normalized
+Nebraska,2018,181464.0,reviewed_alias
+BYU,2018,230038.0,reviewed_alias
+Syracuse,2018,196413.0,exact_normalized
+Denver,2018,127060.0,exact_normalized
+Wake Forest,2018,199847.0,exact_normalized
+Indiana,2018,151351.0,reviewed_alias
+Michigan State,2018,171100.0,exact_normalized
+Arizona,2018,104179.0,exact_normalized
+Clemson,2018,217882.0,exact_normalized
+Maryland,2018,163286.0,reviewed_alias
+Iowa,2018,153658.0,exact_normalized
+Vanderbilt,2018,221999.0,exact_normalized
+Iowa State,2018,153603.0,exact_normalized
+Kansas,2018,155317.0,exact_normalized
+TCU,2018,228875.0,reviewed_alias
+Boise State,2018,142115.0,exact_normalized
+Oregon State,2018,209542.0,exact_normalized
+Utah,2018,230764.0,exact_normalized
+Miami (FL),2018,135726.0,reviewed_alias
+West Virginia,2018,238032.0,exact_normalized
+New Mexico,2018,187985.0,reviewed_alias
+Harvard,2018,166027.0,exact_normalized
+Villanova,2018,216597.0,exact_normalized
+Houston,2018,225511.0,exact_normalized
+Air Force,2018,128328.0,reviewed_ipeds_alias
+Columbia,2018,190150.0,reviewed_alias
+Northern Arizona,2018,105330.0,exact_normalized
+New Hampshire,2018,183044.0,reviewed_alias
+Kansas State,2018,155399.0,exact_normalized
+Furman,2018,218070.0,exact_normalized
+Navy,2018,164155.0,reviewed_ipeds_alias
+Kent State,2018,203517.0,reviewed_alias
+Akron,2018,200800.0,reviewed_alias
+Colorado State,2018,126818.0,exact_normalized
+Utah State,2018,230728.0,exact_normalized
+Yale,2018,130794.0,exact_normalized
+Washington State,2018,236939.0,exact_normalized
+James Madison,2018,232423.0,exact_normalized
+Cornell,2018,190415.0,exact_normalized
+San Diego State,2018,122409.0,exact_normalized
+UConn,2018,129020.0,reviewed_alias
+South Florida,2018,137351.0,reviewed_alias
+UCF,2018,132903.0,reviewed_alias
+Wichita State,2018,156125.0,exact_normalized
+North Dakota State,2018,200332.0,reviewed_alias
+Pepperdine,2018,121150.0,exact_normalized
+Stony Brook,2018,196097.0,exact_normalized
+Southern Utah,2018,230603.0,exact_normalized
+Dartmouth,2018,182670.0,exact_normalized
+Georgetown,2018,131496.0,exact_normalized
+Middle Tennessee State,2018,220978.0,exact_normalized
+Boston College,2018,164924.0,reviewed_alias
+South Dakota State,2018,219356.0,exact_normalized
+Campbell,2018,198136.0,exact_normalized
+Cal State Fullerton,2018,110565.0,reviewed_alias
+North Carolina A&T,2018,199102.0,reviewed_alias
+Hawaii,2018,141574.0,reviewed_alias
+Sam Houston State,2018,227881.0,exact_normalized
+Eastern Michigan,2018,169798.0,exact_normalized
+Pennsylvania,2018,215062.0,exact_normalized
+Cincinnati,2018,201885.0,reviewed_alias
+San Francisco,2018,122612.0,exact_normalized
+Army West Point,2018,197036.0,reviewed_ipeds_alias
+Providence,2018,217402.0,exact_normalized
+Rutgers,2018,186380.0,reviewed_alias
+South Dakota,2018,219471.0,exact_normalized
+Northern Iowa,2018,154095.0,exact_normalized
+Pittsburgh,2018,215293.0,reviewed_alias
+Pacific,2018,120883.0,exact_normalized
+Gonzaga,2018,235316.0,exact_normalized
+Central Michigan,2018,169248.0,exact_normalized
+Albany,2018,196060.0,reviewed_alias
+Wyoming,2018,240727.0,exact_normalized
+Coastal Carolina,2018,218724.0,exact_normalized
+Florida International,2018,133951.0,exact_normalized
+Colgate,2018,190099.0,exact_normalized
+San Diego,2018,122436.0,exact_normalized
+Georgia Tech,2018,139755.0,reviewed_alias
+Long Beach State,2018,110583.0,reviewed_alias
+North Carolina Wilmington,2018,199218.0,exact_normalized
+New Mexico State,2018,188030.0,reviewed_alias
+Kennesaw State,2018,486840.0,reviewed_alias
+Liberty,2018,232557.0,exact_normalized
+Memphis,2018,220862.0,exact_normalized
+SMU,2018,228246.0,reviewed_alias
+Murray State,2018,157401.0,exact_normalized
+Buffalo,2018,196088.0,exact_normalized
+Butler,2018,150163.0,exact_normalized
+Eastern Kentucky,2018,156620.0,exact_normalized
+Boston University,2018,164988.0,reviewed_alias
+Nevada,2018,182290.0,reviewed_alias
+Tulsa,2018,207971.0,exact_normalized
+St. John's (NY),2018,195809.0,reviewed_alias
+Northeastern,2018,167358.0,exact_normalized
+Creighton,2018,181002.0,exact_normalized
+VCU,2018,234030.0,reviewed_alias
+Samford,2018,102049.0,exact_normalized
+Portland,2018,209825.0,exact_normalized
+Missouri State,2018,179566.0,exact_normalized
+Miami (OH),2018,204024.0,reviewed_alias
+Old Dominion,2018,232982.0,exact_normalized
+Southern Mississippi,2018,176372.0,exact_normalized
+Loyola Maryland,2018,163046.0,exact_normalized
+Jacksonville,2018,134945.0,exact_normalized
+Hofstra,2018,191649.0,exact_normalized
+Jacksonville State,2018,101480.0,exact_normalized
+Central Arkansas,2018,106704.0,exact_normalized
+Brown,2018,217156.0,exact_normalized
+Alabama State,2018,100724.0,exact_normalized
+Drake,2018,153269.0,exact_normalized
+Fairfield,2018,129242.0,exact_normalized
+Marquette,2018,239105.0,exact_normalized
+Monmouth,2018,185572.0,exact_normalized
+Saint Francis (PA),2018,215743.0,reviewed_alias
+Western Kentucky,2018,157951.0,exact_normalized
+Arkansas State,2018,106458.0,reviewed_alias
+Fordham,2018,191241.0,exact_normalized
+George Washington,2018,131469.0,exact_normalized
+McNeese State,2018,159717.0,exact_normalized
+North Florida,2018,136172.0,exact_normalized
+Towson,2018,164076.0,exact_normalized
+Florida Atlantic,2018,133669.0,exact_normalized
+Georgia State,2018,139940.0,exact_normalized
+Marshall,2018,237525.0,exact_normalized
+Ohio,2018,204857.0,reviewed_alias
+Iona,2018,191931.0,exact_normalized
+UNLV,2018,182281.0,reviewed_alias
+UC Irvine,2018,110653.0,reviewed_alias
+UTEP,2018,228796.0,reviewed_alias
+North Carolina Greensboro,2018,199148.0,exact_normalized
+Temple,2018,216339.0,exact_normalized
+Tennessee Tech,2018,221847.0,reviewed_alias
+Western Michigan,2018,172699.0,exact_normalized
+Texas State,2018,228459.0,exact_normalized
+Lehigh,2018,213543.0,exact_normalized
+Wagner,2018,197197.0,exact_normalized
+South Carolina State,2018,218733.0,exact_normalized
+Loyola Chicago,2018,146719.0,exact_normalized
+UMBC,2018,163268.0,reviewed_alias
+Troy,2018,102368.0,exact_normalized
+Northern Illinois,2018,147703.0,exact_normalized
+Rhode Island,2018,217484.0,exact_normalized
+Fresno State,2018,110556.0,reviewed_alias
+LIU Brooklyn,2018,192439.0,exact_normalized
+Northern Colorado,2018,127741.0,exact_normalized
+DePaul,2018,144740.0,exact_normalized
+Florida Gulf Coast,2018,433660.0,exact_normalized
+High Point,2018,198695.0,exact_normalized
+Mercer,2018,140447.0,exact_normalized
+Quinnipiac,2018,130226.0,exact_normalized
+Seattle,2018,236595.0,exact_normalized
+South Alabama,2018,102094.0,exact_normalized
+Vermont,2018,231174.0,exact_normalized
+Rice,2018,227757.0,exact_normalized
+Santa Clara,2018,122931.0,exact_normalized
+Bucknell,2018,211291.0,exact_normalized
+Montana State,2018,180461.0,exact_normalized
+Weber State,2018,230782.0,exact_normalized
+Wofford,2018,218973.0,exact_normalized
+Idaho,2018,142285.0,exact_normalized
+Appalachian State,2018,197869.0,exact_normalized
+Cal State Bakersfield,2018,110486.0,reviewed_alias
+American,2018,131159.0,exact_normalized
+College of Charleston,2018,217819.0,exact_normalized
+Stetson,2018,137546.0,exact_normalized
+UC Davis,2018,110644.0,reviewed_alias
+Cal Poly,2018,110422.0,reviewed_alias
+Utah Valley,2018,230737.0,exact_normalized
+Cleveland State,2018,202134.0,exact_normalized
+Richmond,2018,233374.0,exact_normalized
+Delaware,2018,130943.0,exact_normalized
+Saint Joseph's,2018,215770.0,exact_normalized
+Youngstown State,2018,206695.0,exact_normalized
+Canisius,2018,189705.0,exact_normalized
+East Tennessee State,2018,220075.0,exact_normalized
+Elon,2018,198516.0,exact_normalized
+Grambling State,2018,159009.0,exact_normalized
+Illinois Chicago,2018,145600.0,exact_normalized
+Lamar,2018,226091.0,exact_normalized
+Lipscomb,2018,219976.0,exact_normalized
+Louisiana Lafayette,2018,160658.0,exact_normalized
+Massachusetts,2018,166629.0,reviewed_alias
+Nicholls State,2018,159966.0,exact_normalized
+North Texas,2018,227216.0,exact_normalized
+Radford,2018,233277.0,exact_normalized
+Seton Hall,2018,186584.0,exact_normalized
+Texas Southern,2018,229063.0,exact_normalized
+Toledo,2018,206084.0,exact_normalized
+William & Mary,2018,231624.0,exact_normalized
+Winthrop,2018,218964.0,exact_normalized
+Wright State,2018,206604.0,reviewed_alias
+Xavier,2018,206622.0,exact_normalized
+Northwestern State,2018,160038.0,reviewed_alias
+Texas Arlington,2018,228769.0,exact_normalized
+Louisiana Tech,2018,159647.0,exact_normalized
+Louisiana Monroe,2018,159993.0,exact_normalized
+East Carolina,2018,198464.0,exact_normalized
+NJIT,2018,185828.0,reviewed_alias
+Grand Canyon,2018,104717.0,exact_normalized
+Drexel,2018,212054.0,exact_normalized
+Fairleigh Dickinson,2018,184603.0,reviewed_alias
+Sacramento State,2018,110617.0,reviewed_alias
+Incarnate Word,2018,225627.0,exact_normalized
+UMKC,2018,178402.0,reviewed_alias
+Sacred Heart,2018,130253.0,exact_normalized
+Central Connecticut State,2018,128771.0,exact_normalized
+Davidson,2018,198385.0,exact_normalized
+IUPUI,2018,151111.0,reviewed_alias
+Nebraska Omaha,2018,181394.0,exact_normalized
+Prairie View A&M,2018,227526.0,exact_normalized
+Abilene Christian,2018,222178.0,exact_normalized
+Rider,2018,186283.0,exact_normalized
+UTSA,2018,229027.0,reviewed_alias
+Tennessee Chattanooga,2018,221740.0,exact_normalized
+Arkansas Little Rock,2018,106245.0,exact_normalized
+Austin Peay State,2018,219602.0,exact_normalized
+Belmont,2018,219709.0,exact_normalized
+Bethune-Cookman,2018,132602.0,exact_normalized
+Bryant,2018,217165.0,exact_normalized
+Cal State Northridge,2018,110608.0,reviewed_alias
+Dayton,2018,202480.0,exact_normalized
+Eastern Washington,2018,235097.0,exact_normalized
+Hartford,2018,129525.0,exact_normalized
+Howard,2018,131520.0,exact_normalized
+La Salle,2018,213367.0,exact_normalized
+Maine,2018,161253.0,exact_normalized
+Montana,2018,180489.0,exact_normalized
+Morehead State,2018,157386.0,exact_normalized
+Morgan State,2018,163453.0,exact_normalized
+North Dakota,2018,200280.0,exact_normalized
+Oral Roberts,2018,207582.0,exact_normalized
+Presbyterian College,2018,218539.0,exact_normalized
+Robert Morris,2018,215655.0,exact_normalized
+Saint Louis,2018,179159.0,exact_normalized
+St. Bonaventure,2018,195164.0,exact_normalized
+St. Francis (NY),2018,195173.0,reviewed_alias
+Stephen F. Austin,2018,228431.0,reviewed_alias
+Tulane,2018,160755.0,reviewed_alias
+UAB,2018,100663.0,reviewed_alias
+UC Santa Barbara,2018,110705.0,reviewed_alias
+Western Illinois,2018,149772.0,exact_normalized
+Wisconsin Green Bay,2018,240277.0,exact_normalized
+Norfolk State,2018,232937.0,exact_normalized
+Houston Baptist,2018,225399.0,exact_normalized
+George Mason,2018,232186.0,exact_normalized
+Binghamton,2018,196079.0,exact_normalized
+St. Mary's College of California,2018,123554.0,reviewed_alias
+Bradley,2018,143358.0,exact_normalized
+North Carolina Central,2018,199157.0,exact_normalized
+Stanford,2019,243744.0,exact_normalized
+Michigan,2019,170976.0,reviewed_alias
+Florida,2019,134130.0,exact_normalized
+Texas,2019,228778.0,reviewed_alias
+USC,2019,123961.0,reviewed_alias
+UCLA,2019,110662.0,reviewed_alias
+Florida State,2019,134097.0,exact_normalized
+Virginia,2019,234076.0,reviewed_alias
+Duke,2019,198419.0,exact_normalized
+North Carolina,2019,199120.0,reviewed_alias
+LSU,2019,159391.0,reviewed_alias
+Ohio State,2019,204796.0,reviewed_alias
+Penn State,2019,214777.0,reviewed_alias
+Kentucky,2019,157085.0,exact_normalized
+Texas A&M,2019,228723.0,exact_normalized
+Wisconsin,2019,240444.0,reviewed_alias
+Notre Dame,2019,152080.0,exact_normalized
+California,2019,110635.0,reviewed_alias
+Arizona State,2019,104151.0,exact_normalized
+Minnesota,2019,174066.0,reviewed_alias
+Georgia,2019,139959.0,exact_normalized
+South Carolina,2019,218663.0,reviewed_alias
+Arkansas,2019,106397.0,exact_normalized
+Washington,2019,236948.0,reviewed_alias
+Tennessee,2019,221759.0,exact_normalized
+North Carolina State,2019,199193.0,reviewed_alias
+Oregon,2019,209551.0,exact_normalized
+Oklahoma State,2019,207388.0,reviewed_alias
+BYU,2019,230038.0,reviewed_alias
+Princeton,2019,186131.0,exact_normalized
+Alabama,2019,100751.0,exact_normalized
+Indiana,2019,151351.0,reviewed_alias
+Oklahoma,2019,207500.0,reviewed_alias
+Texas Tech,2019,229115.0,exact_normalized
+Louisville,2019,157289.0,exact_normalized
+Wake Forest,2019,199847.0,exact_normalized
+Auburn,2019,100858.0,exact_normalized
+Iowa,2019,153658.0,exact_normalized
+Baylor,2019,223232.0,exact_normalized
+Maryland,2019,163286.0,reviewed_alias
+Arizona,2019,104179.0,exact_normalized
+TCU,2019,228875.0,reviewed_alias
+Illinois,2019,145637.0,reviewed_alias
+Mississippi State,2019,176080.0,exact_normalized
+Northwestern,2019,147767.0,exact_normalized
+Vanderbilt,2019,221999.0,exact_normalized
+Michigan State,2019,171100.0,exact_normalized
+Nebraska,2019,181464.0,reviewed_alias
+Virginia Tech,2019,233921.0,reviewed_alias
+Colorado,2019,126614.0,reviewed_alias
+Missouri,2019,178396.0,reviewed_alias
+Denver,2019,127060.0,exact_normalized
+Iowa State,2019,153603.0,exact_normalized
+Syracuse,2019,196413.0,exact_normalized
+Purdue,2019,243780.0,reviewed_alias
+Ole Miss,2019,176017.0,reviewed_alias
+Harvard,2019,166027.0,exact_normalized
+Miami (FL),2019,135726.0,reviewed_alias
+Boise State,2019,142115.0,exact_normalized
+Houston,2019,225511.0,exact_normalized
+West Virginia,2019,238032.0,exact_normalized
+UCF,2019,132903.0,reviewed_alias
+Kansas,2019,155317.0,exact_normalized
+Pennsylvania,2019,215062.0,exact_normalized
+Oregon State,2019,209542.0,exact_normalized
+Georgia Tech,2019,139755.0,reviewed_alias
+Air Force,2019,128328.0,reviewed_ipeds_alias
+Hawaii,2019,141574.0,reviewed_alias
+North Dakota State,2019,200332.0,reviewed_alias
+Georgetown,2019,131496.0,exact_normalized
+New Mexico,2019,187985.0,reviewed_alias
+Navy,2019,164155.0,reviewed_ipeds_alias
+Clemson,2019,217882.0,exact_normalized
+Yale,2019,130794.0,exact_normalized
+Army West Point,2019,197036.0,reviewed_ipeds_alias
+Villanova,2019,216597.0,exact_normalized
+UConn,2019,129020.0,reviewed_alias
+Pepperdine,2019,121150.0,exact_normalized
+Utah,2019,230764.0,exact_normalized
+Columbia,2019,190150.0,reviewed_alias
+Cornell,2019,190415.0,exact_normalized
+Rutgers,2019,186380.0,reviewed_alias
+Northern Arizona,2019,105330.0,exact_normalized
+James Madison,2019,232423.0,exact_normalized
+North Carolina A&T,2019,199102.0,reviewed_alias
+Portland,2019,209825.0,exact_normalized
+Boston College,2019,164924.0,reviewed_alias
+Colorado State,2019,126818.0,exact_normalized
+Washington State,2019,236939.0,exact_normalized
+Long Beach State,2019,110583.0,reviewed_alias
+Dartmouth,2019,182670.0,exact_normalized
+Cincinnati,2019,201885.0,reviewed_alias
+Liberty,2019,232557.0,exact_normalized
+Furman,2019,218070.0,exact_normalized
+Kansas State,2019,155399.0,exact_normalized
+South Florida,2019,137351.0,reviewed_alias
+Akron,2019,200800.0,reviewed_alias
+Kennesaw State,2019,486840.0,reviewed_alias
+Campbell,2019,198136.0,exact_normalized
+Murray State,2019,157401.0,exact_normalized
+Southern Utah,2019,230603.0,exact_normalized
+Fresno State,2019,110556.0,reviewed_alias
+Sam Houston State,2019,227881.0,exact_normalized
+UNLV,2019,182281.0,reviewed_alias
+San Diego State,2019,122409.0,exact_normalized
+Marquette,2019,239105.0,exact_normalized
+Central Michigan,2019,169248.0,exact_normalized
+San Diego,2019,122436.0,exact_normalized
+Gonzaga,2019,235316.0,exact_normalized
+Monmouth,2019,185572.0,exact_normalized
+Lipscomb,2019,219976.0,exact_normalized
+South Dakota,2019,219471.0,exact_normalized
+South Dakota State,2019,219356.0,exact_normalized
+UC Davis,2019,110644.0,reviewed_alias
+Wofford,2019,218973.0,exact_normalized
+Buffalo,2019,196088.0,exact_normalized
+Colgate,2019,190099.0,exact_normalized
+Brown,2019,217156.0,exact_normalized
+Northern Iowa,2019,154095.0,exact_normalized
+Stephen F. Austin,2019,228431.0,reviewed_alias
+Southern Mississippi,2019,176372.0,exact_normalized
+Rice,2019,227757.0,exact_normalized
+Iona,2019,191931.0,exact_normalized
+Stony Brook,2019,196097.0,exact_normalized
+UC Santa Barbara,2019,110705.0,reviewed_alias
+St. Mary's College of California,2019,123554.0,reviewed_alias
+Quinnipiac,2019,130226.0,exact_normalized
+Alabama State,2019,100724.0,exact_normalized
+Indiana State,2019,151324.0,exact_normalized
+Arkansas State,2019,106458.0,reviewed_alias
+Providence,2019,217402.0,exact_normalized
+New Hampshire,2019,183044.0,reviewed_alias
+Illinois State,2019,145813.0,exact_normalized
+Montana State,2019,180461.0,exact_normalized
+Middle Tennessee State,2019,220978.0,exact_normalized
+Vermont,2019,231174.0,exact_normalized
+Pittsburgh,2019,215293.0,reviewed_alias
+Towson,2019,164076.0,exact_normalized
+Loyola Maryland,2019,163046.0,exact_normalized
+New Mexico State,2019,188030.0,reviewed_alias
+Northeastern,2019,167358.0,exact_normalized
+Old Dominion,2019,232982.0,exact_normalized
+Pacific,2019,120883.0,exact_normalized
+Utah State,2019,230728.0,exact_normalized
+Jacksonville State,2019,101480.0,exact_normalized
+Maine,2019,161253.0,exact_normalized
+Weber State,2019,230782.0,exact_normalized
+East Carolina,2019,198464.0,exact_normalized
+St. John's (NY),2019,195809.0,reviewed_alias
+Nevada,2019,182290.0,reviewed_alias
+Wyoming,2019,240727.0,exact_normalized
+Temple,2019,216339.0,exact_normalized
+Memphis,2019,220862.0,exact_normalized
+San Jose State,2019,122755.0,exact_normalized
+Creighton,2019,181002.0,exact_normalized
+Florida Gulf Coast,2019,433660.0,exact_normalized
+Loyola Marymount,2019,117946.0,exact_normalized
+UC Irvine,2019,110653.0,reviewed_alias
+Albany,2019,196060.0,reviewed_alias
+SMU,2019,228246.0,reviewed_alias
+Incarnate Word,2019,225627.0,exact_normalized
+Missouri State,2019,179566.0,exact_normalized
+Bethune-Cookman,2019,132602.0,exact_normalized
+Tulsa,2019,207971.0,exact_normalized
+Georgia Southern,2019,139931.0,exact_normalized
+Kent State,2019,203517.0,reviewed_alias
+Eastern Michigan,2019,169798.0,exact_normalized
+Grand Canyon,2019,104717.0,exact_normalized
+Northwestern State,2019,160038.0,reviewed_alias
+Southeast Missouri State,2019,179557.0,exact_normalized
+Eastern Washington,2019,235097.0,exact_normalized
+Massachusetts,2019,166629.0,reviewed_alias
+VCU,2019,234030.0,reviewed_alias
+DePaul,2019,144740.0,exact_normalized
+Drake,2019,153269.0,exact_normalized
+Rhode Island,2019,217484.0,exact_normalized
+South Alabama,2019,102094.0,exact_normalized
+American,2019,131159.0,exact_normalized
+Maryland Eastern Shore,2019,163338.0,exact_normalized
+Louisiana Tech,2019,159647.0,exact_normalized
+Boston University,2019,164988.0,reviewed_alias
+Miami (OH),2019,204024.0,reviewed_alias
+Texas State,2019,228459.0,exact_normalized
+Belmont,2019,219709.0,exact_normalized
+Florida International,2019,133951.0,exact_normalized
+North Texas,2019,227216.0,exact_normalized
+South Carolina State,2019,218733.0,exact_normalized
+North Florida,2019,136172.0,exact_normalized
+Cal Poly,2019,110422.0,reviewed_alias
+Abilene Christian,2019,222178.0,exact_normalized
+Bradley,2019,143358.0,exact_normalized
+East Tennessee State,2019,220075.0,exact_normalized
+Fordham,2019,191241.0,exact_normalized
+High Point,2019,198695.0,exact_normalized
+Hofstra,2019,191649.0,exact_normalized
+Illinois Chicago,2019,145600.0,exact_normalized
+Louisiana Lafayette,2019,160658.0,exact_normalized
+Mercer,2019,140447.0,exact_normalized
+Radford,2019,233277.0,exact_normalized
+Appalachian State,2019,197869.0,exact_normalized
+Tulane,2019,160755.0,reviewed_alias
+Samford,2019,102049.0,exact_normalized
+George Washington,2019,131469.0,exact_normalized
+Ohio,2019,204857.0,reviewed_alias
+Bowling Green,2019,201441.0,reviewed_alias
+Central Connecticut State,2019,128771.0,exact_normalized
+Seattle,2019,236595.0,exact_normalized
+Lehigh,2019,213543.0,exact_normalized
+Fairleigh Dickinson,2019,184603.0,reviewed_alias
+Rider,2019,186283.0,exact_normalized
+Sacramento State,2019,110617.0,reviewed_alias
+North Carolina Wilmington,2019,199218.0,exact_normalized
+Sacred Heart,2019,130253.0,exact_normalized
+Eastern Kentucky,2019,156620.0,exact_normalized
+Southern Illinois,2019,149222.0,reviewed_alias
+Saint Francis (PA),2019,215743.0,reviewed_alias
+Marist,2019,192819.0,exact_normalized
+Robert Morris,2019,215655.0,exact_normalized
+Duquesne,2019,212106.0,exact_normalized
+Nicholls State,2019,159966.0,exact_normalized
+Saint Joseph's,2019,215770.0,exact_normalized
+William & Mary,2019,231624.0,exact_normalized
+Arkansas Little Rock,2019,106245.0,exact_normalized
+Bryant,2019,217165.0,exact_normalized
+Central Arkansas,2019,106704.0,exact_normalized
+Charlotte,2019,199139.0,reviewed_alias
+Elon,2019,198516.0,exact_normalized
+Fairfield,2019,129242.0,exact_normalized
+Georgia State,2019,139940.0,exact_normalized
+Howard,2019,131520.0,exact_normalized
+LIU Brooklyn,2019,192439.0,exact_normalized
+Montana,2019,180489.0,exact_normalized
+Richmond,2019,233374.0,exact_normalized
+Saint Louis,2019,179159.0,exact_normalized
+Santa Clara,2019,122931.0,exact_normalized
+Southern,2019,160621.0,reviewed_alias
+Toledo,2019,206084.0,exact_normalized
+UMBC,2019,163268.0,reviewed_alias
+Wagner,2019,197197.0,exact_normalized
+Western Michigan,2019,172699.0,exact_normalized
+Nebraska Omaha,2019,181394.0,exact_normalized
+Bucknell,2019,211291.0,exact_normalized
+Detroit,2019,169716.0,reviewed_alias
+Marshall,2019,237525.0,exact_normalized
+Troy,2019,102368.0,exact_normalized
+UAB,2019,100663.0,reviewed_alias
+Utah Valley,2019,230737.0,exact_normalized
+Northern Illinois,2019,147703.0,exact_normalized
+Stetson,2019,137546.0,exact_normalized
+Tennessee Chattanooga,2019,221740.0,exact_normalized
+Norfolk State,2019,232937.0,exact_normalized
+Coastal Carolina,2019,218724.0,exact_normalized
+Florida Atlantic,2019,133669.0,exact_normalized
+Prairie View A&M,2019,227526.0,exact_normalized
+North Carolina Greensboro,2019,199148.0,exact_normalized
+Binghamton,2019,196079.0,exact_normalized
+Cal State Bakersfield,2019,110486.0,reviewed_alias
+Wichita State,2019,156125.0,exact_normalized
+McNeese State,2019,159717.0,exact_normalized
+Cal State Fullerton,2019,110565.0,reviewed_alias
+Wright State,2019,206604.0,reviewed_alias
+Northern Colorado,2019,127741.0,exact_normalized
+NJIT,2019,185828.0,reviewed_alias
+Coppin State,2019,162283.0,exact_normalized
+IUPUI,2019,151111.0,reviewed_alias
+Florida A&M,2019,133650.0,reviewed_alias
+Longwood,2019,232566.0,exact_normalized
+Alcorn State,2019,175342.0,exact_normalized
+Austin Peay State,2019,219602.0,exact_normalized
+Cleveland State,2019,202134.0,exact_normalized
+Dayton,2019,202480.0,exact_normalized
+Delaware,2019,130943.0,exact_normalized
+Gardner-Webb,2019,198561.0,exact_normalized
+Jacksonville,2019,134945.0,exact_normalized
+Lamar,2019,226091.0,exact_normalized
+Loyola Chicago,2019,146719.0,exact_normalized
+Morgan State,2019,163453.0,exact_normalized
+Northern Kentucky,2019,157447.0,exact_normalized
+Portland State,2019,209807.0,exact_normalized
+Seton Hall,2019,186584.0,exact_normalized
+Tennessee Tech,2019,221847.0,reviewed_alias
+Texas A&M Corpus Christi,2019,224147.0,exact_normalized
+UC Riverside,2019,110671.0,reviewed_alias
+Winthrop,2019,218964.0,exact_normalized
+Wisconsin Green Bay,2019,240277.0,exact_normalized
+Wisconsin Milwaukee,2019,240453.0,exact_normalized
+George Mason,2019,232186.0,exact_normalized
+UTSA,2019,229027.0,reviewed_alias
+Xavier,2019,206622.0,exact_normalized
+Houston Baptist,2019,225399.0,exact_normalized
+North Dakota,2019,200280.0,exact_normalized
+Drexel,2019,212054.0,exact_normalized
+SIU Edwardsville,2019,149231.0,reviewed_alias
+UMKC,2019,178402.0,reviewed_alias
+North Carolina Central,2019,199157.0,exact_normalized

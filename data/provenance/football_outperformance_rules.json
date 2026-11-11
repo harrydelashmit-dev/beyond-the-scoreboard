@@ -1,0 +1,89 @@
+{
+  "baseline_seasons": [
+    2005,
+    2006,
+    2007,
+    2008
+  ],
+  "low_prominence_cutoff": 1.3707500000000001,
+  "forecasts": [
+    {
+      "forecast_season": 2009,
+      "last_training_season": 2008,
+      "training_n": 357,
+      "intercept": 0.45312106805981756,
+      "lag_coefficient": 0.8126783377623384
+    },
+    {
+      "forecast_season": 2010,
+      "last_training_season": 2009,
+      "training_n": 477,
+      "intercept": 0.44916602354875934,
+      "lag_coefficient": 0.8150844464891264
+    },
+    {
+      "forecast_season": 2011,
+      "last_training_season": 2010,
+      "training_n": 597,
+      "intercept": 0.3718315076877425,
+      "lag_coefficient": 0.8292667739829763
+    },
+    {
+      "forecast_season": 2012,
+      "last_training_season": 2011,
+      "training_n": 717,
+      "intercept": 0.35421091724411546,
+      "lag_coefficient": 0.8313952378225931
+    },
+    {
+      "forecast_season": 2013,
+      "last_training_season": 2012,
+      "training_n": 837,
+      "intercept": 0.46535040704966435,
+      "lag_coefficient": 0.8225861214578273
+    },
+    {
+      "forecast_season": 2014,
+      "last_training_season": 2013,
+      "training_n": 961,
+      "intercept": 0.4699995960165708,
+      "lag_coefficient": 0.8348394292482988
+    },
+    {
+      "forecast_season": 2015,
+      "last_training_season": 2014,
+      "training_n": 1087,
+      "intercept": 0.49668902869330395,
+      "lag_coefficient": 0.8260393830133862
+    },
+    {
+      "forecast_season": 2016,
+      "last_training_season": 2015,
+      "training_n": 1214,
+      "intercept": 0.5103668464471154,
+      "lag_coefficient": 0.8263038167638002
+    },
+    {
+      "forecast_season": 2017,
+      "last_training_season": 2016,
+      "training_n": 1342,
+      "intercept": 0.4733188482037712,
+      "lag_coefficient": 0.823317391836031
+    },
+    {
+      "forecast_season": 2018,
+      "last_training_season": 2017,
+      "training_n": 1470,
+      "intercept": 0.27415171041008574,
+      "lag_coefficient": 0.8231189311386792
+    },
+    {
+      "forecast_season": 2019,
+      "last_training_season": 2018,
+      "training_n": 1599,
+      "intercept": 0.3119141954153141,
+      "lag_coefficient": 0.8231664575159898
+    }
+  ],
+  "interpretation": "Expanding AR(1) residual; not a measured surprise to prospective students"
+}

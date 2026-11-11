@@ -1,0 +1,37 @@
+sample,x,y,relation,pearson_r,n,schools,prior_claim
+FY2014-2019 aligned with football seasons2013-2018,football_spending,fpi,pooled_school_years,0.6935354863644014,649,111,0.556
+FY2014-2019 aligned with football seasons2013-2018,football_spending,fpi,between_school_means,0.844082624805907,111,111,
+FY2014-2019 aligned with football seasons2013-2018,football_spending,fpi,within_school_demeaned,-0.06820983098852439,649,111,
+FY2014-2019 aligned with football seasons2013-2018,football_coaching_salaries,fpi,pooled_school_years,0.7388877895718714,648,111,0.646
+FY2014-2019 aligned with football seasons2013-2018,football_coaching_salaries,fpi,between_school_means,0.8761299363935716,111,111,
+FY2014-2019 aligned with football seasons2013-2018,football_coaching_salaries,fpi,within_school_demeaned,0.04231955680094147,648,111,
+FY2014-2019 aligned with football seasons2013-2018,fpi,ticket_sales,pooled_school_years,0.6757515101229947,650,111,0.479
+FY2014-2019 aligned with football seasons2013-2018,fpi,ticket_sales,between_school_means,0.7679086156239102,111,111,
+FY2014-2019 aligned with football seasons2013-2018,fpi,ticket_sales,within_school_demeaned,0.08450010252210188,650,111,
+Football seasons2014-2018 observed within FY2010-2019 export,football_spending,fpi,pooled_school_years,0.701843912563319,543,111,0.556
+Football seasons2014-2018 observed within FY2010-2019 export,football_spending,fpi,between_school_means,0.8358135662959428,111,111,
+Football seasons2014-2018 observed within FY2010-2019 export,football_spending,fpi,within_school_demeaned,-0.11102308147674596,543,111,
+Football seasons2014-2018 observed within FY2010-2019 export,football_coaching_salaries,fpi,pooled_school_years,0.753648009869577,542,111,0.646
+Football seasons2014-2018 observed within FY2010-2019 export,football_coaching_salaries,fpi,between_school_means,0.8710005891954234,111,111,
+Football seasons2014-2018 observed within FY2010-2019 export,football_coaching_salaries,fpi,within_school_demeaned,0.0543875388146031,542,111,
+Football seasons2014-2018 observed within FY2010-2019 export,fpi,ticket_sales,pooled_school_years,0.6860068721570606,543,111,0.479
+Football seasons2014-2018 observed within FY2010-2019 export,fpi,ticket_sales,between_school_means,0.7644174319351239,111,111,
+Football seasons2014-2018 observed within FY2010-2019 export,fpi,ticket_sales,within_school_demeaned,0.13442100898569342,543,111,
+Coach comparability check excluding FY2015-2017,football_spending,fpi,pooled_school_years,0.6744079196600985,325,111,0.556
+Coach comparability check excluding FY2015-2017,football_spending,fpi,between_school_means,0.8156525771332398,111,111,
+Coach comparability check excluding FY2015-2017,football_spending,fpi,within_school_demeaned,-0.08802714875592077,325,111,
+Coach comparability check excluding FY2015-2017,football_coaching_salaries,fpi,pooled_school_years,0.726770194877849,324,111,0.646
+Coach comparability check excluding FY2015-2017,football_coaching_salaries,fpi,between_school_means,0.8557082589343749,111,111,
+Coach comparability check excluding FY2015-2017,football_coaching_salaries,fpi,within_school_demeaned,0.026753343208241947,324,111,
+Coach comparability check excluding FY2015-2017,fpi,ticket_sales,pooled_school_years,0.6597102947380019,326,111,0.479
+Coach comparability check excluding FY2015-2017,fpi,ticket_sales,between_school_means,0.7374805788094162,111,111,
+Coach comparability check excluding FY2015-2017,fpi,ticket_sales,within_school_demeaned,0.04932260918030125,326,111,
+Timing diagnostic ONLY: same printed fiscal and football-season labels2014-2019,football_spending,fpi,pooled_school_years,0.6959284778093803,652,111,0.556
+Timing diagnostic ONLY: same printed fiscal and football-season labels2014-2019,football_spending,fpi,between_school_means,0.8375889925373791,111,111,
+Timing diagnostic ONLY: same printed fiscal and football-season labels2014-2019,football_spending,fpi,within_school_demeaned,-0.051226767108878864,652,111,
+Timing diagnostic ONLY: same printed fiscal and football-season labels2014-2019,football_coaching_salaries,fpi,pooled_school_years,0.7346712830074782,651,111,0.646
+Timing diagnostic ONLY: same printed fiscal and football-season labels2014-2019,football_coaching_salaries,fpi,between_school_means,0.8745420954360879,111,111,
+Timing diagnostic ONLY: same printed fiscal and football-season labels2014-2019,football_coaching_salaries,fpi,within_school_demeaned,-0.016133919594168808,651,111,
+Timing diagnostic ONLY: same printed fiscal and football-season labels2014-2019,fpi,ticket_sales,pooled_school_years,0.6790113230657652,653,111,0.479
+Timing diagnostic ONLY: same printed fiscal and football-season labels2014-2019,fpi,ticket_sales,between_school_means,0.773046314953905,111,111,
+Timing diagnostic ONLY: same printed fiscal and football-season labels2014-2019,fpi,ticket_sales,within_school_demeaned,-0.04339791106343485,653,111,

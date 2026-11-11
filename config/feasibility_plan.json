@@ -11,7 +11,11 @@
     "maximum_outcome_year": 2019
   },
   "primary_families": {
-    "spending_success": ["lag log total athletics expense -> Cup/100", "lag log football expense -> FPI/10", "lag log EADA men's basketball expense -> Sweet16 indicator"],
+    "spending_success": [
+      "lag log total athletics expense -> Cup/100",
+      "lag log football expense -> FPI/10",
+      "lag log EADA men's basketball expense -> Sweet16 indicator"
+    ],
     "success_finance": "Each of Cup/100, FPI/10, and Sweet16 predicts each of next-year log tickets, log athletics donor contributions, and log net nonallocated-revenue proxy: nine tests",
     "flutie": "Each success measure predicts log applications and log first-time enrollment at the stated sport-specific fall: six tests"
   },
@@ -29,9 +33,19 @@
     "Exclude mergers, omit 2015-2017 coach-bonus reporting regime, expense-tail trimming, reported-only IPEDS flags",
     "Historical Power Five versus other FBS programs, 2015-2019; direct interaction tests",
     "Historical prominence from FPI 2005-2008; expanding-window AR(1) outperformance proxy using past information only; describe this as model outperformance rather than known expectations",
-    "Leave-one-school-out influence range for selected primary effects"
+    "Leave-one-school-out influence range for selected primary effects",
+    "Published-research-defined final AP top20 and preseason-unranked-to-final-top20 breakthrough indicators; verified preseason/final poll season metadata before estimation"
   ],
   "pilot_audit": "Attempt 2014-2019 Pearson correlations and school/year FE ticket model on independently obtained data. Report exact sample and timing. Exact reproduction of the claimed 52 schools requires their missing original membership and specification; do not select 52 schools to match reported coefficients.",
   "financial_scope": "Net nonallocated revenue proxy = exported total revenue - separate institutional/government support - student fees. Total revenue already nets transfers and expenses may include excess transfers; proxy and balance are not cash profit, gross generated revenue, or causal ROI. Ticket and donor components reported separately.",
-  "decision_rule": "Report all planned specifications and confidence intervals, including null/negative results; no search or stopping rule based on significance; scenarios remain explicitly hypothetical."
+  "decision_rule": "Report all planned specifications and confidence intervals, including null/negative results; no search or stopping rule based on significance; scenarios remain explicitly hypothetical.",
+  "primary_grid_unchanged_after_initial_estimation": true,
+  "secondary_audit_extensions_after_first_run": [
+    "Prior-budget controls, and balanced/pre2018 Cup checks (consistent with original research question and legacy checks)",
+    "Win-percentage comparison with the 2024 paper using its period but the available public-school panel",
+    "AP breakthrough interacted with historical prominence",
+    "Explicit event-support counts and leave-one-school-out sensitivity for the basketball first-difference signal",
+    "Identical-case level versus annual-change basketball comparisons, with year/conference-year and school-trend variants"
+  ],
+  "secondary_extension_rule": "All outputs retained; these diagnostics do not replace the initial 18 primary exposure tests"
 }

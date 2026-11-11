@@ -1,0 +1,641 @@
+unitid,year,cup_name,mbb_points,sweet16,main64,pdf_page,pdf_file
+204796,2010,Ohio State,64.0,1,1,2,nacda/2010_winter.pdf
+134130,2010,Florida,25.0,0,1,2,nacda/2010_winter.pdf
+174066,2010,Minnesota,25.0,0,1,2,nacda/2010_winter.pdf
+240444,2010,Wisconsin,50.0,0,1,2,nacda/2010_winter.pdf
+134097,2010,Florida State,25.0,0,1,2,nacda/2010_winter.pdf
+198419,2010,Duke (N.C.),100.0,1,1,2,nacda/2010_winter.pdf
+228723,2010,Texas A&M,50.0,0,1,2,nacda/2010_winter.pdf
+238032,2010,West Virginia,83.0,1,1,2,nacda/2010_winter.pdf
+157085,2010,Kentucky,73.0,1,1,2,nacda/2010_winter.pdf
+110635,2010,California,50.0,0,1,2,nacda/2010_winter.pdf
+171100,2010,Michigan State,83.0,1,1,2,nacda/2010_winter.pdf
+163286,2010,Maryland,50.0,0,1,2,nacda/2010_winter.pdf
+228778,2010,Texas,25.0,0,1,2,nacda/2010_winter.pdf
+230038,2010,Brigham Young (Utah),50.0,0,1,2,nacda/2010_winter.pdf
+236948,2010,Washington,64.0,1,1,2,nacda/2010_winter.pdf
+221759,2010,Tennessee,73.0,1,1,2,nacda/2010_winter.pdf
+152080,2010,Notre Dame,25.0,0,1,2,nacda/2010_winter.pdf
+187985,2010,New Mexico,50.0,0,1,2,nacda/2010_winter.pdf
+207388,2010,Oklahoma State,25.0,0,1,2,nacda/2010_winter.pdf
+216597,2010,Villanova (Pa.),50.0,0,1,2,nacda/2010_winter.pdf
+178396,2010,Missouri,50.0,0,1,2,nacda/2010_winter.pdf
+190415,2010,Cornell (N.Y.),64.0,1,1,2,nacda/2010_winter.pdf
+223232,2010,Baylor (Tex.),73.0,1,1,2,nacda/2010_winter.pdf
+243780,2010,Purdue,64.0,1,1,2,nacda/2010_winter.pdf
+157289,2010,Louisville,25.0,0,1,2,nacda/2010_winter.pdf
+139755,2010,Georgia Tech,50.0,0,1,2,nacda/2010_winter.pdf
+199847,2010,Wake Forest,50.0,0,1,2,nacda/2010_winter.pdf
+196413,2010,Syracuse,64.0,1,1,3,nacda/2010_winter.pdf
+122409,2010,San Diego State,25.0,0,1,3,nacda/2010_winter.pdf
+217882,2010,Clemson,25.0,0,1,3,nacda/2010_winter.pdf
+131496,2010,Georgetown,25.0,0,1,3,nacda/2010_winter.pdf
+154095,2010,Northern Iowa,64.0,1,1,3,nacda/2010_winter.pdf
+231174,2010,Vermont,25.0,0,1,3,nacda/2010_winter.pdf
+204857,2010,Ohio,50.0,0,1,3,nacda/2010_winter.pdf
+216339,2010,Temple,25.0,0,1,3,nacda/2010_winter.pdf
+150163,2010,Butler (Ind.),90.0,1,1,3,nacda/2010_winter.pdf
+215293,2010,Pittsburgh,50.0,0,1,3,nacda/2010_winter.pdf
+155317,2010,Kansas,50.0,0,1,3,nacda/2010_winter.pdf
+123554,2010,St. Mary's (Calif.),64.0,1,1,3,nacda/2010_winter.pdf
+110705,2010,UC Santa Barbara,25.0,0,1,3,nacda/2010_winter.pdf
+206622,2010,Xavier,64.0,1,1,3,nacda/2010_winter.pdf
+225511,2010,Houston,25.0,0,1,3,nacda/2010_winter.pdf
+157401,2010,Murray State (Ky.),50.0,0,1,3,nacda/2010_winter.pdf
+228796,2010,Texas El Paso,25.0,0,1,3,nacda/2010_winter.pdf
+180489,2010,Montana,25.0,0,1,3,nacda/2010_winter.pdf
+221999,2010,Vanderbilt,25.0,0,1,3,nacda/2010_winter.pdf
+235316,2010,Gonzaga (Wash.),50.0,0,1,3,nacda/2010_winter.pdf
+233374,2010,Richmond (Va.),25.0,0,1,3,nacda/2010_winter.pdf
+213543,2010,Lehigh (Pa.),25.0,0,1,3,nacda/2010_winter.pdf
+232982,2010,Old Dominion (Va.),50.0,0,1,4,nacda/2010_winter.pdf
+182281,2010,UNLV,25.0,0,1,4,nacda/2010_winter.pdf
+155399,2010,Kansas State,73.0,1,1,4,nacda/2010_winter.pdf
+227881,2010,Sam Houston State (Tex.),25.0,0,1,4,nacda/2010_winter.pdf
+106412,2010,Arkansas Pine Bluff,25.0,0,1,4,nacda/2010_winter.pdf
+220075,2010,East Tennessee State,25.0,0,1,4,nacda/2010_winter.pdf
+239105,2010,Marquette,25.0,0,1,5,nacda/2010_winter.pdf
+218973,2010,Wofford (S.C.),25.0,0,1,5,nacda/2010_winter.pdf
+163453,2010,Morgan State (Md.),25.0,0,1,5,nacda/2010_winter.pdf
+188030,2010,New Mexico State,25.0,0,1,5,nacda/2010_winter.pdf
+227216,2010,North Texas,25.0,0,1,6,nacda/2010_winter.pdf
+171571,2010,Oakland (Mich.),25.0,0,1,6,nacda/2010_winter.pdf
+215655,2010,Robert Morris (Pa.),25.0,0,1,6,nacda/2010_winter.pdf
+195474,2010,Siena (N.Y.),25.0,0,1,6,nacda/2010_winter.pdf
+230728,2010,Utah State,25.0,0,1,6,nacda/2010_winter.pdf
+204796,2011,Ohio State,64.0,1,1,2,nacda/2011_winter.pdf
+214777,2011,Penn State,25.0,0,1,2,nacda/2011_winter.pdf
+199120,2011,North Carolina,73.0,1,1,2,nacda/2011_winter.pdf
+170976,2011,Michigan,50.0,0,1,2,nacda/2011_winter.pdf
+134097,2011,Florida State,64.0,1,1,2,nacda/2011_winter.pdf
+198419,2011,Duke,64.0,1,1,2,nacda/2011_winter.pdf
+240444,2011,Wisconsin,64.0,1,1,2,nacda/2011_winter.pdf
+152080,2011,Notre Dame,50.0,0,1,2,nacda/2011_winter.pdf
+134130,2011,Florida,73.0,1,1,2,nacda/2011_winter.pdf
+228778,2011,Texas,50.0,0,1,2,nacda/2011_winter.pdf
+228723,2011,Texas A&M,25.0,0,1,2,nacda/2011_winter.pdf
+104179,2011,Arizona,73.0,1,1,2,nacda/2011_winter.pdf
+238032,2011,West Virginia,50.0,0,1,2,nacda/2011_winter.pdf
+145637,2011,Illinois,50.0,0,1,2,nacda/2011_winter.pdf
+110662,2011,UCLA,50.0,0,1,2,nacda/2011_winter.pdf
+129020,2011,Connecticut,100.0,1,1,2,nacda/2011_winter.pdf
+157289,2011,Louisville,25.0,0,1,2,nacda/2011_winter.pdf
+221759,2011,Tennessee,25.0,0,1,2,nacda/2011_winter.pdf
+236948,2011,Washington,50.0,0,1,2,nacda/2011_winter.pdf
+230038,2011,Brigham Young (Utah),64.0,1,1,2,nacda/2011_winter.pdf
+157085,2011,Kentucky,83.0,1,1,2,nacda/2011_winter.pdf
+178396,2011,Missouri,25.0,0,1,2,nacda/2011_winter.pdf
+139959,2011,Georgia,25.0,0,1,2,nacda/2011_winter.pdf
+171100,2011,Michigan State,25.0,0,1,2,nacda/2011_winter.pdf
+186131,2011,Princeton (N.J.),25.0,0,1,2,nacda/2011_winter.pdf
+243780,2011,Purdue,50.0,0,1,2,nacda/2011_winter.pdf
+131496,2011,Georgetown,25.0,0,1,2,nacda/2011_winter.pdf
+216597,2011,Villanova (Pa.),25.0,0,1,2,nacda/2011_winter.pdf
+196413,2011,Syracuse,50.0,0,1,2,nacda/2011_winter.pdf
+217882,2011,Clemson,25.0,0,1,3,nacda/2011_winter.pdf
+155399,2011,Kansas State,50.0,0,1,3,nacda/2011_winter.pdf
+164988,2011,Boston University,25.0,0,1,3,nacda/2011_winter.pdf
+239105,2011,Marquette,64.0,1,1,3,nacda/2011_winter.pdf
+232982,2011,Old Dominion (Va.),25.0,0,1,3,nacda/2011_winter.pdf
+150163,2011,Butler (Ind.),90.0,1,1,3,nacda/2011_winter.pdf
+195809,2011,St. John's (N.Y.),25.0,0,1,3,nacda/2011_winter.pdf
+155317,2011,Kansas,73.0,1,1,3,nacda/2011_winter.pdf
+216339,2011,Temple,50.0,0,1,3,nacda/2011_winter.pdf
+221999,2011,Vanderbilt,25.0,0,1,3,nacda/2011_winter.pdf
+232186,2011,George Mason (Va.),50.0,0,1,3,nacda/2011_winter.pdf
+215293,2011,Pittsburgh,50.0,0,1,3,nacda/2011_winter.pdf
+200800,2011,Akron,25.0,0,1,3,nacda/2011_winter.pdf
+235316,2011,Gonzaga (Wash.),50.0,0,1,3,nacda/2011_winter.pdf
+122409,2011,San Diego State,64.0,1,1,4,nacda/2011_winter.pdf
+201885,2011,Cincinnati,50.0,0,1,4,nacda/2011_winter.pdf
+206622,2011,Xavier,25.0,0,1,4,nacda/2011_winter.pdf
+218973,2011,Wofford (S.C.),25.0,0,1,4,nacda/2011_winter.pdf
+233374,2011,Richmond (Va.),64.0,1,1,4,nacda/2011_winter.pdf
+211291,2011,Bucknell (Pa.),25.0,0,1,4,nacda/2011_winter.pdf
+234030,2011,Virginia Commonwealth,83.0,1,1,4,nacda/2011_winter.pdf
+151324,2011,Indiana State,25.0,0,1,4,nacda/2011_winter.pdf
+182281,2011,UNLV,25.0,0,1,4,nacda/2011_winter.pdf
+157386,2011,Morehead State (Ky.),50.0,0,1,4,nacda/2011_winter.pdf
+229027,2011,Texas San Antonio,25.0,0,1,4,nacda/2011_winter.pdf
+110705,2011,UC Santa Barbara,25.0,0,1,4,nacda/2011_winter.pdf
+232265,2011,Hampton (Va.),25.0,0,1,5,nacda/2011_winter.pdf
+220862,2011,Memphis (Tenn.),25.0,0,1,5,nacda/2011_winter.pdf
+171571,2011,Oakland (Mich.),25.0,0,1,5,nacda/2011_winter.pdf
+186432,2011,St. Peter's (N.J.),25.0,0,1,5,nacda/2011_winter.pdf
+230728,2011,Utah State,25.0,0,1,5,nacda/2011_winter.pdf
+127741,2011,Northern Colorado,25.0,0,1,5,nacda/2011_winter.pdf
+219709,2011,Belmont (Tenn.),25.0,0,1,5,nacda/2011_winter.pdf
+192439,2011,Long Island - Brooklyn,25.0,0,1,5,nacda/2011_winter.pdf
+199111,2011,North Carolina Asheville,25.0,0,1,6,nacda/2011_winter.pdf
+204796,2012,Ohio State,83.0,1,1,2,nacda/2012_winter.pdf
+134130,2012,Florida,73.0,1,1,2,nacda/2012_winter.pdf
+170976,2012,Michigan,25.0,0,1,2,nacda/2012_winter.pdf
+134097,2012,Florida State,50.0,0,1,2,nacda/2012_winter.pdf
+199120,2012,North Carolina,73.0,1,1,2,nacda/2012_winter.pdf
+228778,2012,Texas,25.0,0,1,2,nacda/2012_winter.pdf
+240444,2012,Wisconsin,64.0,1,1,2,nacda/2012_winter.pdf
+152080,2012,Notre Dame,25.0,0,1,2,nacda/2012_winter.pdf
+198419,2012,Duke,25.0,0,1,2,nacda/2012_winter.pdf
+171100,2012,Michigan State,64.0,1,1,2,nacda/2012_winter.pdf
+157289,2012,Louisville,83.0,1,1,2,nacda/2012_winter.pdf
+238032,2012,West Virginia,25.0,0,1,2,nacda/2012_winter.pdf
+157085,2012,Kentucky,100.0,1,1,2,nacda/2012_winter.pdf
+151351,2012,Indiana,64.0,1,1,2,nacda/2012_winter.pdf
+223232,2012,Baylor (Tex.),73.0,1,1,2,nacda/2012_winter.pdf
+234076,2012,Virginia,25.0,0,1,2,nacda/2012_winter.pdf
+153603,2012,Iowa State,50.0,0,1,2,nacda/2012_winter.pdf
+100751,2012,Alabama,25.0,0,1,2,nacda/2012_winter.pdf
+187985,2012,New Mexico,50.0,0,1,2,nacda/2012_winter.pdf
+243780,2012,Purdue,50.0,0,1,2,nacda/2012_winter.pdf
+230038,2012,Brigham Young (Utah),25.0,0,1,2,nacda/2012_winter.pdf
+199193,2012,North Carolina State,64.0,1,1,2,nacda/2012_winter.pdf
+129020,2012,Connecticut,25.0,0,1,2,nacda/2012_winter.pdf
+178396,2012,Missouri,25.0,0,1,2,nacda/2012_winter.pdf
+131496,2012,Georgetown,50.0,0,1,2,nacda/2012_winter.pdf
+155399,2012,Kansas State,50.0,0,1,2,nacda/2012_winter.pdf
+126614,2012,Colorado,50.0,0,1,2,nacda/2012_winter.pdf
+196413,2012,Syracuse,73.0,1,1,2,nacda/2012_winter.pdf
+155317,2012,Kansas,90.0,1,1,2,nacda/2012_winter.pdf
+221999,2012,Vanderbilt,50.0,0,1,2,nacda/2012_winter.pdf
+166027,2012,Harvard,25.0,0,1,2,nacda/2012_winter.pdf
+201885,2012,Cincinnati,64.0,1,1,3,nacda/2012_winter.pdf
+213543,2012,Lehigh (Pa.),50.0,0,1,3,nacda/2012_winter.pdf
+204857,2012,Ohio,64.0,1,1,3,nacda/2012_winter.pdf
+239105,2012,Marquette,64.0,1,1,3,nacda/2012_winter.pdf
+181002,2012,Creighton (Nebr.),50.0,0,1,3,nacda/2012_winter.pdf
+216339,2012,Temple,25.0,0,1,3,nacda/2012_winter.pdf
+180489,2012,Montana,25.0,0,1,3,nacda/2012_winter.pdf
+122409,2012,San Diego State,25.0,0,1,3,nacda/2012_winter.pdf
+231174,2012,Vermont,25.0,0,1,3,nacda/2012_winter.pdf
+110583,2012,Long Beach State,25.0,0,1,3,nacda/2012_winter.pdf
+137351,2012,South Florida,50.0,0,1,3,nacda/2012_winter.pdf
+235316,2012,Gonzaga (Wash.),50.0,0,1,3,nacda/2012_winter.pdf
+123554,2012,St. Mary's (Calif.),25.0,0,1,3,nacda/2012_winter.pdf
+232937,2012,Norfolk State (Va.),50.0,0,1,3,nacda/2012_winter.pdf
+156125,2012,Wichita State (Kans.),25.0,0,1,3,nacda/2012_winter.pdf
+195164,2012,St. Bonaventure (N.Y.),25.0,0,1,4,nacda/2012_winter.pdf
+206622,2012,Xavier,64.0,1,1,4,nacda/2012_winter.pdf
+176372,2012,Southern Mississippi,25.0,0,1,4,nacda/2012_winter.pdf
+126818,2012,Colorado State,25.0,0,1,4,nacda/2012_winter.pdf
+220862,2012,Memphis (Tenn.),25.0,0,1,4,nacda/2012_winter.pdf
+182281,2012,UNLV,25.0,0,1,4,nacda/2012_winter.pdf
+192439,2012,Long Island - Brooklyn,25.0,0,1,4,nacda/2012_winter.pdf
+157401,2012,Murray State (Ky.),50.0,0,1,4,nacda/2012_winter.pdf
+219356,2012,South Dakota State,25.0,0,1,4,nacda/2012_winter.pdf
+179159,2012,St. Louis,50.0,0,1,4,nacda/2012_winter.pdf
+234030,2012,Virginia Commonwealth,50.0,0,1,4,nacda/2012_winter.pdf
+157951,2012,Western Kentucky,25.0,0,1,4,nacda/2012_winter.pdf
+219709,2012,Belmont (Tenn.),25.0,0,1,5,nacda/2012_winter.pdf
+198385,2012,Davidson (N.C.),25.0,0,1,5,nacda/2012_winter.pdf
+169716,2012,Detroit Mercy,25.0,0,1,5,nacda/2012_winter.pdf
+163046,2012,Loyola University (Md.),25.0,0,1,5,nacda/2012_winter.pdf
+188030,2012,New Mexico State,25.0,0,1,5,nacda/2012_winter.pdf
+199111,2012,North Carolina Asheville,25.0,0,1,5,nacda/2012_winter.pdf
+170976,2013,Michigan,90.0,1,1,2,nacda/2013_winter.pdf
+134130,2013,Florida,73.0,1,1,2,nacda/2013_winter.pdf
+152080,2013,Notre Dame,25.0,0,1,2,nacda/2013_winter.pdf
+199120,2013,North Carolina,50.0,0,1,2,nacda/2013_winter.pdf
+174066,2013,Minnesota,50.0,0,1,2,nacda/2013_winter.pdf
+110662,2013,UCLA,25.0,0,1,2,nacda/2013_winter.pdf
+209551,2013,Oregon,64.0,1,1,2,nacda/2013_winter.pdf
+207500,2013,Oklahoma,25.0,0,1,2,nacda/2013_winter.pdf
+104179,2013,Arizona,64.0,1,1,2,nacda/2013_winter.pdf
+204796,2013,Ohio State,73.0,1,1,2,nacda/2013_winter.pdf
+171100,2013,Michigan State,64.0,1,1,2,nacda/2013_winter.pdf
+198419,2013,Duke,73.0,1,1,2,nacda/2013_winter.pdf
+157289,2013,Louisville,100.0,1,1,2,nacda/2013_winter.pdf
+110635,2013,California,50.0,0,1,2,nacda/2013_winter.pdf
+240444,2013,Wisconsin,25.0,0,1,2,nacda/2013_winter.pdf
+207388,2013,Oklahoma State,25.0,0,1,2,nacda/2013_winter.pdf
+151351,2013,Indiana,64.0,1,1,2,nacda/2013_winter.pdf
+153603,2013,Iowa State,50.0,0,1,2,nacda/2013_winter.pdf
+145637,2013,Illinois,50.0,0,1,2,nacda/2013_winter.pdf
+196413,2013,Syracuse,83.0,1,1,2,nacda/2013_winter.pdf
+199193,2013,North Carolina State,25.0,0,1,2,nacda/2013_winter.pdf
+126614,2013,Colorado,25.0,0,1,2,nacda/2013_winter.pdf
+131496,2013,Georgetown,25.0,0,1,2,nacda/2013_winter.pdf
+187985,2013,New Mexico,25.0,0,1,2,nacda/2013_winter.pdf
+178396,2013,Missouri,25.0,0,1,2,nacda/2013_winter.pdf
+166027,2013,Harvard,50.0,0,1,2,nacda/2013_winter.pdf
+216597,2013,Villanova,25.0,0,1,2,nacda/2013_winter.pdf
+155317,2013,Kansas,64.0,1,1,2,nacda/2013_winter.pdf
+122409,2013,San Diego State,50.0,0,1,2,nacda/2013_winter.pdf
+181002,2013,Creighton,50.0,0,1,2,nacda/2013_winter.pdf
+156125,2013,Wichita State,83.0,1,1,2,nacda/2013_winter.pdf
+239105,2013,Marquette,73.0,1,1,3,nacda/2013_winter.pdf
+176017,2013,Mississippi,50.0,0,1,3,nacda/2013_winter.pdf
+135726,2013,Miami (Florida),64.0,1,1,3,nacda/2013_winter.pdf
+155399,2013,Kansas State,25.0,0,1,3,nacda/2013_winter.pdf
+215293,2013,Pittsburgh,25.0,0,1,3,nacda/2013_winter.pdf
+216339,2013,Temple,50.0,0,1,3,nacda/2013_winter.pdf
+200800,2013,Akron,25.0,0,1,3,nacda/2013_winter.pdf
+433660,2013,Florida Gulf Coast,64.0,1,1,3,nacda/2013_winter.pdf
+219356,2013,South Dakota State,25.0,0,1,3,nacda/2013_winter.pdf
+126818,2013,Colorado State,50.0,0,1,3,nacda/2013_winter.pdf
+179159,2013,Saint Louis,50.0,0,1,3,nacda/2013_winter.pdf
+234030,2013,Virginia Commonwealth,50.0,0,1,3,nacda/2013_winter.pdf
+157951,2013,Western Kentucky,25.0,0,1,3,nacda/2013_winter.pdf
+150163,2013,Butler,50.0,0,1,3,nacda/2013_winter.pdf
+213367,2013,La Salle,64.0,1,1,3,nacda/2013_winter.pdf
+201885,2013,Cincinnati,25.0,0,1,3,nacda/2013_winter.pdf
+196060,2013,Albany,25.0,0,1,4,nacda/2013_winter.pdf
+235316,2013,Gonzaga,50.0,0,1,4,nacda/2013_winter.pdf
+123554,2013,Saint Mary's (CA),25.0,0,1,4,nacda/2013_winter.pdf
+191931,2013,Iona,25.0,0,1,4,nacda/2013_winter.pdf
+182281,2013,UNLV,25.0,0,1,4,nacda/2013_winter.pdf
+211291,2013,Bucknell,25.0,0,1,4,nacda/2013_winter.pdf
+219709,2013,Belmont,25.0,0,1,4,nacda/2013_winter.pdf
+220862,2013,Memphis,50.0,0,1,4,nacda/2013_winter.pdf
+180489,2013,Montana,25.0,0,1,4,nacda/2013_winter.pdf
+188030,2013,New Mexico State,25.0,0,1,4,nacda/2013_winter.pdf
+198385,2013,Davidson,25.0,0,1,4,nacda/2013_winter.pdf
+232423,2013,James Madison,25.0,0,1,5,nacda/2013_winter.pdf
+199102,2013,North Carolina A&T State,25.0,0,1,5,nacda/2013_winter.pdf
+160038,2013,Northwestern State,25.0,0,1,5,nacda/2013_winter.pdf
+120883,2013,"Pacific, University of the",25.0,0,1,5,nacda/2013_winter.pdf
+160621,2013,Southern,25.0,0,1,5,nacda/2013_winter.pdf
+152600,2013,Valparaiso,25.0,0,1,5,nacda/2013_winter.pdf
+243744,2014,Stanford,64.0,1,1,2,nacda/2014_winter.pdf
+134130,2014,Florida,83.0,1,1,2,nacda/2014_winter.pdf
+170976,2014,Michigan,73.0,1,1,2,nacda/2014_winter.pdf
+240444,2014,Wisconsin,83.0,1,1,2,nacda/2014_winter.pdf
+199120,2014,North Carolina,50.0,0,1,2,nacda/2014_winter.pdf
+181464,2014,Nebraska,25.0,0,1,2,nacda/2014_winter.pdf
+198419,2014,Duke,25.0,0,1,2,nacda/2014_winter.pdf
+171100,2014,Michigan State,73.0,1,1,2,nacda/2014_winter.pdf
+228778,2014,Texas,50.0,0,1,2,nacda/2014_winter.pdf
+157085,2014,Kentucky,90.0,1,1,2,nacda/2014_winter.pdf
+234076,2014,Virginia,64.0,1,1,2,nacda/2014_winter.pdf
+104179,2014,Arizona,73.0,1,1,2,nacda/2014_winter.pdf
+209551,2014,Oregon,50.0,0,1,2,nacda/2014_winter.pdf
+207388,2014,Oklahoma State,25.0,0,1,2,nacda/2014_winter.pdf
+204796,2014,Ohio State,25.0,0,1,2,nacda/2014_winter.pdf
+110662,2014,UCLA,64.0,1,1,2,nacda/2014_winter.pdf
+157289,2014,Louisville,64.0,1,1,2,nacda/2014_winter.pdf
+207500,2014,Oklahoma,25.0,0,1,2,nacda/2014_winter.pdf
+126614,2014,Colorado,25.0,0,1,2,nacda/2014_winter.pdf
+230038,2014,BYU,25.0,0,1,2,nacda/2014_winter.pdf
+153603,2014,Iowa State,64.0,1,1,2,nacda/2014_winter.pdf
+104151,2014,Arizona State,25.0,0,1,2,nacda/2014_winter.pdf
+129020,2014,UConn,100.0,1,1,2,nacda/2014_winter.pdf
+199193,2014,North Carolina State,25.0,0,1,2,nacda/2014_winter.pdf
+187985,2014,New Mexico,25.0,0,1,2,nacda/2014_winter.pdf
+217402,2014,Providence,25.0,0,1,2,nacda/2014_winter.pdf
+166027,2014,Harvard,50.0,0,1,2,nacda/2014_winter.pdf
+223232,2014,Baylor,64.0,1,1,3,nacda/2014_winter.pdf
+196413,2014,Syracuse,50.0,0,1,3,nacda/2014_winter.pdf
+221759,2014,Tennessee,64.0,1,1,3,nacda/2014_winter.pdf
+216597,2014,Villanova,50.0,0,1,3,nacda/2014_winter.pdf
+122409,2014,San Diego State,64.0,1,1,3,nacda/2014_winter.pdf
+155317,2014,Kansas,50.0,0,1,3,nacda/2014_winter.pdf
+215293,2014,Pittsburgh,50.0,0,1,3,nacda/2014_winter.pdf
+200332,2014,North Dakota State,50.0,0,1,3,nacda/2014_winter.pdf
+220862,2014,Memphis,50.0,0,1,3,nacda/2014_winter.pdf
+218724,2014,Coastal Carolina,25.0,0,1,3,nacda/2014_winter.pdf
+240453,2014,Wisconsin Milwaukee,25.0,0,1,3,nacda/2014_winter.pdf
+131159,2014,American,25.0,0,1,3,nacda/2014_winter.pdf
+166629,2014,Massachusetts,25.0,0,1,3,nacda/2014_winter.pdf
+181002,2014,Creighton,50.0,0,1,4,nacda/2014_winter.pdf
+156125,2014,Wichita State,50.0,0,1,4,nacda/2014_winter.pdf
+202480,2014,Dayton,73.0,1,1,4,nacda/2014_winter.pdf
+156620,2014,Eastern Kentucky,25.0,0,1,4,nacda/2014_winter.pdf
+230782,2014,Weber State,25.0,0,1,4,nacda/2014_winter.pdf
+228431,2014,Stephen F. Austin,50.0,0,1,4,nacda/2014_winter.pdf
+130943,2014,Delaware,25.0,0,1,4,nacda/2014_winter.pdf
+235316,2014,Gonzaga,50.0,0,1,4,nacda/2014_winter.pdf
+155399,2014,Kansas State,25.0,0,1,4,nacda/2014_winter.pdf
+215770,2014,Saint Joseph's,25.0,0,1,4,nacda/2014_winter.pdf
+172699,2014,Western Michigan,25.0,0,1,4,nacda/2014_winter.pdf
+207971,2014,Tulsa,25.0,0,1,5,nacda/2014_winter.pdf
+160658,2014,Louisiana Lafayette,25.0,0,1,5,nacda/2014_winter.pdf
+196060,2014,Albany,25.0,0,1,5,nacda/2014_winter.pdf
+110422,2014,Cal Poly,25.0,0,1,5,nacda/2014_winter.pdf
+201885,2014,Cincinnati,25.0,0,1,5,nacda/2014_winter.pdf
+140447,2014,Mercer,50.0,0,1,5,nacda/2014_winter.pdf
+188030,2014,New Mexico State,25.0,0,1,5,nacda/2014_winter.pdf
+179159,2014,Saint Louis,50.0,0,1,6,nacda/2014_winter.pdf
+234030,2014,VCU,25.0,0,1,6,nacda/2014_winter.pdf
+131469,2014,George Washington,25.0,0,1,6,nacda/2014_winter.pdf
+192703,2014,Manhattan,25.0,0,1,6,nacda/2014_winter.pdf
+199157,2014,North Carolina Central,25.0,0,1,7,nacda/2014_winter.pdf
+218973,2014,Wofford,25.0,0,1,7,nacda/2014_winter.pdf
+199120,2015,North Carolina,64.0,1,1,1,nacda/2015_winter.pdf
+240444,2015,Wisconsin,90.0,1,1,1,nacda/2015_winter.pdf
+110662,2015,UCLA,64.0,1,1,1,nacda/2015_winter.pdf
+204796,2015,Ohio State,50.0,0,1,1,nacda/2015_winter.pdf
+228778,2015,Texas,25.0,0,1,1,nacda/2015_winter.pdf
+152080,2015,Notre Dame,73.0,1,1,1,nacda/2015_winter.pdf
+234076,2015,Virginia,50.0,0,1,1,nacda/2015_winter.pdf
+106397,2015,Arkansas,50.0,0,1,1,nacda/2015_winter.pdf
+171100,2015,Michigan State,85.0,1,1,1,nacda/2015_winter.pdf
+157085,2015,Kentucky,85.0,1,1,1,nacda/2015_winter.pdf
+209551,2015,Oregon,50.0,0,1,1,nacda/2015_winter.pdf
+139959,2015,Georgia,25.0,0,1,1,nacda/2015_winter.pdf
+199193,2015,North Carolina State,64.0,1,1,1,nacda/2015_winter.pdf
+198419,2015,Duke,100.0,1,1,1,nacda/2015_winter.pdf
+157289,2015,Louisville,73.0,1,1,1,nacda/2015_winter.pdf
+207500,2015,Oklahoma,64.0,1,1,1,nacda/2015_winter.pdf
+104179,2015,Arizona,73.0,1,1,1,nacda/2015_winter.pdf
+153658,2015,Iowa,50.0,0,1,1,nacda/2015_winter.pdf
+131496,2015,Georgetown,50.0,0,1,1,nacda/2015_winter.pdf
+217402,2015,Providence,25.0,0,1,1,nacda/2015_winter.pdf
+207388,2015,Oklahoma State,25.0,0,1,1,nacda/2015_winter.pdf
+230764,2015,Utah,64.0,1,1,1,nacda/2015_winter.pdf
+163286,2015,Maryland,50.0,0,1,1,nacda/2015_winter.pdf
+153603,2015,Iowa State,25.0,0,1,1,nacda/2015_winter.pdf
+238032,2015,West Virginia,64.0,1,1,1,nacda/2015_winter.pdf
+159391,2015,LSU,25.0,0,1,1,nacda/2015_winter.pdf
+223232,2015,Baylor,25.0,0,1,1,nacda/2015_winter.pdf
+166027,2015,Harvard,25.0,0,1,1,nacda/2015_winter.pdf
+151351,2015,Indiana,25.0,0,1,1,nacda/2015_winter.pdf
+216597,2015,Villanova,50.0,0,1,1,nacda/2015_winter.pdf
+200332,2015,North Dakota State,25.0,0,1,1,nacda/2015_winter.pdf
+202480,2015,Dayton,50.0,0,1,1,nacda/2015_winter.pdf
+243780,2015,Purdue,25.0,0,1,1,nacda/2015_winter.pdf
+176017,2015,Ole Miss,25.0,0,1,1,nacda/2015_winter.pdf
+218724,2015,Coastal Carolina,25.0,0,1,1,nacda/2015_winter.pdf
+228431,2015,Stephen F. Austin,25.0,0,1,1,nacda/2015_winter.pdf
+154095,2015,Northern Iowa,50.0,0,1,2,nacda/2015_winter.pdf
+235316,2015,Gonzaga,73.0,1,1,2,nacda/2015_winter.pdf
+196060,2015,Albany,25.0,0,1,2,nacda/2015_winter.pdf
+155317,2015,Kansas,50.0,0,1,2,nacda/2015_winter.pdf
+122409,2015,San Diego State,50.0,0,1,2,nacda/2015_winter.pdf
+206622,2015,Xavier,64.0,1,1,2,nacda/2015_winter.pdf
+228246,2015,SMU,25.0,0,1,2,nacda/2015_winter.pdf
+201885,2015,Cincinnati,50.0,0,1,2,nacda/2015_winter.pdf
+196088,2015,Buffalo,25.0,0,1,2,nacda/2015_winter.pdf
+195809,2015,St. John's (NY),25.0,0,1,2,nacda/2015_winter.pdf
+235097,2015,Eastern Washington,25.0,0,1,2,nacda/2015_winter.pdf
+232265,2015,Hampton,25.0,0,1,2,nacda/2015_winter.pdf
+110653,2015,UC Irvine,25.0,0,1,2,nacda/2015_winter.pdf
+156125,2015,Wichita State,64.0,1,1,2,nacda/2015_winter.pdf
+240727,2015,Wyoming,25.0,0,1,2,nacda/2015_winter.pdf
+167358,2015,Northeastern,25.0,0,1,2,nacda/2015_winter.pdf
+100663,2015,UAB,50.0,0,1,2,nacda/2015_winter.pdf
+150163,2015,Butler,50.0,0,1,3,nacda/2015_winter.pdf
+139940,2015,Georgia State,50.0,0,1,3,nacda/2015_winter.pdf
+188030,2015,New Mexico State,25.0,0,1,3,nacda/2015_winter.pdf
+152600,2015,Valparaiso,25.0,0,1,3,nacda/2015_winter.pdf
+198385,2015,Davidson,25.0,0,1,3,nacda/2015_winter.pdf
+219709,2015,Belmont,25.0,0,1,3,nacda/2015_winter.pdf
+213385,2015,Lafayette,25.0,0,1,3,nacda/2015_winter.pdf
+215655,2015,Robert Morris,25.0,0,1,3,nacda/2015_winter.pdf
+229063,2015,Texas Southern,25.0,0,1,3,nacda/2015_winter.pdf
+234030,2015,VCU,25.0,0,1,3,nacda/2015_winter.pdf
+218973,2015,Wofford,25.0,0,1,3,nacda/2015_winter.pdf
+170976,2016,Michigan,25.0,0,1,1,nacda/2016_winter.pdf
+199120,2016,North Carolina,90.0,1,1,1,nacda/2016_winter.pdf
+152080,2016,Notre Dame,73.0,1,1,1,nacda/2016_winter.pdf
+228778,2016,Texas,25.0,0,1,1,nacda/2016_winter.pdf
+196413,2016,Syracuse,83.0,1,1,1,nacda/2016_winter.pdf
+234076,2016,Virginia,73.0,1,1,1,nacda/2016_winter.pdf
+207500,2016,Oklahoma,83.0,1,1,1,nacda/2016_winter.pdf
+240444,2016,Wisconsin,64.0,1,1,1,nacda/2016_winter.pdf
+123961,2016,USC,25.0,0,1,1,nacda/2016_winter.pdf
+228723,2016,Texas A&M,64.0,1,1,1,nacda/2016_winter.pdf
+110635,2016,California,25.0,0,1,1,nacda/2016_winter.pdf
+209551,2016,Oregon,73.0,1,1,1,nacda/2016_winter.pdf
+198419,2016,Duke,64.0,1,1,1,nacda/2016_winter.pdf
+157085,2016,Kentucky,50.0,0,1,1,nacda/2016_winter.pdf
+151351,2016,Indiana,64.0,1,1,1,nacda/2016_winter.pdf
+104179,2016,Arizona,25.0,0,1,1,nacda/2016_winter.pdf
+238032,2016,West Virginia,25.0,0,1,1,nacda/2016_winter.pdf
+126614,2016,Colorado,25.0,0,1,1,nacda/2016_winter.pdf
+129020,2016,UConn,50.0,0,1,1,nacda/2016_winter.pdf
+153658,2016,Iowa,50.0,0,1,1,nacda/2016_winter.pdf
+171100,2016,Michigan State,25.0,0,1,1,nacda/2016_winter.pdf
+230764,2016,Utah,50.0,0,1,1,nacda/2016_winter.pdf
+243780,2016,Purdue,25.0,0,1,1,nacda/2016_winter.pdf
+155317,2016,Kansas,73.0,1,1,1,nacda/2016_winter.pdf
+153603,2016,Iowa State,64.0,1,1,1,nacda/2016_winter.pdf
+135726,2016,Miami (FL),64.0,1,1,1,nacda/2016_winter.pdf
+216597,2016,Villanova,100.0,1,1,1,nacda/2016_winter.pdf
+223232,2016,Baylor,25.0,0,1,1,nacda/2016_winter.pdf
+163286,2016,Maryland,64.0,1,1,1,nacda/2016_winter.pdf
+209542,2016,Oregon State,25.0,0,1,1,nacda/2016_winter.pdf
+141574,2016,Hawaii,50.0,0,1,1,nacda/2016_winter.pdf
+154095,2016,Northern Iowa,50.0,0,1,1,nacda/2016_winter.pdf
+130794,2016,Yale,50.0,0,1,1,nacda/2016_winter.pdf
+228431,2016,Stephen F. Austin,50.0,0,1,1,nacda/2016_winter.pdf
+217402,2016,Providence,50.0,0,1,1,nacda/2016_winter.pdf
+219356,2016,South Dakota State,25.0,0,1,1,nacda/2016_winter.pdf
+215293,2016,Pittsburgh,25.0,0,1,1,nacda/2016_winter.pdf
+229115,2016,Texas Tech,25.0,0,1,1,nacda/2016_winter.pdf
+202480,2016,Dayton,25.0,0,1,2,nacda/2016_winter.pdf
+201885,2016,Cincinnati,25.0,0,1,2,nacda/2016_winter.pdf
+220978,2016,Middle Tennessee State,50.0,0,1,2,nacda/2016_winter.pdf
+191931,2016,Iona,25.0,0,1,2,nacda/2016_winter.pdf
+221740,2016,Tennessee Chattanooga,25.0,0,1,2,nacda/2016_winter.pdf
+235316,2016,Gonzaga,64.0,1,1,2,nacda/2016_winter.pdf
+199218,2016,North Carolina Wilmington,25.0,0,1,2,nacda/2016_winter.pdf
+156125,2016,Wichita State,50.0,0,1,2,nacda/2016_winter.pdf
+216339,2016,Temple,25.0,0,1,2,nacda/2016_winter.pdf
+433660,2016,Florida Gulf Coast,25.0,0,1,2,nacda/2016_winter.pdf
+230782,2016,Weber State,25.0,0,1,2,nacda/2016_winter.pdf
+196088,2016,Buffalo,25.0,0,1,2,nacda/2016_winter.pdf
+150163,2016,Butler,50.0,0,1,2,nacda/2016_winter.pdf
+110486,2016,Cal State Bakersfield,25.0,0,1,2,nacda/2016_winter.pdf
+232265,2016,Hampton,25.0,0,1,3,nacda/2016_winter.pdf
+106245,2016,Arkansas Little Rock,50.0,0,1,3,nacda/2016_winter.pdf
+199111,2016,North Carolina Asheville,25.0,0,1,3,nacda/2016_winter.pdf
+215770,2016,Saint Joseph's,50.0,0,1,3,nacda/2016_winter.pdf
+186584,2016,Seton Hall,25.0,0,1,3,nacda/2016_winter.pdf
+234030,2016,VCU,50.0,0,1,3,nacda/2016_winter.pdf
+240277,2016,Wisconsin Green Bay,25.0,0,1,3,nacda/2016_winter.pdf
+206622,2016,Xavier,50.0,0,1,3,nacda/2016_winter.pdf
+219602,2016,Austin Peay State,25.0,0,1,3,nacda/2016_winter.pdf
+110556,2016,Fresno State,25.0,0,1,3,nacda/2016_winter.pdf
+166124,2016,Holy Cross,25.0,0,1,3,nacda/2016_winter.pdf
+196097,2016,Stony Brook,25.0,0,1,3,nacda/2016_winter.pdf
+170976,2017,Michigan,64.0,1,1,1,nacda/2017_winter.pdf
+240444,2017,Wisconsin,64.0,1,1,1,nacda/2017_winter.pdf
+199120,2017,North Carolina,100.0,1,1,1,nacda/2017_winter.pdf
+157085,2017,Kentucky,73.0,1,1,1,nacda/2017_winter.pdf
+123961,2017,USC,50.0,0,1,1,nacda/2017_winter.pdf
+110662,2017,UCLA,64.0,1,1,1,nacda/2017_winter.pdf
+174066,2017,Minnesota,25.0,0,1,1,nacda/2017_winter.pdf
+152080,2017,Notre Dame,50.0,0,1,1,nacda/2017_winter.pdf
+134130,2017,Florida,73.0,1,1,1,nacda/2017_winter.pdf
+209551,2017,Oregon,83.0,1,1,1,nacda/2017_winter.pdf
+218663,2017,South Carolina,83.0,1,1,1,nacda/2017_winter.pdf
+157289,2017,Louisville,50.0,0,1,1,nacda/2017_winter.pdf
+234076,2017,Virginia,50.0,0,1,1,nacda/2017_winter.pdf
+238032,2017,West Virginia,64.0,1,1,1,nacda/2017_winter.pdf
+106397,2017,Arkansas,50.0,0,1,1,nacda/2017_winter.pdf
+233921,2017,Virginia Tech,25.0,0,1,1,nacda/2017_winter.pdf
+134097,2017,Florida State,50.0,0,1,1,nacda/2017_winter.pdf
+198419,2017,Duke,50.0,0,1,1,nacda/2017_winter.pdf
+207388,2017,Oklahoma State,25.0,0,1,1,nacda/2017_winter.pdf
+223232,2017,Baylor,64.0,1,1,1,nacda/2017_winter.pdf
+243780,2017,Purdue,64.0,1,1,1,nacda/2017_winter.pdf
+171100,2017,Michigan State,50.0,0,1,1,nacda/2017_winter.pdf
+104179,2017,Arizona,64.0,1,1,1,nacda/2017_winter.pdf
+147767,2017,Northwestern,50.0,0,1,1,nacda/2017_winter.pdf
+186131,2017,Princeton,25.0,0,1,1,nacda/2017_winter.pdf
+135726,2017,Miami (FL),25.0,0,1,1,nacda/2017_winter.pdf
+153603,2017,Iowa State,50.0,0,1,1,nacda/2017_winter.pdf
+155317,2017,Kansas,73.0,1,1,1,nacda/2017_winter.pdf
+163286,2017,Maryland,25.0,0,1,1,nacda/2017_winter.pdf
+155399,2017,Kansas State,25.0,0,1,1,nacda/2017_winter.pdf
+181002,2017,Creighton,25.0,0,1,1,nacda/2017_winter.pdf
+216597,2017,Villanova,50.0,0,1,1,nacda/2017_winter.pdf
+201885,2017,Cincinnati,50.0,0,1,1,nacda/2017_winter.pdf
+220978,2017,Middle Tennessee State,50.0,0,1,1,nacda/2017_winter.pdf
+219356,2017,South Dakota State,25.0,0,1,1,nacda/2017_winter.pdf
+433660,2017,Florida Gulf Coast,25.0,0,1,1,nacda/2017_winter.pdf
+221999,2017,Vanderbilt,25.0,0,1,1,nacda/2017_winter.pdf
+231174,2017,Vermont,25.0,0,1,1,nacda/2017_winter.pdf
+203517,2017,Kent State,25.0,0,1,1,nacda/2017_winter.pdf
+150163,2017,Butler,64.0,1,1,2,nacda/2017_winter.pdf
+211291,2017,Bucknell,25.0,0,1,2,nacda/2017_winter.pdf
+228246,2017,SMU,25.0,0,1,2,nacda/2017_winter.pdf
+200280,2017,North Dakota,25.0,0,1,2,nacda/2017_winter.pdf
+235316,2017,Gonzaga,90.0,1,1,2,nacda/2017_winter.pdf
+191931,2017,Iona,25.0,0,1,2,nacda/2017_winter.pdf
+202480,2017,Dayton,25.0,0,1,2,nacda/2017_winter.pdf
+239105,2017,Marquette,25.0,0,1,2,nacda/2017_winter.pdf
+102368,2017,Troy,25.0,0,1,2,nacda/2017_winter.pdf
+101480,2017,Jacksonville State,25.0,0,1,2,nacda/2017_winter.pdf
+156125,2017,Wichita State,50.0,0,1,2,nacda/2017_winter.pdf
+206622,2017,Xavier,73.0,1,1,2,nacda/2017_winter.pdf
+182290,2017,Nevada,25.0,0,1,2,nacda/2017_winter.pdf
+220075,2017,East Tennessee State,25.0,0,1,2,nacda/2017_winter.pdf
+188030,2017,New Mexico State,25.0,0,1,2,nacda/2017_winter.pdf
+157447,2017,Northern Kentucky,25.0,0,1,2,nacda/2017_winter.pdf
+217484,2017,Rhode Island,50.0,0,1,2,nacda/2017_winter.pdf
+123554,2017,St. Mary's College of California,50.0,0,1,2,nacda/2017_winter.pdf
+229063,2017,Texas Southern,25.0,0,1,3,nacda/2017_winter.pdf
+110644,2017,UC Davis,25.0,0,1,3,nacda/2017_winter.pdf
+163462,2017,Mount St. Mary's,25.0,0,1,3,nacda/2017_winter.pdf
+199218,2017,North Carolina Wilmington,25.0,0,1,3,nacda/2017_winter.pdf
+186584,2017,Seton Hall,25.0,0,1,3,nacda/2017_winter.pdf
+234030,2017,VCU,25.0,0,1,3,nacda/2017_winter.pdf
+218964,2017,Winthrop,25.0,0,1,3,nacda/2017_winter.pdf
+170976,2018,Michigan,90.0,1,1,1,nacda/2018_winter.pdf
+204796,2018,Ohio State,50.0,0,1,1,nacda/2018_winter.pdf
+199193,2018,North Carolina State,25.0,0,1,1,nacda/2018_winter.pdf
+228778,2018,Texas,25.0,0,1,1,nacda/2018_winter.pdf
+134130,2018,Florida,50.0,0,1,1,nacda/2018_winter.pdf
+198419,2018,Duke,73.0,1,1,1,nacda/2018_winter.pdf
+157085,2018,Kentucky,64.0,1,1,1,nacda/2018_winter.pdf
+228723,2018,Texas A&M,64.0,1,1,1,nacda/2018_winter.pdf
+100751,2018,Alabama,50.0,0,1,1,nacda/2018_winter.pdf
+233921,2018,Virginia Tech,25.0,0,1,1,nacda/2018_winter.pdf
+199120,2018,North Carolina,50.0,0,1,1,nacda/2018_winter.pdf
+134097,2018,Florida State,73.0,1,1,1,nacda/2018_winter.pdf
+234076,2018,Virginia,25.0,0,1,1,nacda/2018_winter.pdf
+178396,2018,Missouri,25.0,0,1,1,nacda/2018_winter.pdf
+100858,2018,Auburn,50.0,0,1,1,nacda/2018_winter.pdf
+106397,2018,Arkansas,25.0,0,1,1,nacda/2018_winter.pdf
+207500,2018,Oklahoma,25.0,0,1,1,nacda/2018_winter.pdf
+243780,2018,Purdue,64.0,1,1,1,nacda/2018_winter.pdf
+221759,2018,Tennessee,50.0,0,1,1,nacda/2018_winter.pdf
+238032,2018,West Virginia,64.0,1,1,1,nacda/2018_winter.pdf
+171100,2018,Michigan State,50.0,0,1,1,nacda/2018_winter.pdf
+196413,2018,Syracuse,64.0,1,1,1,nacda/2018_winter.pdf
+216597,2018,Villanova,100.0,1,1,1,nacda/2018_winter.pdf
+217882,2018,Clemson,64.0,1,1,1,nacda/2018_winter.pdf
+228875,2018,TCU,25.0,0,1,1,nacda/2018_winter.pdf
+135726,2018,Miami (FL),25.0,0,1,1,nacda/2018_winter.pdf
+104179,2018,Arizona,25.0,0,1,1,nacda/2018_winter.pdf
+155317,2018,Kansas,83.0,1,1,1,nacda/2018_winter.pdf
+219356,2018,South Dakota State,25.0,0,1,1,nacda/2018_winter.pdf
+217402,2018,Providence,25.0,0,1,1,nacda/2018_winter.pdf
+155399,2018,Kansas State,73.0,1,1,1,nacda/2018_winter.pdf
+225511,2018,Houston,50.0,0,1,1,nacda/2018_winter.pdf
+150163,2018,Butler,50.0,0,1,1,nacda/2018_winter.pdf
+201885,2018,Cincinnati,50.0,0,1,1,nacda/2018_winter.pdf
+229115,2018,Texas Tech,73.0,1,1,1,nacda/2018_winter.pdf
+122409,2018,San Diego State,25.0,0,1,1,nacda/2018_winter.pdf
+157401,2018,Murray State,25.0,0,1,1,nacda/2018_winter.pdf
+181002,2018,Creighton,25.0,0,1,2,nacda/2018_winter.pdf
+215062,2018,Pennsylvania,25.0,0,1,2,nacda/2018_winter.pdf
+156125,2018,Wichita State,25.0,0,1,2,nacda/2018_winter.pdf
+196088,2018,Buffalo,50.0,0,1,2,nacda/2018_winter.pdf
+182290,2018,Nevada,64.0,1,1,2,nacda/2018_winter.pdf
+237525,2018,Marshall,50.0,0,1,2,nacda/2018_winter.pdf
+191931,2018,Iona,25.0,0,1,2,nacda/2018_winter.pdf
+235316,2018,Gonzaga,64.0,1,1,2,nacda/2018_winter.pdf
+146719,2018,Loyola Chicago,83.0,1,1,2,nacda/2018_winter.pdf
+110565,2018,Cal State Fullerton,25.0,0,1,2,nacda/2018_winter.pdf
+211291,2018,Bucknell,25.0,0,1,2,nacda/2018_winter.pdf
+139940,2018,Georgia State,25.0,0,1,2,nacda/2018_winter.pdf
+188030,2018,New Mexico State,25.0,0,1,2,nacda/2018_winter.pdf
+163268,2018,UMBC,50.0,0,1,2,nacda/2018_winter.pdf
+217484,2018,Rhode Island,50.0,0,1,2,nacda/2018_winter.pdf
+219976,2018,Lipscomb,25.0,0,1,2,nacda/2018_winter.pdf
+186584,2018,Seton Hall,50.0,0,1,2,nacda/2018_winter.pdf
+206622,2018,Xavier,50.0,0,1,2,nacda/2018_winter.pdf
+233277,2018,Radford,25.0,0,1,2,nacda/2018_winter.pdf
+217819,2018,College of Charleston,25.0,0,1,2,nacda/2018_winter.pdf
+199148,2018,North Carolina Greensboro,25.0,0,1,2,nacda/2018_winter.pdf
+198385,2018,Davidson,25.0,0,1,3,nacda/2018_winter.pdf
+195164,2018,St. Bonaventure,25.0,0,1,3,nacda/2018_winter.pdf
+180489,2018,Montana,25.0,0,1,3,nacda/2018_winter.pdf
+206604,2018,Wright State,25.0,0,1,3,nacda/2018_winter.pdf
+228431,2018,Stephen F. Austin,25.0,0,1,3,nacda/2018_winter.pdf
+229063,2018,Texas Southern,25.0,0,1,4,nacda/2018_winter.pdf
+170976,2019,Michigan,64.0,1,1,1,nacda/2019_winter.pdf
+240444,2019,Wisconsin,25.0,0,1,1,nacda/2019_winter.pdf
+174066,2019,Minnesota,50.0,0,1,1,nacda/2019_winter.pdf
+157085,2019,Kentucky,73.0,1,1,1,nacda/2019_winter.pdf
+204796,2019,Ohio State,50.0,0,1,1,nacda/2019_winter.pdf
+234076,2019,Virginia,100.0,1,1,1,nacda/2019_winter.pdf
+134130,2019,Florida,50.0,0,1,1,nacda/2019_winter.pdf
+198419,2019,Duke,73.0,1,1,1,nacda/2019_winter.pdf
+209551,2019,Oregon,64.0,1,1,1,nacda/2019_winter.pdf
+134097,2019,Florida State,64.0,1,1,1,nacda/2019_winter.pdf
+159391,2019,LSU,64.0,1,1,1,nacda/2019_winter.pdf
+199120,2019,North Carolina,64.0,1,1,1,nacda/2019_winter.pdf
+153658,2019,Iowa,50.0,0,1,1,nacda/2019_winter.pdf
+221759,2019,Tennessee,64.0,1,1,1,nacda/2019_winter.pdf
+104151,2019,Arizona State,25.0,0,1,1,nacda/2019_winter.pdf
+233921,2019,Virginia Tech,64.0,1,1,1,nacda/2019_winter.pdf
+157289,2019,Louisville,25.0,0,1,1,nacda/2019_winter.pdf
+236948,2019,Washington,50.0,0,1,1,nacda/2019_winter.pdf
+171100,2019,Michigan State,83.0,1,1,1,nacda/2019_winter.pdf
+163286,2019,Maryland,50.0,0,1,1,nacda/2019_winter.pdf
+153603,2019,Iowa State,25.0,0,1,1,nacda/2019_winter.pdf
+207500,2019,Oklahoma,50.0,0,1,1,nacda/2019_winter.pdf
+223232,2019,Baylor,50.0,0,1,1,nacda/2019_winter.pdf
+243780,2019,Purdue,73.0,1,1,1,nacda/2019_winter.pdf
+100858,2019,Auburn,83.0,1,1,1,nacda/2019_winter.pdf
+196413,2019,Syracuse,25.0,0,1,1,nacda/2019_winter.pdf
+229115,2019,Texas Tech,90.0,1,1,1,nacda/2019_winter.pdf
+216597,2019,Villanova,50.0,0,1,1,nacda/2019_winter.pdf
+225511,2019,Houston,64.0,1,1,1,nacda/2019_winter.pdf
+200332,2019,North Dakota State,25.0,0,1,1,nacda/2019_winter.pdf
+132903,2019,UCF,50.0,0,1,1,nacda/2019_winter.pdf
+176080,2019,Mississippi State,25.0,0,1,1,nacda/2019_winter.pdf
+155317,2019,Kansas,50.0,0,1,1,nacda/2019_winter.pdf
+176017,2019,Ole Miss,25.0,0,1,1,nacda/2019_winter.pdf
+157401,2019,Murray State,50.0,0,1,1,nacda/2019_winter.pdf
+201885,2019,Cincinnati,25.0,0,1,1,nacda/2019_winter.pdf
+130794,2019,Yale,25.0,0,1,1,nacda/2019_winter.pdf
+196088,2019,Buffalo,50.0,0,1,1,nacda/2019_winter.pdf
+190099,2019,Colgate,25.0,0,1,1,nacda/2019_winter.pdf
+239105,2019,Marquette,25.0,0,1,1,nacda/2019_winter.pdf
+191931,2019,Iona,25.0,0,1,2,nacda/2019_winter.pdf
+235316,2019,Gonzaga,73.0,1,1,2,nacda/2019_winter.pdf
+231174,2019,Vermont,25.0,0,1,2,nacda/2019_winter.pdf
+123554,2019,St. Mary's College of California,25.0,0,1,2,nacda/2019_winter.pdf
+218973,2019,Wofford,50.0,0,1,2,nacda/2019_winter.pdf
+110653,2019,UC Irvine,50.0,0,1,2,nacda/2019_winter.pdf
+155399,2019,Kansas State,25.0,0,1,2,nacda/2019_winter.pdf
+230728,2019,Utah State,25.0,0,1,2,nacda/2019_winter.pdf
+219709,2019,Belmont,25.0,0,1,2,nacda/2019_winter.pdf
+167358,2019,Northeastern,25.0,0,1,2,nacda/2019_winter.pdf
+143358,2019,Bradley,25.0,0,1,2,nacda/2019_winter.pdf
+222178,2019,Abilene Christian,25.0,0,1,2,nacda/2019_winter.pdf
+188030,2019,New Mexico State,25.0,0,1,2,nacda/2019_winter.pdf
+232557,2019,Liberty,50.0,0,1,2,nacda/2019_winter.pdf
+182290,2019,Nevada,25.0,0,1,2,nacda/2019_winter.pdf
+232982,2019,Old Dominion,25.0,0,1,2,nacda/2019_winter.pdf
+184603,2019,Fairleigh Dickinson,25.0,0,1,2,nacda/2019_winter.pdf
+179159,2019,Saint Louis,25.0,0,1,2,nacda/2019_winter.pdf
+180489,2019,Montana,25.0,0,1,2,nacda/2019_winter.pdf
+139940,2019,Georgia State,25.0,0,1,2,nacda/2019_winter.pdf
+234030,2019,VCU,25.0,0,1,3,nacda/2019_winter.pdf
+186584,2019,Seton Hall,25.0,0,1,3,nacda/2019_winter.pdf
+198561,2019,Gardner-Webb,25.0,0,1,3,nacda/2019_winter.pdf
+157447,2019,Northern Kentucky,25.0,0,1,3,nacda/2019_winter.pdf

@@ -1,0 +1,122 @@
+[
+  {
+    "component": "ic2010",
+    "reported_code": "R",
+    "source": "ic2010_dict.zip",
+    "sheet": "imputation values"
+  },
+  {
+    "component": "ef2010a",
+    "reported_code": "R",
+    "source": "ef2010a_dict.zip",
+    "sheet": "imputation values"
+  },
+  {
+    "component": "ic2011",
+    "reported_code": "R",
+    "source": "ic2011_dict.zip",
+    "sheet": "imputation values"
+  },
+  {
+    "component": "ef2011a",
+    "reported_code": "R",
+    "source": "ef2011a_dict.zip",
+    "sheet": "imputation values"
+  },
+  {
+    "component": "ic2012",
+    "reported_code": "R",
+    "source": "ic2012_dict.zip",
+    "sheet": "imputation values"
+  },
+  {
+    "component": "ef2012a",
+    "reported_code": "R",
+    "source": "ef2012a_dict.zip",
+    "sheet": "imputation values"
+  },
+  {
+    "component": "ic2013",
+    "reported_code": "R",
+    "source": "ic2013_dict.zip",
+    "sheet": "imputation values"
+  },
+  {
+    "component": "ef2013a",
+    "reported_code": "R",
+    "source": "ef2013a_dict.zip",
+    "sheet": "imputation values"
+  },
+  {
+    "component": "adm2014",
+    "reported_code": "R",
+    "source": "adm2014_dict.zip",
+    "sheet": "Imputation values"
+  },
+  {
+    "component": "ef2014a",
+    "reported_code": "R",
+    "source": "ef2014a_dict.zip",
+    "sheet": "imputation values"
+  },
+  {
+    "component": "adm2015",
+    "reported_code": "R",
+    "source": "adm2015_dict.zip",
+    "sheet": "Imputation values"
+  },
+  {
+    "component": "ef2015a",
+    "reported_code": "R",
+    "source": "ef2015a_dict.zip",
+    "sheet": "imputation values"
+  },
+  {
+    "component": "adm2016",
+    "reported_code": "R",
+    "source": "adm2016_dict.zip",
+    "sheet": "Imputation values"
+  },
+  {
+    "component": "ef2016a",
+    "reported_code": "R",
+    "source": "ef2016a_dict.zip",
+    "sheet": "imputation values"
+  },
+  {
+    "component": "adm2017",
+    "reported_code": "R",
+    "source": "adm2017_dict.zip",
+    "sheet": "Imputation values"
+  },
+  {
+    "component": "ef2017a",
+    "reported_code": "R",
+    "source": "ef2017a_dict.zip",
+    "sheet": "imputation values"
+  },
+  {
+    "component": "adm2018",
+    "reported_code": "R",
+    "source": "adm2018_dict.zip",
+    "sheet": "Imputation values"
+  },
+  {
+    "component": "ef2018a",
+    "reported_code": "R",
+    "source": "ef2018a_dict.zip",
+    "sheet": "imputation values"
+  },
+  {
+    "component": "adm2019",
+    "reported_code": "R",
+    "source": "adm2019_dict.zip",
+    "sheet": "Imputation values"
+  },
+  {
+    "component": "ef2019a",
+    "reported_code": "R",
+    "source": "ef2019a_dict.zip",
+    "sheet": "imputation values"
+  }
+]

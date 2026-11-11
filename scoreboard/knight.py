@@ -1,7 +1,10 @@
-"""Import a legitimately obtained Knight-Newhouse export using explicit mapping.
+"""Legacy explicit-mapping arithmetic adapter for a legitimate financial export.
 
 Raw and normalized finances stay in ignored data/private. No login bypass or
 guessed export headings. Required fields are separate, non-overlapping amounts.
+The actual registered workbook is staged by knight_export and feasibility_data.
+Legacy generated_revenue/direct_balance names are residual arithmetic, not a
+validation of gross generated receipts, cash profit, or causal university ROI.
 """
 import argparse
 import hashlib

@@ -1,0 +1,5716 @@
+[
+  {
+    "collection_fall": 2009,
+    "athletic_ending_year": 2010,
+    "selected_member": "ic2009_rv.csv",
+    "variable": "CONFNO2",
+    "title": "NCAA/NAIA conference number basketball",
+    "codes": [
+      {
+        "codevalue": 214,
+        "valuelabel": "Allegheny Mountain Collegiate Conference"
+      },
+      {
+        "codevalue": 101,
+        "valuelabel": "America East"
+      },
+      {
+        "codevalue": 306,
+        "valuelabel": "American Mideast Conference"
+      },
+      {
+        "codevalue": 319,
+        "valuelabel": "American Midwest Conference"
+      },
+      {
+        "codevalue": 204,
+        "valuelabel": "American Southwest Conference"
+      },
+      {
+        "codevalue": 316,
+        "valuelabel": "Appalachian Athletic Conference"
+      },
+      {
+        "codevalue": 103,
+        "valuelabel": "Atlantic 10 Conference"
+      },
+      {
+        "codevalue": 102,
+        "valuelabel": "Atlantic Coast Conference"
+      },
+      {
+        "codevalue": 135,
+        "valuelabel": "Atlantic Sun Conference"
+      },
+      {
+        "codevalue": 104,
+        "valuelabel": "Big East Conference"
+      },
+      {
+        "codevalue": 105,
+        "valuelabel": "Big Sky Conference"
+      },
+      {
+        "codevalue": 106,
+        "valuelabel": "Big South Conference"
+      },
+      {
+        "codevalue": 107,
+        "valuelabel": "Big Ten Conference"
+      },
+      {
+        "codevalue": 108,
+        "valuelabel": "Big Twelve Conference"
+      },
+      {
+        "codevalue": 109,
+        "valuelabel": "Big West Conference"
+      },
+      {
+        "codevalue": 138,
+        "valuelabel": "California Collegiate Athletic Assoc"
+      },
+      {
+        "codevalue": 301,
+        "valuelabel": "California Pacific Conference"
+      },
+      {
+        "codevalue": 164,
+        "valuelabel": "Capital Athletic Conference"
+      },
+      {
+        "codevalue": 328,
+        "valuelabel": "Cascade Collegiate Conference"
+      },
+      {
+        "codevalue": 165,
+        "valuelabel": "Centennial Conference"
+      },
+      {
+        "codevalue": 323,
+        "valuelabel": "Central Atlantic Collegiate Conf"
+      },
+      {
+        "codevalue": 140,
+        "valuelabel": "Central Intercollegiate Athletic Assoc"
+      },
+      {
+        "codevalue": 304,
+        "valuelabel": "Chicagoland Collegiate Athletic Conf"
+      },
+      {
+        "codevalue": 166,
+        "valuelabel": "City University of New York Ath Conf"
+      },
+      {
+        "codevalue": 167,
+        "valuelabel": "College Conference of Illinois and Wisc"
+      },
+      {
+        "codevalue": 110,
+        "valuelabel": "Colonial Athletic Association"
+      },
+      {
+        "codevalue": 364,
+        "valuelabel": "Colonial States Athletic Conference"
+      },
+      {
+        "codevalue": 168,
+        "valuelabel": "Commonwealth Coast Conference"
+      },
+      {
+        "codevalue": 207,
+        "valuelabel": "Commonwealth Conference"
+      },
+      {
+        "codevalue": 139,
+        "valuelabel": "Conference Carolinas"
+      },
+      {
+        "codevalue": 111,
+        "valuelabel": "Conference USA"
+      },
+      {
+        "codevalue": 351,
+        "valuelabel": "Dakota Athletic Conference"
+      },
+      {
+        "codevalue": 112,
+        "valuelabel": "Division I Independents"
+      },
+      {
+        "codevalue": 141,
+        "valuelabel": "Division II Independents"
+      },
+      {
+        "codevalue": 170,
+        "valuelabel": "Division III Independents"
+      },
+      {
+        "codevalue": 151,
+        "valuelabel": "East Coast Conference"
+      },
+      {
+        "codevalue": 115,
+        "valuelabel": "Eastern College Athletic Conference"
+      },
+      {
+        "codevalue": 332,
+        "valuelabel": "Eastern Intercollegiate Athletic Conf"
+      },
+      {
+        "codevalue": 172,
+        "valuelabel": "Empire Eight"
+      },
+      {
+        "codevalue": 333,
+        "valuelabel": "Florida Sun Conference"
+      },
+      {
+        "codevalue": 208,
+        "valuelabel": "Freedom Conference"
+      },
+      {
+        "codevalue": 352,
+        "valuelabel": "Frontier Conference"
+      },
+      {
+        "codevalue": 302,
+        "valuelabel": "Golden State Athletic Conference"
+      },
+      {
+        "codevalue": 144,
+        "valuelabel": "Great Lakes Intercollegiate Ath Conf"
+      },
+      {
+        "codevalue": 145,
+        "valuelabel": "Great Lakes Valley Conference"
+      },
+      {
+        "codevalue": 174,
+        "valuelabel": "Great Northeast Athletic Conference"
+      },
+      {
+        "codevalue": 213,
+        "valuelabel": "Great Northwest Athletic Conference"
+      },
+      {
+        "codevalue": 311,
+        "valuelabel": "Great Plains Athletic Conference"
+      },
+      {
+        "codevalue": 360,
+        "valuelabel": "Great South Athletic Conference"
+      },
+      {
+        "codevalue": 362,
+        "valuelabel": "Great West Conference"
+      },
+      {
+        "codevalue": 337,
+        "valuelabel": "Gulf Coast Athletic Conference"
+      },
+      {
+        "codevalue": 146,
+        "valuelabel": "Gulf South Conference"
+      },
+      {
+        "codevalue": 320,
+        "valuelabel": "Heart of America Athletic Conference"
+      },
+      {
+        "codevalue": 175,
+        "valuelabel": "Heartland Collegiate Athletic Conference"
+      },
+      {
+        "codevalue": 209,
+        "valuelabel": "Heartland Conference"
+      },
+      {
+        "codevalue": 122,
+        "valuelabel": "Horizon League"
+      },
+      {
+        "codevalue": 303,
+        "valuelabel": "Independent Far West Region"
+      },
+      {
+        "codevalue": 308,
+        "valuelabel": "Independent Great Lakes Region"
+      },
+      {
+        "codevalue": 318,
+        "valuelabel": "Independent Mid-South Region"
+      },
+      {
+        "codevalue": 322,
+        "valuelabel": "Independent Midwest Region"
+      },
+      {
+        "codevalue": 327,
+        "valuelabel": "Independent Northeast Region"
+      },
+      {
+        "codevalue": 335,
+        "valuelabel": "Independent Southeast Region"
+      },
+      {
+        "codevalue": 341,
+        "valuelabel": "Independent Southwest Region"
+      },
+      {
+        "codevalue": 176,
+        "valuelabel": "Iowa Intercollegiate Athletic Conf"
+      },
+      {
+        "codevalue": 117,
+        "valuelabel": "Ivy Group"
+      },
+      {
+        "codevalue": 309,
+        "valuelabel": "Kansas Collegiate Athletic Conf"
+      },
+      {
+        "codevalue": 314,
+        "valuelabel": "Kentucky Intercollegiate Ath Conf"
+      },
+      {
+        "codevalue": 361,
+        "valuelabel": "Landmark Conference"
+      },
+      {
+        "codevalue": 178,
+        "valuelabel": "Little East Conference"
+      },
+      {
+        "codevalue": 147,
+        "valuelabel": "Lone Star Conference"
+      },
+      {
+        "codevalue": 179,
+        "valuelabel": "Massachusetts State College Ath Assoc"
+      },
+      {
+        "codevalue": 118,
+        "valuelabel": "Metro Atlantic Athletic Conference"
+      },
+      {
+        "codevalue": 180,
+        "valuelabel": "Michigan Intercollegiate Athletic Assoc"
+      },
+      {
+        "codevalue": 148,
+        "valuelabel": "Mid-America Intercollegiate Ath Assoc"
+      },
+      {
+        "codevalue": 119,
+        "valuelabel": "Mid-American Conference"
+      },
+      {
+        "codevalue": 305,
+        "valuelabel": "Mid-Central College Conference"
+      },
+      {
+        "codevalue": 121,
+        "valuelabel": "Mid-Eastern Athletic Conference"
+      },
+      {
+        "codevalue": 315,
+        "valuelabel": "Mid-South Conference"
+      },
+      {
+        "codevalue": 181,
+        "valuelabel": "Middle Atlantic States Athletic Corporation"
+      },
+      {
+        "codevalue": 310,
+        "valuelabel": "Midlands Collegiate Athletic Conf"
+      },
+      {
+        "codevalue": 321,
+        "valuelabel": "Midwest Classic Conference"
+      },
+      {
+        "codevalue": 182,
+        "valuelabel": "Midwest Conference"
+      },
+      {
+        "codevalue": 183,
+        "valuelabel": "Minnesota Intercollegiate Ath Conf"
+      },
+      {
+        "codevalue": 123,
+        "valuelabel": "Missouri Valley Conference"
+      },
+      {
+        "codevalue": 203,
+        "valuelabel": "Mountain West Conference"
+      },
+      {
+        "codevalue": 363,
+        "valuelabel": "New England Collegiate Conference"
+      },
+      {
+        "codevalue": 185,
+        "valuelabel": "New England Small College Ath Conf"
+      },
+      {
+        "codevalue": 186,
+        "valuelabel": "New England Women's & Men's Athletic Conference"
+      },
+      {
+        "codevalue": 187,
+        "valuelabel": "New Jersey Athletic Conference"
+      },
+      {
+        "codevalue": 188,
+        "valuelabel": "New York State Women's Coll Ath Assoc"
+      },
+      {
+        "codevalue": 215,
+        "valuelabel": "North Atlantic Conference"
+      },
+      {
+        "codevalue": 152,
+        "valuelabel": "North Central Intercollegiate Athletic Conf"
+      },
+      {
+        "codevalue": 189,
+        "valuelabel": "North Coast Athletic Conference"
+      },
+      {
+        "codevalue": 365,
+        "valuelabel": "North Eastern Athletic Conference"
+      },
+      {
+        "codevalue": 153,
+        "valuelabel": "Northeast 10 Conference"
+      },
+      {
+        "codevalue": 125,
+        "valuelabel": "Northeast Conference"
+      },
+      {
+        "codevalue": 359,
+        "valuelabel": "Northern Athletics Conference"
+      },
+      {
+        "codevalue": 155,
+        "valuelabel": "Northern Sun Intercollegiate Conference"
+      },
+      {
+        "codevalue": 205,
+        "valuelabel": "Northwest Conference"
+      },
+      {
+        "codevalue": 191,
+        "valuelabel": "Ohio Athletic Conference"
+      },
+      {
+        "codevalue": 126,
+        "valuelabel": "Ohio Valley Conference"
+      },
+      {
+        "codevalue": 192,
+        "valuelabel": "Old Dominion Athletic Conference"
+      },
+      {
+        "codevalue": 156,
+        "valuelabel": "Pacific West Conference"
+      },
+      {
+        "codevalue": 127,
+        "valuelabel": "Pacific-10 Conference"
+      },
+      {
+        "codevalue": 128,
+        "valuelabel": "Patriot League"
+      },
+      {
+        "codevalue": 157,
+        "valuelabel": "Peach Belt Conference"
+      },
+      {
+        "codevalue": 193,
+        "valuelabel": "Pennsylvania Athletic Conference"
+      },
+      {
+        "codevalue": 158,
+        "valuelabel": "Pennsylvania State Athletic Conference"
+      },
+      {
+        "codevalue": 194,
+        "valuelabel": "Presidents' Athletic Conference"
+      },
+      {
+        "codevalue": 353,
+        "valuelabel": "Red River Athletic Conference"
+      },
+      {
+        "codevalue": 159,
+        "valuelabel": "Rocky Mountain Athletic Conference"
+      },
+      {
+        "codevalue": 196,
+        "valuelabel": "Skyline Conference"
+      },
+      {
+        "codevalue": 340,
+        "valuelabel": "Sooner Athletic Conference"
+      },
+      {
+        "codevalue": 160,
+        "valuelabel": "South Atlantic Conference"
+      },
+      {
+        "codevalue": 130,
+        "valuelabel": "Southeastern Conference"
+      },
+      {
+        "codevalue": 197,
+        "valuelabel": "Southern California Intercoll Ath Conf"
+      },
+      {
+        "codevalue": 198,
+        "valuelabel": "Southern Collegiate Athletic Conference"
+      },
+      {
+        "codevalue": 131,
+        "valuelabel": "Southern Conference"
+      },
+      {
+        "codevalue": 161,
+        "valuelabel": "Southern Intercollegiate Athletic Conf"
+      },
+      {
+        "codevalue": 334,
+        "valuelabel": "Southern States Athletic Conference"
+      },
+      {
+        "codevalue": 132,
+        "valuelabel": "Southland Conference"
+      },
+      {
+        "codevalue": 133,
+        "valuelabel": "Southwestern Athletic Conference"
+      },
+      {
+        "codevalue": 195,
+        "valuelabel": "St. Louis Intercollegiate Ath Conf"
+      },
+      {
+        "codevalue": 199,
+        "valuelabel": "State University of New York Ath Conf"
+      },
+      {
+        "codevalue": 134,
+        "valuelabel": "Sun Belt Conference"
+      },
+      {
+        "codevalue": 357,
+        "valuelabel": "Sunrise Conference"
+      },
+      {
+        "codevalue": 162,
+        "valuelabel": "Sunshine State Conference"
+      },
+      {
+        "codevalue": 120,
+        "valuelabel": "The Summit League"
+      },
+      {
+        "codevalue": 317,
+        "valuelabel": "TranSouth Athletic Conference"
+      },
+      {
+        "codevalue": 171,
+        "valuelabel": "USA South Athletic Conference"
+      },
+      {
+        "codevalue": 200,
+        "valuelabel": "University Athletic Association"
+      },
+      {
+        "codevalue": 354,
+        "valuelabel": "Upper Midwest Athletic Conference"
+      },
+      {
+        "codevalue": 201,
+        "valuelabel": "Upstate Collegiate Athletic Association"
+      },
+      {
+        "codevalue": 136,
+        "valuelabel": "West Coast Conference"
+      },
+      {
+        "codevalue": 163,
+        "valuelabel": "West Virginia Intercollegiate Athletic Conf"
+      },
+      {
+        "codevalue": 137,
+        "valuelabel": "Western Athletic Conference"
+      },
+      {
+        "codevalue": 202,
+        "valuelabel": "Wisconsin Intercollegiate Ath Conf"
+      },
+      {
+        "codevalue": 307,
+        "valuelabel": "Wolverine-Hoosier Athletic Conf"
+      },
+      {
+        "codevalue": 342,
+        "valuelabel": "Other"
+      },
+      {
+        "codevalue": -1,
+        "valuelabel": "Not reported"
+      },
+      {
+        "codevalue": -2,
+        "valuelabel": "Not applicable"
+      }
+    ]
+  },
+  {
+    "collection_fall": 2010,
+    "athletic_ending_year": 2011,
+    "selected_member": "ic2010_rv.csv",
+    "variable": "CONFNO2",
+    "title": "NCAA/NAIA conference number basketball",
+    "codes": [
+      {
+        "codevalue": 214,
+        "valuelabel": "Allegheny Mountain Collegiate Conference"
+      },
+      {
+        "codevalue": 101,
+        "valuelabel": "America East"
+      },
+      {
+        "codevalue": 306,
+        "valuelabel": "American Mideast Conference"
+      },
+      {
+        "codevalue": 319,
+        "valuelabel": "American Midwest Conference"
+      },
+      {
+        "codevalue": 204,
+        "valuelabel": "American Southwest Conference"
+      },
+      {
+        "codevalue": 316,
+        "valuelabel": "Appalachian Athletic Conference"
+      },
+      {
+        "codevalue": 103,
+        "valuelabel": "Atlantic 10 Conference"
+      },
+      {
+        "codevalue": 102,
+        "valuelabel": "Atlantic Coast Conference"
+      },
+      {
+        "codevalue": 135,
+        "valuelabel": "Atlantic Sun Conference"
+      },
+      {
+        "codevalue": 104,
+        "valuelabel": "Big East Conference"
+      },
+      {
+        "codevalue": 105,
+        "valuelabel": "Big Sky Conference"
+      },
+      {
+        "codevalue": 106,
+        "valuelabel": "Big South Conference"
+      },
+      {
+        "codevalue": 107,
+        "valuelabel": "Big Ten Conference"
+      },
+      {
+        "codevalue": 108,
+        "valuelabel": "Big Twelve Conference"
+      },
+      {
+        "codevalue": 109,
+        "valuelabel": "Big West Conference"
+      },
+      {
+        "codevalue": 138,
+        "valuelabel": "California Collegiate Athletic Assoc"
+      },
+      {
+        "codevalue": 301,
+        "valuelabel": "California Pacific Conference"
+      },
+      {
+        "codevalue": 164,
+        "valuelabel": "Capital Athletic Conference"
+      },
+      {
+        "codevalue": 328,
+        "valuelabel": "Cascade Collegiate Conference"
+      },
+      {
+        "codevalue": 165,
+        "valuelabel": "Centennial Conference"
+      },
+      {
+        "codevalue": 323,
+        "valuelabel": "Central Atlantic Collegiate Conf"
+      },
+      {
+        "codevalue": 140,
+        "valuelabel": "Central Intercollegiate Athletic Assoc"
+      },
+      {
+        "codevalue": 304,
+        "valuelabel": "Chicagoland Collegiate Athletic Conf"
+      },
+      {
+        "codevalue": 166,
+        "valuelabel": "City University of New York Ath Conf"
+      },
+      {
+        "codevalue": 167,
+        "valuelabel": "College Conference of Illinois and Wisc"
+      },
+      {
+        "codevalue": 110,
+        "valuelabel": "Colonial Athletic Association"
+      },
+      {
+        "codevalue": 364,
+        "valuelabel": "Colonial States Athletic Conference"
+      },
+      {
+        "codevalue": 168,
+        "valuelabel": "Commonwealth Coast Conference"
+      },
+      {
+        "codevalue": 207,
+        "valuelabel": "Commonwealth Conference"
+      },
+      {
+        "codevalue": 139,
+        "valuelabel": "Conference Carolinas"
+      },
+      {
+        "codevalue": 111,
+        "valuelabel": "Conference USA"
+      },
+      {
+        "codevalue": 351,
+        "valuelabel": "Dakota Athletic Conference"
+      },
+      {
+        "codevalue": 112,
+        "valuelabel": "Division I Independents"
+      },
+      {
+        "codevalue": 141,
+        "valuelabel": "Division II Independents"
+      },
+      {
+        "codevalue": 170,
+        "valuelabel": "Division III Independents"
+      },
+      {
+        "codevalue": 151,
+        "valuelabel": "East Coast Conference"
+      },
+      {
+        "codevalue": 115,
+        "valuelabel": "Eastern College Athletic Conference"
+      },
+      {
+        "codevalue": 332,
+        "valuelabel": "Eastern Intercollegiate Athletic Conf"
+      },
+      {
+        "codevalue": 172,
+        "valuelabel": "Empire Eight"
+      },
+      {
+        "codevalue": 333,
+        "valuelabel": "Florida Sun Conference"
+      },
+      {
+        "codevalue": 208,
+        "valuelabel": "Freedom Conference"
+      },
+      {
+        "codevalue": 352,
+        "valuelabel": "Frontier Conference"
+      },
+      {
+        "codevalue": 302,
+        "valuelabel": "Golden State Athletic Conference"
+      },
+      {
+        "codevalue": 144,
+        "valuelabel": "Great Lakes Intercollegiate Ath Conf"
+      },
+      {
+        "codevalue": 145,
+        "valuelabel": "Great Lakes Valley Conference"
+      },
+      {
+        "codevalue": 174,
+        "valuelabel": "Great Northeast Athletic Conference"
+      },
+      {
+        "codevalue": 213,
+        "valuelabel": "Great Northwest Athletic Conference"
+      },
+      {
+        "codevalue": 311,
+        "valuelabel": "Great Plains Athletic Conference"
+      },
+      {
+        "codevalue": 360,
+        "valuelabel": "Great South Athletic Conference"
+      },
+      {
+        "codevalue": 362,
+        "valuelabel": "Great West Conference"
+      },
+      {
+        "codevalue": 337,
+        "valuelabel": "Gulf Coast Athletic Conference"
+      },
+      {
+        "codevalue": 146,
+        "valuelabel": "Gulf South Conference"
+      },
+      {
+        "codevalue": 320,
+        "valuelabel": "Heart of America Athletic Conference"
+      },
+      {
+        "codevalue": 175,
+        "valuelabel": "Heartland Collegiate Athletic Conference"
+      },
+      {
+        "codevalue": 209,
+        "valuelabel": "Heartland Conference"
+      },
+      {
+        "codevalue": 122,
+        "valuelabel": "Horizon League"
+      },
+      {
+        "codevalue": 303,
+        "valuelabel": "Independent Far West Region"
+      },
+      {
+        "codevalue": 308,
+        "valuelabel": "Independent Great Lakes Region"
+      },
+      {
+        "codevalue": 318,
+        "valuelabel": "Independent Mid-South Region"
+      },
+      {
+        "codevalue": 322,
+        "valuelabel": "Independent Midwest Region"
+      },
+      {
+        "codevalue": 327,
+        "valuelabel": "Independent Northeast Region"
+      },
+      {
+        "codevalue": 335,
+        "valuelabel": "Independent Southeast Region"
+      },
+      {
+        "codevalue": 341,
+        "valuelabel": "Independent Southwest Region"
+      },
+      {
+        "codevalue": 176,
+        "valuelabel": "Iowa Intercollegiate Athletic Conf"
+      },
+      {
+        "codevalue": 117,
+        "valuelabel": "Ivy Group"
+      },
+      {
+        "codevalue": 309,
+        "valuelabel": "Kansas Collegiate Athletic Conf"
+      },
+      {
+        "codevalue": 314,
+        "valuelabel": "Kentucky Intercollegiate Ath Conf"
+      },
+      {
+        "codevalue": 361,
+        "valuelabel": "Landmark Conference"
+      },
+      {
+        "codevalue": 178,
+        "valuelabel": "Little East Conference"
+      },
+      {
+        "codevalue": 147,
+        "valuelabel": "Lone Star Conference"
+      },
+      {
+        "codevalue": 179,
+        "valuelabel": "Massachusetts State College Ath Assoc"
+      },
+      {
+        "codevalue": 118,
+        "valuelabel": "Metro Atlantic Athletic Conference"
+      },
+      {
+        "codevalue": 180,
+        "valuelabel": "Michigan Intercollegiate Athletic Assoc"
+      },
+      {
+        "codevalue": 148,
+        "valuelabel": "Mid-America Intercollegiate Ath Assoc"
+      },
+      {
+        "codevalue": 119,
+        "valuelabel": "Mid-American Conference"
+      },
+      {
+        "codevalue": 305,
+        "valuelabel": "Mid-Central College Conference"
+      },
+      {
+        "codevalue": 121,
+        "valuelabel": "Mid-Eastern Athletic Conference"
+      },
+      {
+        "codevalue": 315,
+        "valuelabel": "Mid-South Conference"
+      },
+      {
+        "codevalue": 181,
+        "valuelabel": "Middle Atlantic States Athletic Corporation"
+      },
+      {
+        "codevalue": 310,
+        "valuelabel": "Midlands Collegiate Athletic Conf"
+      },
+      {
+        "codevalue": 321,
+        "valuelabel": "Midwest Classic Conference"
+      },
+      {
+        "codevalue": 182,
+        "valuelabel": "Midwest Conference"
+      },
+      {
+        "codevalue": 183,
+        "valuelabel": "Minnesota Intercollegiate Ath Conf"
+      },
+      {
+        "codevalue": 123,
+        "valuelabel": "Missouri Valley Conference"
+      },
+      {
+        "codevalue": 203,
+        "valuelabel": "Mountain West Conference"
+      },
+      {
+        "codevalue": 363,
+        "valuelabel": "New England Collegiate Conference"
+      },
+      {
+        "codevalue": 185,
+        "valuelabel": "New England Small College Ath Conf"
+      },
+      {
+        "codevalue": 186,
+        "valuelabel": "New England Women's & Men's Athletic Conference"
+      },
+      {
+        "codevalue": 187,
+        "valuelabel": "New Jersey Athletic Conference"
+      },
+      {
+        "codevalue": 188,
+        "valuelabel": "New York State Women's Coll Ath Assoc"
+      },
+      {
+        "codevalue": 215,
+        "valuelabel": "North Atlantic Conference"
+      },
+      {
+        "codevalue": 152,
+        "valuelabel": "North Central Intercollegiate Athletic Conf"
+      },
+      {
+        "codevalue": 189,
+        "valuelabel": "North Coast Athletic Conference"
+      },
+      {
+        "codevalue": 365,
+        "valuelabel": "North Eastern Athletic Conference"
+      },
+      {
+        "codevalue": 153,
+        "valuelabel": "Northeast 10 Conference"
+      },
+      {
+        "codevalue": 125,
+        "valuelabel": "Northeast Conference"
+      },
+      {
+        "codevalue": 359,
+        "valuelabel": "Northern Athletics Conference"
+      },
+      {
+        "codevalue": 155,
+        "valuelabel": "Northern Sun Intercollegiate Conference"
+      },
+      {
+        "codevalue": 205,
+        "valuelabel": "Northwest Conference"
+      },
+      {
+        "codevalue": 191,
+        "valuelabel": "Ohio Athletic Conference"
+      },
+      {
+        "codevalue": 126,
+        "valuelabel": "Ohio Valley Conference"
+      },
+      {
+        "codevalue": 192,
+        "valuelabel": "Old Dominion Athletic Conference"
+      },
+      {
+        "codevalue": 156,
+        "valuelabel": "Pacific West Conference"
+      },
+      {
+        "codevalue": 127,
+        "valuelabel": "Pacific-10 Conference"
+      },
+      {
+        "codevalue": 128,
+        "valuelabel": "Patriot League"
+      },
+      {
+        "codevalue": 157,
+        "valuelabel": "Peach Belt Conference"
+      },
+      {
+        "codevalue": 193,
+        "valuelabel": "Pennsylvania Athletic Conference"
+      },
+      {
+        "codevalue": 158,
+        "valuelabel": "Pennsylvania State Athletic Conference"
+      },
+      {
+        "codevalue": 194,
+        "valuelabel": "Presidents' Athletic Conference"
+      },
+      {
+        "codevalue": 353,
+        "valuelabel": "Red River Athletic Conference"
+      },
+      {
+        "codevalue": 159,
+        "valuelabel": "Rocky Mountain Athletic Conference"
+      },
+      {
+        "codevalue": 196,
+        "valuelabel": "Skyline Conference"
+      },
+      {
+        "codevalue": 340,
+        "valuelabel": "Sooner Athletic Conference"
+      },
+      {
+        "codevalue": 160,
+        "valuelabel": "South Atlantic Conference"
+      },
+      {
+        "codevalue": 130,
+        "valuelabel": "Southeastern Conference"
+      },
+      {
+        "codevalue": 197,
+        "valuelabel": "Southern California Intercoll Ath Conf"
+      },
+      {
+        "codevalue": 198,
+        "valuelabel": "Southern Collegiate Athletic Conference"
+      },
+      {
+        "codevalue": 131,
+        "valuelabel": "Southern Conference"
+      },
+      {
+        "codevalue": 161,
+        "valuelabel": "Southern Intercollegiate Athletic Conf"
+      },
+      {
+        "codevalue": 334,
+        "valuelabel": "Southern States Athletic Conference"
+      },
+      {
+        "codevalue": 132,
+        "valuelabel": "Southland Conference"
+      },
+      {
+        "codevalue": 133,
+        "valuelabel": "Southwestern Athletic Conference"
+      },
+      {
+        "codevalue": 195,
+        "valuelabel": "St. Louis Intercollegiate Ath Conf"
+      },
+      {
+        "codevalue": 199,
+        "valuelabel": "State University of New York Ath Conf"
+      },
+      {
+        "codevalue": 134,
+        "valuelabel": "Sun Belt Conference"
+      },
+      {
+        "codevalue": 357,
+        "valuelabel": "Sunrise Conference"
+      },
+      {
+        "codevalue": 162,
+        "valuelabel": "Sunshine State Conference"
+      },
+      {
+        "codevalue": 120,
+        "valuelabel": "The Summit League"
+      },
+      {
+        "codevalue": 317,
+        "valuelabel": "TranSouth Athletic Conference"
+      },
+      {
+        "codevalue": 171,
+        "valuelabel": "USA South Athletic Conference"
+      },
+      {
+        "codevalue": 200,
+        "valuelabel": "University Athletic Association"
+      },
+      {
+        "codevalue": 354,
+        "valuelabel": "Upper Midwest Athletic Conference"
+      },
+      {
+        "codevalue": 201,
+        "valuelabel": "Upstate Collegiate Athletic Association"
+      },
+      {
+        "codevalue": 136,
+        "valuelabel": "West Coast Conference"
+      },
+      {
+        "codevalue": 163,
+        "valuelabel": "West Virginia Intercollegiate Athletic Conf"
+      },
+      {
+        "codevalue": 137,
+        "valuelabel": "Western Athletic Conference"
+      },
+      {
+        "codevalue": 202,
+        "valuelabel": "Wisconsin Intercollegiate Ath Conf"
+      },
+      {
+        "codevalue": 307,
+        "valuelabel": "Wolverine-Hoosier Athletic Conf"
+      },
+      {
+        "codevalue": 342,
+        "valuelabel": "Other"
+      },
+      {
+        "codevalue": -1,
+        "valuelabel": "Not reported"
+      },
+      {
+        "codevalue": -2,
+        "valuelabel": "Not applicable"
+      }
+    ]
+  },
+  {
+    "collection_fall": 2011,
+    "athletic_ending_year": 2012,
+    "selected_member": "ic2011_rv.csv",
+    "variable": "CONFNO2",
+    "title": "NCAA/NAIA conference number basketball",
+    "codes": [
+      {
+        "codevalue": 214,
+        "valuelabel": "Allegheny Mountain Collegiate Conference"
+      },
+      {
+        "codevalue": 101,
+        "valuelabel": "America East"
+      },
+      {
+        "codevalue": 306,
+        "valuelabel": "American Mideast Conference"
+      },
+      {
+        "codevalue": 319,
+        "valuelabel": "American Midwest Conference"
+      },
+      {
+        "codevalue": 204,
+        "valuelabel": "American Southwest Conference"
+      },
+      {
+        "codevalue": 316,
+        "valuelabel": "Appalachian Athletic Conference"
+      },
+      {
+        "codevalue": 103,
+        "valuelabel": "Atlantic 10 Conference"
+      },
+      {
+        "codevalue": 102,
+        "valuelabel": "Atlantic Coast Conference"
+      },
+      {
+        "codevalue": 135,
+        "valuelabel": "Atlantic Sun Conference"
+      },
+      {
+        "codevalue": 104,
+        "valuelabel": "Big East Conference"
+      },
+      {
+        "codevalue": 105,
+        "valuelabel": "Big Sky Conference"
+      },
+      {
+        "codevalue": 106,
+        "valuelabel": "Big South Conference"
+      },
+      {
+        "codevalue": 107,
+        "valuelabel": "Big Ten Conference"
+      },
+      {
+        "codevalue": 108,
+        "valuelabel": "Big Twelve Conference"
+      },
+      {
+        "codevalue": 109,
+        "valuelabel": "Big West Conference"
+      },
+      {
+        "codevalue": 138,
+        "valuelabel": "California Collegiate Athletic Assoc"
+      },
+      {
+        "codevalue": 301,
+        "valuelabel": "California Pacific Conference"
+      },
+      {
+        "codevalue": 164,
+        "valuelabel": "Capital Athletic Conference"
+      },
+      {
+        "codevalue": 328,
+        "valuelabel": "Cascade Collegiate Conference"
+      },
+      {
+        "codevalue": 165,
+        "valuelabel": "Centennial Conference"
+      },
+      {
+        "codevalue": 323,
+        "valuelabel": "Central Atlantic Collegiate Conf"
+      },
+      {
+        "codevalue": 140,
+        "valuelabel": "Central Intercollegiate Athletic Assoc"
+      },
+      {
+        "codevalue": 304,
+        "valuelabel": "Chicagoland Collegiate Athletic Conf"
+      },
+      {
+        "codevalue": 166,
+        "valuelabel": "City University of New York Ath Conf"
+      },
+      {
+        "codevalue": 167,
+        "valuelabel": "College Conference of Illinois and Wisc"
+      },
+      {
+        "codevalue": 110,
+        "valuelabel": "Colonial Athletic Association"
+      },
+      {
+        "codevalue": 364,
+        "valuelabel": "Colonial States Athletic Conference"
+      },
+      {
+        "codevalue": 168,
+        "valuelabel": "Commonwealth Coast Conference"
+      },
+      {
+        "codevalue": 207,
+        "valuelabel": "Commonwealth Conference"
+      },
+      {
+        "codevalue": 139,
+        "valuelabel": "Conference Carolinas"
+      },
+      {
+        "codevalue": 111,
+        "valuelabel": "Conference USA"
+      },
+      {
+        "codevalue": 351,
+        "valuelabel": "Dakota Athletic Conference"
+      },
+      {
+        "codevalue": 112,
+        "valuelabel": "Division I Independents"
+      },
+      {
+        "codevalue": 141,
+        "valuelabel": "Division II Independents"
+      },
+      {
+        "codevalue": 170,
+        "valuelabel": "Division III Independents"
+      },
+      {
+        "codevalue": 151,
+        "valuelabel": "East Coast Conference"
+      },
+      {
+        "codevalue": 115,
+        "valuelabel": "Eastern College Athletic Conference"
+      },
+      {
+        "codevalue": 332,
+        "valuelabel": "Eastern Intercollegiate Athletic Conf"
+      },
+      {
+        "codevalue": 172,
+        "valuelabel": "Empire Eight"
+      },
+      {
+        "codevalue": 333,
+        "valuelabel": "Florida Sun Conference"
+      },
+      {
+        "codevalue": 208,
+        "valuelabel": "Freedom Conference"
+      },
+      {
+        "codevalue": 352,
+        "valuelabel": "Frontier Conference"
+      },
+      {
+        "codevalue": 302,
+        "valuelabel": "Golden State Athletic Conference"
+      },
+      {
+        "codevalue": 367,
+        "valuelabel": "Great American Conference"
+      },
+      {
+        "codevalue": 144,
+        "valuelabel": "Great Lakes Intercollegiate Ath Conf"
+      },
+      {
+        "codevalue": 145,
+        "valuelabel": "Great Lakes Valley Conference"
+      },
+      {
+        "codevalue": 174,
+        "valuelabel": "Great Northeast Athletic Conference"
+      },
+      {
+        "codevalue": 213,
+        "valuelabel": "Great Northwest Athletic Conference"
+      },
+      {
+        "codevalue": 311,
+        "valuelabel": "Great Plains Athletic Conference"
+      },
+      {
+        "codevalue": 360,
+        "valuelabel": "Great South Athletic Conference"
+      },
+      {
+        "codevalue": 362,
+        "valuelabel": "Great West Conference"
+      },
+      {
+        "codevalue": 337,
+        "valuelabel": "Gulf Coast Athletic Conference"
+      },
+      {
+        "codevalue": 146,
+        "valuelabel": "Gulf South Conference"
+      },
+      {
+        "codevalue": 320,
+        "valuelabel": "Heart of America Athletic Conference"
+      },
+      {
+        "codevalue": 175,
+        "valuelabel": "Heartland Collegiate Athletic Conference"
+      },
+      {
+        "codevalue": 209,
+        "valuelabel": "Heartland Conference"
+      },
+      {
+        "codevalue": 122,
+        "valuelabel": "Horizon League"
+      },
+      {
+        "codevalue": 303,
+        "valuelabel": "Independent Far West Region"
+      },
+      {
+        "codevalue": 308,
+        "valuelabel": "Independent Great Lakes Region"
+      },
+      {
+        "codevalue": 318,
+        "valuelabel": "Independent Mid-South Region"
+      },
+      {
+        "codevalue": 322,
+        "valuelabel": "Independent Midwest Region"
+      },
+      {
+        "codevalue": 327,
+        "valuelabel": "Independent Northeast Region"
+      },
+      {
+        "codevalue": 335,
+        "valuelabel": "Independent Southeast Region"
+      },
+      {
+        "codevalue": 341,
+        "valuelabel": "Independent Southwest Region"
+      },
+      {
+        "codevalue": 176,
+        "valuelabel": "Iowa Intercollegiate Athletic Conf"
+      },
+      {
+        "codevalue": 117,
+        "valuelabel": "Ivy Group"
+      },
+      {
+        "codevalue": 309,
+        "valuelabel": "Kansas Collegiate Athletic Conf"
+      },
+      {
+        "codevalue": 314,
+        "valuelabel": "Kentucky Intercollegiate Ath Conf"
+      },
+      {
+        "codevalue": 361,
+        "valuelabel": "Landmark Conference"
+      },
+      {
+        "codevalue": 178,
+        "valuelabel": "Little East Conference"
+      },
+      {
+        "codevalue": 147,
+        "valuelabel": "Lone Star Conference"
+      },
+      {
+        "codevalue": 179,
+        "valuelabel": "Massachusetts State College Ath Assoc"
+      },
+      {
+        "codevalue": 118,
+        "valuelabel": "Metro Atlantic Athletic Conference"
+      },
+      {
+        "codevalue": 180,
+        "valuelabel": "Michigan Intercollegiate Athletic Assoc"
+      },
+      {
+        "codevalue": 148,
+        "valuelabel": "Mid-America Intercollegiate Ath Assoc"
+      },
+      {
+        "codevalue": 119,
+        "valuelabel": "Mid-American Conference"
+      },
+      {
+        "codevalue": 305,
+        "valuelabel": "Mid-Central College Conference"
+      },
+      {
+        "codevalue": 121,
+        "valuelabel": "Mid-Eastern Athletic Conference"
+      },
+      {
+        "codevalue": 315,
+        "valuelabel": "Mid-South Conference"
+      },
+      {
+        "codevalue": 181,
+        "valuelabel": "Middle Atlantic States Athletic Corporation"
+      },
+      {
+        "codevalue": 310,
+        "valuelabel": "Midlands Collegiate Athletic Conf"
+      },
+      {
+        "codevalue": 321,
+        "valuelabel": "Midwest Classic Conference"
+      },
+      {
+        "codevalue": 182,
+        "valuelabel": "Midwest Conference"
+      },
+      {
+        "codevalue": 183,
+        "valuelabel": "Minnesota Intercollegiate Ath Conf"
+      },
+      {
+        "codevalue": 123,
+        "valuelabel": "Missouri Valley Conference"
+      },
+      {
+        "codevalue": 203,
+        "valuelabel": "Mountain West Conference"
+      },
+      {
+        "codevalue": 363,
+        "valuelabel": "New England Collegiate Conference"
+      },
+      {
+        "codevalue": 185,
+        "valuelabel": "New England Small College Ath Conf"
+      },
+      {
+        "codevalue": 186,
+        "valuelabel": "New England Women's & Men's Athletic Conference"
+      },
+      {
+        "codevalue": 187,
+        "valuelabel": "New Jersey Athletic Conference"
+      },
+      {
+        "codevalue": 188,
+        "valuelabel": "New York State Women's Coll Ath Assoc"
+      },
+      {
+        "codevalue": 215,
+        "valuelabel": "North Atlantic Conference"
+      },
+      {
+        "codevalue": 152,
+        "valuelabel": "North Central Intercollegiate Athletic Conf"
+      },
+      {
+        "codevalue": 189,
+        "valuelabel": "North Coast Athletic Conference"
+      },
+      {
+        "codevalue": 365,
+        "valuelabel": "North Eastern Athletic Conference"
+      },
+      {
+        "codevalue": 153,
+        "valuelabel": "Northeast 10 Conference"
+      },
+      {
+        "codevalue": 125,
+        "valuelabel": "Northeast Conference"
+      },
+      {
+        "codevalue": 359,
+        "valuelabel": "Northern Athletics Conference"
+      },
+      {
+        "codevalue": 155,
+        "valuelabel": "Northern Sun Intercollegiate Conference"
+      },
+      {
+        "codevalue": 205,
+        "valuelabel": "Northwest Conference"
+      },
+      {
+        "codevalue": 191,
+        "valuelabel": "Ohio Athletic Conference"
+      },
+      {
+        "codevalue": 126,
+        "valuelabel": "Ohio Valley Conference"
+      },
+      {
+        "codevalue": 192,
+        "valuelabel": "Old Dominion Athletic Conference"
+      },
+      {
+        "codevalue": 156,
+        "valuelabel": "Pacific West Conference"
+      },
+      {
+        "codevalue": 127,
+        "valuelabel": "Pacific-10 Conference"
+      },
+      {
+        "codevalue": 128,
+        "valuelabel": "Patriot League"
+      },
+      {
+        "codevalue": 157,
+        "valuelabel": "Peach Belt Conference"
+      },
+      {
+        "codevalue": 193,
+        "valuelabel": "Pennsylvania Athletic Conference"
+      },
+      {
+        "codevalue": 158,
+        "valuelabel": "Pennsylvania State Athletic Conference"
+      },
+      {
+        "codevalue": 194,
+        "valuelabel": "Presidents' Athletic Conference"
+      },
+      {
+        "codevalue": 353,
+        "valuelabel": "Red River Athletic Conference"
+      },
+      {
+        "codevalue": 159,
+        "valuelabel": "Rocky Mountain Athletic Conference"
+      },
+      {
+        "codevalue": 196,
+        "valuelabel": "Skyline Conference"
+      },
+      {
+        "codevalue": 340,
+        "valuelabel": "Sooner Athletic Conference"
+      },
+      {
+        "codevalue": 160,
+        "valuelabel": "South Atlantic Conference"
+      },
+      {
+        "codevalue": 130,
+        "valuelabel": "Southeastern Conference"
+      },
+      {
+        "codevalue": 197,
+        "valuelabel": "Southern California Intercoll Ath Conf"
+      },
+      {
+        "codevalue": 198,
+        "valuelabel": "Southern Collegiate Athletic Conference"
+      },
+      {
+        "codevalue": 131,
+        "valuelabel": "Southern Conference"
+      },
+      {
+        "codevalue": 161,
+        "valuelabel": "Southern Intercollegiate Athletic Conf"
+      },
+      {
+        "codevalue": 334,
+        "valuelabel": "Southern States Athletic Conference"
+      },
+      {
+        "codevalue": 132,
+        "valuelabel": "Southland Conference"
+      },
+      {
+        "codevalue": 133,
+        "valuelabel": "Southwestern Athletic Conference"
+      },
+      {
+        "codevalue": 195,
+        "valuelabel": "St. Louis Intercollegiate Ath Conf"
+      },
+      {
+        "codevalue": 199,
+        "valuelabel": "State University of New York Ath Conf"
+      },
+      {
+        "codevalue": 134,
+        "valuelabel": "Sun Belt Conference"
+      },
+      {
+        "codevalue": 357,
+        "valuelabel": "Sunrise Conference"
+      },
+      {
+        "codevalue": 162,
+        "valuelabel": "Sunshine State Conference"
+      },
+      {
+        "codevalue": 120,
+        "valuelabel": "The Summit League"
+      },
+      {
+        "codevalue": 317,
+        "valuelabel": "TranSouth Athletic Conference"
+      },
+      {
+        "codevalue": 171,
+        "valuelabel": "USA South Athletic Conference"
+      },
+      {
+        "codevalue": 200,
+        "valuelabel": "University Athletic Association"
+      },
+      {
+        "codevalue": 354,
+        "valuelabel": "Upper Midwest Athletic Conference"
+      },
+      {
+        "codevalue": 201,
+        "valuelabel": "Upstate Collegiate Athletic Association"
+      },
+      {
+        "codevalue": 136,
+        "valuelabel": "West Coast Conference"
+      },
+      {
+        "codevalue": 163,
+        "valuelabel": "West Virginia Intercollegiate Athletic Conf"
+      },
+      {
+        "codevalue": 137,
+        "valuelabel": "Western Athletic Conference"
+      },
+      {
+        "codevalue": 202,
+        "valuelabel": "Wisconsin Intercollegiate Ath Conf"
+      },
+      {
+        "codevalue": 307,
+        "valuelabel": "Wolverine-Hoosier Athletic Conf"
+      },
+      {
+        "codevalue": 342,
+        "valuelabel": "Other"
+      },
+      {
+        "codevalue": -1,
+        "valuelabel": "Not reported"
+      },
+      {
+        "codevalue": -2,
+        "valuelabel": "Not applicable"
+      }
+    ]
+  },
+  {
+    "collection_fall": 2012,
+    "athletic_ending_year": 2013,
+    "selected_member": "ic2012_rv.csv",
+    "variable": "CONFNO2",
+    "title": "NCAA/NAIA conference number basketball",
+    "codes": [
+      {
+        "codevalue": 214,
+        "valuelabel": "Allegheny Mountain Collegiate Conference"
+      },
+      {
+        "codevalue": 101,
+        "valuelabel": "America East"
+      },
+      {
+        "codevalue": 306,
+        "valuelabel": "American Mideast Conference"
+      },
+      {
+        "codevalue": 319,
+        "valuelabel": "American Midwest Conference"
+      },
+      {
+        "codevalue": 204,
+        "valuelabel": "American Southwest Conference"
+      },
+      {
+        "codevalue": 316,
+        "valuelabel": "Appalachian Athletic Conference"
+      },
+      {
+        "codevalue": 369,
+        "valuelabel": "Association of Independent Institutions"
+      },
+      {
+        "codevalue": 103,
+        "valuelabel": "Atlantic 10 Conference"
+      },
+      {
+        "codevalue": 102,
+        "valuelabel": "Atlantic Coast Conference"
+      },
+      {
+        "codevalue": 135,
+        "valuelabel": "Atlantic Sun Conference"
+      },
+      {
+        "codevalue": 104,
+        "valuelabel": "Big East Conference"
+      },
+      {
+        "codevalue": 105,
+        "valuelabel": "Big Sky Conference"
+      },
+      {
+        "codevalue": 106,
+        "valuelabel": "Big South Conference"
+      },
+      {
+        "codevalue": 107,
+        "valuelabel": "Big Ten Conference"
+      },
+      {
+        "codevalue": 108,
+        "valuelabel": "Big Twelve Conference"
+      },
+      {
+        "codevalue": 109,
+        "valuelabel": "Big West Conference"
+      },
+      {
+        "codevalue": 138,
+        "valuelabel": "California Collegiate Athletic Assoc"
+      },
+      {
+        "codevalue": 301,
+        "valuelabel": "California Pacific Conference"
+      },
+      {
+        "codevalue": 164,
+        "valuelabel": "Capital Athletic Conference"
+      },
+      {
+        "codevalue": 328,
+        "valuelabel": "Cascade Collegiate Conference"
+      },
+      {
+        "codevalue": 165,
+        "valuelabel": "Centennial Conference"
+      },
+      {
+        "codevalue": 323,
+        "valuelabel": "Central Atlantic Collegiate Conf"
+      },
+      {
+        "codevalue": 140,
+        "valuelabel": "Central Intercollegiate Athletic Assoc"
+      },
+      {
+        "codevalue": 304,
+        "valuelabel": "Chicagoland Collegiate Athletic Conf"
+      },
+      {
+        "codevalue": 166,
+        "valuelabel": "City University of New York Ath Conf"
+      },
+      {
+        "codevalue": 167,
+        "valuelabel": "College Conference of Illinois and Wisc"
+      },
+      {
+        "codevalue": 110,
+        "valuelabel": "Colonial Athletic Association"
+      },
+      {
+        "codevalue": 364,
+        "valuelabel": "Colonial States Athletic Conference"
+      },
+      {
+        "codevalue": 168,
+        "valuelabel": "Commonwealth Coast Conference"
+      },
+      {
+        "codevalue": 207,
+        "valuelabel": "Commonwealth Conference"
+      },
+      {
+        "codevalue": 139,
+        "valuelabel": "Conference Carolinas"
+      },
+      {
+        "codevalue": 111,
+        "valuelabel": "Conference USA"
+      },
+      {
+        "codevalue": 112,
+        "valuelabel": "Division I Independents"
+      },
+      {
+        "codevalue": 141,
+        "valuelabel": "Division II Independents"
+      },
+      {
+        "codevalue": 170,
+        "valuelabel": "Division III Independents"
+      },
+      {
+        "codevalue": 151,
+        "valuelabel": "East Coast Conference"
+      },
+      {
+        "codevalue": 115,
+        "valuelabel": "Eastern College Athletic Conference"
+      },
+      {
+        "codevalue": 332,
+        "valuelabel": "Eastern Intercollegiate Athletic Conf"
+      },
+      {
+        "codevalue": 172,
+        "valuelabel": "Empire Eight"
+      },
+      {
+        "codevalue": 333,
+        "valuelabel": "Florida Sun Conference"
+      },
+      {
+        "codevalue": 208,
+        "valuelabel": "Freedom Conference"
+      },
+      {
+        "codevalue": 352,
+        "valuelabel": "Frontier Conference"
+      },
+      {
+        "codevalue": 302,
+        "valuelabel": "Golden State Athletic Conference"
+      },
+      {
+        "codevalue": 367,
+        "valuelabel": "Great American Conference"
+      },
+      {
+        "codevalue": 144,
+        "valuelabel": "Great Lakes Intercollegiate Ath Conf"
+      },
+      {
+        "codevalue": 145,
+        "valuelabel": "Great Lakes Valley Conference"
+      },
+      {
+        "codevalue": 174,
+        "valuelabel": "Great Northeast Athletic Conference"
+      },
+      {
+        "codevalue": 213,
+        "valuelabel": "Great Northwest Athletic Conference"
+      },
+      {
+        "codevalue": 311,
+        "valuelabel": "Great Plains Athletic Conference"
+      },
+      {
+        "codevalue": 360,
+        "valuelabel": "Great South Athletic Conference"
+      },
+      {
+        "codevalue": 362,
+        "valuelabel": "Great West Conference"
+      },
+      {
+        "codevalue": 337,
+        "valuelabel": "Gulf Coast Athletic Conference"
+      },
+      {
+        "codevalue": 146,
+        "valuelabel": "Gulf South Conference"
+      },
+      {
+        "codevalue": 320,
+        "valuelabel": "Heart of America Athletic Conference"
+      },
+      {
+        "codevalue": 175,
+        "valuelabel": "Heartland Collegiate Athletic Conference"
+      },
+      {
+        "codevalue": 209,
+        "valuelabel": "Heartland Conference"
+      },
+      {
+        "codevalue": 122,
+        "valuelabel": "Horizon League"
+      },
+      {
+        "codevalue": 303,
+        "valuelabel": "Independent Far West Region"
+      },
+      {
+        "codevalue": 308,
+        "valuelabel": "Independent Great Lakes Region"
+      },
+      {
+        "codevalue": 318,
+        "valuelabel": "Independent Mid-South Region"
+      },
+      {
+        "codevalue": 322,
+        "valuelabel": "Independent Midwest Region"
+      },
+      {
+        "codevalue": 327,
+        "valuelabel": "Independent Northeast Region"
+      },
+      {
+        "codevalue": 335,
+        "valuelabel": "Independent Southeast Region"
+      },
+      {
+        "codevalue": 176,
+        "valuelabel": "Iowa Intercollegiate Athletic Conf"
+      },
+      {
+        "codevalue": 117,
+        "valuelabel": "Ivy Group"
+      },
+      {
+        "codevalue": 309,
+        "valuelabel": "Kansas Collegiate Athletic Conf"
+      },
+      {
+        "codevalue": 314,
+        "valuelabel": "Kentucky Intercollegiate Ath Conf"
+      },
+      {
+        "codevalue": 361,
+        "valuelabel": "Landmark Conference"
+      },
+      {
+        "codevalue": 178,
+        "valuelabel": "Little East Conference"
+      },
+      {
+        "codevalue": 147,
+        "valuelabel": "Lone Star Conference"
+      },
+      {
+        "codevalue": 179,
+        "valuelabel": "Massachusetts State College Ath Assoc"
+      },
+      {
+        "codevalue": 118,
+        "valuelabel": "Metro Atlantic Athletic Conference"
+      },
+      {
+        "codevalue": 180,
+        "valuelabel": "Michigan Intercollegiate Athletic Assoc"
+      },
+      {
+        "codevalue": 148,
+        "valuelabel": "Mid-America Intercollegiate Ath Assoc"
+      },
+      {
+        "codevalue": 119,
+        "valuelabel": "Mid-American Conference"
+      },
+      {
+        "codevalue": 305,
+        "valuelabel": "Mid-Central College Conference"
+      },
+      {
+        "codevalue": 121,
+        "valuelabel": "Mid-Eastern Athletic Conference"
+      },
+      {
+        "codevalue": 315,
+        "valuelabel": "Mid-South Conference"
+      },
+      {
+        "codevalue": 181,
+        "valuelabel": "Middle Atlantic States Athletic Corporation"
+      },
+      {
+        "codevalue": 310,
+        "valuelabel": "Midlands Collegiate Athletic Conf"
+      },
+      {
+        "codevalue": 321,
+        "valuelabel": "Midwest Classic Conference"
+      },
+      {
+        "codevalue": 182,
+        "valuelabel": "Midwest Conference"
+      },
+      {
+        "codevalue": 183,
+        "valuelabel": "Minnesota Intercollegiate Ath Conf"
+      },
+      {
+        "codevalue": 123,
+        "valuelabel": "Missouri Valley Conference"
+      },
+      {
+        "codevalue": 203,
+        "valuelabel": "Mountain West Conference"
+      },
+      {
+        "codevalue": 363,
+        "valuelabel": "New England Collegiate Conference"
+      },
+      {
+        "codevalue": 185,
+        "valuelabel": "New England Small College Ath Conf"
+      },
+      {
+        "codevalue": 186,
+        "valuelabel": "New England Women's & Men's Athletic Conference"
+      },
+      {
+        "codevalue": 187,
+        "valuelabel": "New Jersey Athletic Conference"
+      },
+      {
+        "codevalue": 188,
+        "valuelabel": "New York State Women's Coll Ath Assoc"
+      },
+      {
+        "codevalue": 215,
+        "valuelabel": "North Atlantic Conference"
+      },
+      {
+        "codevalue": 152,
+        "valuelabel": "North Central Intercollegiate Athletic Conf"
+      },
+      {
+        "codevalue": 189,
+        "valuelabel": "North Coast Athletic Conference"
+      },
+      {
+        "codevalue": 365,
+        "valuelabel": "North Eastern Athletic Conference"
+      },
+      {
+        "codevalue": 153,
+        "valuelabel": "Northeast 10 Conference"
+      },
+      {
+        "codevalue": 125,
+        "valuelabel": "Northeast Conference"
+      },
+      {
+        "codevalue": 359,
+        "valuelabel": "Northern Athletics Conference"
+      },
+      {
+        "codevalue": 155,
+        "valuelabel": "Northern Sun Intercollegiate Conference"
+      },
+      {
+        "codevalue": 205,
+        "valuelabel": "Northwest Conference"
+      },
+      {
+        "codevalue": 191,
+        "valuelabel": "Ohio Athletic Conference"
+      },
+      {
+        "codevalue": 126,
+        "valuelabel": "Ohio Valley Conference"
+      },
+      {
+        "codevalue": 192,
+        "valuelabel": "Old Dominion Athletic Conference"
+      },
+      {
+        "codevalue": 156,
+        "valuelabel": "Pacific West Conference"
+      },
+      {
+        "codevalue": 127,
+        "valuelabel": "Pacific-12 Conference"
+      },
+      {
+        "codevalue": 128,
+        "valuelabel": "Patriot League"
+      },
+      {
+        "codevalue": 157,
+        "valuelabel": "Peach Belt Conference"
+      },
+      {
+        "codevalue": 193,
+        "valuelabel": "Pennsylvania Athletic Conference"
+      },
+      {
+        "codevalue": 158,
+        "valuelabel": "Pennsylvania State Athletic Conference"
+      },
+      {
+        "codevalue": 194,
+        "valuelabel": "Presidents' Athletic Conference"
+      },
+      {
+        "codevalue": 353,
+        "valuelabel": "Red River Athletic Conference"
+      },
+      {
+        "codevalue": 159,
+        "valuelabel": "Rocky Mountain Athletic Conference"
+      },
+      {
+        "codevalue": 196,
+        "valuelabel": "Skyline Conference"
+      },
+      {
+        "codevalue": 340,
+        "valuelabel": "Sooner Athletic Conference"
+      },
+      {
+        "codevalue": 160,
+        "valuelabel": "South Atlantic Conference"
+      },
+      {
+        "codevalue": 130,
+        "valuelabel": "Southeastern Conference"
+      },
+      {
+        "codevalue": 368,
+        "valuelabel": "Southern Athletic Association"
+      },
+      {
+        "codevalue": 197,
+        "valuelabel": "Southern California Intercoll Ath Conf"
+      },
+      {
+        "codevalue": 198,
+        "valuelabel": "Southern Collegiate Athletic Conference"
+      },
+      {
+        "codevalue": 131,
+        "valuelabel": "Southern Conference"
+      },
+      {
+        "codevalue": 161,
+        "valuelabel": "Southern Intercollegiate Athletic Conf"
+      },
+      {
+        "codevalue": 334,
+        "valuelabel": "Southern States Athletic Conference"
+      },
+      {
+        "codevalue": 132,
+        "valuelabel": "Southland Conference"
+      },
+      {
+        "codevalue": 133,
+        "valuelabel": "Southwestern Athletic Conference"
+      },
+      {
+        "codevalue": 195,
+        "valuelabel": "St. Louis Intercollegiate Ath Conf"
+      },
+      {
+        "codevalue": 199,
+        "valuelabel": "State University of New York Ath Conf"
+      },
+      {
+        "codevalue": 134,
+        "valuelabel": "Sun Belt Conference"
+      },
+      {
+        "codevalue": 162,
+        "valuelabel": "Sunshine State Conference"
+      },
+      {
+        "codevalue": 120,
+        "valuelabel": "The Summit League"
+      },
+      {
+        "codevalue": 317,
+        "valuelabel": "TranSouth Athletic Conference"
+      },
+      {
+        "codevalue": 171,
+        "valuelabel": "USA South Athletic Conference"
+      },
+      {
+        "codevalue": 200,
+        "valuelabel": "University Athletic Association"
+      },
+      {
+        "codevalue": 354,
+        "valuelabel": "Upper Midwest Athletic Conference"
+      },
+      {
+        "codevalue": 201,
+        "valuelabel": "Upstate Collegiate Athletic Association"
+      },
+      {
+        "codevalue": 136,
+        "valuelabel": "West Coast Conference"
+      },
+      {
+        "codevalue": 163,
+        "valuelabel": "West Virginia Intercollegiate Athletic Conf"
+      },
+      {
+        "codevalue": 137,
+        "valuelabel": "Western Athletic Conference"
+      },
+      {
+        "codevalue": 202,
+        "valuelabel": "Wisconsin Intercollegiate Ath Conf"
+      },
+      {
+        "codevalue": 307,
+        "valuelabel": "Wolverine-Hoosier Athletic Conf"
+      },
+      {
+        "codevalue": 342,
+        "valuelabel": "Other"
+      },
+      {
+        "codevalue": -1,
+        "valuelabel": "Not reported"
+      },
+      {
+        "codevalue": -2,
+        "valuelabel": "Not applicable"
+      }
+    ]
+  },
+  {
+    "collection_fall": 2013,
+    "athletic_ending_year": 2014,
+    "selected_member": "ic2013_rv.csv",
+    "variable": "CONFNO2",
+    "title": "NCAA/NAIA conference number basketball",
+    "codes": [
+      {
+        "codevalue": 214,
+        "valuelabel": "Allegheny Mountain Collegiate Conference"
+      },
+      {
+        "codevalue": 101,
+        "valuelabel": "America East"
+      },
+      {
+        "codevalue": 372,
+        "valuelabel": "American Athletic Conference"
+      },
+      {
+        "codevalue": 306,
+        "valuelabel": "American Mideast Conference"
+      },
+      {
+        "codevalue": 319,
+        "valuelabel": "American Midwest Conference"
+      },
+      {
+        "codevalue": 204,
+        "valuelabel": "American Southwest Conference"
+      },
+      {
+        "codevalue": 316,
+        "valuelabel": "Appalachian Athletic Conference"
+      },
+      {
+        "codevalue": 369,
+        "valuelabel": "Association of Independent Institutions"
+      },
+      {
+        "codevalue": 103,
+        "valuelabel": "Atlantic 10 Conference"
+      },
+      {
+        "codevalue": 102,
+        "valuelabel": "Atlantic Coast Conference"
+      },
+      {
+        "codevalue": 135,
+        "valuelabel": "Atlantic Sun Conference"
+      },
+      {
+        "codevalue": 104,
+        "valuelabel": "Big East Conference"
+      },
+      {
+        "codevalue": 105,
+        "valuelabel": "Big Sky Conference"
+      },
+      {
+        "codevalue": 106,
+        "valuelabel": "Big South Conference"
+      },
+      {
+        "codevalue": 107,
+        "valuelabel": "Big Ten Conference"
+      },
+      {
+        "codevalue": 108,
+        "valuelabel": "Big Twelve Conference"
+      },
+      {
+        "codevalue": 109,
+        "valuelabel": "Big West Conference"
+      },
+      {
+        "codevalue": 138,
+        "valuelabel": "California Collegiate Athletic Assoc"
+      },
+      {
+        "codevalue": 301,
+        "valuelabel": "California Pacific Conference"
+      },
+      {
+        "codevalue": 164,
+        "valuelabel": "Capital Athletic Conference"
+      },
+      {
+        "codevalue": 328,
+        "valuelabel": "Cascade Collegiate Conference"
+      },
+      {
+        "codevalue": 165,
+        "valuelabel": "Centennial Conference"
+      },
+      {
+        "codevalue": 323,
+        "valuelabel": "Central Atlantic Collegiate Conf"
+      },
+      {
+        "codevalue": 140,
+        "valuelabel": "Central Intercollegiate Athletic Assoc"
+      },
+      {
+        "codevalue": 304,
+        "valuelabel": "Chicagoland Collegiate Athletic Conf"
+      },
+      {
+        "codevalue": 166,
+        "valuelabel": "City University of New York Ath Conf"
+      },
+      {
+        "codevalue": 167,
+        "valuelabel": "College Conference of Illinois and Wisc"
+      },
+      {
+        "codevalue": 110,
+        "valuelabel": "Colonial Athletic Association"
+      },
+      {
+        "codevalue": 364,
+        "valuelabel": "Colonial States Athletic Conference"
+      },
+      {
+        "codevalue": 168,
+        "valuelabel": "Commonwealth Coast Conference"
+      },
+      {
+        "codevalue": 207,
+        "valuelabel": "Commonwealth Conference"
+      },
+      {
+        "codevalue": 139,
+        "valuelabel": "Conference Carolinas"
+      },
+      {
+        "codevalue": 111,
+        "valuelabel": "Conference USA"
+      },
+      {
+        "codevalue": 305,
+        "valuelabel": "Crossroads League"
+      },
+      {
+        "codevalue": 112,
+        "valuelabel": "Division I Independents"
+      },
+      {
+        "codevalue": 141,
+        "valuelabel": "Division II Independents"
+      },
+      {
+        "codevalue": 170,
+        "valuelabel": "Division III Independents"
+      },
+      {
+        "codevalue": 151,
+        "valuelabel": "East Coast Conference"
+      },
+      {
+        "codevalue": 115,
+        "valuelabel": "Eastern College Athletic Conference"
+      },
+      {
+        "codevalue": 332,
+        "valuelabel": "Eastern Intercollegiate Athletic Conf"
+      },
+      {
+        "codevalue": 172,
+        "valuelabel": "Empire Eight"
+      },
+      {
+        "codevalue": 333,
+        "valuelabel": "Florida Sun Conference"
+      },
+      {
+        "codevalue": 208,
+        "valuelabel": "Freedom Conference"
+      },
+      {
+        "codevalue": 352,
+        "valuelabel": "Frontier Conference"
+      },
+      {
+        "codevalue": 302,
+        "valuelabel": "Golden State Athletic Conference"
+      },
+      {
+        "codevalue": 367,
+        "valuelabel": "Great American Conference"
+      },
+      {
+        "codevalue": 144,
+        "valuelabel": "Great Lakes Intercollegiate Ath Conf"
+      },
+      {
+        "codevalue": 371,
+        "valuelabel": "Great Midwest Athletic Conference"
+      },
+      {
+        "codevalue": 145,
+        "valuelabel": "Great Lakes Valley Conference"
+      },
+      {
+        "codevalue": 174,
+        "valuelabel": "Great Northeast Athletic Conference"
+      },
+      {
+        "codevalue": 213,
+        "valuelabel": "Great Northwest Athletic Conference"
+      },
+      {
+        "codevalue": 311,
+        "valuelabel": "Great Plains Athletic Conference"
+      },
+      {
+        "codevalue": 360,
+        "valuelabel": "Great South Athletic Conference"
+      },
+      {
+        "codevalue": 337,
+        "valuelabel": "Gulf Coast Athletic Conference"
+      },
+      {
+        "codevalue": 146,
+        "valuelabel": "Gulf South Conference"
+      },
+      {
+        "codevalue": 320,
+        "valuelabel": "Heart of America Athletic Conference"
+      },
+      {
+        "codevalue": 175,
+        "valuelabel": "Heartland Collegiate Athletic Conference"
+      },
+      {
+        "codevalue": 209,
+        "valuelabel": "Heartland Conference"
+      },
+      {
+        "codevalue": 122,
+        "valuelabel": "Horizon League"
+      },
+      {
+        "codevalue": 303,
+        "valuelabel": "Independent Far West Region"
+      },
+      {
+        "codevalue": 308,
+        "valuelabel": "Independent Great Lakes Region"
+      },
+      {
+        "codevalue": 318,
+        "valuelabel": "Independent Mid-South Region"
+      },
+      {
+        "codevalue": 322,
+        "valuelabel": "Independent Midwest Region"
+      },
+      {
+        "codevalue": 327,
+        "valuelabel": "Independent Northeast Region"
+      },
+      {
+        "codevalue": 335,
+        "valuelabel": "Independent Southeast Region"
+      },
+      {
+        "codevalue": 176,
+        "valuelabel": "Iowa Intercollegiate Athletic Conf"
+      },
+      {
+        "codevalue": 117,
+        "valuelabel": "Ivy Group"
+      },
+      {
+        "codevalue": 309,
+        "valuelabel": "Kansas Collegiate Athletic Conf"
+      },
+      {
+        "codevalue": 314,
+        "valuelabel": "Kentucky Intercollegiate Ath Conf"
+      },
+      {
+        "codevalue": 361,
+        "valuelabel": "Landmark Conference"
+      },
+      {
+        "codevalue": 178,
+        "valuelabel": "Little East Conference"
+      },
+      {
+        "codevalue": 147,
+        "valuelabel": "Lone Star Conference"
+      },
+      {
+        "codevalue": 179,
+        "valuelabel": "Massachusetts State College Ath Assoc"
+      },
+      {
+        "codevalue": 118,
+        "valuelabel": "Metro Atlantic Athletic Conference"
+      },
+      {
+        "codevalue": 180,
+        "valuelabel": "Michigan Intercollegiate Athletic Assoc"
+      },
+      {
+        "codevalue": 148,
+        "valuelabel": "Mid-America Intercollegiate Ath Assoc"
+      },
+      {
+        "codevalue": 119,
+        "valuelabel": "Mid-American Conference"
+      },
+      {
+        "codevalue": 121,
+        "valuelabel": "Mid-Eastern Athletic Conference"
+      },
+      {
+        "codevalue": 315,
+        "valuelabel": "Mid-South Conference"
+      },
+      {
+        "codevalue": 181,
+        "valuelabel": "Middle Atlantic States Athletic Corporation"
+      },
+      {
+        "codevalue": 310,
+        "valuelabel": "Midlands Collegiate Athletic Conf"
+      },
+      {
+        "codevalue": 321,
+        "valuelabel": "Midwest Classic Conference"
+      },
+      {
+        "codevalue": 182,
+        "valuelabel": "Midwest Conference"
+      },
+      {
+        "codevalue": 183,
+        "valuelabel": "Minnesota Intercollegiate Ath Conf"
+      },
+      {
+        "codevalue": 123,
+        "valuelabel": "Missouri Valley Conference"
+      },
+      {
+        "codevalue": 370,
+        "valuelabel": "Mountain East Conference"
+      },
+      {
+        "codevalue": 203,
+        "valuelabel": "Mountain West Conference"
+      },
+      {
+        "codevalue": 363,
+        "valuelabel": "New England Collegiate Conference"
+      },
+      {
+        "codevalue": 185,
+        "valuelabel": "New England Small College Ath Conf"
+      },
+      {
+        "codevalue": 186,
+        "valuelabel": "New England Women's & Men's Athletic Conference"
+      },
+      {
+        "codevalue": 187,
+        "valuelabel": "New Jersey Athletic Conference"
+      },
+      {
+        "codevalue": 188,
+        "valuelabel": "New York State Women's Coll Ath Assoc"
+      },
+      {
+        "codevalue": 215,
+        "valuelabel": "North Atlantic Conference"
+      },
+      {
+        "codevalue": 189,
+        "valuelabel": "North Coast Athletic Conference"
+      },
+      {
+        "codevalue": 365,
+        "valuelabel": "North Eastern Athletic Conference"
+      },
+      {
+        "codevalue": 373,
+        "valuelabel": "North Star Athletic Association"
+      },
+      {
+        "codevalue": 153,
+        "valuelabel": "Northeast 10 Conference"
+      },
+      {
+        "codevalue": 125,
+        "valuelabel": "Northeast Conference"
+      },
+      {
+        "codevalue": 359,
+        "valuelabel": "Northern Athletics Collegiate Conference"
+      },
+      {
+        "codevalue": 155,
+        "valuelabel": "Northern Sun Intercollegiate Conference"
+      },
+      {
+        "codevalue": 205,
+        "valuelabel": "Northwest Conference"
+      },
+      {
+        "codevalue": 191,
+        "valuelabel": "Ohio Athletic Conference"
+      },
+      {
+        "codevalue": 126,
+        "valuelabel": "Ohio Valley Conference"
+      },
+      {
+        "codevalue": 192,
+        "valuelabel": "Old Dominion Athletic Conference"
+      },
+      {
+        "codevalue": 156,
+        "valuelabel": "Pacific West Conference"
+      },
+      {
+        "codevalue": 127,
+        "valuelabel": "Pacific-12 Conference"
+      },
+      {
+        "codevalue": 128,
+        "valuelabel": "Patriot League"
+      },
+      {
+        "codevalue": 157,
+        "valuelabel": "Peach Belt Conference"
+      },
+      {
+        "codevalue": 193,
+        "valuelabel": "Pennsylvania Athletic Conference"
+      },
+      {
+        "codevalue": 158,
+        "valuelabel": "Pennsylvania State Athletic Conference"
+      },
+      {
+        "codevalue": 194,
+        "valuelabel": "Presidents' Athletic Conference"
+      },
+      {
+        "codevalue": 353,
+        "valuelabel": "Red River Athletic Conference"
+      },
+      {
+        "codevalue": 159,
+        "valuelabel": "Rocky Mountain Athletic Conference"
+      },
+      {
+        "codevalue": 196,
+        "valuelabel": "Skyline Conference"
+      },
+      {
+        "codevalue": 340,
+        "valuelabel": "Sooner Athletic Conference"
+      },
+      {
+        "codevalue": 160,
+        "valuelabel": "South Atlantic Conference"
+      },
+      {
+        "codevalue": 130,
+        "valuelabel": "Southeastern Conference"
+      },
+      {
+        "codevalue": 368,
+        "valuelabel": "Southern Athletic Association"
+      },
+      {
+        "codevalue": 197,
+        "valuelabel": "Southern California Intercoll Ath Conf"
+      },
+      {
+        "codevalue": 198,
+        "valuelabel": "Southern Collegiate Athletic Conference"
+      },
+      {
+        "codevalue": 131,
+        "valuelabel": "Southern Conference"
+      },
+      {
+        "codevalue": 161,
+        "valuelabel": "Southern Intercollegiate Athletic Conf"
+      },
+      {
+        "codevalue": 334,
+        "valuelabel": "Southern States Athletic Conference"
+      },
+      {
+        "codevalue": 132,
+        "valuelabel": "Southland Conference"
+      },
+      {
+        "codevalue": 133,
+        "valuelabel": "Southwestern Athletic Conference"
+      },
+      {
+        "codevalue": 195,
+        "valuelabel": "St. Louis Intercollegiate Ath Conf"
+      },
+      {
+        "codevalue": 199,
+        "valuelabel": "State University of New York Ath Conf"
+      },
+      {
+        "codevalue": 134,
+        "valuelabel": "Sun Belt Conference"
+      },
+      {
+        "codevalue": 162,
+        "valuelabel": "Sunshine State Conference"
+      },
+      {
+        "codevalue": 120,
+        "valuelabel": "The Summit League"
+      },
+      {
+        "codevalue": 317,
+        "valuelabel": "TranSouth Athletic Conference"
+      },
+      {
+        "codevalue": 171,
+        "valuelabel": "USA South Athletic Conference"
+      },
+      {
+        "codevalue": 200,
+        "valuelabel": "University Athletic Association"
+      },
+      {
+        "codevalue": 354,
+        "valuelabel": "Upper Midwest Athletic Conference"
+      },
+      {
+        "codevalue": 201,
+        "valuelabel": "Upstate Collegiate Athletic Association"
+      },
+      {
+        "codevalue": 136,
+        "valuelabel": "West Coast Conference"
+      },
+      {
+        "codevalue": 163,
+        "valuelabel": "West Virginia Intercollegiate Athletic Conference"
+      },
+      {
+        "codevalue": 137,
+        "valuelabel": "Western Athletic Conference"
+      },
+      {
+        "codevalue": 202,
+        "valuelabel": "Wisconsin Intercollegiate Ath Conference"
+      },
+      {
+        "codevalue": 307,
+        "valuelabel": "Wolverine-Hoosier Athletic Conference"
+      },
+      {
+        "codevalue": 342,
+        "valuelabel": "Other"
+      },
+      {
+        "codevalue": -1,
+        "valuelabel": "Not reported"
+      },
+      {
+        "codevalue": -2,
+        "valuelabel": "Not applicable"
+      }
+    ]
+  },
+  {
+    "collection_fall": 2014,
+    "athletic_ending_year": 2015,
+    "selected_member": "ic2014_rv.csv",
+    "variable": "CONFNO2",
+    "title": "NCAA/NAIA conference number basketball",
+    "codes": [
+      {
+        "codevalue": 214,
+        "valuelabel": "Allegheny Mountain Collegiate Conference"
+      },
+      {
+        "codevalue": 101,
+        "valuelabel": "America East"
+      },
+      {
+        "codevalue": 372,
+        "valuelabel": "American Athletic Conference"
+      },
+      {
+        "codevalue": 306,
+        "valuelabel": "American Mideast Conference"
+      },
+      {
+        "codevalue": 319,
+        "valuelabel": "American Midwest Conference"
+      },
+      {
+        "codevalue": 204,
+        "valuelabel": "American Southwest Conference"
+      },
+      {
+        "codevalue": 316,
+        "valuelabel": "Appalachian Athletic Conference"
+      },
+      {
+        "codevalue": 369,
+        "valuelabel": "Association of Independent Institutions"
+      },
+      {
+        "codevalue": 103,
+        "valuelabel": "Atlantic 10 Conference"
+      },
+      {
+        "codevalue": 102,
+        "valuelabel": "Atlantic Coast Conference"
+      },
+      {
+        "codevalue": 135,
+        "valuelabel": "Atlantic Sun Conference"
+      },
+      {
+        "codevalue": 104,
+        "valuelabel": "Big East Conference"
+      },
+      {
+        "codevalue": 105,
+        "valuelabel": "Big Sky Conference"
+      },
+      {
+        "codevalue": 106,
+        "valuelabel": "Big South Conference"
+      },
+      {
+        "codevalue": 107,
+        "valuelabel": "Big Ten Conference"
+      },
+      {
+        "codevalue": 108,
+        "valuelabel": "Big Twelve Conference"
+      },
+      {
+        "codevalue": 109,
+        "valuelabel": "Big West Conference"
+      },
+      {
+        "codevalue": 138,
+        "valuelabel": "California Collegiate Athletic Assoc"
+      },
+      {
+        "codevalue": 301,
+        "valuelabel": "California Pacific Conference"
+      },
+      {
+        "codevalue": 164,
+        "valuelabel": "Capital Athletic Conference"
+      },
+      {
+        "codevalue": 328,
+        "valuelabel": "Cascade Collegiate Conference"
+      },
+      {
+        "codevalue": 165,
+        "valuelabel": "Centennial Conference"
+      },
+      {
+        "codevalue": 323,
+        "valuelabel": "Central Atlantic Collegiate Conf"
+      },
+      {
+        "codevalue": 140,
+        "valuelabel": "Central Intercollegiate Athletic Assoc"
+      },
+      {
+        "codevalue": 304,
+        "valuelabel": "Chicagoland Collegiate Athletic Conf"
+      },
+      {
+        "codevalue": 166,
+        "valuelabel": "City University of New York Ath Conf"
+      },
+      {
+        "codevalue": 167,
+        "valuelabel": "College Conference of Illinois and Wisc"
+      },
+      {
+        "codevalue": 110,
+        "valuelabel": "Colonial Athletic Association"
+      },
+      {
+        "codevalue": 364,
+        "valuelabel": "Colonial States Athletic Conference"
+      },
+      {
+        "codevalue": 168,
+        "valuelabel": "Commonwealth Coast Conference"
+      },
+      {
+        "codevalue": 207,
+        "valuelabel": "Commonwealth Conference"
+      },
+      {
+        "codevalue": 139,
+        "valuelabel": "Conference Carolinas"
+      },
+      {
+        "codevalue": 111,
+        "valuelabel": "Conference USA"
+      },
+      {
+        "codevalue": 305,
+        "valuelabel": "Crossroads League"
+      },
+      {
+        "codevalue": 112,
+        "valuelabel": "Division I Independents"
+      },
+      {
+        "codevalue": 141,
+        "valuelabel": "Division II Independents"
+      },
+      {
+        "codevalue": 170,
+        "valuelabel": "Division III Independents"
+      },
+      {
+        "codevalue": 151,
+        "valuelabel": "East Coast Conference"
+      },
+      {
+        "codevalue": 115,
+        "valuelabel": "Eastern College Athletic Conference"
+      },
+      {
+        "codevalue": 172,
+        "valuelabel": "Empire Eight"
+      },
+      {
+        "codevalue": 333,
+        "valuelabel": "Florida Sun Conference"
+      },
+      {
+        "codevalue": 208,
+        "valuelabel": "Freedom Conference"
+      },
+      {
+        "codevalue": 352,
+        "valuelabel": "Frontier Conference"
+      },
+      {
+        "codevalue": 302,
+        "valuelabel": "Golden State Athletic Conference"
+      },
+      {
+        "codevalue": 367,
+        "valuelabel": "Great American Conference"
+      },
+      {
+        "codevalue": 144,
+        "valuelabel": "Great Lakes Intercollegiate Ath Conf"
+      },
+      {
+        "codevalue": 371,
+        "valuelabel": "Great Midwest Athletic Conference"
+      },
+      {
+        "codevalue": 145,
+        "valuelabel": "Great Lakes Valley Conference"
+      },
+      {
+        "codevalue": 174,
+        "valuelabel": "Great Northeast Athletic Conference"
+      },
+      {
+        "codevalue": 213,
+        "valuelabel": "Great Northwest Athletic Conference"
+      },
+      {
+        "codevalue": 311,
+        "valuelabel": "Great Plains Athletic Conference"
+      },
+      {
+        "codevalue": 360,
+        "valuelabel": "Great South Athletic Conference"
+      },
+      {
+        "codevalue": 337,
+        "valuelabel": "Gulf Coast Athletic Conference"
+      },
+      {
+        "codevalue": 146,
+        "valuelabel": "Gulf South Conference"
+      },
+      {
+        "codevalue": 320,
+        "valuelabel": "Heart of America Athletic Conference"
+      },
+      {
+        "codevalue": 175,
+        "valuelabel": "Heartland Collegiate Athletic Conference"
+      },
+      {
+        "codevalue": 209,
+        "valuelabel": "Heartland Conference"
+      },
+      {
+        "codevalue": 122,
+        "valuelabel": "Horizon League"
+      },
+      {
+        "codevalue": 303,
+        "valuelabel": "Independent Far West Region"
+      },
+      {
+        "codevalue": 308,
+        "valuelabel": "Independent Great Lakes Region"
+      },
+      {
+        "codevalue": 318,
+        "valuelabel": "Independent Mid-South Region"
+      },
+      {
+        "codevalue": 322,
+        "valuelabel": "Independent Midwest Region"
+      },
+      {
+        "codevalue": 327,
+        "valuelabel": "Independent Northeast Region"
+      },
+      {
+        "codevalue": 335,
+        "valuelabel": "Independent Southeast Region"
+      },
+      {
+        "codevalue": 176,
+        "valuelabel": "Iowa Intercollegiate Athletic Conf"
+      },
+      {
+        "codevalue": 117,
+        "valuelabel": "Ivy Group"
+      },
+      {
+        "codevalue": 309,
+        "valuelabel": "Kansas Collegiate Athletic Conf"
+      },
+      {
+        "codevalue": 314,
+        "valuelabel": "Kentucky Intercollegiate Ath Conf"
+      },
+      {
+        "codevalue": 361,
+        "valuelabel": "Landmark Conference"
+      },
+      {
+        "codevalue": 178,
+        "valuelabel": "Little East Conference"
+      },
+      {
+        "codevalue": 147,
+        "valuelabel": "Lone Star Conference"
+      },
+      {
+        "codevalue": 179,
+        "valuelabel": "Massachusetts State College Ath Assoc"
+      },
+      {
+        "codevalue": 118,
+        "valuelabel": "Metro Atlantic Athletic Conference"
+      },
+      {
+        "codevalue": 180,
+        "valuelabel": "Michigan Intercollegiate Athletic Assoc"
+      },
+      {
+        "codevalue": 148,
+        "valuelabel": "Mid-America Intercollegiate Ath Assoc"
+      },
+      {
+        "codevalue": 119,
+        "valuelabel": "Mid-American Conference"
+      },
+      {
+        "codevalue": 121,
+        "valuelabel": "Mid-Eastern Athletic Conference"
+      },
+      {
+        "codevalue": 315,
+        "valuelabel": "Mid-South Conference"
+      },
+      {
+        "codevalue": 181,
+        "valuelabel": "Middle Atlantic States Athletic Corporation"
+      },
+      {
+        "codevalue": 310,
+        "valuelabel": "Midlands Collegiate Athletic Conf"
+      },
+      {
+        "codevalue": 321,
+        "valuelabel": "Midwest Classic Conference"
+      },
+      {
+        "codevalue": 182,
+        "valuelabel": "Midwest Conference"
+      },
+      {
+        "codevalue": 183,
+        "valuelabel": "Minnesota Intercollegiate Ath Conf"
+      },
+      {
+        "codevalue": 123,
+        "valuelabel": "Missouri Valley Conference"
+      },
+      {
+        "codevalue": 370,
+        "valuelabel": "Mountain East Conference"
+      },
+      {
+        "codevalue": 203,
+        "valuelabel": "Mountain West Conference"
+      },
+      {
+        "codevalue": 363,
+        "valuelabel": "New England Collegiate Conference"
+      },
+      {
+        "codevalue": 185,
+        "valuelabel": "New England Small College Ath Conf"
+      },
+      {
+        "codevalue": 186,
+        "valuelabel": "New England Women's & Men's Athletic Conference"
+      },
+      {
+        "codevalue": 187,
+        "valuelabel": "New Jersey Athletic Conference"
+      },
+      {
+        "codevalue": 188,
+        "valuelabel": "New York State Women's Coll Ath Assoc"
+      },
+      {
+        "codevalue": 215,
+        "valuelabel": "North Atlantic Conference"
+      },
+      {
+        "codevalue": 189,
+        "valuelabel": "North Coast Athletic Conference"
+      },
+      {
+        "codevalue": 365,
+        "valuelabel": "North Eastern Athletic Conference"
+      },
+      {
+        "codevalue": 373,
+        "valuelabel": "North Star Athletic Association"
+      },
+      {
+        "codevalue": 153,
+        "valuelabel": "Northeast 10 Conference"
+      },
+      {
+        "codevalue": 125,
+        "valuelabel": "Northeast Conference"
+      },
+      {
+        "codevalue": 359,
+        "valuelabel": "Northern Athletics Collegiate Conference"
+      },
+      {
+        "codevalue": 155,
+        "valuelabel": "Northern Sun Intercollegiate Conference"
+      },
+      {
+        "codevalue": 205,
+        "valuelabel": "Northwest Conference"
+      },
+      {
+        "codevalue": 191,
+        "valuelabel": "Ohio Athletic Conference"
+      },
+      {
+        "codevalue": 126,
+        "valuelabel": "Ohio Valley Conference"
+      },
+      {
+        "codevalue": 192,
+        "valuelabel": "Old Dominion Athletic Conference"
+      },
+      {
+        "codevalue": 156,
+        "valuelabel": "Pacific West Conference"
+      },
+      {
+        "codevalue": 127,
+        "valuelabel": "Pacific-12 Conference"
+      },
+      {
+        "codevalue": 128,
+        "valuelabel": "Patriot League"
+      },
+      {
+        "codevalue": 157,
+        "valuelabel": "Peach Belt Conference"
+      },
+      {
+        "codevalue": 193,
+        "valuelabel": "Pennsylvania Athletic Conference"
+      },
+      {
+        "codevalue": 158,
+        "valuelabel": "Pennsylvania State Athletic Conference"
+      },
+      {
+        "codevalue": 194,
+        "valuelabel": "Presidents' Athletic Conference"
+      },
+      {
+        "codevalue": 353,
+        "valuelabel": "Red River Athletic Conference"
+      },
+      {
+        "codevalue": 159,
+        "valuelabel": "Rocky Mountain Athletic Conference"
+      },
+      {
+        "codevalue": 196,
+        "valuelabel": "Skyline Conference"
+      },
+      {
+        "codevalue": 340,
+        "valuelabel": "Sooner Athletic Conference"
+      },
+      {
+        "codevalue": 160,
+        "valuelabel": "South Atlantic Conference"
+      },
+      {
+        "codevalue": 130,
+        "valuelabel": "Southeastern Conference"
+      },
+      {
+        "codevalue": 368,
+        "valuelabel": "Southern Athletic Association"
+      },
+      {
+        "codevalue": 197,
+        "valuelabel": "Southern California Intercoll Ath Conf"
+      },
+      {
+        "codevalue": 198,
+        "valuelabel": "Southern Collegiate Athletic Conference"
+      },
+      {
+        "codevalue": 131,
+        "valuelabel": "Southern Conference"
+      },
+      {
+        "codevalue": 161,
+        "valuelabel": "Southern Intercollegiate Athletic Conf"
+      },
+      {
+        "codevalue": 334,
+        "valuelabel": "Southern States Athletic Conference"
+      },
+      {
+        "codevalue": 132,
+        "valuelabel": "Southland Conference"
+      },
+      {
+        "codevalue": 133,
+        "valuelabel": "Southwestern Athletic Conference"
+      },
+      {
+        "codevalue": 195,
+        "valuelabel": "St. Louis Intercollegiate Ath Conf"
+      },
+      {
+        "codevalue": 199,
+        "valuelabel": "State University of New York Ath Conf"
+      },
+      {
+        "codevalue": 134,
+        "valuelabel": "Sun Belt Conference"
+      },
+      {
+        "codevalue": 162,
+        "valuelabel": "Sunshine State Conference"
+      },
+      {
+        "codevalue": 120,
+        "valuelabel": "The Summit League"
+      },
+      {
+        "codevalue": 317,
+        "valuelabel": "TranSouth Athletic Conference"
+      },
+      {
+        "codevalue": 171,
+        "valuelabel": "USA South Athletic Conference"
+      },
+      {
+        "codevalue": 200,
+        "valuelabel": "University Athletic Association"
+      },
+      {
+        "codevalue": 354,
+        "valuelabel": "Upper Midwest Athletic Conference"
+      },
+      {
+        "codevalue": 201,
+        "valuelabel": "Upstate Collegiate Athletic Association"
+      },
+      {
+        "codevalue": 136,
+        "valuelabel": "West Coast Conference"
+      },
+      {
+        "codevalue": 163,
+        "valuelabel": "West Virginia Intercollegiate Athletic Conference"
+      },
+      {
+        "codevalue": 137,
+        "valuelabel": "Western Athletic Conference"
+      },
+      {
+        "codevalue": 202,
+        "valuelabel": "Wisconsin Intercollegiate Ath Conference"
+      },
+      {
+        "codevalue": 307,
+        "valuelabel": "Wolverine-Hoosier Athletic Conference"
+      },
+      {
+        "codevalue": 342,
+        "valuelabel": "Other"
+      },
+      {
+        "codevalue": -1,
+        "valuelabel": "Not reported"
+      },
+      {
+        "codevalue": -2,
+        "valuelabel": "Not applicable"
+      }
+    ]
+  },
+  {
+    "collection_fall": 2015,
+    "athletic_ending_year": 2016,
+    "selected_member": "ic2015_rv.csv",
+    "variable": "CONFNO2",
+    "title": "NCAA/NAIA conference number basketball",
+    "codes": [
+      {
+        "codevalue": 214,
+        "valuelabel": "Allegheny Mountain Collegiate Conference"
+      },
+      {
+        "codevalue": 101,
+        "valuelabel": "America East"
+      },
+      {
+        "codevalue": 372,
+        "valuelabel": "American Athletic Conference"
+      },
+      {
+        "codevalue": 306,
+        "valuelabel": "American Mideast Conference"
+      },
+      {
+        "codevalue": 319,
+        "valuelabel": "American Midwest Conference"
+      },
+      {
+        "codevalue": 204,
+        "valuelabel": "American Southwest Conference"
+      },
+      {
+        "codevalue": 316,
+        "valuelabel": "Appalachian Athletic Conference"
+      },
+      {
+        "codevalue": 369,
+        "valuelabel": "Association of Independent Institutions"
+      },
+      {
+        "codevalue": 103,
+        "valuelabel": "Atlantic 10 Conference"
+      },
+      {
+        "codevalue": 102,
+        "valuelabel": "Atlantic Coast Conference"
+      },
+      {
+        "codevalue": 135,
+        "valuelabel": "Atlantic Sun Conference"
+      },
+      {
+        "codevalue": 104,
+        "valuelabel": "Big East Conference"
+      },
+      {
+        "codevalue": 105,
+        "valuelabel": "Big Sky Conference"
+      },
+      {
+        "codevalue": 106,
+        "valuelabel": "Big South Conference"
+      },
+      {
+        "codevalue": 107,
+        "valuelabel": "Big Ten Conference"
+      },
+      {
+        "codevalue": 108,
+        "valuelabel": "Big Twelve Conference"
+      },
+      {
+        "codevalue": 109,
+        "valuelabel": "Big West Conference"
+      },
+      {
+        "codevalue": 138,
+        "valuelabel": "California Collegiate Athletic Assoc"
+      },
+      {
+        "codevalue": 301,
+        "valuelabel": "California Pacific Conference"
+      },
+      {
+        "codevalue": 164,
+        "valuelabel": "Capital Athletic Conference"
+      },
+      {
+        "codevalue": 328,
+        "valuelabel": "Cascade Collegiate Conference"
+      },
+      {
+        "codevalue": 165,
+        "valuelabel": "Centennial Conference"
+      },
+      {
+        "codevalue": 323,
+        "valuelabel": "Central Atlantic Collegiate Conf"
+      },
+      {
+        "codevalue": 140,
+        "valuelabel": "Central Intercollegiate Athletic Assoc"
+      },
+      {
+        "codevalue": 304,
+        "valuelabel": "Chicagoland Collegiate Athletic Conf"
+      },
+      {
+        "codevalue": 166,
+        "valuelabel": "City University of New York Ath Conf"
+      },
+      {
+        "codevalue": 167,
+        "valuelabel": "College Conference of Illinois and Wisc"
+      },
+      {
+        "codevalue": 110,
+        "valuelabel": "Colonial Athletic Association"
+      },
+      {
+        "codevalue": 364,
+        "valuelabel": "Colonial States Athletic Conference"
+      },
+      {
+        "codevalue": 168,
+        "valuelabel": "Commonwealth Coast Conference"
+      },
+      {
+        "codevalue": 207,
+        "valuelabel": "Commonwealth Conference"
+      },
+      {
+        "codevalue": 139,
+        "valuelabel": "Conference Carolinas"
+      },
+      {
+        "codevalue": 111,
+        "valuelabel": "Conference USA"
+      },
+      {
+        "codevalue": 305,
+        "valuelabel": "Crossroads League"
+      },
+      {
+        "codevalue": 112,
+        "valuelabel": "Division I Independents"
+      },
+      {
+        "codevalue": 141,
+        "valuelabel": "Division II Independents"
+      },
+      {
+        "codevalue": 170,
+        "valuelabel": "Division III Independents"
+      },
+      {
+        "codevalue": 151,
+        "valuelabel": "East Coast Conference"
+      },
+      {
+        "codevalue": 115,
+        "valuelabel": "Eastern College Athletic Conference"
+      },
+      {
+        "codevalue": 172,
+        "valuelabel": "Empire Eight"
+      },
+      {
+        "codevalue": 333,
+        "valuelabel": "Florida Sun Conference"
+      },
+      {
+        "codevalue": 208,
+        "valuelabel": "Freedom Conference"
+      },
+      {
+        "codevalue": 352,
+        "valuelabel": "Frontier Conference"
+      },
+      {
+        "codevalue": 302,
+        "valuelabel": "Golden State Athletic Conference"
+      },
+      {
+        "codevalue": 367,
+        "valuelabel": "Great American Conference"
+      },
+      {
+        "codevalue": 144,
+        "valuelabel": "Great Lakes Intercollegiate Ath Conf"
+      },
+      {
+        "codevalue": 371,
+        "valuelabel": "Great Midwest Athletic Conference"
+      },
+      {
+        "codevalue": 145,
+        "valuelabel": "Great Lakes Valley Conference"
+      },
+      {
+        "codevalue": 174,
+        "valuelabel": "Great Northeast Athletic Conference"
+      },
+      {
+        "codevalue": 213,
+        "valuelabel": "Great Northwest Athletic Conference"
+      },
+      {
+        "codevalue": 311,
+        "valuelabel": "Great Plains Athletic Conference"
+      },
+      {
+        "codevalue": 360,
+        "valuelabel": "Great South Athletic Conference"
+      },
+      {
+        "codevalue": 337,
+        "valuelabel": "Gulf Coast Athletic Conference"
+      },
+      {
+        "codevalue": 146,
+        "valuelabel": "Gulf South Conference"
+      },
+      {
+        "codevalue": 320,
+        "valuelabel": "Heart of America Athletic Conference"
+      },
+      {
+        "codevalue": 175,
+        "valuelabel": "Heartland Collegiate Athletic Conference"
+      },
+      {
+        "codevalue": 209,
+        "valuelabel": "Heartland Conference"
+      },
+      {
+        "codevalue": 122,
+        "valuelabel": "Horizon League"
+      },
+      {
+        "codevalue": 303,
+        "valuelabel": "Independent Far West Region"
+      },
+      {
+        "codevalue": 308,
+        "valuelabel": "Independent Great Lakes Region"
+      },
+      {
+        "codevalue": 318,
+        "valuelabel": "Independent Mid-South Region"
+      },
+      {
+        "codevalue": 322,
+        "valuelabel": "Independent Midwest Region"
+      },
+      {
+        "codevalue": 327,
+        "valuelabel": "Independent Northeast Region"
+      },
+      {
+        "codevalue": 335,
+        "valuelabel": "Independent Southeast Region"
+      },
+      {
+        "codevalue": 176,
+        "valuelabel": "Iowa Intercollegiate Athletic Conf"
+      },
+      {
+        "codevalue": 117,
+        "valuelabel": "Ivy Group"
+      },
+      {
+        "codevalue": 309,
+        "valuelabel": "Kansas Collegiate Athletic Conf"
+      },
+      {
+        "codevalue": 314,
+        "valuelabel": "Kentucky Intercollegiate Ath Conf"
+      },
+      {
+        "codevalue": 361,
+        "valuelabel": "Landmark Conference"
+      },
+      {
+        "codevalue": 178,
+        "valuelabel": "Little East Conference"
+      },
+      {
+        "codevalue": 147,
+        "valuelabel": "Lone Star Conference"
+      },
+      {
+        "codevalue": 179,
+        "valuelabel": "Massachusetts State College Ath Assoc"
+      },
+      {
+        "codevalue": 118,
+        "valuelabel": "Metro Atlantic Athletic Conference"
+      },
+      {
+        "codevalue": 180,
+        "valuelabel": "Michigan Intercollegiate Athletic Assoc"
+      },
+      {
+        "codevalue": 148,
+        "valuelabel": "Mid-America Intercollegiate Ath Assoc"
+      },
+      {
+        "codevalue": 119,
+        "valuelabel": "Mid-American Conference"
+      },
+      {
+        "codevalue": 121,
+        "valuelabel": "Mid-Eastern Athletic Conference"
+      },
+      {
+        "codevalue": 315,
+        "valuelabel": "Mid-South Conference"
+      },
+      {
+        "codevalue": 181,
+        "valuelabel": "Middle Atlantic States Athletic Corporation"
+      },
+      {
+        "codevalue": 310,
+        "valuelabel": "Midlands Collegiate Athletic Conf"
+      },
+      {
+        "codevalue": 182,
+        "valuelabel": "Midwest Conference"
+      },
+      {
+        "codevalue": 183,
+        "valuelabel": "Minnesota Intercollegiate Ath Conf"
+      },
+      {
+        "codevalue": 123,
+        "valuelabel": "Missouri Valley Conference"
+      },
+      {
+        "codevalue": 370,
+        "valuelabel": "Mountain East Conference"
+      },
+      {
+        "codevalue": 203,
+        "valuelabel": "Mountain West Conference"
+      },
+      {
+        "codevalue": 363,
+        "valuelabel": "New England Collegiate Conference"
+      },
+      {
+        "codevalue": 185,
+        "valuelabel": "New England Small College Ath Conf"
+      },
+      {
+        "codevalue": 186,
+        "valuelabel": "New England Women's & Men's Athletic Conference"
+      },
+      {
+        "codevalue": 187,
+        "valuelabel": "New Jersey Athletic Conference"
+      },
+      {
+        "codevalue": 188,
+        "valuelabel": "New York State Women's Coll Ath Assoc"
+      },
+      {
+        "codevalue": 215,
+        "valuelabel": "North Atlantic Conference"
+      },
+      {
+        "codevalue": 189,
+        "valuelabel": "North Coast Athletic Conference"
+      },
+      {
+        "codevalue": 365,
+        "valuelabel": "North Eastern Athletic Conference"
+      },
+      {
+        "codevalue": 373,
+        "valuelabel": "North Star Athletic Association"
+      },
+      {
+        "codevalue": 153,
+        "valuelabel": "Northeast 10 Conference"
+      },
+      {
+        "codevalue": 125,
+        "valuelabel": "Northeast Conference"
+      },
+      {
+        "codevalue": 359,
+        "valuelabel": "Northern Athletics Collegiate Conference"
+      },
+      {
+        "codevalue": 155,
+        "valuelabel": "Northern Sun Intercollegiate Conference"
+      },
+      {
+        "codevalue": 205,
+        "valuelabel": "Northwest Conference"
+      },
+      {
+        "codevalue": 191,
+        "valuelabel": "Ohio Athletic Conference"
+      },
+      {
+        "codevalue": 126,
+        "valuelabel": "Ohio Valley Conference"
+      },
+      {
+        "codevalue": 192,
+        "valuelabel": "Old Dominion Athletic Conference"
+      },
+      {
+        "codevalue": 156,
+        "valuelabel": "Pacific West Conference"
+      },
+      {
+        "codevalue": 127,
+        "valuelabel": "Pacific-12 Conference"
+      },
+      {
+        "codevalue": 128,
+        "valuelabel": "Patriot League"
+      },
+      {
+        "codevalue": 157,
+        "valuelabel": "Peach Belt Conference"
+      },
+      {
+        "codevalue": 193,
+        "valuelabel": "Pennsylvania Athletic Conference"
+      },
+      {
+        "codevalue": 158,
+        "valuelabel": "Pennsylvania State Athletic Conference"
+      },
+      {
+        "codevalue": 194,
+        "valuelabel": "Presidents' Athletic Conference"
+      },
+      {
+        "codevalue": 353,
+        "valuelabel": "Red River Athletic Conference"
+      },
+      {
+        "codevalue": 159,
+        "valuelabel": "Rocky Mountain Athletic Conference"
+      },
+      {
+        "codevalue": 196,
+        "valuelabel": "Skyline Conference"
+      },
+      {
+        "codevalue": 340,
+        "valuelabel": "Sooner Athletic Conference"
+      },
+      {
+        "codevalue": 160,
+        "valuelabel": "South Atlantic Conference"
+      },
+      {
+        "codevalue": 130,
+        "valuelabel": "Southeastern Conference"
+      },
+      {
+        "codevalue": 368,
+        "valuelabel": "Southern Athletic Association"
+      },
+      {
+        "codevalue": 197,
+        "valuelabel": "Southern California Intercoll Ath Conf"
+      },
+      {
+        "codevalue": 198,
+        "valuelabel": "Southern Collegiate Athletic Conference"
+      },
+      {
+        "codevalue": 131,
+        "valuelabel": "Southern Conference"
+      },
+      {
+        "codevalue": 161,
+        "valuelabel": "Southern Intercollegiate Athletic Conf"
+      },
+      {
+        "codevalue": 334,
+        "valuelabel": "Southern States Athletic Conference"
+      },
+      {
+        "codevalue": 132,
+        "valuelabel": "Southland Conference"
+      },
+      {
+        "codevalue": 133,
+        "valuelabel": "Southwestern Athletic Conference"
+      },
+      {
+        "codevalue": 195,
+        "valuelabel": "St. Louis Intercollegiate Ath Conf"
+      },
+      {
+        "codevalue": 199,
+        "valuelabel": "State University of New York Ath Conf"
+      },
+      {
+        "codevalue": 134,
+        "valuelabel": "Sun Belt Conference"
+      },
+      {
+        "codevalue": 162,
+        "valuelabel": "Sunshine State Conference"
+      },
+      {
+        "codevalue": 120,
+        "valuelabel": "The Summit League"
+      },
+      {
+        "codevalue": 317,
+        "valuelabel": "TranSouth Athletic Conference"
+      },
+      {
+        "codevalue": 171,
+        "valuelabel": "USA South Athletic Conference"
+      },
+      {
+        "codevalue": 200,
+        "valuelabel": "University Athletic Association"
+      },
+      {
+        "codevalue": 354,
+        "valuelabel": "Upper Midwest Athletic Conference"
+      },
+      {
+        "codevalue": 201,
+        "valuelabel": "Upstate Collegiate Athletic Association"
+      },
+      {
+        "codevalue": 136,
+        "valuelabel": "West Coast Conference"
+      },
+      {
+        "codevalue": 163,
+        "valuelabel": "West Virginia Intercollegiate Athletic Conference"
+      },
+      {
+        "codevalue": 137,
+        "valuelabel": "Western Athletic Conference"
+      },
+      {
+        "codevalue": 202,
+        "valuelabel": "Wisconsin Intercollegiate Ath Conference"
+      },
+      {
+        "codevalue": 307,
+        "valuelabel": "Wolverine-Hoosier Athletic Conference"
+      },
+      {
+        "codevalue": 342,
+        "valuelabel": "Other"
+      },
+      {
+        "codevalue": -1,
+        "valuelabel": "Not reported"
+      },
+      {
+        "codevalue": -2,
+        "valuelabel": "Not applicable"
+      }
+    ]
+  },
+  {
+    "collection_fall": 2016,
+    "athletic_ending_year": 2017,
+    "selected_member": "ic2016_rv.csv",
+    "variable": "CONFNO2",
+    "title": "NCAA/NAIA conference number basketball",
+    "codes": [
+      {
+        "codevalue": 214,
+        "valuelabel": "Allegheny Mountain Collegiate Conference"
+      },
+      {
+        "codevalue": 101,
+        "valuelabel": "America East"
+      },
+      {
+        "codevalue": 372,
+        "valuelabel": "American Athletic Conference"
+      },
+      {
+        "codevalue": 306,
+        "valuelabel": "American Mideast Conference"
+      },
+      {
+        "codevalue": 319,
+        "valuelabel": "American Midwest Conference"
+      },
+      {
+        "codevalue": 204,
+        "valuelabel": "American Southwest Conference"
+      },
+      {
+        "codevalue": 316,
+        "valuelabel": "Appalachian Athletic Conference"
+      },
+      {
+        "codevalue": 369,
+        "valuelabel": "Association of Independent Institutions"
+      },
+      {
+        "codevalue": 103,
+        "valuelabel": "Atlantic 10 Conference"
+      },
+      {
+        "codevalue": 102,
+        "valuelabel": "Atlantic Coast Conference"
+      },
+      {
+        "codevalue": 135,
+        "valuelabel": "Atlantic Sun Conference"
+      },
+      {
+        "codevalue": 104,
+        "valuelabel": "Big East Conference"
+      },
+      {
+        "codevalue": 105,
+        "valuelabel": "Big Sky Conference"
+      },
+      {
+        "codevalue": 106,
+        "valuelabel": "Big South Conference"
+      },
+      {
+        "codevalue": 107,
+        "valuelabel": "Big Ten Conference"
+      },
+      {
+        "codevalue": 108,
+        "valuelabel": "Big Twelve Conference"
+      },
+      {
+        "codevalue": 109,
+        "valuelabel": "Big West Conference"
+      },
+      {
+        "codevalue": 138,
+        "valuelabel": "California Collegiate Athletic Assoc"
+      },
+      {
+        "codevalue": 301,
+        "valuelabel": "California Pacific Conference"
+      },
+      {
+        "codevalue": 164,
+        "valuelabel": "Capital Athletic Conference"
+      },
+      {
+        "codevalue": 328,
+        "valuelabel": "Cascade Collegiate Conference"
+      },
+      {
+        "codevalue": 165,
+        "valuelabel": "Centennial Conference"
+      },
+      {
+        "codevalue": 323,
+        "valuelabel": "Central Atlantic Collegiate Conf"
+      },
+      {
+        "codevalue": 140,
+        "valuelabel": "Central Intercollegiate Athletic Assoc"
+      },
+      {
+        "codevalue": 304,
+        "valuelabel": "Chicagoland Collegiate Athletic Conf"
+      },
+      {
+        "codevalue": 166,
+        "valuelabel": "City University of New York Ath Conf"
+      },
+      {
+        "codevalue": 167,
+        "valuelabel": "College Conference of Illinois and Wisc"
+      },
+      {
+        "codevalue": 110,
+        "valuelabel": "Colonial Athletic Association"
+      },
+      {
+        "codevalue": 364,
+        "valuelabel": "Colonial States Athletic Conference"
+      },
+      {
+        "codevalue": 168,
+        "valuelabel": "Commonwealth Coast Conference"
+      },
+      {
+        "codevalue": 207,
+        "valuelabel": "Commonwealth Conference"
+      },
+      {
+        "codevalue": 139,
+        "valuelabel": "Conference Carolinas"
+      },
+      {
+        "codevalue": 111,
+        "valuelabel": "Conference USA"
+      },
+      {
+        "codevalue": 305,
+        "valuelabel": "Crossroads League"
+      },
+      {
+        "codevalue": 141,
+        "valuelabel": "Division II Independents"
+      },
+      {
+        "codevalue": 170,
+        "valuelabel": "Division III Independents"
+      },
+      {
+        "codevalue": 151,
+        "valuelabel": "East Coast Conference"
+      },
+      {
+        "codevalue": 115,
+        "valuelabel": "Eastern College Athletic Conference"
+      },
+      {
+        "codevalue": 172,
+        "valuelabel": "Empire Eight"
+      },
+      {
+        "codevalue": 333,
+        "valuelabel": "Florida Sun Conference"
+      },
+      {
+        "codevalue": 208,
+        "valuelabel": "Freedom Conference"
+      },
+      {
+        "codevalue": 352,
+        "valuelabel": "Frontier Conference"
+      },
+      {
+        "codevalue": 302,
+        "valuelabel": "Golden State Athletic Conference"
+      },
+      {
+        "codevalue": 367,
+        "valuelabel": "Great American Conference"
+      },
+      {
+        "codevalue": 144,
+        "valuelabel": "Great Lakes Intercollegiate Ath Conf"
+      },
+      {
+        "codevalue": 371,
+        "valuelabel": "Great Midwest Athletic Conference"
+      },
+      {
+        "codevalue": 145,
+        "valuelabel": "Great Lakes Valley Conference"
+      },
+      {
+        "codevalue": 174,
+        "valuelabel": "Great Northeast Athletic Conference"
+      },
+      {
+        "codevalue": 213,
+        "valuelabel": "Great Northwest Athletic Conference"
+      },
+      {
+        "codevalue": 311,
+        "valuelabel": "Great Plains Athletic Conference"
+      },
+      {
+        "codevalue": 360,
+        "valuelabel": "Great South Athletic Conference"
+      },
+      {
+        "codevalue": 337,
+        "valuelabel": "Gulf Coast Athletic Conference"
+      },
+      {
+        "codevalue": 146,
+        "valuelabel": "Gulf South Conference"
+      },
+      {
+        "codevalue": 320,
+        "valuelabel": "Heart of America Athletic Conference"
+      },
+      {
+        "codevalue": 175,
+        "valuelabel": "Heartland Collegiate Athletic Conference"
+      },
+      {
+        "codevalue": 209,
+        "valuelabel": "Heartland Conference"
+      },
+      {
+        "codevalue": 122,
+        "valuelabel": "Horizon League"
+      },
+      {
+        "codevalue": 303,
+        "valuelabel": "Independent Far West Region"
+      },
+      {
+        "codevalue": 308,
+        "valuelabel": "Independent Great Lakes Region"
+      },
+      {
+        "codevalue": 318,
+        "valuelabel": "Independent Mid-South Region"
+      },
+      {
+        "codevalue": 322,
+        "valuelabel": "Independent Midwest Region"
+      },
+      {
+        "codevalue": 327,
+        "valuelabel": "Independent Northeast Region"
+      },
+      {
+        "codevalue": 335,
+        "valuelabel": "Independent Southeast Region"
+      },
+      {
+        "codevalue": 176,
+        "valuelabel": "Iowa Intercollegiate Athletic Conf"
+      },
+      {
+        "codevalue": 117,
+        "valuelabel": "Ivy Group"
+      },
+      {
+        "codevalue": 309,
+        "valuelabel": "Kansas Collegiate Athletic Conf"
+      },
+      {
+        "codevalue": 314,
+        "valuelabel": "Kentucky Intercollegiate Ath Conf"
+      },
+      {
+        "codevalue": 361,
+        "valuelabel": "Landmark Conference"
+      },
+      {
+        "codevalue": 178,
+        "valuelabel": "Little East Conference"
+      },
+      {
+        "codevalue": 147,
+        "valuelabel": "Lone Star Conference"
+      },
+      {
+        "codevalue": 179,
+        "valuelabel": "Massachusetts State College Ath Assoc"
+      },
+      {
+        "codevalue": 118,
+        "valuelabel": "Metro Atlantic Athletic Conference"
+      },
+      {
+        "codevalue": 180,
+        "valuelabel": "Michigan Intercollegiate Athletic Assoc"
+      },
+      {
+        "codevalue": 148,
+        "valuelabel": "Mid-America Intercollegiate Ath Assoc"
+      },
+      {
+        "codevalue": 119,
+        "valuelabel": "Mid-American Conference"
+      },
+      {
+        "codevalue": 121,
+        "valuelabel": "Mid-Eastern Athletic Conference"
+      },
+      {
+        "codevalue": 315,
+        "valuelabel": "Mid-South Conference"
+      },
+      {
+        "codevalue": 181,
+        "valuelabel": "Middle Atlantic States Athletic Corporation"
+      },
+      {
+        "codevalue": 310,
+        "valuelabel": "Midlands Collegiate Athletic Conf"
+      },
+      {
+        "codevalue": 182,
+        "valuelabel": "Midwest Conference"
+      },
+      {
+        "codevalue": 183,
+        "valuelabel": "Minnesota Intercollegiate Ath Conf"
+      },
+      {
+        "codevalue": 123,
+        "valuelabel": "Missouri Valley Conference"
+      },
+      {
+        "codevalue": 370,
+        "valuelabel": "Mountain East Conference"
+      },
+      {
+        "codevalue": 203,
+        "valuelabel": "Mountain West Conference"
+      },
+      {
+        "codevalue": 363,
+        "valuelabel": "New England Collegiate Conference"
+      },
+      {
+        "codevalue": 185,
+        "valuelabel": "New England Small College Ath Conf"
+      },
+      {
+        "codevalue": 186,
+        "valuelabel": "New England Women's & Men's Athletic Conference"
+      },
+      {
+        "codevalue": 187,
+        "valuelabel": "New Jersey Athletic Conference"
+      },
+      {
+        "codevalue": 215,
+        "valuelabel": "North Atlantic Conference"
+      },
+      {
+        "codevalue": 189,
+        "valuelabel": "North Coast Athletic Conference"
+      },
+      {
+        "codevalue": 365,
+        "valuelabel": "North Eastern Athletic Conference"
+      },
+      {
+        "codevalue": 373,
+        "valuelabel": "North Star Athletic Association"
+      },
+      {
+        "codevalue": 153,
+        "valuelabel": "Northeast 10 Conference"
+      },
+      {
+        "codevalue": 125,
+        "valuelabel": "Northeast Conference"
+      },
+      {
+        "codevalue": 359,
+        "valuelabel": "Northern Athletics Collegiate Conference"
+      },
+      {
+        "codevalue": 155,
+        "valuelabel": "Northern Sun Intercollegiate Conference"
+      },
+      {
+        "codevalue": 205,
+        "valuelabel": "Northwest Conference"
+      },
+      {
+        "codevalue": 191,
+        "valuelabel": "Ohio Athletic Conference"
+      },
+      {
+        "codevalue": 126,
+        "valuelabel": "Ohio Valley Conference"
+      },
+      {
+        "codevalue": 192,
+        "valuelabel": "Old Dominion Athletic Conference"
+      },
+      {
+        "codevalue": 156,
+        "valuelabel": "Pacific West Conference"
+      },
+      {
+        "codevalue": 127,
+        "valuelabel": "Pacific-12 Conference"
+      },
+      {
+        "codevalue": 128,
+        "valuelabel": "Patriot League"
+      },
+      {
+        "codevalue": 157,
+        "valuelabel": "Peach Belt Conference"
+      },
+      {
+        "codevalue": 193,
+        "valuelabel": "Pennsylvania Athletic Conference"
+      },
+      {
+        "codevalue": 158,
+        "valuelabel": "Pennsylvania State Athletic Conference"
+      },
+      {
+        "codevalue": 194,
+        "valuelabel": "Presidents' Athletic Conference"
+      },
+      {
+        "codevalue": 353,
+        "valuelabel": "Red River Athletic Conference"
+      },
+      {
+        "codevalue": 374,
+        "valuelabel": "River States"
+      },
+      {
+        "codevalue": 159,
+        "valuelabel": "Rocky Mountain Athletic Conference"
+      },
+      {
+        "codevalue": 196,
+        "valuelabel": "Skyline Conference"
+      },
+      {
+        "codevalue": 340,
+        "valuelabel": "Sooner Athletic Conference"
+      },
+      {
+        "codevalue": 160,
+        "valuelabel": "South Atlantic Conference"
+      },
+      {
+        "codevalue": 130,
+        "valuelabel": "Southeastern Conference"
+      },
+      {
+        "codevalue": 368,
+        "valuelabel": "Southern Athletic Association"
+      },
+      {
+        "codevalue": 197,
+        "valuelabel": "Southern California Intercoll Ath Conf"
+      },
+      {
+        "codevalue": 198,
+        "valuelabel": "Southern Collegiate Athletic Conference"
+      },
+      {
+        "codevalue": 131,
+        "valuelabel": "Southern Conference"
+      },
+      {
+        "codevalue": 161,
+        "valuelabel": "Southern Intercollegiate Athletic Conf"
+      },
+      {
+        "codevalue": 334,
+        "valuelabel": "Southern States Athletic Conference"
+      },
+      {
+        "codevalue": 132,
+        "valuelabel": "Southland Conference"
+      },
+      {
+        "codevalue": 133,
+        "valuelabel": "Southwestern Athletic Conference"
+      },
+      {
+        "codevalue": 195,
+        "valuelabel": "St. Louis Intercollegiate Ath Conf"
+      },
+      {
+        "codevalue": 199,
+        "valuelabel": "State University of New York Ath Conf"
+      },
+      {
+        "codevalue": 134,
+        "valuelabel": "Sun Belt Conference"
+      },
+      {
+        "codevalue": 162,
+        "valuelabel": "Sunshine State Conference"
+      },
+      {
+        "codevalue": 120,
+        "valuelabel": "The Summit League"
+      },
+      {
+        "codevalue": 317,
+        "valuelabel": "TranSouth Athletic Conference"
+      },
+      {
+        "codevalue": 171,
+        "valuelabel": "USA South Athletic Conference"
+      },
+      {
+        "codevalue": 200,
+        "valuelabel": "University Athletic Association"
+      },
+      {
+        "codevalue": 354,
+        "valuelabel": "Upper Midwest Athletic Conference"
+      },
+      {
+        "codevalue": 201,
+        "valuelabel": "Upstate Collegiate Athletic Association"
+      },
+      {
+        "codevalue": 136,
+        "valuelabel": "West Coast Conference"
+      },
+      {
+        "codevalue": 163,
+        "valuelabel": "West Virginia Intercollegiate Athletic Conference"
+      },
+      {
+        "codevalue": 137,
+        "valuelabel": "Western Athletic Conference"
+      },
+      {
+        "codevalue": 202,
+        "valuelabel": "Wisconsin Intercollegiate Ath Conference"
+      },
+      {
+        "codevalue": 307,
+        "valuelabel": "Wolverine-Hoosier Athletic Conference"
+      },
+      {
+        "codevalue": 342,
+        "valuelabel": "Other"
+      },
+      {
+        "codevalue": -1,
+        "valuelabel": "Not reported"
+      },
+      {
+        "codevalue": -2,
+        "valuelabel": "Not applicable"
+      }
+    ]
+  },
+  {
+    "collection_fall": 2017,
+    "athletic_ending_year": 2018,
+    "selected_member": "ic2017_rv.csv",
+    "variable": "CONFNO2",
+    "title": "NCAA/NAIA conference number basketball",
+    "codes": [
+      {
+        "codevalue": 214,
+        "valuelabel": "Allegheny Mountain Collegiate Conference"
+      },
+      {
+        "codevalue": 101,
+        "valuelabel": "America East"
+      },
+      {
+        "codevalue": 372,
+        "valuelabel": "American Athletic Conference"
+      },
+      {
+        "codevalue": 306,
+        "valuelabel": "American Mideast Conference"
+      },
+      {
+        "codevalue": 319,
+        "valuelabel": "American Midwest Conference"
+      },
+      {
+        "codevalue": 204,
+        "valuelabel": "American Southwest Conference"
+      },
+      {
+        "codevalue": 316,
+        "valuelabel": "Appalachian Athletic Conference"
+      },
+      {
+        "codevalue": 369,
+        "valuelabel": "Association of Independent Institutions"
+      },
+      {
+        "codevalue": 103,
+        "valuelabel": "Atlantic 10 Conference"
+      },
+      {
+        "codevalue": 102,
+        "valuelabel": "Atlantic Coast Conference"
+      },
+      {
+        "codevalue": 135,
+        "valuelabel": "Atlantic Sun Conference"
+      },
+      {
+        "codevalue": 104,
+        "valuelabel": "Big East Conference"
+      },
+      {
+        "codevalue": 105,
+        "valuelabel": "Big Sky Conference"
+      },
+      {
+        "codevalue": 106,
+        "valuelabel": "Big South Conference"
+      },
+      {
+        "codevalue": 107,
+        "valuelabel": "Big Ten Conference"
+      },
+      {
+        "codevalue": 108,
+        "valuelabel": "Big Twelve Conference"
+      },
+      {
+        "codevalue": 109,
+        "valuelabel": "Big West Conference"
+      },
+      {
+        "codevalue": 138,
+        "valuelabel": "California Collegiate Athletic Association"
+      },
+      {
+        "codevalue": 301,
+        "valuelabel": "California Pacific Conference"
+      },
+      {
+        "codevalue": 164,
+        "valuelabel": "Capital Athletic Conference"
+      },
+      {
+        "codevalue": 328,
+        "valuelabel": "Cascade Collegiate Conference"
+      },
+      {
+        "codevalue": 165,
+        "valuelabel": "Centennial Conference"
+      },
+      {
+        "codevalue": 323,
+        "valuelabel": "Central Atlantic Collegiate Conference"
+      },
+      {
+        "codevalue": 140,
+        "valuelabel": "Central Intercollegiate Athletic Association"
+      },
+      {
+        "codevalue": 304,
+        "valuelabel": "Chicagoland Collegiate Athletic Conference"
+      },
+      {
+        "codevalue": 166,
+        "valuelabel": "City University of New York Athletic Conference"
+      },
+      {
+        "codevalue": 167,
+        "valuelabel": "College Conference of Illinois and Wisconsin"
+      },
+      {
+        "codevalue": 110,
+        "valuelabel": "Colonial Athletic Association"
+      },
+      {
+        "codevalue": 364,
+        "valuelabel": "Colonial States Athletic Conference"
+      },
+      {
+        "codevalue": 168,
+        "valuelabel": "Commonwealth Coast Conference"
+      },
+      {
+        "codevalue": 207,
+        "valuelabel": "Commonwealth Conference"
+      },
+      {
+        "codevalue": 139,
+        "valuelabel": "Conference Carolinas"
+      },
+      {
+        "codevalue": 111,
+        "valuelabel": "Conference USA"
+      },
+      {
+        "codevalue": 305,
+        "valuelabel": "Crossroads League"
+      },
+      {
+        "codevalue": 141,
+        "valuelabel": "Division II Independents"
+      },
+      {
+        "codevalue": 170,
+        "valuelabel": "Division III Independents"
+      },
+      {
+        "codevalue": 151,
+        "valuelabel": "East Coast Conference"
+      },
+      {
+        "codevalue": 115,
+        "valuelabel": "Eastern College Athletic Conference"
+      },
+      {
+        "codevalue": 172,
+        "valuelabel": "Empire Eight"
+      },
+      {
+        "codevalue": 333,
+        "valuelabel": "Florida Sun Conference"
+      },
+      {
+        "codevalue": 208,
+        "valuelabel": "Freedom Conference"
+      },
+      {
+        "codevalue": 352,
+        "valuelabel": "Frontier Conference"
+      },
+      {
+        "codevalue": 302,
+        "valuelabel": "Golden State Athletic Conference"
+      },
+      {
+        "codevalue": 367,
+        "valuelabel": "Great American Conference"
+      },
+      {
+        "codevalue": 144,
+        "valuelabel": "Great Lakes Intercollegiate Athletic Conference"
+      },
+      {
+        "codevalue": 371,
+        "valuelabel": "Great Midwest Athletic Conference"
+      },
+      {
+        "codevalue": 145,
+        "valuelabel": "Great Lakes Valley Conference"
+      },
+      {
+        "codevalue": 174,
+        "valuelabel": "Great Northeast Athletic Conference"
+      },
+      {
+        "codevalue": 213,
+        "valuelabel": "Great Northwest Athletic Conference"
+      },
+      {
+        "codevalue": 311,
+        "valuelabel": "Great Plains Athletic Conference"
+      },
+      {
+        "codevalue": 337,
+        "valuelabel": "Gulf Coast Athletic Conference"
+      },
+      {
+        "codevalue": 146,
+        "valuelabel": "Gulf South Conference"
+      },
+      {
+        "codevalue": 320,
+        "valuelabel": "Heart of America Athletic Conference"
+      },
+      {
+        "codevalue": 175,
+        "valuelabel": "Heartland Collegiate Athletic Conference"
+      },
+      {
+        "codevalue": 209,
+        "valuelabel": "Heartland Conference"
+      },
+      {
+        "codevalue": 122,
+        "valuelabel": "Horizon League"
+      },
+      {
+        "codevalue": 303,
+        "valuelabel": "Independent Far West Region"
+      },
+      {
+        "codevalue": 308,
+        "valuelabel": "Independent Great Lakes Region"
+      },
+      {
+        "codevalue": 318,
+        "valuelabel": "Independent Mid-South Region"
+      },
+      {
+        "codevalue": 322,
+        "valuelabel": "Independent Midwest Region"
+      },
+      {
+        "codevalue": 327,
+        "valuelabel": "Independent Northeast Region"
+      },
+      {
+        "codevalue": 335,
+        "valuelabel": "Independent Southeast Region"
+      },
+      {
+        "codevalue": 176,
+        "valuelabel": "Iowa Intercollegiate Athletic Conf"
+      },
+      {
+        "codevalue": 117,
+        "valuelabel": "Ivy Group"
+      },
+      {
+        "codevalue": 309,
+        "valuelabel": "Kansas Collegiate Athletic Conference"
+      },
+      {
+        "codevalue": 314,
+        "valuelabel": "Kentucky Intercollegiate Athletic Conference"
+      },
+      {
+        "codevalue": 361,
+        "valuelabel": "Landmark Conference"
+      },
+      {
+        "codevalue": 178,
+        "valuelabel": "Little East Conference"
+      },
+      {
+        "codevalue": 147,
+        "valuelabel": "Lone Star Conference"
+      },
+      {
+        "codevalue": 179,
+        "valuelabel": "Massachusetts State College Athletic Association"
+      },
+      {
+        "codevalue": 118,
+        "valuelabel": "Metro Atlantic Athletic Conference"
+      },
+      {
+        "codevalue": 180,
+        "valuelabel": "Michigan Intercollegiate Athletic Association"
+      },
+      {
+        "codevalue": 148,
+        "valuelabel": "Mid-America Intercollegiate Athletic Association"
+      },
+      {
+        "codevalue": 119,
+        "valuelabel": "Mid-American Conference"
+      },
+      {
+        "codevalue": 121,
+        "valuelabel": "Mid-Eastern Athletic Conference"
+      },
+      {
+        "codevalue": 315,
+        "valuelabel": "Mid-South Conference"
+      },
+      {
+        "codevalue": 181,
+        "valuelabel": "Middle Atlantic States Athletic Corporation"
+      },
+      {
+        "codevalue": 310,
+        "valuelabel": "Midlands Collegiate Athletic Conference"
+      },
+      {
+        "codevalue": 182,
+        "valuelabel": "Midwest Conference"
+      },
+      {
+        "codevalue": 183,
+        "valuelabel": "Minnesota Intercollegiate Athletic Conference"
+      },
+      {
+        "codevalue": 123,
+        "valuelabel": "Missouri Valley Conference"
+      },
+      {
+        "codevalue": 370,
+        "valuelabel": "Mountain East Conference"
+      },
+      {
+        "codevalue": 203,
+        "valuelabel": "Mountain West Conference"
+      },
+      {
+        "codevalue": 363,
+        "valuelabel": "New England Collegiate Conference"
+      },
+      {
+        "codevalue": 185,
+        "valuelabel": "New England Small College Athletic Conference"
+      },
+      {
+        "codevalue": 186,
+        "valuelabel": "New England Women's & Men's Athletic Conference"
+      },
+      {
+        "codevalue": 187,
+        "valuelabel": "New Jersey Athletic Conference"
+      },
+      {
+        "codevalue": 215,
+        "valuelabel": "North Atlantic Conference"
+      },
+      {
+        "codevalue": 189,
+        "valuelabel": "North Coast Athletic Conference"
+      },
+      {
+        "codevalue": 365,
+        "valuelabel": "North Eastern Athletic Conference"
+      },
+      {
+        "codevalue": 373,
+        "valuelabel": "North Star Athletic Association"
+      },
+      {
+        "codevalue": 153,
+        "valuelabel": "Northeast 10 Conference"
+      },
+      {
+        "codevalue": 125,
+        "valuelabel": "Northeast Conference"
+      },
+      {
+        "codevalue": 359,
+        "valuelabel": "Northern Athletics Collegiate Conference"
+      },
+      {
+        "codevalue": 155,
+        "valuelabel": "Northern Sun Intercollegiate Conference"
+      },
+      {
+        "codevalue": 205,
+        "valuelabel": "Northwest Conference"
+      },
+      {
+        "codevalue": 191,
+        "valuelabel": "Ohio Athletic Conference"
+      },
+      {
+        "codevalue": 126,
+        "valuelabel": "Ohio Valley Conference"
+      },
+      {
+        "codevalue": 192,
+        "valuelabel": "Old Dominion Athletic Conference"
+      },
+      {
+        "codevalue": 156,
+        "valuelabel": "Pacific West Conference"
+      },
+      {
+        "codevalue": 127,
+        "valuelabel": "Pacific-12 Conference"
+      },
+      {
+        "codevalue": 128,
+        "valuelabel": "Patriot League"
+      },
+      {
+        "codevalue": 157,
+        "valuelabel": "Peach Belt Conference"
+      },
+      {
+        "codevalue": 193,
+        "valuelabel": "Pennsylvania Athletic Conference"
+      },
+      {
+        "codevalue": 158,
+        "valuelabel": "Pennsylvania State Athletic Conference"
+      },
+      {
+        "codevalue": 194,
+        "valuelabel": "Presidents' Athletic Conference"
+      },
+      {
+        "codevalue": 353,
+        "valuelabel": "Red River Athletic Conference"
+      },
+      {
+        "codevalue": 374,
+        "valuelabel": "River States"
+      },
+      {
+        "codevalue": 159,
+        "valuelabel": "Rocky Mountain Athletic Conference"
+      },
+      {
+        "codevalue": 196,
+        "valuelabel": "Skyline Conference"
+      },
+      {
+        "codevalue": 340,
+        "valuelabel": "Sooner Athletic Conference"
+      },
+      {
+        "codevalue": 160,
+        "valuelabel": "South Atlantic Conference"
+      },
+      {
+        "codevalue": 130,
+        "valuelabel": "Southeastern Conference"
+      },
+      {
+        "codevalue": 368,
+        "valuelabel": "Southern Athletic Association"
+      },
+      {
+        "codevalue": 197,
+        "valuelabel": "Southern California Intercollegiate Athletic Conference"
+      },
+      {
+        "codevalue": 198,
+        "valuelabel": "Southern Collegiate Athletic Conference"
+      },
+      {
+        "codevalue": 131,
+        "valuelabel": "Southern Conference"
+      },
+      {
+        "codevalue": 161,
+        "valuelabel": "Southern Intercollegiate Athletic Conference"
+      },
+      {
+        "codevalue": 334,
+        "valuelabel": "Southern States Athletic Conference"
+      },
+      {
+        "codevalue": 132,
+        "valuelabel": "Southland Conference"
+      },
+      {
+        "codevalue": 133,
+        "valuelabel": "Southwestern Athletic Conference"
+      },
+      {
+        "codevalue": 195,
+        "valuelabel": "St. Louis Intercollegiate Athletic Conference"
+      },
+      {
+        "codevalue": 199,
+        "valuelabel": "State University of New York Athletic Conference"
+      },
+      {
+        "codevalue": 134,
+        "valuelabel": "Sun Belt Conference"
+      },
+      {
+        "codevalue": 162,
+        "valuelabel": "Sunshine State Conference"
+      },
+      {
+        "codevalue": 120,
+        "valuelabel": "The Summit League"
+      },
+      {
+        "codevalue": 317,
+        "valuelabel": "TranSouth Athletic Conference"
+      },
+      {
+        "codevalue": 171,
+        "valuelabel": "USA South Athletic Conference"
+      },
+      {
+        "codevalue": 200,
+        "valuelabel": "University Athletic Association"
+      },
+      {
+        "codevalue": 354,
+        "valuelabel": "Upper Midwest Athletic Conference"
+      },
+      {
+        "codevalue": 201,
+        "valuelabel": "Upstate Collegiate Athletic Association"
+      },
+      {
+        "codevalue": 136,
+        "valuelabel": "West Coast Conference"
+      },
+      {
+        "codevalue": 163,
+        "valuelabel": "West Virginia Intercollegiate Athletic Conference"
+      },
+      {
+        "codevalue": 137,
+        "valuelabel": "Western Athletic Conference"
+      },
+      {
+        "codevalue": 202,
+        "valuelabel": "Wisconsin Intercollegiate Ath Conference"
+      },
+      {
+        "codevalue": 307,
+        "valuelabel": "Wolverine-Hoosier Athletic Conference"
+      },
+      {
+        "codevalue": 342,
+        "valuelabel": "Other"
+      },
+      {
+        "codevalue": -1,
+        "valuelabel": "Not reported"
+      },
+      {
+        "codevalue": -2,
+        "valuelabel": "Not applicable"
+      }
+    ]
+  },
+  {
+    "collection_fall": 2018,
+    "athletic_ending_year": 2019,
+    "selected_member": "ic2018_rv.csv",
+    "variable": "CONFNO2",
+    "title": "NCAA/NAIA conference number basketball",
+    "codes": [
+      {
+        "codevalue": 214,
+        "valuelabel": "Allegheny Mountain Collegiate Conference"
+      },
+      {
+        "codevalue": 101,
+        "valuelabel": "America East"
+      },
+      {
+        "codevalue": 372,
+        "valuelabel": "American Athletic Conference"
+      },
+      {
+        "codevalue": 376,
+        "valuelabel": "American Collegiate Athletic Association"
+      },
+      {
+        "codevalue": 319,
+        "valuelabel": "American Midwest Conference"
+      },
+      {
+        "codevalue": 176,
+        "valuelabel": "American Rivers Conference"
+      },
+      {
+        "codevalue": 204,
+        "valuelabel": "American Southwest Conference"
+      },
+      {
+        "codevalue": 316,
+        "valuelabel": "Appalachian Athletic Conference"
+      },
+      {
+        "codevalue": 369,
+        "valuelabel": "Association of Independent Institutions"
+      },
+      {
+        "codevalue": 103,
+        "valuelabel": "Atlantic 10 Conference"
+      },
+      {
+        "codevalue": 102,
+        "valuelabel": "Atlantic Coast Conference"
+      },
+      {
+        "codevalue": 375,
+        "valuelabel": "Atlantic East Conference"
+      },
+      {
+        "codevalue": 135,
+        "valuelabel": "Atlantic Sun Conference"
+      },
+      {
+        "codevalue": 104,
+        "valuelabel": "Big East Conference"
+      },
+      {
+        "codevalue": 105,
+        "valuelabel": "Big Sky Conference"
+      },
+      {
+        "codevalue": 106,
+        "valuelabel": "Big South Conference"
+      },
+      {
+        "codevalue": 107,
+        "valuelabel": "Big Ten Conference"
+      },
+      {
+        "codevalue": 108,
+        "valuelabel": "Big Twelve Conference"
+      },
+      {
+        "codevalue": 109,
+        "valuelabel": "Big West Conference"
+      },
+      {
+        "codevalue": 138,
+        "valuelabel": "California Collegiate Athletic Association"
+      },
+      {
+        "codevalue": 301,
+        "valuelabel": "California Pacific Conference"
+      },
+      {
+        "codevalue": 164,
+        "valuelabel": "Capital Athletic Conference"
+      },
+      {
+        "codevalue": 328,
+        "valuelabel": "Cascade Collegiate Conference"
+      },
+      {
+        "codevalue": 165,
+        "valuelabel": "Centennial Conference"
+      },
+      {
+        "codevalue": 323,
+        "valuelabel": "Central Atlantic Collegiate Conference"
+      },
+      {
+        "codevalue": 140,
+        "valuelabel": "Central Intercollegiate Athletic Association"
+      },
+      {
+        "codevalue": 304,
+        "valuelabel": "Chicagoland Collegiate Athletic Conference"
+      },
+      {
+        "codevalue": 166,
+        "valuelabel": "City University of New York Athletic Conference"
+      },
+      {
+        "codevalue": 167,
+        "valuelabel": "College Conference of Illinois and Wisconsin"
+      },
+      {
+        "codevalue": 110,
+        "valuelabel": "Colonial Athletic Association"
+      },
+      {
+        "codevalue": 364,
+        "valuelabel": "Colonial States Athletic Conference"
+      },
+      {
+        "codevalue": 168,
+        "valuelabel": "Commonwealth Coast Conference"
+      },
+      {
+        "codevalue": 207,
+        "valuelabel": "Commonwealth Conference"
+      },
+      {
+        "codevalue": 139,
+        "valuelabel": "Conference Carolinas"
+      },
+      {
+        "codevalue": 111,
+        "valuelabel": "Conference USA"
+      },
+      {
+        "codevalue": 305,
+        "valuelabel": "Crossroads League"
+      },
+      {
+        "codevalue": 141,
+        "valuelabel": "Division II Independents"
+      },
+      {
+        "codevalue": 170,
+        "valuelabel": "Division III Independents"
+      },
+      {
+        "codevalue": 151,
+        "valuelabel": "East Coast Conference"
+      },
+      {
+        "codevalue": 115,
+        "valuelabel": "Eastern College Athletic Conference"
+      },
+      {
+        "codevalue": 172,
+        "valuelabel": "Empire Eight"
+      },
+      {
+        "codevalue": 333,
+        "valuelabel": "Florida Sun Conference"
+      },
+      {
+        "codevalue": 208,
+        "valuelabel": "Freedom Conference"
+      },
+      {
+        "codevalue": 352,
+        "valuelabel": "Frontier Conference"
+      },
+      {
+        "codevalue": 302,
+        "valuelabel": "Golden State Athletic Conference"
+      },
+      {
+        "codevalue": 367,
+        "valuelabel": "Great American Conference"
+      },
+      {
+        "codevalue": 144,
+        "valuelabel": "Great Lakes Intercollegiate Athletic Conference"
+      },
+      {
+        "codevalue": 371,
+        "valuelabel": "Great Midwest Athletic Conference"
+      },
+      {
+        "codevalue": 145,
+        "valuelabel": "Great Lakes Valley Conference"
+      },
+      {
+        "codevalue": 174,
+        "valuelabel": "Great Northeast Athletic Conference"
+      },
+      {
+        "codevalue": 213,
+        "valuelabel": "Great Northwest Athletic Conference"
+      },
+      {
+        "codevalue": 311,
+        "valuelabel": "Great Plains Athletic Conference"
+      },
+      {
+        "codevalue": 337,
+        "valuelabel": "Gulf Coast Athletic Conference"
+      },
+      {
+        "codevalue": 146,
+        "valuelabel": "Gulf South Conference"
+      },
+      {
+        "codevalue": 320,
+        "valuelabel": "Heart of America Athletic Conference"
+      },
+      {
+        "codevalue": 175,
+        "valuelabel": "Heartland Collegiate Athletic Conference"
+      },
+      {
+        "codevalue": 209,
+        "valuelabel": "Heartland Conference"
+      },
+      {
+        "codevalue": 122,
+        "valuelabel": "Horizon League"
+      },
+      {
+        "codevalue": 318,
+        "valuelabel": "Independent Mid-South Region"
+      },
+      {
+        "codevalue": 322,
+        "valuelabel": "Independent Midwest Region"
+      },
+      {
+        "codevalue": 327,
+        "valuelabel": "Independent Northeast Region"
+      },
+      {
+        "codevalue": 335,
+        "valuelabel": "Independent Southeast Region"
+      },
+      {
+        "codevalue": 117,
+        "valuelabel": "Ivy Group"
+      },
+      {
+        "codevalue": 309,
+        "valuelabel": "Kansas Collegiate Athletic Conference"
+      },
+      {
+        "codevalue": 361,
+        "valuelabel": "Landmark Conference"
+      },
+      {
+        "codevalue": 178,
+        "valuelabel": "Little East Conference"
+      },
+      {
+        "codevalue": 147,
+        "valuelabel": "Lone Star Conference"
+      },
+      {
+        "codevalue": 179,
+        "valuelabel": "Massachusetts State College Athletic Association"
+      },
+      {
+        "codevalue": 118,
+        "valuelabel": "Metro Atlantic Athletic Conference"
+      },
+      {
+        "codevalue": 180,
+        "valuelabel": "Michigan Intercollegiate Athletic Association"
+      },
+      {
+        "codevalue": 148,
+        "valuelabel": "Mid-America Intercollegiate Athletic Association"
+      },
+      {
+        "codevalue": 119,
+        "valuelabel": "Mid-American Conference"
+      },
+      {
+        "codevalue": 121,
+        "valuelabel": "Mid-Eastern Athletic Conference"
+      },
+      {
+        "codevalue": 315,
+        "valuelabel": "Mid-South Conference"
+      },
+      {
+        "codevalue": 181,
+        "valuelabel": "Middle Atlantic States Athletic Corporation"
+      },
+      {
+        "codevalue": 182,
+        "valuelabel": "Midwest Conference"
+      },
+      {
+        "codevalue": 183,
+        "valuelabel": "Minnesota Intercollegiate Athletic Conference"
+      },
+      {
+        "codevalue": 123,
+        "valuelabel": "Missouri Valley Conference"
+      },
+      {
+        "codevalue": 370,
+        "valuelabel": "Mountain East Conference"
+      },
+      {
+        "codevalue": 203,
+        "valuelabel": "Mountain West Conference"
+      },
+      {
+        "codevalue": 363,
+        "valuelabel": "New England Collegiate Conference"
+      },
+      {
+        "codevalue": 185,
+        "valuelabel": "New England Small College Athletic Conference"
+      },
+      {
+        "codevalue": 186,
+        "valuelabel": "New England Women's & Men's Athletic Conference"
+      },
+      {
+        "codevalue": 187,
+        "valuelabel": "New Jersey Athletic Conference"
+      },
+      {
+        "codevalue": 215,
+        "valuelabel": "North Atlantic Conference"
+      },
+      {
+        "codevalue": 189,
+        "valuelabel": "North Coast Athletic Conference"
+      },
+      {
+        "codevalue": 365,
+        "valuelabel": "North Eastern Athletic Conference"
+      },
+      {
+        "codevalue": 373,
+        "valuelabel": "North Star Athletic Association"
+      },
+      {
+        "codevalue": 153,
+        "valuelabel": "Northeast 10 Conference"
+      },
+      {
+        "codevalue": 125,
+        "valuelabel": "Northeast Conference"
+      },
+      {
+        "codevalue": 359,
+        "valuelabel": "Northern Athletics Collegiate Conference"
+      },
+      {
+        "codevalue": 155,
+        "valuelabel": "Northern Sun Intercollegiate Conference"
+      },
+      {
+        "codevalue": 205,
+        "valuelabel": "Northwest Conference"
+      },
+      {
+        "codevalue": 191,
+        "valuelabel": "Ohio Athletic Conference"
+      },
+      {
+        "codevalue": 126,
+        "valuelabel": "Ohio Valley Conference"
+      },
+      {
+        "codevalue": 192,
+        "valuelabel": "Old Dominion Athletic Conference"
+      },
+      {
+        "codevalue": 156,
+        "valuelabel": "Pacific West Conference"
+      },
+      {
+        "codevalue": 127,
+        "valuelabel": "Pacific-12 Conference"
+      },
+      {
+        "codevalue": 128,
+        "valuelabel": "Patriot League"
+      },
+      {
+        "codevalue": 157,
+        "valuelabel": "Peach Belt Conference"
+      },
+      {
+        "codevalue": 193,
+        "valuelabel": "Pennsylvania Athletic Conference"
+      },
+      {
+        "codevalue": 158,
+        "valuelabel": "Pennsylvania State Athletic Conference"
+      },
+      {
+        "codevalue": 194,
+        "valuelabel": "Presidents' Athletic Conference"
+      },
+      {
+        "codevalue": 353,
+        "valuelabel": "Red River Athletic Conference"
+      },
+      {
+        "codevalue": 374,
+        "valuelabel": "River States"
+      },
+      {
+        "codevalue": 159,
+        "valuelabel": "Rocky Mountain Athletic Conference"
+      },
+      {
+        "codevalue": 196,
+        "valuelabel": "Skyline Conference"
+      },
+      {
+        "codevalue": 340,
+        "valuelabel": "Sooner Athletic Conference"
+      },
+      {
+        "codevalue": 160,
+        "valuelabel": "South Atlantic Conference"
+      },
+      {
+        "codevalue": 130,
+        "valuelabel": "Southeastern Conference"
+      },
+      {
+        "codevalue": 368,
+        "valuelabel": "Southern Athletic Association"
+      },
+      {
+        "codevalue": 197,
+        "valuelabel": "Southern California Intercollegiate Athletic Conference"
+      },
+      {
+        "codevalue": 198,
+        "valuelabel": "Southern Collegiate Athletic Conference"
+      },
+      {
+        "codevalue": 131,
+        "valuelabel": "Southern Conference"
+      },
+      {
+        "codevalue": 161,
+        "valuelabel": "Southern Intercollegiate Athletic Conference"
+      },
+      {
+        "codevalue": 334,
+        "valuelabel": "Southern States Athletic Conference"
+      },
+      {
+        "codevalue": 132,
+        "valuelabel": "Southland Conference"
+      },
+      {
+        "codevalue": 133,
+        "valuelabel": "Southwestern Athletic Conference"
+      },
+      {
+        "codevalue": 195,
+        "valuelabel": "St. Louis Intercollegiate Athletic Conference"
+      },
+      {
+        "codevalue": 199,
+        "valuelabel": "State University of New York Athletic Conference"
+      },
+      {
+        "codevalue": 134,
+        "valuelabel": "Sun Belt Conference"
+      },
+      {
+        "codevalue": 162,
+        "valuelabel": "Sunshine State Conference"
+      },
+      {
+        "codevalue": 120,
+        "valuelabel": "The Summit League"
+      },
+      {
+        "codevalue": 317,
+        "valuelabel": "TranSouth Athletic Conference"
+      },
+      {
+        "codevalue": 171,
+        "valuelabel": "USA South Athletic Conference"
+      },
+      {
+        "codevalue": 200,
+        "valuelabel": "University Athletic Association"
+      },
+      {
+        "codevalue": 354,
+        "valuelabel": "Upper Midwest Athletic Conference"
+      },
+      {
+        "codevalue": 201,
+        "valuelabel": "Upstate Collegiate Athletic Association"
+      },
+      {
+        "codevalue": 136,
+        "valuelabel": "West Coast Conference"
+      },
+      {
+        "codevalue": 163,
+        "valuelabel": "West Virginia Intercollegiate Athletic Conference"
+      },
+      {
+        "codevalue": 137,
+        "valuelabel": "Western Athletic Conference"
+      },
+      {
+        "codevalue": 202,
+        "valuelabel": "Wisconsin Intercollegiate Ath Conference"
+      },
+      {
+        "codevalue": 307,
+        "valuelabel": "Wolverine-Hoosier Athletic Conference"
+      },
+      {
+        "codevalue": 342,
+        "valuelabel": "Other"
+      },
+      {
+        "codevalue": -1,
+        "valuelabel": "Not reported"
+      },
+      {
+        "codevalue": -2,
+        "valuelabel": "Not applicable"
+      }
+    ]
+  }
+]

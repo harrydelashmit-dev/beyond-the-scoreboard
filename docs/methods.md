@@ -1,5 +1,7 @@
 # Research design and interpretation
 
+This file documents the **earlier EADA-only starter**. The preferred three-part Knight/ESPN analysis, its additional calendar/ID audits, hypotheses, sensitivities and financial qualifications are in [expanded_methods.md](expanded_methods.md) and [FEASIBILITY_REPORT.md](../FEASIBILITY_REPORT.md). The separate source populations and definitions must not be conflated.
+
 ## Population and calendar
 
 Start with institutions classified as NCAA Division I in each annual EADA file (codes 1, 2, 3). Restrict primary models to public institutions using the contemporaneous IPEDS `CONTROL=1`. Preserve private DI institutions in the clean data for audit and possible extensions. Schools absent from the Cup table remain missing; they are not assigned zero points. This conditions primary results on observed Cup scorers and can introduce selection bias. Crosswalk coverage and exclusions must accompany findings.
@@ -32,16 +34,16 @@ Sport-specific Cup points measure postseason/poll/bowl success, not regular-seas
 
 EADA `GRND_TOTAL_REVENUE` is reported athletics revenue, which can include allocated support. It is not a validated measure of externally generated revenue. Reported balance is only an accounting description, not athletics profit or university ROI. A secondary reported-revenue model does not validate the generated-revenue link.
 
-Preferred direct balance with Knight-Newhouse:
+Legacy residual arithmetic with mapped Knight-Newhouse fields:
 
 `generated revenue = total revenue − institutional/government support − student fees`
 
 `direct balance = generated revenue − total athletic expenses`
 
-Support and fee fields must be separate and non-overlapping. Reconcile definitions and fiscal-year ends before interpreting differences with EADA. Do not splice sources into one time series or treat their disagreement as an error automatically.
+Support and fee fields must be separate and non-overlapping. For the actual registered export, total revenues already net transfers and expenses can include excess transfers. Thus the expanded study calls the residual a **net nonallocated-revenue proxy** and does not interpret the legacy `direct_balance` expression as cash profit or university ROI. Do not splice missing observations from EADA or automatically treat source disagreements as errors.
 
 For a hypothetical incremental program, annual net contribution is incremental generated athletics revenue plus additional enrolled students times (net collected tuition minus variable service cost), minus incremental athletics cost. Applications are not students. Sticker tuition is not net collected tuition. Existing athletics donations cannot be counted twice; future enrollment attributable to athletics is not identified by this study. Capacity, aid, crowd-out, capital costs, financing, persistence, discount rates and opportunity costs would be needed for a full net-present-value analysis. Scenarios are break-even arithmetic, not empirical causal ROI estimates.
 
 ## Scope boundary
 
-The previous chat's football/FPI correlations and ticket-revenue estimate were not supplied as reproducible raw pilot files in this task. They are prior conversational claims, not results of this repository and are not repeated as validated findings. Directors' Cup/IPEDS links are independently estimated here. The 2022–2025 pandemic/NIL/realignment period is deferred until the historical design and definition consistency are reviewed.
+The earlier 52-school football pilot's original data/specification were not supplied. The expanded analysis independently estimates the relationships on a broader identified sample and reports different numbers, without claiming an exact replication. The 2022–2025 pandemic/NIL/realignment extension remains deferred.
