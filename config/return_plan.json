@@ -1,0 +1,32 @@
+{
+  "recorded_before_extension_estimation": "2026-11-10 America/Chicago",
+  "prior_evidence_known": "The completed 18-primary-test feasibility study and its secondary results were known. This is a new exploratory extension, not an independent preregistered confirmation.",
+  "question": "How much additional nonallocated athletics revenue accompanies additional spending; which programs benefit; does success reduce support; do smaller programs benefit more from statistical outperformance?",
+  "primary_families": {
+    "cost_recovery": {"tests": 2, "null": "Revenue slope equals one dollar per additional spending dollar", "models": ["Annual real-dollar changes", "Three-year cumulative real-dollar changes relative to the preceding annual budget"]},
+    "school_types": {"tests": 3, "null": "Difference in annual cost-recovery slopes equals zero", "groups": ["Lower 2010-2012 athletics budget versus larger budget across the DI panel", "At least 50% of baseline expenses financed by institutional/government support plus student fees", "2014 Power Five versus other FBS, evaluated 2015-2019; independents excluded"]},
+    "self_support": {"tests": 6, "null": "Success coefficient equals zero", "models": "Each of Cup/100, FPI/10 and Sweet16 predicts next-year actual allocated support dollars and support as percentage of expenses; school and conference-year effects; prior log enrollment"},
+    "small_school_breakthrough": {"tests": 3, "null": "Outperformance slope difference between smaller-budget and larger-budget FBS programs equals zero", "outcomes": ["Next-year log revenue after allocated support (proxy)", "Following-fall log applications", "Following-fall log first-time enrollment"]}
+  },
+  "calendar": "Financial year t; FPI season t-1; football demand fall t; all next-year money is fiscal t+1. No outcomes beyond 2019.",
+  "money": "CPI-U annual average, 2019 dollars; calendar-year deflator is an approximation for fiscal reporting. Neither total revenues inclusive of support nor EADA balancing revenue is treated as externally generated income.",
+  "annual_recovery": "Change in revenue proxy R_t-R_(t-1) regressed on E_t-E_(t-1), change in log enrollment, conference-year indicators, school-clustered t inference. Includes observed decreases and zero changes. Dollar coefficient is tested against 1, not merely against 0.",
+  "cumulative_recovery": "For anchor t, sum of real R for t,t+1,t+2 minus 3*R_(t-1), on the same expression for E, plus log enrollment(t+2)-log enrollment(t-1), conference-year indicators, school clusters. All four consecutive years required; overlapping windows are not independent. This is budget-flow co-movement, not return on a one-time causal investment.",
+  "baseline": "Require all three 2010-2012 observations. Freeze groups before outcomes from 2013 onward. Budget medians separately defined for all eligible DI and for FBS. Smaller refers to athletics budget; enrollment size is a distinct secondary comparison. High-support threshold is 50% of expenses. Power comparison uses 2014 membership, outcomes from 2015.",
+  "outperformance": "Existing expanding-window AR(1) FPI residual using prior seasons only, per 10 points; add prior FPI and prior log enrollment as controls. FPI historical series obtained now may be revised. Residual is statistical outperformance, not measured fan expectations or a causal shock.",
+  "inference": "14 primary null tests; Holm within 2/3/6/3 families and across all 14; pointwise 95% school-clustered t intervals. Group-specific slopes are linear contrasts; differences require direct interaction tests. Report event/support counts and all non-estimable specifications.",
+  "secondary_checks": [
+    "School/year and school/conference-year level-dollar models; annual changes with school effects; common samples",
+    "Three-year recovery discounted at a fixed 3% real rate; nominal-dollar sensitivity",
+    "Joint current/prior spending changes; exact shared samples for revenue/support/balance identities",
+    "Fixed 1%/99% change-tail exclusion (flag and disclose), balanced source reporting, exclude 2015-2017",
+    "Actual student fees per enrolled student, gap proxy, expenses and revenue following success",
+    "Lower historical prominence, lower baseline enrollment and non-Power FBS breakthrough interactions",
+    "AP preseason-unranked/final-top20 event definition; counts of events and programs",
+    "Descriptive real expense-growth versus revenue-growth quadrants, ratios of sums (never averages of unstable individual ratios), matched endpoint accounting bridges",
+    "One additional descriptive risk comparison: cross-program variability of annual revenue growth by baseline support dependence; exploratory, no causal insurance interpretation",
+    "Leave-one-school-out slope influence for primary recovery and breakthrough interaction models"
+  ],
+  "restriction": "All individual Knight amounts, school-level classifications based on those amounts and exact regression samples stay in ignored data/private. Publish only aggregate outputs. No invented source observations, causal ROI claims, or significance-based stopping.",
+  "extra_years_decision": "First establish whether the existing panel answers these comparisons. Earlier pre-NIL years can extend history and lags; extra years cannot identify causal returns. Post-2020 data would be analyzed separately because COVID/NIL/reporting changes create different regimes. More report fields (media rights, transfers, operating/capital distinctions) may matter more than simply more years."
+}
