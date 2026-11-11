@@ -1,0 +1,16 @@
+{
+  "recorded_before_local_estimation": true,
+  "date": "2026-11-11",
+  "purpose": "Python replication of the public Anderson football study, separate from our 2010–2019 spending panel",
+  "dataset_doi": "10.7910/DVN/ASXOBS",
+  "dataset_version": "1.1",
+  "source": "Anderson author manuscript dated January 21, 2016, published in Review of Economics and Statistics 99(1), 2017, Table 3",
+  "source_code": "generate tables.do: preparation lines 1–250, main_results, Table 3 call",
+  "language": "Python only; read Stata code as method documentation, never execute it",
+  "primary": "All ten Table 3 outcomes, IV matching differences and sequential treatment effect (STE), original all-school sample and original trimming rule",
+  "outcomes": ["alumni_ops_athletics", "alum_non_athl_ops", "alumni_total_giving", "vse_alum_giving_rate", "usnews_academic_rep_new", "applicants", "acceptance_rate", "firsttime_outofstate", "first_time_instate", "sat_25"],
+  "preprocessing": "Use the archived author-prepared college and original game DTA files. Translate documented reporting-date shifts and calendar lags, polynomial propensity models, weekly overlap bins, first-stage correction, year-residualized two-year outcome differences, school-clustered inference and 90th percentile season weight trimming.",
+  "comparison": "Compare every coefficient, standard error and N with Table 3; expose disagreements rather than calibrating output. Paper sharp-null p and all-table FDR q are published benchmarks, not our own ordinary coefficient p-values.",
+  "secondary": "Holm correction within the ten outcomes for each reproduced estimator; clearly separate this from the paper's all-table FDR. Report all outcomes, including null estimates.",
+  "limits": "A replication using the author's analytic datasets, not an independent reconstruction of all underlying surveys. No claim to reproduce the paper's complete placebo, sensitivity, randomization or FDR pipeline. No test here identifies return on an extra dollar of spending. No automatic pooling with our later-period panel."
+}
