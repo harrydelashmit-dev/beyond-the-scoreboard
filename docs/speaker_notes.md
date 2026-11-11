@@ -5,19 +5,19 @@
 ## Slide 1: Beyond the Scoreboard
 EVAN WEST
 SLIDE 1 OF 12 | 0:00–1:15 | 75 seconds
-ROLE: Opening and research question
+ROLE: Winning, spending and the research question
 
 0:00–1:15 · Evan West
 
 Display: Title, 94%, and “Division I athletics programs that spent more than they generated through athletics, 2023–2024.” Put the source/year in a footer.
 
-Opening: “In 2023–2024, 94% of Division I athletics programs spent more than they generated through athletics. Universities help cover that gap. So why continue investing? One argument is that successful sports attract students and bring in more money. We wanted to test how much of that financial argument the data support.”
+Opening: “In 2023–2024, 94% of Division I athletics programs spent more than they generated through athletics. Yet a winning season can attract attention and bring people together. We asked two different questions: what benefits accompany winning, and does additional spending generate enough revenue to cover its cost?”
 
 Clarify that this covers the whole athletics department, all sports, not football alone. A gap before support differs from an accounting deficit after that support. This hook is external context, not our own historical-panel result.
 
 Source: U.S. GAO, 2026 (https://www.gao.gov/products/gao-26-108640). Its 2023–2024 statistic comes from a different period than our 2010–2019 analysis.
 
-Transition: “The decision is whether the benefits justify the financial commitment.”
+Transition: “A winning program can have value even when athletics requires continuing university support. Those are different parts of the decision.”
 
 KEY SOURCES
 Knight-Newhouse financial methodology: https://knightnewhousedata.org/about-the-data
@@ -29,29 +29,30 @@ GAO context: https://www.gao.gov/products/gao-26-108640
 Pope and Pope (2009): https://devingpope.com/assets/files/Website_SEJ%20Sports.pdf
 McFarland, Groothuis and Guignet (2024): https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12642
 Anderson replication archive: https://doi.org/10.7910/DVN/ASXOBS; author manuscript: https://anderson.are.berkeley.edu/pdf/Anderson%202017.pdf
-Our new Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Optional paired literature chart: results/figures/anderson_replication.png (not in the previously saved presentation).
+Our Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Main slide 5: results/presentation_charts/05_winning_donations.png.
+Synthesis and framing: PROJECT_REPORT.md. Potential qualitative benefits were not directly measured or valued.
 Our results and exact model IDs: FEASIBILITY_REPORT.md, CFO_RETURN_REPORT.md, results/feasibility_models.csv and results/return_models.csv.
 Repository: https://github.com/harrydelashmit-dev/beyond-the-scoreboard
 
 
-## Slide 2: What would make athletics a worthwhile investment?
+## Slide 2: Winning can have several kinds of value
 EVAN WEST
 SLIDE 2 OF 12 | 1:15–2:30 | 75 seconds
-ROLE: Opening and research question
+ROLE: Winning, spending and the research question
 
 1:15–2:30 · Evan West
 
-Display: “When athletics spending grows, do the financial benefits keep up?”
+Display: “Winning can have several kinds of value.”
 
-Three potential benefits:
+Separate three categories:
 
-- More ticket receipts and other athletics revenue.
-- More applications and enrolled students.
-- Less need for institutional support and student fees.
+- Visibility, pride, reputation and engagement: plausible benefits, not directly measured here.
+- Athletics receipts: ticket revenue and alumni donations have quantitative evidence, with qualifications.
+- University-wide finances: recruitment and net tuition benefits remain uncertain; full financial return is unestablished.
 
-Explain: A department can bring in more money and still need substantial funding. Extra applications do not automatically become more students or tuition income. Campus culture, participation and educational benefits can matter, but we did not assign invented dollar values to them.
+Explain: A department can bring in more money and still need substantial funding. Extra applications do not automatically become more enrolled students or net tuition income. We did not assign invented dollar values to campus benefits. Lack of measurement does not prove they are absent; it also does not establish that they offset costs.
 
-Transition: “We separated that argument into connections we could actually test.”
+Transition: “The key is to distinguish the rewards of winning from what an extra spending dollar accomplishes.”
 
 KEY SOURCES
 Knight-Newhouse financial methodology: https://knightnewhousedata.org/about-the-data
@@ -63,25 +64,28 @@ GAO context: https://www.gao.gov/products/gao-26-108640
 Pope and Pope (2009): https://devingpope.com/assets/files/Website_SEJ%20Sports.pdf
 McFarland, Groothuis and Guignet (2024): https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12642
 Anderson replication archive: https://doi.org/10.7910/DVN/ASXOBS; author manuscript: https://anderson.are.berkeley.edu/pdf/Anderson%202017.pdf
-Our new Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Optional paired literature chart: results/figures/anderson_replication.png (not in the previously saved presentation).
+Our Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Main slide 5: results/presentation_charts/05_winning_donations.png.
+Synthesis and framing: PROJECT_REPORT.md. Potential qualitative benefits were not directly measured or valued.
 Our results and exact model IDs: FEASIBILITY_REPORT.md, CFO_RETURN_REPORT.md, results/feasibility_models.csv and results/return_models.csv.
 Repository: https://github.com/harrydelashmit-dev/beyond-the-scoreboard
 
 
-## Slide 3: We tested each connection separately
+## Slide 3: Winning benefits and spending returns are different questions
 EVAN WEST
 SLIDE 3 OF 12 | 2:30–4:00 | 90 seconds
-ROLE: Opening and research question
+ROLE: Winning, spending and the research question
 
 2:30–4:00 · Evan West
 
-Display: More spending → Better results → More revenue / student demand → Worthwhile financial return.
+Display: Three separate questions: “Does spending predict success?” “Does success predict receipts or student demand?” “Does revenue growth cover spending growth?”
 
-Label the arrows “proposed connections to investigate.” Simple text or dashed arrows are enough.
+The proposed spending → success → benefits → return pathway is a hypothesis, not a demonstrated causal chain.
 
-- We compared overall athletics success with visible football and basketball success.
-- Initial spending-to-success results were uncertain after our statistical checks.
-- A benefit at one stage does not guarantee the next: higher tickets do not automatically cover additional expenses.
+- Our adjusted spending-to-success results remain uncertain.
+- A win can bring benefits without proving a university can reliably buy additional wins.
+- Higher receipts do not automatically cover the full added cost or establish university-wide profit.
+
+Optional analogy: More customers entering a store does not establish that a costly renovation paid for itself. Likewise, the benefits accompanying wins and the payoff from a larger athletics budget require separate evidence.
 
 Handoff: “To test those connections fairly, we first needed to make sure the schools and years actually lined up.”
 
@@ -95,19 +99,22 @@ GAO context: https://www.gao.gov/products/gao-26-108640
 Pope and Pope (2009): https://devingpope.com/assets/files/Website_SEJ%20Sports.pdf
 McFarland, Groothuis and Guignet (2024): https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12642
 Anderson replication archive: https://doi.org/10.7910/DVN/ASXOBS; author manuscript: https://anderson.are.berkeley.edu/pdf/Anderson%202017.pdf
-Our new Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Optional paired literature chart: results/figures/anderson_replication.png (not in the previously saved presentation).
+Our Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Main slide 5: results/presentation_charts/05_winning_donations.png.
+Synthesis and framing: PROJECT_REPORT.md. Potential qualitative benefits were not directly measured or valued.
 Our results and exact model IDs: FEASIBILITY_REPORT.md, CFO_RETURN_REPORT.md, results/feasibility_models.csv and results/return_models.csv.
 Repository: https://github.com/harrydelashmit-dev/beyond-the-scoreboard
 
 
-## Slide 4: We followed public universities over time
+## Slide 4: Two historical sources of evidence
 LUIS RAMOS
 SLIDE 4 OF 12 | 4:00–6:00 | 120 seconds
-ROLE: Data and recruitment evidence
+ROLE: Data, donations and recruitment evidence
 
 4:00–6:00 · Luis Ramos
 
 Display: 2010–2019, before COVID and the later NIL era. List sources by purpose: Knight-Newhouse/EADA for money; Directors’ Cup/ESPN/tournament results for success; IPEDS for students; BLS for inflation.
+
+Show Anderson’s public replication archive as a separate earlier historical study, covering public and private institutions. Our Python translation reproduces all ten Table 3 STE point estimates, standard errors and sample sizes at published precision. The other IV matching translation is close but incomplete. This is replication from author-prepared files; the raw underlying imports have not been independently reconstructed.
 
 Explain: “Comparing an established large program with a small program can tell us more about their size than about what an extra dollar accomplishes. We examined changes within universities over time and accounted for common conference and year changes.”
 
@@ -115,7 +122,7 @@ The export lists 240 institutions and 2,400 school-years. Samples differ by anal
 
 Mention that school IDs, reporting years, missing observations and original financial values were checked. Financial and football-season labels can differ. Dollar comparisons account for inflation.
 
-Transition: “We started with the benefit people often talk about: recruiting more students.”
+Transition: “The historical replication lets us compare a direct athletics benefit—donations—with the broader recruitment argument.”
 
 KEY SOURCES
 Knight-Newhouse financial methodology: https://knightnewhousedata.org/about-the-data
@@ -127,37 +134,36 @@ GAO context: https://www.gao.gov/products/gao-26-108640
 Pope and Pope (2009): https://devingpope.com/assets/files/Website_SEJ%20Sports.pdf
 McFarland, Groothuis and Guignet (2024): https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12642
 Anderson replication archive: https://doi.org/10.7910/DVN/ASXOBS; author manuscript: https://anderson.are.berkeley.edu/pdf/Anderson%202017.pdf
-Our new Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Optional paired literature chart: results/figures/anderson_replication.png (not in the previously saved presentation).
+Our Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Main slide 5: results/presentation_charts/05_winning_donations.png.
+Synthesis and framing: PROJECT_REPORT.md. Potential qualitative benefits were not directly measured or valued.
 Our results and exact model IDs: FEASIBILITY_REPORT.md, CFO_RETURN_REPORT.md, results/feasibility_models.csv and results/return_models.csv.
 Repository: https://github.com/harrydelashmit-dev/beyond-the-scoreboard
 
 
-## Slide 5: Applications and the Flutie Effect
+## Slide 5: Football wins, donations and recruitment
 LUIS RAMOS
 SLIDE 5 OF 12 | 6:00–8:00 | 120 seconds
-ROLE: Data and recruitment evidence
+ROLE: Data, donations and recruitment evidence
 
 6:00–8:00 · Luis Ramos
 
-Chart: Applications after athletic success (../results/presentation_charts/05_applications.png).
+Chart: Football wins, donations and applications (../results/presentation_charts/05_winning_donations.png).
 
-Say: “Our main tests did not establish a consistent increase in applications or first-time enrollment following athletic success.”
+Say: “In the historical method we reproduced, one additional football win predicts more alumni donations to athletics. The applications estimate is much less certain. This provides evidence of a benefit from winning, without proving that a larger athletics budget pays for itself.”
 
-- Each dot is an estimate; the line shows uncertainty.
-- The vertical zero line means no estimated change.
-- All three application ranges include zero, leaving the relationship uncertain under these models.
+- Athletic alumni operating donations: approximately +$191,000 per additional win, 95% interval +$62,000 to +$320,000, 616 school-years / 94 schools; source-period dollars.
+- Applications: approximately +81, with interval −39 to +201, 528 school-years / 111 schools. The range includes no increase.
+- Dots are estimates; lines are unadjusted 95% ranges. The donation result passes correction across ten STE outcomes (p=0.041), but not a broader twenty-test correction (p=0.074). Avoid presenting it as conclusive.
 
-Define Directors’ Cup as broad athletic performance, FPI as football strength, and Sweet Sixteen as a visible basketball achievement. Different success units mean the dots do not rank each sport’s effectiveness per dollar.
+Spend about 65 seconds on the paired chart, 25 seconds on statistical limitations, and 30 seconds connecting it to our later-period study. Dollars and applications have separate axes. This is the reproduced STE method; Claude’s roughly $136,400-per-win figure comes from the paper’s different IV estimator. Our IV translation has unresolved numerical discrepancies, so do not present that figure as our exact replication.
 
-Literature context: Published studies find recruitment benefits under certain conditions. Pope and Pope (2009) (https://devingpope.com/assets/files/Website_SEJ%20Sports.pdf) report gains following high-profile football and basketball success, with institution-type differences. Our public-school sample and period differ; we have not disproved the Flutie Effect.
+Connection to our study: None of our six primary application/enrollment tests clears its related-test adjustment. Some annual-change basketball models are positive but specification-sensitive. Keep the original three-measure applications chart (../results/presentation_charts/05_applications.png) and complete enrollment results in backup. This does not disprove the Flutie Effect or establish that all university-wide benefits are zero.
 
-New replication context (optional 20-second addition): We downloaded Anderson’s public research archive and reproduced all ten estimates, standard errors and sample sizes from his Table 3 STE method in Python. That method estimates roughly $191,000 more in athletic alumni gifts per additional football win, while applications remain uncertain (+81; 95% interval −39 to +201). The donation result clears a ten-outcome adjustment but not a conservative twenty-test adjustment. The separate IV matching translation remains partial. Full replication and chart (../ANDERSON_REPLICATION_REPORT.md). This earlier study estimates benefits from wins; it does not estimate returns to spending.
+Literature context: Published research supports recruitment effects under some conditions; samples, periods and methods differ. Anderson verification and full results (../ANDERSON_REPLICATION_REPORT.md) and Pope and Pope (2009) (https://devingpope.com/assets/files/Website_SEJ%20Sports.pdf) provide context. We do not claim the literature has rejected the Flutie Effect.
 
-If this addition is used, shorten the preceding literature sentence to preserve the two-minute slot. The paired replication chart (../results/figures/anderson_replication.png) is an optional literature backup; it has not been inserted into the previously saved presentation. Do not combine its historical donations with our later-period ticket estimate.
+Accounting qualification: These are alumni gifts for athletic operations, not unrestricted university income. Do not add them to our later-period ticket estimate: the samples, years, models and units differ, and revenue categories may overlap.
 
-Qualification: Some annual-change basketball models show a positive applications association, but results depend on the specification. None of the six primary application/enrollment tests clears the related-test adjustment. Keep the complete enrollment figure in backup.
-
-Handoff: “Recruitment benefits were uncertain. The ticket-receipts connection was clearer.”
+Handoff: “That was evidence about wins. Harrison will show the ticket-receipts connection in our later-period panel, then ask whether growing receipts keep pace with spending.”
 
 KEY SOURCES
 Knight-Newhouse financial methodology: https://knightnewhousedata.org/about-the-data
@@ -169,7 +175,8 @@ GAO context: https://www.gao.gov/products/gao-26-108640
 Pope and Pope (2009): https://devingpope.com/assets/files/Website_SEJ%20Sports.pdf
 McFarland, Groothuis and Guignet (2024): https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12642
 Anderson replication archive: https://doi.org/10.7910/DVN/ASXOBS; author manuscript: https://anderson.are.berkeley.edu/pdf/Anderson%202017.pdf
-Our new Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Optional paired literature chart: results/figures/anderson_replication.png (not in the previously saved presentation).
+Our Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Main slide 5: results/presentation_charts/05_winning_donations.png.
+Synthesis and framing: PROJECT_REPORT.md. Potential qualitative benefits were not directly measured or valued.
 Our results and exact model IDs: FEASIBILITY_REPORT.md, CFO_RETURN_REPORT.md, results/feasibility_models.csv and results/return_models.csv.
 Repository: https://github.com/harrydelashmit-dev/beyond-the-scoreboard
 
@@ -192,7 +199,7 @@ Display: Approximately 6.4% higher following-year ticket receipts per 10 additio
 
 Ticket pricing, capacity and other factors can also matter. This association does not prove that buying a stronger team produces a guaranteed financial return.
 
-Transition: “Additional revenue matters, but the CFO still needs to compare it with additional spending.”
+Transition: “We have evidence connecting success with receipts. That still leaves a different CFO question: does additional revenue cover additional spending?”
 HARRISON: CORE FINANCIAL INTERPRETATION
 This is the clearest financial association from the first study. Explain FPI once, then focus on receipts. The outcome is next-year all-athletics ticket receipts, not ticket attendance and not football-only sales. A 10-point change is on the FPI strength scale. Our estimate is 6.41%, with 95% interval 3.99% to 8.89%, based on 817 observations and 109 schools. Related-test correction does not remove the association. Ticket price, capacity and pricing strategy are not fully measured. We cannot infer that a particular coaching hire or budget increase produces this result.
 Spend about 30 seconds explaining the measure, 45 seconds walking through the dot and range, and 45 seconds on interpretation and the handoff to costs.
@@ -209,7 +216,8 @@ GAO context: https://www.gao.gov/products/gao-26-108640
 Pope and Pope (2009): https://devingpope.com/assets/files/Website_SEJ%20Sports.pdf
 McFarland, Groothuis and Guignet (2024): https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12642
 Anderson replication archive: https://doi.org/10.7910/DVN/ASXOBS; author manuscript: https://anderson.are.berkeley.edu/pdf/Anderson%202017.pdf
-Our new Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Optional paired literature chart: results/figures/anderson_replication.png (not in the previously saved presentation).
+Our Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Main slide 5: results/presentation_charts/05_winning_donations.png.
+Synthesis and framing: PROJECT_REPORT.md. Potential qualitative benefits were not directly measured or valued.
 Our results and exact model IDs: FEASIBILITY_REPORT.md, CFO_RETURN_REPORT.md, results/feasibility_models.csv and results/return_models.csv.
 Repository: https://github.com/harrydelashmit-dev/beyond-the-scoreboard
 
@@ -252,7 +260,8 @@ GAO context: https://www.gao.gov/products/gao-26-108640
 Pope and Pope (2009): https://devingpope.com/assets/files/Website_SEJ%20Sports.pdf
 McFarland, Groothuis and Guignet (2024): https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12642
 Anderson replication archive: https://doi.org/10.7910/DVN/ASXOBS; author manuscript: https://anderson.are.berkeley.edu/pdf/Anderson%202017.pdf
-Our new Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Optional paired literature chart: results/figures/anderson_replication.png (not in the previously saved presentation).
+Our Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Main slide 5: results/presentation_charts/05_winning_donations.png.
+Synthesis and framing: PROJECT_REPORT.md. Potential qualitative benefits were not directly measured or valued.
 Our results and exact model IDs: FEASIBILITY_REPORT.md, CFO_RETURN_REPORT.md, results/feasibility_models.csv and results/return_models.csv.
 Repository: https://github.com/harrydelashmit-dev/beyond-the-scoreboard
 
@@ -286,7 +295,8 @@ GAO context: https://www.gao.gov/products/gao-26-108640
 Pope and Pope (2009): https://devingpope.com/assets/files/Website_SEJ%20Sports.pdf
 McFarland, Groothuis and Guignet (2024): https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12642
 Anderson replication archive: https://doi.org/10.7910/DVN/ASXOBS; author manuscript: https://anderson.are.berkeley.edu/pdf/Anderson%202017.pdf
-Our new Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Optional paired literature chart: results/figures/anderson_replication.png (not in the previously saved presentation).
+Our Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Main slide 5: results/presentation_charts/05_winning_donations.png.
+Synthesis and framing: PROJECT_REPORT.md. Potential qualitative benefits were not directly measured or valued.
 Our results and exact model IDs: FEASIBILITY_REPORT.md, CFO_RETURN_REPORT.md, results/feasibility_models.csv and results/return_models.csv.
 Repository: https://github.com/harrydelashmit-dev/beyond-the-scoreboard
 
@@ -318,7 +328,8 @@ GAO context: https://www.gao.gov/products/gao-26-108640
 Pope and Pope (2009): https://devingpope.com/assets/files/Website_SEJ%20Sports.pdf
 McFarland, Groothuis and Guignet (2024): https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12642
 Anderson replication archive: https://doi.org/10.7910/DVN/ASXOBS; author manuscript: https://anderson.are.berkeley.edu/pdf/Anderson%202017.pdf
-Our new Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Optional paired literature chart: results/figures/anderson_replication.png (not in the previously saved presentation).
+Our Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Main slide 5: results/presentation_charts/05_winning_donations.png.
+Synthesis and framing: PROJECT_REPORT.md. Potential qualitative benefits were not directly measured or valued.
 Our results and exact model IDs: FEASIBILITY_REPORT.md, CFO_RETURN_REPORT.md, results/feasibility_models.csv and results/return_models.csv.
 Repository: https://github.com/harrydelashmit-dev/beyond-the-scoreboard
 
@@ -353,7 +364,8 @@ GAO context: https://www.gao.gov/products/gao-26-108640
 Pope and Pope (2009): https://devingpope.com/assets/files/Website_SEJ%20Sports.pdf
 McFarland, Groothuis and Guignet (2024): https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12642
 Anderson replication archive: https://doi.org/10.7910/DVN/ASXOBS; author manuscript: https://anderson.are.berkeley.edu/pdf/Anderson%202017.pdf
-Our new Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Optional paired literature chart: results/figures/anderson_replication.png (not in the previously saved presentation).
+Our Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Main slide 5: results/presentation_charts/05_winning_donations.png.
+Synthesis and framing: PROJECT_REPORT.md. Potential qualitative benefits were not directly measured or valued.
 Our results and exact model IDs: FEASIBILITY_REPORT.md, CFO_RETURN_REPORT.md, results/feasibility_models.csv and results/return_models.csv.
 Repository: https://github.com/harrydelashmit-dev/beyond-the-scoreboard
 
@@ -367,9 +379,9 @@ ROLE: Breakthroughs, limitations and CFO implications
 
 Display checks: Correct schools/years; independent recalculation; remove one school at a time.
 
-Display limits: Observational data; accounting revenue proxy; historical public-university sample.
+Display limits: Observational budget relationships; historical and separate study samples; qualitative benefits and net university-wide returns unmeasured.
 
-The project uses Python, with 32 local tests passing at the current analysis build. Independent calculations reproduce main estimates. These checks establish implementation consistency, not causation. Our historical findings are not forecasts for the current NIL/revenue-sharing environment. Applications do not automatically create additional net tuition revenue, and campus/educational benefits are incompletely measured.
+The project uses Python, with 37 local tests passing after the Anderson extension. Independent calculations reproduce main finance estimates, and all ten historical STE estimates match published rounding. The other IV matching translation remains partial. These checks establish implementation consistency, not causation. Our historical findings are not current NIL/revenue-sharing forecasts. Applications do not automatically create additional net tuition revenue. Visibility, pride, reputation, engagement and educational benefits were not directly measured or valued.
 
 Keep formulas, p-values and parser details in backup.
 
@@ -383,12 +395,13 @@ GAO context: https://www.gao.gov/products/gao-26-108640
 Pope and Pope (2009): https://devingpope.com/assets/files/Website_SEJ%20Sports.pdf
 McFarland, Groothuis and Guignet (2024): https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12642
 Anderson replication archive: https://doi.org/10.7910/DVN/ASXOBS; author manuscript: https://anderson.are.berkeley.edu/pdf/Anderson%202017.pdf
-Our new Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Optional paired literature chart: results/figures/anderson_replication.png (not in the previously saved presentation).
+Our Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Main slide 5: results/presentation_charts/05_winning_donations.png.
+Synthesis and framing: PROJECT_REPORT.md. Potential qualitative benefits were not directly measured or valued.
 Our results and exact model IDs: FEASIBILITY_REPORT.md, CFO_RETURN_REPORT.md, results/feasibility_models.csv and results/return_models.csv.
 Repository: https://github.com/harrydelashmit-dev/beyond-the-scoreboard
 
 
-## Slide 12: What should a university CFO take from this?
+## Slide 12: Winning has value. Spending still needs a financial case.
 MORGAN BECKLER
 SLIDE 12 OF 12 | 18:30–20:00 | 90 seconds
 ROLE: Breakthroughs, limitations and CFO implications
@@ -397,12 +410,12 @@ ROLE: Breakthroughs, limitations and CFO implications
 
 Display:
 
-1. Compare additional revenue with additional costs.
-2. Benchmark against comparable funding models.
-3. Track support dollars alongside percentages.
-4. Require evidence before budgeting for recruitment benefits.
+1. Separate the benefits of winning from the payoff to spending.
+2. Compare added receipts with the full added cost and funding commitment.
+3. Use comparable funding models; track support dollars and shares.
+4. State campus objectives explicitly; require evidence for recruitment income.
 
-Close: “Our study finds a financial benefit associated with stronger football performance, particularly in ticket receipts. But revenue growth generally falls short of spending growth in our main comparisons, and programs with high prior reliance on support show weaker recovery. A university should evaluate the full funding commitment and the benefits it expects, while keeping uncertain recruitment gains separate from revenue it can document.”
+Close: “Winning can have value through attention, engagement and athletics receipts. We measured associations with ticket revenue and reproduced qualified evidence for athletic donations; we did not measure the value of campus pride or reputation. Those benefits do not establish that increasing athletics spending pays for itself. Our main budget comparisons show incomplete revenue recovery, especially among programs with high prior support dependence. A CFO should make the continuing funding commitment explicit and evaluate campus goals alongside financial evidence.”
 
 Pause, thank the audience, and move to questions. Do not claim that all athletics spending is wasteful or all schools have identical goals.
 
@@ -416,7 +429,8 @@ GAO context: https://www.gao.gov/products/gao-26-108640
 Pope and Pope (2009): https://devingpope.com/assets/files/Website_SEJ%20Sports.pdf
 McFarland, Groothuis and Guignet (2024): https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12642
 Anderson replication archive: https://doi.org/10.7910/DVN/ASXOBS; author manuscript: https://anderson.are.berkeley.edu/pdf/Anderson%202017.pdf
-Our new Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Optional paired literature chart: results/figures/anderson_replication.png (not in the previously saved presentation).
+Our Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Main slide 5: results/presentation_charts/05_winning_donations.png.
+Synthesis and framing: PROJECT_REPORT.md. Potential qualitative benefits were not directly measured or valued.
 Our results and exact model IDs: FEASIBILITY_REPORT.md, CFO_RETURN_REPORT.md, results/feasibility_models.csv and results/return_models.csv.
 Repository: https://github.com/harrydelashmit-dev/beyond-the-scoreboard
 
@@ -433,7 +447,8 @@ GAO context: https://www.gao.gov/products/gao-26-108640
 Pope and Pope (2009): https://devingpope.com/assets/files/Website_SEJ%20Sports.pdf
 McFarland, Groothuis and Guignet (2024): https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12642
 Anderson replication archive: https://doi.org/10.7910/DVN/ASXOBS; author manuscript: https://anderson.are.berkeley.edu/pdf/Anderson%202017.pdf
-Our new Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Optional paired literature chart: results/figures/anderson_replication.png (not in the previously saved presentation).
+Our Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Main slide 5: results/presentation_charts/05_winning_donations.png.
+Synthesis and framing: PROJECT_REPORT.md. Potential qualitative benefits were not directly measured or valued.
 Our results and exact model IDs: FEASIBILITY_REPORT.md, CFO_RETURN_REPORT.md, results/feasibility_models.csv and results/return_models.csv.
 Repository: https://github.com/harrydelashmit-dev/beyond-the-scoreboard
 
@@ -450,7 +465,8 @@ GAO context: https://www.gao.gov/products/gao-26-108640
 Pope and Pope (2009): https://devingpope.com/assets/files/Website_SEJ%20Sports.pdf
 McFarland, Groothuis and Guignet (2024): https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12642
 Anderson replication archive: https://doi.org/10.7910/DVN/ASXOBS; author manuscript: https://anderson.are.berkeley.edu/pdf/Anderson%202017.pdf
-Our new Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Optional paired literature chart: results/figures/anderson_replication.png (not in the previously saved presentation).
+Our Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Main slide 5: results/presentation_charts/05_winning_donations.png.
+Synthesis and framing: PROJECT_REPORT.md. Potential qualitative benefits were not directly measured or valued.
 Our results and exact model IDs: FEASIBILITY_REPORT.md, CFO_RETURN_REPORT.md, results/feasibility_models.csv and results/return_models.csv.
 Repository: https://github.com/harrydelashmit-dev/beyond-the-scoreboard
 
@@ -467,7 +483,8 @@ GAO context: https://www.gao.gov/products/gao-26-108640
 Pope and Pope (2009): https://devingpope.com/assets/files/Website_SEJ%20Sports.pdf
 McFarland, Groothuis and Guignet (2024): https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12642
 Anderson replication archive: https://doi.org/10.7910/DVN/ASXOBS; author manuscript: https://anderson.are.berkeley.edu/pdf/Anderson%202017.pdf
-Our new Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Optional paired literature chart: results/figures/anderson_replication.png (not in the previously saved presentation).
+Our Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Main slide 5: results/presentation_charts/05_winning_donations.png.
+Synthesis and framing: PROJECT_REPORT.md. Potential qualitative benefits were not directly measured or valued.
 Our results and exact model IDs: FEASIBILITY_REPORT.md, CFO_RETURN_REPORT.md, results/feasibility_models.csv and results/return_models.csv.
 Repository: https://github.com/harrydelashmit-dev/beyond-the-scoreboard
 
@@ -484,6 +501,7 @@ GAO context: https://www.gao.gov/products/gao-26-108640
 Pope and Pope (2009): https://devingpope.com/assets/files/Website_SEJ%20Sports.pdf
 McFarland, Groothuis and Guignet (2024): https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12642
 Anderson replication archive: https://doi.org/10.7910/DVN/ASXOBS; author manuscript: https://anderson.are.berkeley.edu/pdf/Anderson%202017.pdf
-Our new Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Optional paired literature chart: results/figures/anderson_replication.png (not in the previously saved presentation).
+Our Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Main slide 5: results/presentation_charts/05_winning_donations.png.
+Synthesis and framing: PROJECT_REPORT.md. Potential qualitative benefits were not directly measured or valued.
 Our results and exact model IDs: FEASIBILITY_REPORT.md, CFO_RETURN_REPORT.md, results/feasibility_models.csv and results/return_models.csv.
 Repository: https://github.com/harrydelashmit-dev/beyond-the-scoreboard

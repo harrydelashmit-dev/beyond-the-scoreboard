@@ -1,0 +1,20 @@
+{
+  "page_id": "page_7cdcf2cf98e081919e404c11eae78100",
+  "artifact_ref": "artifact_external_1b67d867-1147-4614-a31d-fa0a4368fbfb",
+  "state_version": 9,
+  "date": "2026-11-11",
+  "visible_slides": 12,
+  "hidden_backups": 4,
+  "total_seconds": 1200,
+  "all_sixteen_saved_notes_match_config": true,
+  "presentation_review": "All-slide montage and each changed slide reviewed in native renderer",
+  "handoff_review": "Eleven pages rendered through Word to PDF and inspected as PNGs",
+  "financial_estimates": "Unchanged; synthesis and chart presentation only",
+  "sources": {
+    "docs/20_minute_outline.md": "ef370c887b5d241a1a05db12fceb799d3939c88f61e72c3e0d65542d0b8869af",
+    "config/presentation_deck.json": "349d0d35829e7800926f6b87e30084b5a647a2057605f395dccdccc2a0582b10",
+    "docs/speaker_notes.md": "2de20637232e54bc1129085598b86776baf3c1e6f785f41d2fa7b4e46fd3c741",
+    "PROJECT_REPORT.md": "491fb81ffc4dc03fbe6720082448d769d6dc7b92a0eb8e6358682990e9397a11",
+    "results/presentation_charts/05_winning_donations.png": "82eb3f36d08807de8f71d3cca545a55be33c0650616578620634eac3b9b32045"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "purpose": "Synthesis of existing results; no new models or observations",
+  "sources": {
+    "results/feasibility_models.csv": "b034148c899f3c20850fc150159c41df6648297e6f38c51df1c4b7bc6b3ad51e",
+    "results/return_models.csv": "dc15095b30c6112d95eb014d7321a67026b7a70e04e65c75b2fa1ec20475c8a5",
+    "results/anderson_replication.csv": "7c0884664b9d3c179979258cfee5aa8f96e0e7948f1018a41606304a6b99eb69"
+  },
+  "thesis": "Winning benefits and returns to additional spending are separate questions",
+  "quantitative_scope": "Athletics receipts and accounting associations; comprehensive university-wide return unmeasured",
+  "qualitative_scope": "Potential campus benefits not directly measured or valued"
+}

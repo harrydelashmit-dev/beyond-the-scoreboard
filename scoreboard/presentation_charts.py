@@ -118,13 +118,16 @@ def main():
     ax.set_yticks([1,0],labels=['Larger FBS\nathletics budgets','Smaller FBS\nathletics budgets'])
     ax.set_xlabel('Following-year revenue proxy change (%)',fontsize=16,labelpad=16)
     save(fig,'10_breakthrough','Per 10 FPI points above a past-seasons-only model prediction. N=571; 98 schools; evaluation 2013–2019.\nGroups fixed using 2010–2012 athletics budgets. Direct smaller-versus-larger difference remains inconclusive.\nThis is statistical outperformance, not measured fan expectations. Admissions/enrollment advantage is also unconfirmed.')
+    from .presentation_donations import main as donations_chart
+    donations_chart()
+    paths.append('results/anderson_replication.csv')
     manifest=dict(purpose='Presentation simplification of existing aggregate results; no new models or observations',
         sources={path:text_sha256(ROOT/path) for path in paths},
         plotted_coefficients=RECORDS,figures=sorted(p.name for p in OUT.glob('*.png')),
         transformations='Log-outcome coefficients and endpoints: 100*expm1(b); dollar/dollar slopes: 100*b cents; endpoint millions / 1000 = billions',
         uncertainty='Original pointwise 95% school-clustered intervals. Primary decision wording uses the original Holm-adjusted tests.')
     (ROOT/'data/provenance/presentation_charts.json').write_text(json.dumps(manifest,indent=2),encoding='utf-8')
-    print('Generated six presentation PNG/SVG pairs from saved aggregate coefficients and matched totals.')
+    print('Generated seven presentation PNG/SVG pairs from saved aggregate coefficients and matched totals.')
 
 
 if __name__=='__main__':main()

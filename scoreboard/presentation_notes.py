@@ -10,7 +10,7 @@ from .download import ROOT
 from .hashes import text_sha256
 
 SPEAKERS={1:'Evan West',2:'Luis Ramos',3:'Harrison Delashmit',4:'Robert Philyaw',5:'Morgan Beckler'}
-ROLES={1:'Opening and research question',2:'Data and recruitment evidence',
+ROLES={1:'Winning, spending and the research question',2:'Data, donations and recruitment evidence',
        3:'Core financial findings: tickets and cost recovery',
        4:'Funding-model comparisons and support dollars',5:'Breakthroughs, limitations and CFO implications'}
 
@@ -36,20 +36,22 @@ def build():
         ('16:00–17:30',90,5),('17:30–18:30',60,5),('18:30–20:00',90,5)]
     slides=[
         dict(kind='cover',title='Beyond the Scoreboard'),
-        dict(kind='question',title='What would make athletics a worthwhile investment?',
-            lead='When spending grows, do the financial benefits keep up?',
-            lines=['More athletics revenue','More applications and enrolled students','Less need for institutional support and student fees'],
-            footer='Potential benefits require evidence. Educational and campus benefits are outside our dollar estimates.'),
-        dict(kind='text',title='We tested each connection separately',
+        dict(kind='question',title='Winning can have several kinds of value',
+            lead='Which benefits did we measure?',
+            lines=['Visibility, pride and engagement: not directly measured',
+                   'Athletics receipts: tickets and qualified donations evidence',
+                   'University-wide net financial return: unestablished'],
+            footer='Potential campus value and financial self-sufficiency require different evidence.'),
+        dict(kind='text',title='Winning benefits and spending returns are different questions',
             lines=['Does higher spending predict better performance?',
                    'Does athletic success predict revenue or student demand?',
                    'Does revenue growth keep pace with spending?'],
-            footer='These are hypotheses. Initial spending-to-success results remain uncertain after adjustment.'),
-        dict(kind='sources',title='We followed public universities over time',lead='2010–2019 historical source window',
+            footer='Wins can have benefits without proving that a larger budget buys a worthwhile return.'),
+        dict(kind='sources',title='Two historical sources of evidence',lead='Main public-university panel: 2010–2019',
             lines=['Money: Knight-Newhouse and EADA','Athletic results: Directors’ Cup, ESPN and tournament outcomes',
-                   'Students: NCES IPEDS','Inflation: BLS CPI-U'],
-            footer='Export: 240 institutions, 2,400 school-years. Annual recovery model: 2,002 cases, 227 schools. Samples vary.'),
-        dict(kind='chart',title='Applications and the Flutie Effect',image='05_applications.png'),
+                   'Students: NCES IPEDS','BLS inflation; separate earlier study: Anderson archive'],
+            footer='Main export: 240 institutions, 2,400 school-years. Anderson is a separate earlier public/private sample. Model Ns vary.'),
+        dict(kind='chart',title='Football wins, donations and recruitment',image='05_winning_donations.png'),
         dict(kind='chart',title='Football strength and ticket receipts',image='06_football_tickets.png'),
         dict(kind='chart',title='Annual and cumulative cost recovery',image='07_cost_recovery.png'),
         dict(kind='chart',title='Cost recovery by support dependence',image='08_support_groups.png'),
@@ -57,14 +59,14 @@ def build():
         dict(kind='chart',title='Smaller-program breakthroughs',image='10_breakthrough.png'),
         dict(kind='limits',title='Checks strengthen the analysis, with limits',
             checks=['Correct schools and reporting years','Independent recalculation','Remove one university at a time'],
-            limits=['Associations do not identify causal returns','Revenue is a qualified accounting measure','Historical public-school sample'],
-            footer='32 local tests passed at the analysis build. Current NIL/revenue-sharing outcomes require separate study.'),
-        dict(kind='close',title='What should a university CFO take from this?',
-            lines=['Compare additional revenue with additional costs.',
-                   'Benchmark against comparable funding models.',
-                   'Track support dollars alongside percentages.',
-                   'Require evidence before budgeting for recruitment gains.'],
-            footer='Stronger football performance predicts higher receipts. Cost recovery and the funding burden still matter.')]
+            limits=['Budget relationships are observational','Campus benefits and university-wide net return unmeasured','Historical samples; IV replication partial'],
+            footer='37 local tests passed after the replication extension. Current NIL/revenue-sharing outcomes require separate study.'),
+        dict(kind='close',title='Winning has value. Spending still needs a financial case.',
+            lines=['Separate winning benefits from returns to more spending.',
+                   'Compare added receipts with full added costs and support.',
+                   'Use comparable funding models; track dollars and shares.',
+                   'Define campus goals; require evidence for recruitment income.'],
+            footer='Athletics receipts can rise while financial self-sufficiency remains unproven.')]
     bibliography='''KEY SOURCES
 Knight-Newhouse financial methodology: https://knightnewhousedata.org/about-the-data
 NCES IPEDS: https://nces.ed.gov/ipeds/
@@ -75,7 +77,8 @@ GAO context: https://www.gao.gov/products/gao-26-108640
 Pope and Pope (2009): https://devingpope.com/assets/files/Website_SEJ%20Sports.pdf
 McFarland, Groothuis and Guignet (2024): https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12642
 Anderson replication archive: https://doi.org/10.7910/DVN/ASXOBS; author manuscript: https://anderson.are.berkeley.edu/pdf/Anderson%202017.pdf
-Our new Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Optional paired literature chart: results/figures/anderson_replication.png (not in the previously saved presentation).
+Our Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Main slide 5: results/presentation_charts/05_winning_donations.png.
+Synthesis and framing: PROJECT_REPORT.md. Potential qualitative benefits were not directly measured or valued.
 Our results and exact model IDs: FEASIBILITY_REPORT.md, CFO_RETURN_REPORT.md, results/feasibility_models.csv and results/return_models.csv.
 Repository: https://github.com/harrydelashmit-dev/beyond-the-scoreboard
 '''
@@ -116,11 +119,11 @@ HANDOFF TO ROBERT: The average also hides differences between universities' fund
             notes='BACKUP | MORGAN BECKLER\nAP breakthrough means preseason-unranked and final AP top20. Smaller-budget versus larger-budget log-slope differences are -0.143 (raw p about 0.00166) for applications and -0.095 (raw p about 0.00103) for enrollment. These secondary comparisons are unadjusted, observational and based on sparse events. The sample has 651 cases/99 schools for applications and 681/100 for enrollment. School-omission checks retain negative interaction signs. This does not identify a causal decline in demand, and does not support the proposed smaller-program advantage. Models: U_ap_small_budget_fbs_applications and U_ap_small_budget_fbs_enrollment. '+bibliography),
         dict(kind='references',title='Sources and five-member speaking plan',
             lines=['Finance: Knight-Newhouse and EADA','Athletic success: NACDA and ESPN','Student outcomes: NCES IPEDS; inflation: BLS',
-                   'Context: GAO 2026; Pope & Pope 2009; McFarland et al. 2024'],
+                   'Context: Anderson 2017, GAO 2026 and Flutie Effect studies'],
             footer='Full source URLs, model specifications and qualifications appear in speaker notes and the repository reports.',
             notes='BACKUP | ALL MEMBERS\n'+bibliography)]
     for i,s in enumerate(backups,start=13):s.update(number=i,hidden=True,speaker='Backup / see notes',duration_seconds=0)
-    result=dict(title='Beyond the Scoreboard',subtitle='Does athletics revenue growth keep up with spending?',
+    result=dict(title='Beyond the Scoreboard',subtitle='Winning has value. Does additional spending pay for itself?',
         main_slide_count=12,total_slide_count=16,total_seconds=1200,
         speakers=[dict(member=m,name=n,role=ROLES[m],seconds=240) for m,n in SPEAKERS.items()],
         palette={'navy':'#15324f','teal':'#008681','orange':'#c87826','gray':'#657482'},

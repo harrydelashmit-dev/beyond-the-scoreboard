@@ -4,7 +4,7 @@ AC 547 Track A · Python-only · Historical 2010–2019 extension
 
 ## Presentation decision
 
-**These four directions provide a worthwhile presentation.** The clearest new finding is a positive but incomplete financial recovery relationship, with materially weaker recovery among programs previously dependent on institutional/government support and student fees. The smaller-program surprise advantage remains uncertain. A stronger project question is: **When does athletics revenue growth keep up with spending, and who carries the remaining financial burden?**
+**Winning has value; returns to additional spending require separate evidence.** Visibility, pride and engagement are potential campus benefits we did not directly measure. Football performance predicts ticket receipts in our panel, and a separate historical replication supplies qualified evidence of athletic alumni donations. These benefits do not establish that more spending pays for itself or creates a positive university-wide financial return. [The synthesis report](PROJECT_REPORT.md) presents this framing; the technical comparisons and all contrary findings remain below.
 
 Annual real-dollar changes imply **0.64 dollars of additional revenue proxy per additional spending dollar** (95% interval 0.50–0.79; N=2,002, 227 schools). The three-year cumulative budget-flow slope is **0.68** (0.55–0.81; N=1,545, 225 schools). Both slopes are below one after adjustment across all fourteen primary extension tests.
 

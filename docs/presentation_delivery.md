@@ -4,8 +4,8 @@ The saved presentation contains **12 visible main slides for a 20-minute talk**,
 
 | Presenter | Time | Main slides | Responsibility |
 |---|---|---|---|
-| Evan West | 0:00–4:00 | 1–3 | Opening hook, CFO question and tested connections |
-| Luis Ramos | 4:00–8:00 | 4–5 | Data, school/year alignment and recruitment findings |
+| Evan West | 0:00–4:00 | 1–3 | Opening hook, potential campus value, winning versus spending |
+| Luis Ramos | 4:00–8:00 | 4–5 | Separate data cohorts, donations replication and recruitment uncertainty |
 | Harrison Delashmit | 8:00–12:00 | 6–7 | Core financial findings: football tickets and dollar-for-dollar recovery |
 | Robert Philyaw | 12:00–16:00 | 8–9 | Support dependence, funding differences, dollars versus percentages |
 | Morgan Beckler | 16:00–20:00 | 10–12 | Breakthroughs, limitations and CFO implications |
@@ -28,6 +28,8 @@ The canonical saved Page ID is `page_7cdcf2cf98e081919e404c11eae78100`. The fina
 - Recruitment findings do not disprove the Flutie Effect. Sparse negative AP-event comparisons are disclosed as exploratory evidence.
 
 All 16 slides were rendered and visually reviewed. The saved notes matched the Python content on all 16 slides, and 12 visible / four hidden statuses were checked. Presenter times add to 20 minutes, four minutes each. Final rehearsal, instructor consultation and each member's substantive own-account contributions remain group responsibilities.
-# November 11 research addendum
+## Integrated winning-versus-spending revision
 
-The repository's outline, presentation configuration and plain speaker notes now include the Anderson public-study replication as optional literature context. The previously saved native presentation remains at its earlier version; the new paired replication chart has not been inserted there. Use the updated Claude package/addendum when finalizing slides in the school account. The twelve-slide timing and Harrison's central financial assignment remain unchanged. The original financial chart estimates are unchanged.
+The saved presentation, outline and all sixteen sets of speaker notes now use the approved framing: winning may have campus value and measurable athletics receipts, while additional spending requires a separate return assessment. Slide 5 contains the Python donations/applications chart from the fully reproduced historical STE method. Its visible note gives the ten-outcome and broader twenty-test adjustments and the partial IV limitation. The original later-period applications chart remains available as an additional backup asset. The deck retains twelve visible slides and four hidden backups; Harrison keeps the ticket and cost-recovery section. Existing financial estimates are unchanged.
+
+The Word and text Claude handoffs integrate this revision directly. The package contains the synthesis report, all technical reports, the complete results, named notes and seven chart PNGs. Qualitative benefits are explicitly unmeasured; athletics gifts are not assumed to be unrestricted university funds; applications are not assumed to become net tuition. The saved presentation's native text and notes were checked against the updated content, and all slides and eleven handoff pages were visually reviewed.

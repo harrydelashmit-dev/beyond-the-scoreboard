@@ -15,3 +15,4 @@ jobs:
       - run: python -m scoreboard.presentation_charts
       - run: python -m scoreboard.presentation_notes
       - run: python run_project.py --anderson --report-only
+      - run: python -m scoreboard.project_report

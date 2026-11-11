@@ -3,7 +3,8 @@
   "sources": {
     "results/feasibility_models.csv": "b034148c899f3c20850fc150159c41df6648297e6f38c51df1c4b7bc6b3ad51e",
     "results/return_models.csv": "dc15095b30c6112d95eb014d7321a67026b7a70e04e65c75b2fa1ec20475c8a5",
-    "results/return_matched_endpoints.csv": "fc4d4b2f936cfc061ce1e9b6301f356dfb3ae57ef96f5ac191b370e4408ce450"
+    "results/return_matched_endpoints.csv": "fc4d4b2f936cfc061ce1e9b6301f356dfb3ae57ef96f5ac191b370e4408ce450",
+    "results/anderson_replication.csv": "7c0884664b9d3c179979258cfee5aa8f96e0e7948f1018a41606304a6b99eb69"
   },
   "plotted_coefficients": [
     {
@@ -99,6 +100,7 @@
   ],
   "figures": [
     "05_applications.png",
+    "05_winning_donations.png",
     "06_football_tickets.png",
     "07_cost_recovery.png",
     "08_support_groups.png",
