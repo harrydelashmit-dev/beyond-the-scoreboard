@@ -451,4 +451,3 @@ Pope and Pope (2009): https://devingpope.com/assets/files/Website_SEJ%20Sports.p
 McFarland, Groothuis and Guignet (2024): https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12642
 Our results and exact model IDs: FEASIBILITY_REPORT.md, CFO_RETURN_REPORT.md, results/feasibility_models.csv and results/return_models.csv.
 Repository: https://github.com/harrydelashmit-dev/beyond-the-scoreboard
-

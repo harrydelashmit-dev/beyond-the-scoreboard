@@ -133,7 +133,7 @@ HANDOFF TO ROBERT: The average also hides differences between universities' fund
     text=['# Speaker notes: Beyond the Scoreboard','\n12 main slides, 20 minutes; four hidden backup slides.\n']
     for s in result['slides']:
         text.extend([f'## Slide {s["number"]}: {s["title"]}',s['notes'],''])
-    (ROOT/'docs/speaker_notes.md').write_text('\n'.join(text),encoding='utf-8')
+    (ROOT/'docs/speaker_notes.md').write_text('\n'.join(text).rstrip()+'\n',encoding='utf-8')
     print('Prepared 12 timed slides, 4 hidden backups and named notes for five members.')
 
 
