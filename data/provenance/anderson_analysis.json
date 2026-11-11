@@ -1,0 +1,15 @@
+{
+  "college_rows": 2807,
+  "college_schools": 117,
+  "raw_game_rows": 31656,
+  "source_error_rows_removed": 2,
+  "eligible_game_rows": 29004,
+  "games_with_lines": 28076,
+  "merged_rows": 2492,
+  "merged_schools": 117,
+  "min_year": 1986,
+  "max_year": 2009,
+  "eligible_sample_schools": 117,
+  "trim_90th_percentile": 2006.5650634765625,
+  "plan_sha256": "92b531087046cb46d225212270aec16c7bbc43fd7b15e3cb707fe1b8bf4f0869"
+}

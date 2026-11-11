@@ -1,0 +1,198 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><title>Anderson replication</title><style>body{font:16px/1.6 system-ui;max-width:1200px;margin:auto;padding:32px;color:#15324f}table{border-collapse:collapse;font-size:13px;width:100%}th,td{padding:8px;border-bottom:1px solid #ddd;text-align:left}th{background:#edf5f5}img{width:100%;height:auto}h2{margin-top:40px}</style><h1>Anderson verification and Python replication</h1><h2>What this adds to our project</h2><p>We obtained the public replication archive and translated the main analysis into Python. All ten sequential-treatment-effect (STE) estimates, standard errors and sample sizes match the author manuscript’s Table 3 at its displayed precision. This validates one published estimator using the author’s analytic data. The IV matching translation is close but does not fully reproduce the printed coefficients or standard errors; its discrepancies remain visible below.</p><p>The useful distinction is between the benefits of winning and the return from buying more athletic inputs. Our later-period cost-recovery analysis addresses the latter accounting relationship. Neither exercise proves that a university can purchase additional wins or earn a positive net institutional return. We keep these cohorts and estimands separate.</p><h2>Source verification: how to use Claude’s claims</h2><p>The <a href="https://www.nber.org/digest/nov12/benefits-college-athletic-success">NBER Digest</a> summarizes athletic alumni donations as $134,000 per win. The <a href="https://www.nber.org/system/files/working_papers/w18196/w18196.pdf">2012 working paper</a> instead uses $136,400: five wins yield $682,000, approximately 28%; its accompanying illustrations are 677 applications (5%), a 1.5 percentage-point acceptance-rate decline, 76 additional in-state entrants and nine SAT points. These are scaled model estimates, not five separately observed intervention effects. Five times $134,000 is $670,000, so the two donation figures should not be mixed.</p><p>The <a href="https://anderson.are.berkeley.edu/pdf/Anderson%202017.pdf">author manuscript for the 2017 journal article</a>, dated January 21, 2016, distinguishes a fixed schedule’s zero-sum wins from improvements in playing quality that can expand demand. It supports an arms-race interpretation as a possibility, not proof that every athletics benefit is zero-sum. Its Table 3 IV estimates motivate the five-win illustration, while its STE estimates differ. The paper supports some Flutie-type benefits; it cannot support saying that the literature has disproved them. Its all-table FDR q-values for the highlighted positive findings are above 0.05.</p><h2>What we downloaded and audited</h2><p>The <a href="https://doi.org/10.7910/DVN/ASXOBS">Harvard Dataverse replication archive</a>, version 1.1, lists CC0 1.0 and no restricted files. We obtained both prepared analytic datasets, the original method documentation and the optional raw-source archive. Published MD5 and locally recorded SHA256 hashes verify all seven original files. The ingested game TAB has a different format and byte count; requesting the original DTA resolves its checksum mismatch. No registration or author contact was required.</p><p>The college file contains 2,807 rows from 117 schools; the game file contains 31,656 team-game rows. Two documented source errors are removed. Restricting potential postseason games and requiring at least eight nonmissing betting lines leaves 29,004 rows (28,076 with lines). A validated one-to-one school-year merge yields 2,492 rows, 117 schools, 1986–2009. This is the merged analytic frame, not every outcome’s regression sample. Games before the first college year help estimate propensities. Team-game rows can represent both sides of one contest.</p><p>This is a replication from author-prepared analytic files. We downloaded the underlying raw archive but have not independently rebuilt its VSE, IPEDS, U.S. News and Covers imports. Archive CC0 metadata does not establish a new license for every upstream commercial source; retain attribution and source terms when reusing those materials. Raw files remain outside Git. The original football data and outcomes predate our 2010–2019 Knight panel and today’s NIL/revenue-sharing environment.</p><h2>Reproduced STE results: all ten outcomes</h2><p>Each estimate describes one additional win under the published weighted model. Donations are thousands of source-period dollars; acceptance rate is a fraction (−0.00333 equals −0.333 percentage points). SAT is the combined math/verbal 25th percentile, not an average score. Intervals are unadjusted 95% coefficient intervals. Holm p-values adjust across these ten STE outcomes, as recorded in the plan.</p><table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Outcome</th>
+      <th>Per extra win</th>
+      <th>95% interval</th>
+      <th>N / schools</th>
+      <th>Raw p</th>
+      <th>Holm p (10 STE outcomes)</th>
+      <th>Matches published estimate / SE / N</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Athletic alumni operating donations</td>
+      <td>191.2</td>
+      <td>[62.1, 320.4]</td>
+      <td>616 / 94</td>
+      <td>0.004</td>
+      <td>0.041</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <td>Nonathletic alumni operating donations</td>
+      <td>-137.4</td>
+      <td>[-328.2, 53.4]</td>
+      <td>616 / 94</td>
+      <td>0.156</td>
+      <td>0.936</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <td>Total alumni donations</td>
+      <td>267.4</td>
+      <td>[-261.5, 796.2]</td>
+      <td>1,258 / 113</td>
+      <td>0.319</td>
+      <td>1.000</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <td>Alumni giving rate</td>
+      <td>0.0002</td>
+      <td>[-0.0012, 0.0016]</td>
+      <td>1,287 / 113</td>
+      <td>0.783</td>
+      <td>1.000</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <td>Academic reputation</td>
+      <td>0.003</td>
+      <td>[0.000, 0.006]</td>
+      <td>650 / 103</td>
+      <td>0.033</td>
+      <td>0.296</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <td>Applications</td>
+      <td>81.1</td>
+      <td>[-38.6, 200.8]</td>
+      <td>528 / 111</td>
+      <td>0.182</td>
+      <td>0.936</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <td>Acceptance rate (share)</td>
+      <td>-0.003</td>
+      <td>[-0.007, -0.000]</td>
+      <td>979 / 103</td>
+      <td>0.041</td>
+      <td>0.329</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <td>First-time out-of-state enrollment</td>
+      <td>1.6</td>
+      <td>[-8.3, 11.5]</td>
+      <td>962 / 114</td>
+      <td>0.750</td>
+      <td>1.000</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <td>First-time in-state enrollment</td>
+      <td>12.6</td>
+      <td>[-0.2, 25.3]</td>
+      <td>962 / 114</td>
+      <td>0.053</td>
+      <td>0.374</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <td>25th percentile SAT</td>
+      <td>0.8</td>
+      <td>[-0.6, 2.3]</td>
+      <td>426 / 101</td>
+      <td>0.256</td>
+      <td>1.000</td>
+      <td>Yes</td>
+    </tr>
+  </tbody>
+</table><p>The athletic-donation estimate is approximately +$191,243 per win (95% interval $62,114–$320,373; N=616, 94 schools; raw p=0.0041; ten-outcome Holm p=0.0412). Applications are +81 per win with an interval spanning −39 to +201 (N=528, 111 schools; raw p=0.182). A positive estimate alone does not establish a consistent recruitment benefit. None of the other nine STE outcomes survives the ten-outcome correction.</p><p>The original plan separates the two estimators’ ten-outcome families. An additional, more conservative correction across all twenty translated coefficient tests is also supplied in the CSV: the athletic-donation STE p-value becomes approximately 0.074. It therefore does not survive that broader 5% threshold. Multiplicity choices matter; do not present a threshold-dependent result as conclusive.</p><img src="figures/anderson_replication.png" alt="Reproduced STE estimates"><h2>IV matching translation: unresolved numerical differences</h2><p>Every printed IV N matches, but some point estimates and standard errors do not match at published precision. For example, our athletic-donation estimate is +$138,010 rather than +$136,400, and applications are +128.7 rather than +135.3. We checked source checksums, year alignment, propensity support/percentiles, overlap restrictions and matrix rank. The remaining matching discrepancy is unresolved. Treat these as a documented partial replication, not an exact validation of the IV method or its published p-values.</p><table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Outcome</th>
+      <th>Python IV</th>
+      <th>Published IV</th>
+      <th>Python SE</th>
+      <th>Published SE</th>
+      <th>N (both)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Athletic alumni operating donations</td>
+      <td>138.0</td>
+      <td>136.4</td>
+      <td>43.5</td>
+      <td>41.1</td>
+      <td>637</td>
+    </tr>
+    <tr>
+      <td>Nonathletic alumni operating donations</td>
+      <td>233.8</td>
+      <td>227.9</td>
+      <td>172.8</td>
+      <td>171.4</td>
+      <td>637</td>
+    </tr>
+    <tr>
+      <td>Total alumni donations</td>
+      <td>304.9</td>
+      <td>311.9</td>
+      <td>294.9</td>
+      <td>295.7</td>
+      <td>1,264</td>
+    </tr>
+    <tr>
+      <td>Alumni giving rate</td>
+      <td>-0.0002</td>
+      <td>-0.0001</td>
+      <td>0.0005</td>
+      <td>0.0005</td>
+      <td>1,293</td>
+    </tr>
+    <tr>
+      <td>Academic reputation</td>
+      <td>0.004</td>
+      <td>0.004</td>
+      <td>0.001</td>
+      <td>0.001</td>
+      <td>669</td>
+    </tr>
+    <tr>
+      <td>Applications</td>
+      <td>128.7</td>
+      <td>135.3</td>
+      <td>50.1</td>
+      <td>49.9</td>
+      <td>533</td>
+    </tr>
+    <tr>
+      <td>Acceptance rate (share)</td>
+      <td>-0.003</td>
+      <td>-0.003</td>
+      <td>0.001</td>
+      <td>0.001</td>
+      <td>967</td>
+    </tr>
+    <tr>
+      <td>First-time out-of-state enrollment</td>
+      <td>-0.6</td>
+      <td>-0.4</td>
+      <td>3.4</td>
+      <td>3.4</td>
+      <td>1,038</td>
+    </tr>
+    <tr>
+      <td>First-time in-state enrollment</td>
+      <td>14.8</td>
+      <td>15.2</td>
+      <td>5.8</td>
+      <td>5.8</td>
+      <td>1,038</td>
+    </tr>
+    <tr>
+      <td>25th percentile SAT</td>
+      <td>1.9</td>
+      <td>1.8</td>
+      <td>0.6</td>
+      <td>0.6</td>
+      <td>431</td>
+    </tr>
+  </tbody>
+</table><p>The complete CSV includes our ordinary coefficient p-values, intervals, estimator-specific Holm adjustment, conservative all-twenty adjustment, reduced-form sharp-null p-values where translated, and the paper’s published sharp-null p/FDR q as separate benchmark columns. The latter q-values cover the paper’s broader tables, not just our ten outcomes. We have not reproduced that complete FDR, placebo or robustness pipeline. Do not substitute our ordinary IV coefficient p-value for the paper’s sharp-null test.</p><h2>How the Python models work</h2><p>Game eligibility, reporting-period corrections, adjacent-calendar lags and the fifth-degree logistic propensity models follow the archived documentation. The STE model regresses the two-year change in the outcome on the change in prior-season wins, controlling for earlier wins, both season game counts and year effects. It weights by the inverse probability of the observed season’s win/loss sequence and excludes weights at or above the original global 90th percentile. Standard errors cluster by school. Author-code degrees of freedom are retained for replication.</p><p>The matching method uses twelve weekly propensity strata, requires outcome-specific wins/losses overlap, corrects for the effect of an early win on later expected wins, and averages weekly estimates by their sample sizes. Its N is the maximum weekly outcome sample, not twelve times that number. Its reported school count is the maximum weekly cluster count. We retain the source’s quadratic first-stage smoothing and approximate diagonal IV variance calculation, including its assumptions about aggregation.</p><p>These methods offer a stronger design than a simple spending/wins correlation, but their interpretation depends on the bookmaker propensity model, common support and the study’s identifying assumptions. Replication does not prove those assumptions. In particular, the later project’s AR(1) FPI outperformance measure is not the same as bookmaker-based unexpected game wins.</p><h2>Presentation recommendation and management implication</h2><p>Replace “the Flutie Effect has little statistical support” with “published research finds benefits from football wins, but our later-period tests do not establish a dependable recruitment payoff.” Keep the central question: can an institution cover additional spending, and under which conditions?</p><p>Suggested spoken explanation: “We checked a well-known study using its public data. Our Python replication reproduced its second main method. Extra football wins predicted more alumni gifts to athletics, while the applications estimate was uncertain in that method. Winning can have value, but it does not follow that every school should spend more to chase it.”</p><p>Use the paired chart below as an optional backup or brief literature bridge. Keep Harrison’s ticket receipts and cost-recovery findings as the main financial results. Do not add the donation estimate to our ticket coefficient: periods, samples, outcomes, scales and models differ, and doing so could double-count receipts. Tuition ROI additionally requires actual incremental entrants, capacity, retention and net contribution margins; applications are not tuition revenue.</p><h2>Reproduce and review</h2><p>Run <code>python run_project.py --anderson --download --test</code> from the repository root. This downloads the required original-format archive files, checks hashes, prepares data, estimates all twenty models and builds this report/chart. Add <code>python -m scoreboard.anderson --download --all-files</code> to fetch the optional 48MB raw archive. No Stata software is needed. For offline rebuilding from saved aggregate results, run <code>python run_project.py --anderson --report-only</code>.</p><p>See <code>config/anderson_plan.json</code> (committed before local estimation, dc01b53), <code>docs/anderson_methods.md</code>, <code>results/anderson_replication.csv</code>, <code>results/anderson_weekly_estimates.csv</code>, and the source/analysis manifests under <code>data/provenance/</code>. No financial or football observations were invented or added to the original Knight analysis.</p></html>

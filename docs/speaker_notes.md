@@ -28,6 +28,8 @@ BLS CPI-U series CUUR0000SA0: https://api.bls.gov/publicAPI/v2/timeseries/data/C
 GAO context: https://www.gao.gov/products/gao-26-108640
 Pope and Pope (2009): https://devingpope.com/assets/files/Website_SEJ%20Sports.pdf
 McFarland, Groothuis and Guignet (2024): https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12642
+Anderson replication archive: https://doi.org/10.7910/DVN/ASXOBS; author manuscript: https://anderson.are.berkeley.edu/pdf/Anderson%202017.pdf
+Our new Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Optional paired literature chart: results/figures/anderson_replication.png (not in the previously saved presentation).
 Our results and exact model IDs: FEASIBILITY_REPORT.md, CFO_RETURN_REPORT.md, results/feasibility_models.csv and results/return_models.csv.
 Repository: https://github.com/harrydelashmit-dev/beyond-the-scoreboard
 
@@ -60,6 +62,8 @@ BLS CPI-U series CUUR0000SA0: https://api.bls.gov/publicAPI/v2/timeseries/data/C
 GAO context: https://www.gao.gov/products/gao-26-108640
 Pope and Pope (2009): https://devingpope.com/assets/files/Website_SEJ%20Sports.pdf
 McFarland, Groothuis and Guignet (2024): https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12642
+Anderson replication archive: https://doi.org/10.7910/DVN/ASXOBS; author manuscript: https://anderson.are.berkeley.edu/pdf/Anderson%202017.pdf
+Our new Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Optional paired literature chart: results/figures/anderson_replication.png (not in the previously saved presentation).
 Our results and exact model IDs: FEASIBILITY_REPORT.md, CFO_RETURN_REPORT.md, results/feasibility_models.csv and results/return_models.csv.
 Repository: https://github.com/harrydelashmit-dev/beyond-the-scoreboard
 
@@ -90,6 +94,8 @@ BLS CPI-U series CUUR0000SA0: https://api.bls.gov/publicAPI/v2/timeseries/data/C
 GAO context: https://www.gao.gov/products/gao-26-108640
 Pope and Pope (2009): https://devingpope.com/assets/files/Website_SEJ%20Sports.pdf
 McFarland, Groothuis and Guignet (2024): https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12642
+Anderson replication archive: https://doi.org/10.7910/DVN/ASXOBS; author manuscript: https://anderson.are.berkeley.edu/pdf/Anderson%202017.pdf
+Our new Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Optional paired literature chart: results/figures/anderson_replication.png (not in the previously saved presentation).
 Our results and exact model IDs: FEASIBILITY_REPORT.md, CFO_RETURN_REPORT.md, results/feasibility_models.csv and results/return_models.csv.
 Repository: https://github.com/harrydelashmit-dev/beyond-the-scoreboard
 
@@ -120,6 +126,8 @@ BLS CPI-U series CUUR0000SA0: https://api.bls.gov/publicAPI/v2/timeseries/data/C
 GAO context: https://www.gao.gov/products/gao-26-108640
 Pope and Pope (2009): https://devingpope.com/assets/files/Website_SEJ%20Sports.pdf
 McFarland, Groothuis and Guignet (2024): https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12642
+Anderson replication archive: https://doi.org/10.7910/DVN/ASXOBS; author manuscript: https://anderson.are.berkeley.edu/pdf/Anderson%202017.pdf
+Our new Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Optional paired literature chart: results/figures/anderson_replication.png (not in the previously saved presentation).
 Our results and exact model IDs: FEASIBILITY_REPORT.md, CFO_RETURN_REPORT.md, results/feasibility_models.csv and results/return_models.csv.
 Repository: https://github.com/harrydelashmit-dev/beyond-the-scoreboard
 
@@ -143,6 +151,10 @@ Define Directors’ Cup as broad athletic performance, FPI as football strength,
 
 Literature context: Published studies find recruitment benefits under certain conditions. Pope and Pope (2009) (https://devingpope.com/assets/files/Website_SEJ%20Sports.pdf) report gains following high-profile football and basketball success, with institution-type differences. Our public-school sample and period differ; we have not disproved the Flutie Effect.
 
+New replication context (optional 20-second addition): We downloaded Anderson’s public research archive and reproduced all ten estimates, standard errors and sample sizes from his Table 3 STE method in Python. That method estimates roughly $191,000 more in athletic alumni gifts per additional football win, while applications remain uncertain (+81; 95% interval −39 to +201). The donation result clears a ten-outcome adjustment but not a conservative twenty-test adjustment. The separate IV matching translation remains partial. Full replication and chart (../ANDERSON_REPLICATION_REPORT.md). This earlier study estimates benefits from wins; it does not estimate returns to spending.
+
+If this addition is used, shorten the preceding literature sentence to preserve the two-minute slot. The paired replication chart (../results/figures/anderson_replication.png) is an optional literature backup; it has not been inserted into the previously saved presentation. Do not combine its historical donations with our later-period ticket estimate.
+
 Qualification: Some annual-change basketball models show a positive applications association, but results depend on the specification. None of the six primary application/enrollment tests clears the related-test adjustment. Keep the complete enrollment figure in backup.
 
 Handoff: “Recruitment benefits were uncertain. The ticket-receipts connection was clearer.”
@@ -156,6 +168,8 @@ BLS CPI-U series CUUR0000SA0: https://api.bls.gov/publicAPI/v2/timeseries/data/C
 GAO context: https://www.gao.gov/products/gao-26-108640
 Pope and Pope (2009): https://devingpope.com/assets/files/Website_SEJ%20Sports.pdf
 McFarland, Groothuis and Guignet (2024): https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12642
+Anderson replication archive: https://doi.org/10.7910/DVN/ASXOBS; author manuscript: https://anderson.are.berkeley.edu/pdf/Anderson%202017.pdf
+Our new Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Optional paired literature chart: results/figures/anderson_replication.png (not in the previously saved presentation).
 Our results and exact model IDs: FEASIBILITY_REPORT.md, CFO_RETURN_REPORT.md, results/feasibility_models.csv and results/return_models.csv.
 Repository: https://github.com/harrydelashmit-dev/beyond-the-scoreboard
 
@@ -194,6 +208,8 @@ BLS CPI-U series CUUR0000SA0: https://api.bls.gov/publicAPI/v2/timeseries/data/C
 GAO context: https://www.gao.gov/products/gao-26-108640
 Pope and Pope (2009): https://devingpope.com/assets/files/Website_SEJ%20Sports.pdf
 McFarland, Groothuis and Guignet (2024): https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12642
+Anderson replication archive: https://doi.org/10.7910/DVN/ASXOBS; author manuscript: https://anderson.are.berkeley.edu/pdf/Anderson%202017.pdf
+Our new Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Optional paired literature chart: results/figures/anderson_replication.png (not in the previously saved presentation).
 Our results and exact model IDs: FEASIBILITY_REPORT.md, CFO_RETURN_REPORT.md, results/feasibility_models.csv and results/return_models.csv.
 Repository: https://github.com/harrydelashmit-dev/beyond-the-scoreboard
 
@@ -235,6 +251,8 @@ BLS CPI-U series CUUR0000SA0: https://api.bls.gov/publicAPI/v2/timeseries/data/C
 GAO context: https://www.gao.gov/products/gao-26-108640
 Pope and Pope (2009): https://devingpope.com/assets/files/Website_SEJ%20Sports.pdf
 McFarland, Groothuis and Guignet (2024): https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12642
+Anderson replication archive: https://doi.org/10.7910/DVN/ASXOBS; author manuscript: https://anderson.are.berkeley.edu/pdf/Anderson%202017.pdf
+Our new Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Optional paired literature chart: results/figures/anderson_replication.png (not in the previously saved presentation).
 Our results and exact model IDs: FEASIBILITY_REPORT.md, CFO_RETURN_REPORT.md, results/feasibility_models.csv and results/return_models.csv.
 Repository: https://github.com/harrydelashmit-dev/beyond-the-scoreboard
 
@@ -267,6 +285,8 @@ BLS CPI-U series CUUR0000SA0: https://api.bls.gov/publicAPI/v2/timeseries/data/C
 GAO context: https://www.gao.gov/products/gao-26-108640
 Pope and Pope (2009): https://devingpope.com/assets/files/Website_SEJ%20Sports.pdf
 McFarland, Groothuis and Guignet (2024): https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12642
+Anderson replication archive: https://doi.org/10.7910/DVN/ASXOBS; author manuscript: https://anderson.are.berkeley.edu/pdf/Anderson%202017.pdf
+Our new Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Optional paired literature chart: results/figures/anderson_replication.png (not in the previously saved presentation).
 Our results and exact model IDs: FEASIBILITY_REPORT.md, CFO_RETURN_REPORT.md, results/feasibility_models.csv and results/return_models.csv.
 Repository: https://github.com/harrydelashmit-dev/beyond-the-scoreboard
 
@@ -297,6 +317,8 @@ BLS CPI-U series CUUR0000SA0: https://api.bls.gov/publicAPI/v2/timeseries/data/C
 GAO context: https://www.gao.gov/products/gao-26-108640
 Pope and Pope (2009): https://devingpope.com/assets/files/Website_SEJ%20Sports.pdf
 McFarland, Groothuis and Guignet (2024): https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12642
+Anderson replication archive: https://doi.org/10.7910/DVN/ASXOBS; author manuscript: https://anderson.are.berkeley.edu/pdf/Anderson%202017.pdf
+Our new Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Optional paired literature chart: results/figures/anderson_replication.png (not in the previously saved presentation).
 Our results and exact model IDs: FEASIBILITY_REPORT.md, CFO_RETURN_REPORT.md, results/feasibility_models.csv and results/return_models.csv.
 Repository: https://github.com/harrydelashmit-dev/beyond-the-scoreboard
 
@@ -330,6 +352,8 @@ BLS CPI-U series CUUR0000SA0: https://api.bls.gov/publicAPI/v2/timeseries/data/C
 GAO context: https://www.gao.gov/products/gao-26-108640
 Pope and Pope (2009): https://devingpope.com/assets/files/Website_SEJ%20Sports.pdf
 McFarland, Groothuis and Guignet (2024): https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12642
+Anderson replication archive: https://doi.org/10.7910/DVN/ASXOBS; author manuscript: https://anderson.are.berkeley.edu/pdf/Anderson%202017.pdf
+Our new Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Optional paired literature chart: results/figures/anderson_replication.png (not in the previously saved presentation).
 Our results and exact model IDs: FEASIBILITY_REPORT.md, CFO_RETURN_REPORT.md, results/feasibility_models.csv and results/return_models.csv.
 Repository: https://github.com/harrydelashmit-dev/beyond-the-scoreboard
 
@@ -358,6 +382,8 @@ BLS CPI-U series CUUR0000SA0: https://api.bls.gov/publicAPI/v2/timeseries/data/C
 GAO context: https://www.gao.gov/products/gao-26-108640
 Pope and Pope (2009): https://devingpope.com/assets/files/Website_SEJ%20Sports.pdf
 McFarland, Groothuis and Guignet (2024): https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12642
+Anderson replication archive: https://doi.org/10.7910/DVN/ASXOBS; author manuscript: https://anderson.are.berkeley.edu/pdf/Anderson%202017.pdf
+Our new Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Optional paired literature chart: results/figures/anderson_replication.png (not in the previously saved presentation).
 Our results and exact model IDs: FEASIBILITY_REPORT.md, CFO_RETURN_REPORT.md, results/feasibility_models.csv and results/return_models.csv.
 Repository: https://github.com/harrydelashmit-dev/beyond-the-scoreboard
 
@@ -389,6 +415,8 @@ BLS CPI-U series CUUR0000SA0: https://api.bls.gov/publicAPI/v2/timeseries/data/C
 GAO context: https://www.gao.gov/products/gao-26-108640
 Pope and Pope (2009): https://devingpope.com/assets/files/Website_SEJ%20Sports.pdf
 McFarland, Groothuis and Guignet (2024): https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12642
+Anderson replication archive: https://doi.org/10.7910/DVN/ASXOBS; author manuscript: https://anderson.are.berkeley.edu/pdf/Anderson%202017.pdf
+Our new Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Optional paired literature chart: results/figures/anderson_replication.png (not in the previously saved presentation).
 Our results and exact model IDs: FEASIBILITY_REPORT.md, CFO_RETURN_REPORT.md, results/feasibility_models.csv and results/return_models.csv.
 Repository: https://github.com/harrydelashmit-dev/beyond-the-scoreboard
 
@@ -404,6 +432,8 @@ BLS CPI-U series CUUR0000SA0: https://api.bls.gov/publicAPI/v2/timeseries/data/C
 GAO context: https://www.gao.gov/products/gao-26-108640
 Pope and Pope (2009): https://devingpope.com/assets/files/Website_SEJ%20Sports.pdf
 McFarland, Groothuis and Guignet (2024): https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12642
+Anderson replication archive: https://doi.org/10.7910/DVN/ASXOBS; author manuscript: https://anderson.are.berkeley.edu/pdf/Anderson%202017.pdf
+Our new Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Optional paired literature chart: results/figures/anderson_replication.png (not in the previously saved presentation).
 Our results and exact model IDs: FEASIBILITY_REPORT.md, CFO_RETURN_REPORT.md, results/feasibility_models.csv and results/return_models.csv.
 Repository: https://github.com/harrydelashmit-dev/beyond-the-scoreboard
 
@@ -419,6 +449,8 @@ BLS CPI-U series CUUR0000SA0: https://api.bls.gov/publicAPI/v2/timeseries/data/C
 GAO context: https://www.gao.gov/products/gao-26-108640
 Pope and Pope (2009): https://devingpope.com/assets/files/Website_SEJ%20Sports.pdf
 McFarland, Groothuis and Guignet (2024): https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12642
+Anderson replication archive: https://doi.org/10.7910/DVN/ASXOBS; author manuscript: https://anderson.are.berkeley.edu/pdf/Anderson%202017.pdf
+Our new Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Optional paired literature chart: results/figures/anderson_replication.png (not in the previously saved presentation).
 Our results and exact model IDs: FEASIBILITY_REPORT.md, CFO_RETURN_REPORT.md, results/feasibility_models.csv and results/return_models.csv.
 Repository: https://github.com/harrydelashmit-dev/beyond-the-scoreboard
 
@@ -434,6 +466,8 @@ BLS CPI-U series CUUR0000SA0: https://api.bls.gov/publicAPI/v2/timeseries/data/C
 GAO context: https://www.gao.gov/products/gao-26-108640
 Pope and Pope (2009): https://devingpope.com/assets/files/Website_SEJ%20Sports.pdf
 McFarland, Groothuis and Guignet (2024): https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12642
+Anderson replication archive: https://doi.org/10.7910/DVN/ASXOBS; author manuscript: https://anderson.are.berkeley.edu/pdf/Anderson%202017.pdf
+Our new Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Optional paired literature chart: results/figures/anderson_replication.png (not in the previously saved presentation).
 Our results and exact model IDs: FEASIBILITY_REPORT.md, CFO_RETURN_REPORT.md, results/feasibility_models.csv and results/return_models.csv.
 Repository: https://github.com/harrydelashmit-dev/beyond-the-scoreboard
 
@@ -449,5 +483,7 @@ BLS CPI-U series CUUR0000SA0: https://api.bls.gov/publicAPI/v2/timeseries/data/C
 GAO context: https://www.gao.gov/products/gao-26-108640
 Pope and Pope (2009): https://devingpope.com/assets/files/Website_SEJ%20Sports.pdf
 McFarland, Groothuis and Guignet (2024): https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12642
+Anderson replication archive: https://doi.org/10.7910/DVN/ASXOBS; author manuscript: https://anderson.are.berkeley.edu/pdf/Anderson%202017.pdf
+Our new Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Optional paired literature chart: results/figures/anderson_replication.png (not in the previously saved presentation).
 Our results and exact model IDs: FEASIBILITY_REPORT.md, CFO_RETURN_REPORT.md, results/feasibility_models.csv and results/return_models.csv.
 Repository: https://github.com/harrydelashmit-dev/beyond-the-scoreboard

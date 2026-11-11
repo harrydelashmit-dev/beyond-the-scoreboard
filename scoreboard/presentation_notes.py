@@ -74,6 +74,8 @@ BLS CPI-U series CUUR0000SA0: https://api.bls.gov/publicAPI/v2/timeseries/data/C
 GAO context: https://www.gao.gov/products/gao-26-108640
 Pope and Pope (2009): https://devingpope.com/assets/files/Website_SEJ%20Sports.pdf
 McFarland, Groothuis and Guignet (2024): https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12642
+Anderson replication archive: https://doi.org/10.7910/DVN/ASXOBS; author manuscript: https://anderson.are.berkeley.edu/pdf/Anderson%202017.pdf
+Our new Python STE replication and partial IV comparison: ANDERSON_REPLICATION_REPORT.md. Optional paired literature chart: results/figures/anderson_replication.png (not in the previously saved presentation).
 Our results and exact model IDs: FEASIBILITY_REPORT.md, CFO_RETURN_REPORT.md, results/feasibility_models.csv and results/return_models.csv.
 Repository: https://github.com/harrydelashmit-dev/beyond-the-scoreboard
 '''

@@ -1,0 +1,709 @@
+[
+  {
+    "name": "author_home",
+    "url": "https://anderson.are.berkeley.edu/",
+    "retrieved_utc": "2026-11-11T20:13:15.491826+00:00",
+    "http_status": 200,
+    "resolved_url": "https://anderson.are.berkeley.edu/",
+    "bytes": 336,
+    "content_type": "text/html",
+    "file": "data\\raw\\literature\\anderson\\author_home.html",
+    "sha256": "e7d906c2b3daea8da53f64fff25777560552d81f58b99b5cee00b5b4742d3232",
+    "status": "downloaded",
+    "links": []
+  },
+  {
+    "name": "digest",
+    "url": "https://www.nber.org/digest/nov12/benefits-college-athletic-success",
+    "retrieved_utc": "2026-11-11T20:13:15.491826+00:00",
+    "http_status": 200,
+    "resolved_url": "https://www.nber.org/digest/nov12/benefits-college-athletic-success",
+    "bytes": 92243,
+    "content_type": "text/html; charset=UTF-8",
+    "file": "data\\raw\\literature\\anderson\\digest.html",
+    "sha256": "769bc2019680e170f60877aca64d9d3b93e809e7b2d0ddff4cbf37a7424ecc41",
+    "status": "downloaded",
+    "links": [
+      {
+        "text": "Skip to main content",
+        "href": "#main-content"
+      },
+      {
+        "text": "",
+        "href": "https://www.googletagmanager.com/ns.html?id=GTM-MVRPF7C"
+      },
+      {
+        "text": "NBER: National Bureau of Economic Research",
+        "href": "/"
+      },
+      {
+        "text": "Subscribe",
+        "href": "/subscribe"
+      },
+      {
+        "text": "Media",
+        "href": "/media"
+      },
+      {
+        "text": "Open Calls",
+        "href": "/calls-papers-and-proposals"
+      },
+      {
+        "text": "EXPLORE Research",
+        "href": "/research"
+      },
+      {
+        "text": "Working Papers",
+        "href": "/papers"
+      },
+      {
+        "text": "Books & Chapters",
+        "href": "/books-and-chapters"
+      },
+      {
+        "text": "Videos",
+        "href": "/research/videos"
+      },
+      {
+        "text": "The Digest",
+        "href": "/digest"
+      },
+      {
+        "text": "The Reporter",
+        "href": "/reporter"
+      },
+      {
+        "text": "The Bulletin on the Economics of Alzheimer's Disease and Related Dementias",
+        "href": "/ba"
+      },
+      {
+        "text": "The Bulletin on Health",
+        "href": "/bh"
+      },
+      {
+        "text": "The Bulletin on Entrepreneurship",
+        "href": "/be"
+      },
+      {
+        "text": "The Bulletin on Retirement and Disability Archives",
+        "href": "/brd"
+      },
+      {
+        "text": "The Bulletin on Aging & Health Archives",
+        "href": "/bah"
+      },
+      {
+        "text": "Boston Research Data Center",
+        "href": "/research/boston-research-data-center"
+      },
+      {
+        "text": "Business Cycle Dating",
+        "href": "/research/business-cycle-dating"
+      },
+      {
+        "text": "Public Use Data Archive",
+        "href": "/research/data"
+      },
+      {
+        "text": "All Topics",
+        "href": "/research/topics"
+      },
+      {
+        "text": "Taxation",
+        "href": "/topics/taxation"
+      },
+      {
+        "text": "Unemployment and Immigration",
+        "href": "/themes/immigration/immigrationsummary.shtml?page=1&perPage=50"
+      },
+      {
+        "text": "Energy",
+        "href": "/taxonomy/term/681"
+      },
+      {
+        "text": "Entrepreneurship",
+        "href": "/topics/entrepreneurship"
+      },
+      {
+        "text": "Trade",
+        "href": "/taxonomy/term/481"
+      },
+      {
+        "text": "EXPLORE Programs & Projects",
+        "href": "/programs-projects"
+      },
+      {
+        "text": "Programs",
+        "href": "/programs-projects/programs-working-groups"
+      },
+      {
+        "text": "Economics of Aging",
+        "href": "/programs-projects/programs-working-groups/economics-aging"
+      },
+      {
+        "text": "Asset Pricing",
+        "href": "/programs-projects/programs-working-groups/asset-pricing"
+      },
+      {
+        "text": "Children and Families",
+        "href": "/programs-projects/programs-working-groups/children-and-families"
+      },
+      {
+        "text": "Corporate Finance",
+        "href": "/programs-projects/programs-working-groups/corporate-finance"
+      },
+      {
+        "text": "Development Economics",
+        "href": "/programs-projects/programs-working-groups/development-economics"
+      },
+      {
+        "text": "Development of the American Economy",
+        "href": "/programs-projects/programs-working-groups/development-american-economy"
+      },
+      {
+        "text": "Economic Fluctuations and Growth",
+        "href": "/programs-projects/programs-working-groups/economic-fluctuations-and-growth"
+      },
+      {
+        "text": "Economics of Education",
+        "href": "/programs-projects/programs-working-groups/economics-education"
+      },
+      {
+        "text": "Economics of Health",
+        "href": "/programs-projects/programs-working-groups/economics-health"
+      },
+      {
+        "text": "Environment and Energy Economics",
+        "href": "/programs-projects/programs-working-groups/environment-and-energy-economics"
+      },
+      {
+        "text": "Industrial Organization",
+        "href": "/programs-projects/programs-working-groups/industrial-organization"
+      },
+      {
+        "text": "International Finance and Macroeconomics",
+        "href": "/programs-projects/programs-working-groups/international-finance-and-macroeconomics"
+      },
+      {
+        "text": "International Trade and Investment",
+        "href": "/programs-projects/programs-working-groups/international-trade-and-investment"
+      },
+      {
+        "text": "Labor Studies",
+        "href": "/programs-projects/programs-working-groups/labor-studies"
+      },
+      {
+        "text": "Law and Economics",
+        "href": "/programs-projects/programs-working-groups/law-and-economics"
+      },
+      {
+        "text": "Monetary Economics",
+        "href": "/programs-projects/programs-working-groups/monetary-economics"
+      },
+      {
+        "text": "Political Economy",
+        "href": "/programs-projects/programs-working-groups/political-economy"
+      },
+      {
+        "text": "Productivity, Innovation, and Entrepreneurship",
+        "href": "/programs-projects/programs-working-groups/productivity-innovation-and-entrepreneurship"
+      },
+      {
+        "text": "Public Economics",
+        "href": "/programs-projects/programs-working-groups/public-economics"
+      },
+      {
+        "text": "Working Groups",
+        "href": "/programs-projects/programs-working-groups#Groups"
+      },
+      {
+        "text": "Behavioral Finance",
+        "href": "/programs-projects/programs-working-groups%23Groups/behavioral-finance"
+      },
+      {
+        "text": "Chinese Economy",
+        "href": "/programs-projects/programs-working-groups%23Groups/chinese-economy"
+      },
+      {
+        "text": "Economics of Crime",
+        "href": "/programs-projects/programs-working-groups%23Groups/economics-crime"
+      },
+      {
+        "text": "Entrepreneurship",
+        "href": "/programs-projects/programs-working-groups%23Groups/entrepreneurship"
+      },
+      {
+        "text": "Gender in the Economy",
+        "href": "/programs-projects/programs-working-groups%23Groups/gender-economy"
+      },
+      {
+        "text": "Household Finance",
+        "href": "/programs-projects/programs-working-groups%23Groups/household-finance"
+      },
+      {
+        "text": "Innovation Policy",
+        "href": "/programs-projects/programs-working-groups%23Groups/innovation-policy"
+      },
+      {
+        "text": "Insurance",
+        "href": "/programs-projects/programs-working-groups%23Groups/insurance"
+      },
+      {
+        "text": "Market Design",
+        "href": "/programs-projects/programs-working-groups%23Groups/market-design"
+      },
+      {
+        "text": "Organizational Economics",
+        "href": "/programs-projects/programs-working-groups%23Groups/organizational-economics"
+      },
+      {
+        "text": "Personnel Economics",
+        "href": "/programs-projects/programs-working-groups%23Groups/personnel-economics"
+      },
+      {
+        "text": "Race and Stratification in the Economy",
+        "href": "/programs-projects/programs-working-groups%23Groups/race-and-stratification-economy"
+      },
+      {
+        "text": "Urban Economics",
+        "href": "/programs-projects/programs-working-groups%23Groups/urban-economics"
+      },
+      {
+        "text": "All Projects & Centers",
+        "href": "/programs-projects/projects-and-centers"
+      },
+      {
+        "text": "Center for Aging and Health Research",
+        "href": "/programs-projects/projects-and-centers/center-aging-and-health-research"
+      },
+      {
+        "text": "Center on Economics of Alzheimer's Disease",
+        "href": "/programs-projects/projects-and-centers/ADRD"
+      },
+      {
+        "text": "Conference on Research in Income and Wealth",
+        "href": "/criw"
+      },
+      {
+        "text": "Digital Economics and AI",
+        "href": "/digitization"
+      },
+      {
+        "text": "Economic Measurement Research Institute",
+        "href": "/emri"
+      },
+      {
+        "text": "Economics of Science Initiative",
+        "href": "/programs-projects/projects-and-centers/economics-science-initiative"
+      },
+      {
+        "text": "Healthcare Decision-Making and Outcomes for People Living with Alzheimer's Disease",
+        "href": "/healthcaredecisions"
+      },
+      {
+        "text": "Macroeconomics Annual",
+        "href": "/macroannual"
+      },
+      {
+        "text": "Measuring the Clinical and Economic Outcomes Associated with Delivery Systems",
+        "href": "/programs-projects/projects-and-centers/measuring-clinical-and-economic-outcomes-associated-delivery-systems"
+      },
+      {
+        "text": "New Developments in Long-Term Asset Management",
+        "href": "/ltam"
+      },
+      {
+        "text": "Pop-Up Journal: Estimating the Economic Return to R&D Investment",
+        "href": "/pop-up"
+      },
+      {
+        "text": "The Roybal Center for Behavior Change in Health",
+        "href": "/roybal"
+      },
+      {
+        "text": "Training Program in Aging and Health Economics",
+        "href": "/agingtraining"
+      },
+      {
+        "text": "Transportation Economics in the 21st Century",
+        "href": "/transportation21"
+      },
+      {
+        "text": "EXPLORE Conferences",
+        "href": "/conferences"
+      },
+      {
+        "text": "Summer Institute",
+        "href": "/summer-institute"
+      },
+      {
+        "text": "Reimbursements",
+        "href": "https://www.nber.org/conferences/reimbursements"
+      },
+      {
+        "text": "Affiliated Scholars",
+        "href": "/affiliated-scholars"
+      },
+      {
+        "text": "EXPLORE NBER News",
+        "href": "/nber-news"
+      },
+      {
+        "text": "Research in the News",
+        "href": "/nber-research-news"
+      },
+      {
+        "text": "Nobel Laureates",
+        "href": "/nber-news/nobel-laureates"
+      },
+      {
+        "text": "Featured Working Papers Archive",
+        "href": "/nber-news/featured-working-papers-archive"
+      },
+      {
+        "text": "EXPLORE Career Resources",
+        "href": "/career-resources"
+      },
+      {
+        "text": "RA Positions \u2013 at NBER",
+        "href": "/career-resources/research-assistant-positions-nber"
+      },
+      {
+        "text": "RA Positions \u2013 not at the NBER",
+        "href": "/career-resources/research-assistant-positions-not-nber"
+      },
+      {
+        "text": "Staff Positions at NBER",
+        "href": "/career-resources/staff-positions-nber"
+      },
+      {
+        "text": "Calls for Fellowship Applications",
+        "href": "/career-resources/calls-fellowship-applications"
+      },
+      {
+        "text": "Current Fellowship Recipients",
+        "href": "/career-resources/postdoctoral-and-graduate-fellows-academic-year-2026-27"
+      },
+      {
+        "text": "EXPLORE About",
+        "href": "/about-nber"
+      },
+      {
+        "text": "Leadership & Governance",
+        "href": "/about-nber/leadership-governance"
+      },
+      {
+        "text": "Support & Funding",
+        "href": "/about-nber/support-funding"
+      },
+      {
+        "text": "History",
+        "href": "/about-nber/history"
+      },
+      {
+        "text": "Standards of Conduct",
+        "href": "/about-nber/standards-conduct"
+      },
+      {
+        "text": "Staff",
+        "href": "/about-nber/nber-staff"
+      },
+      {
+        "text": "Subscribe",
+        "href": "/subscribe"
+      },
+      {
+        "text": "Media",
+        "href": "/media"
+      },
+      {
+        "text": "Open Calls",
+        "href": "/calls-papers-and-proposals"
+      },
+      {
+        "text": "Home",
+        "href": "/"
+      },
+      {
+        "text": "Research",
+        "href": "/research"
+      },
+      {
+        "text": "The Digest",
+        "href": "/digest"
+      },
+      {
+        "text": "Subscribe",
+        "href": "https://my.nber.org/email_preferences#digest"
+      },
+      {
+        "text": "",
+        "href": "https://my.nber.org/email_preferences"
+      },
+      {
+        "text": "X",
+        "href": "https://twitter.com/intent/?text=The%20Benefits%20of%20College%20Athletic%20Success&url=https://www.nber.org/digest/nov12/benefits-college-athletic-success"
+      },
+      {
+        "text": "LinkedIn",
+        "href": "https://www.linkedin.com/sharing/share-offsite/?url=https://www.nber.org/digest/nov12/benefits-college-athletic-success"
+      },
+      {
+        "text": "Facebook",
+        "href": "https://www.facebook.com/sharer/sharer.php?u=https://www.nber.org/digest/nov12/benefits-college-athletic-success"
+      },
+      {
+        "text": "Bluesky",
+        "href": "https://bsky.app/intent/compose?text=The%20Benefits%20of%20College%20Athletic%20Success+https://www.nber.org/digest/nov12/benefits-college-athletic-success"
+      },
+      {
+        "text": "Threads",
+        "href": "https://www.threads.net/intent/post?text=The%20Benefits%20of%20College%20Athletic%20Success&url=https://www.nber.org/digest/nov12/benefits-college-athletic-success"
+      },
+      {
+        "text": "Email",
+        "href": "mailto:?subject=The Benefits of College Athletic Success&body=https://www.nber.org/digest/nov12/benefits-college-athletic-success"
+      },
+      {
+        "text": "working paper\n\t\t\t\t\t\t18196",
+        "href": "/papers/w18196"
+      },
+      {
+        "text": "",
+        "href": "http://live-nber.pantheonsite.io/sites/default/files/2019-08/nov12.pdf"
+      },
+      {
+        "text": "18196",
+        "href": "/papers/w18196"
+      },
+      {
+        "text": "Michael Anderson",
+        "href": "/people/Michael_Anderson"
+      },
+      {
+        "text": "Michael L. Anderson",
+        "href": "/people/michael_anderson"
+      },
+      {
+        "text": "Econometrics",
+        "href": "/topics/econometrics"
+      },
+      {
+        "text": "Estimation Methods",
+        "href": "/taxonomy/term/396"
+      },
+      {
+        "text": "Health, Education, and Welfare",
+        "href": "/topics/health-education-and-welfare"
+      },
+      {
+        "text": "Education",
+        "href": "/taxonomy/term/556"
+      },
+      {
+        "text": "Labor Economics",
+        "href": "/topics/labor-economics"
+      },
+      {
+        "text": "Labor Supply and Demand",
+        "href": "/taxonomy/term/571"
+      },
+      {
+        "text": "Economics of Education",
+        "href": "/programs-projects/programs-working-groups/economics-education"
+      },
+      {
+        "text": "Labor Studies",
+        "href": "/programs-projects/programs-working-groups/labor-studies"
+      },
+      {
+        "text": "Public Economics",
+        "href": "/programs-projects/programs-working-groups/public-economics"
+      },
+      {
+        "text": "Benefits and Costs of Healthier School Lunches",
+        "href": "/digest/jun17/benefits-and-costs-healthier-school-lunches"
+      },
+      {
+        "text": "The Effect of Health Insurance Coverage on the Use of Medical Services",
+        "href": "/digest/jul10/effect-health-insurance-coverage-use-medical-services"
+      },
+      {
+        "text": "The Impacts of Public Transit on Traffic",
+        "href": "/digest/jul13/impacts-public-transit-traffic"
+      },
+      {
+        "text": "working papers",
+        "href": "https://www.nber.org/papers"
+      },
+      {
+        "text": "NBER Reporter",
+        "href": "https://www.nber.org/reporter"
+      },
+      {
+        "text": "NBER Digest",
+        "href": "https://www.nber.org/digest"
+      },
+      {
+        "text": "Bulletin on Health",
+        "href": "https://www.nber.org/bulletin-health"
+      },
+      {
+        "text": "Bulletin on the Economics of Alzheimer's",
+        "href": "https://www.nber.org/ba?page=1&perPage=50"
+      },
+      {
+        "text": "Bulletin on Entrepreneurship",
+        "href": "https://www.nber.org/bulletin-entrepreneurship"
+      },
+      {
+        "text": "research spotlights, lectures, and panel videos",
+        "href": "https://www.nber.org/research/videos?page=1&perPage=50"
+      },
+      {
+        "text": "2026, 18th Annual Feldstein Lecture, Mark Duggan, \"Social  Security Reform in an Era of Fiscal Defic",
+        "href": "/research/videos/2026-18th-annual-feldstein-lecture-mark-duggan-social-security-reform-era-fiscal-deficits"
+      },
+      {
+        "text": "Mark Duggan",
+        "href": "/people/mark_duggan"
+      },
+      {
+        "text": "2026, Methods Lecture, Melissa Dell and Ashesh Rambachan, \"Estimation and Inference with AI-Generate",
+        "href": "/research/videos/2026-methods-lecture-melissa-dell-and-ashesh-rambachan-estimation-and-inference-ai-generated-data"
+      },
+      {
+        "text": "Melissa Dell",
+        "href": "/people/melissa_dell"
+      },
+      {
+        "text": "Ashesh Rambachan",
+        "href": "/people/ashesh_rambachan"
+      },
+      {
+        "text": "2026, SI Household Finance, Paul Goldsmith-Pinkham, \"Using AI in Household Finance Research: A Pract",
+        "href": "/research/videos/2026-si-household-finance-paul-goldsmith-pinkham-using-ai-household-finance-research-practical-guide"
+      },
+      {
+        "text": "Paul Goldsmith-Pinkham",
+        "href": "/people/paul_goldsmithpinkham"
+      },
+      {
+        "text": "Contact Us",
+        "href": "/contact-nber"
+      },
+      {
+        "text": "617-868-3900",
+        "href": "tel:+16178683900"
+      },
+      {
+        "text": "info@nber.org",
+        "href": "mailto:info@nber.org"
+      },
+      {
+        "text": "webaccessibility@nber.org",
+        "href": "mailto:webaccessibility@nber.org"
+      },
+      {
+        "text": "Homepage",
+        "href": "/"
+      },
+      {
+        "text": "Accessibility Policy",
+        "href": "/about-nber/website-accessibility-policy"
+      },
+      {
+        "text": "Diversity Policy",
+        "href": "/nber-diversity-policy-statement"
+      },
+      {
+        "text": "Privacy Policy",
+        "href": "/website-privacy-policy"
+      },
+      {
+        "text": "",
+        "href": "https://twitter.com/nberpubs"
+      },
+      {
+        "text": "",
+        "href": "https://www.linkedin.com/company/national-bureau-of-economic-research"
+      },
+      {
+        "text": "",
+        "href": "https://bsky.app/profile/did:plc:v7wvtabl4o6u5f426wqncxcu"
+      },
+      {
+        "text": "",
+        "href": "https://www.threads.net/@nber_pubs"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/pages/National-Bureau-of-Economic-Research/115165771829285"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/nbervideos"
+      }
+    ]
+  },
+  {
+    "name": "digest_pdf",
+    "url": "https://www.nber.org/sites/default/files/2019-08/nov12.pdf",
+    "retrieved_utc": "2026-11-11T20:13:15.491826+00:00",
+    "http_status": 200,
+    "resolved_url": "https://www.nber.org/sites/default/files/2019-08/nov12.pdf",
+    "bytes": 152963,
+    "content_type": "application/pdf",
+    "file": "data\\raw\\literature\\anderson\\digest_pdf.pdf",
+    "sha256": "29312e55752522f3e09eeb7e61ebbf398668dfba532a638e5cec512169e1d5b8",
+    "status": "downloaded"
+  },
+  {
+    "name": "nber_paper",
+    "url": "https://www.nber.org/system/files/working_papers/w18196/w18196.pdf",
+    "retrieved_utc": "2026-11-11T20:13:15.491826+00:00",
+    "http_status": 200,
+    "resolved_url": "https://www.nber.org/system/files/working_papers/w18196/w18196.pdf",
+    "bytes": 435178,
+    "content_type": "application/pdf",
+    "file": "data\\raw\\literature\\anderson\\nber_paper.pdf",
+    "sha256": "f5bf0f8d1643cecbcd4aba84bce3c9d56efde00a6e3233bf16ef34b216b93b5e",
+    "status": "downloaded"
+  },
+  {
+    "name": "author_paper",
+    "url": "https://anderson.are.berkeley.edu/pdf/Anderson%202017.pdf",
+    "retrieved_utc": "2026-11-11T20:13:16.036299+00:00",
+    "http_status": 200,
+    "resolved_url": "https://anderson.are.berkeley.edu/pdf/Anderson%202017.pdf",
+    "bytes": 489722,
+    "content_type": "application/pdf",
+    "file": "data\\raw\\literature\\anderson\\author_paper.pdf",
+    "sha256": "ec4c3d2b29eaf6b04b4c74c70692bd065c90f53c08b79ee876248272b01bd6da",
+    "status": "downloaded"
+  },
+  {
+    "name": "crossref",
+    "url": "https://api.crossref.org/works/10.1162/REST_a_00589",
+    "retrieved_utc": "2026-11-11T20:13:16.229943+00:00",
+    "http_status": 200,
+    "resolved_url": "https://api.crossref.org/works/10.1162/REST_a_00589",
+    "bytes": 5246,
+    "content_type": "application/json",
+    "file": "data\\raw\\literature\\anderson\\crossref.json",
+    "sha256": "aa69d76e9a9e7c7f0b913e8135d985a466ea6e9f9dc5a800000838beb434fd6b",
+    "status": "downloaded"
+  },
+  {
+    "name": "dataverse",
+    "url": "https://dataverse.harvard.edu/api/search?q=%22Benefits%20of%20College%20Athletic%20Success%22&type=dataset&per_page=10",
+    "retrieved_utc": "2026-11-11T20:13:16.405947+00:00",
+    "http_status": 200,
+    "resolved_url": "https://dataverse.harvard.edu/api/search?q=%22Benefits%20of%20College%20Athletic%20Success%22&type=dataset&per_page=10",
+    "bytes": 1763,
+    "content_type": "application/json;charset=UTF-8",
+    "file": "data\\raw\\literature\\anderson\\dataverse.json",
+    "sha256": "1bc2aa0a18faf923729dbce486470c33dab236810ecdf9902cac0e6dffed50e5",
+    "status": "downloaded"
+  }
+]

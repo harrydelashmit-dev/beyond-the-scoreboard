@@ -1,0 +1,80 @@
+{
+  "doi": "10.7910/DVN/ASXOBS",
+  "version": "1.1",
+  "license": "CC0 1.0",
+  "restricted": false,
+  "checked_utc": "2026-11-11T20:35:41.724997+00:00",
+  "files": [
+    {
+      "file": "college data.dta",
+      "id": 2769468,
+      "url": "https://dataverse.harvard.edu/api/access/datafile/2769468?format=original",
+      "bytes": 1362765,
+      "md5": "a194694a1eed8dfba717f5f8b070eb17",
+      "sha256": "fc3fd913cd97f1b0a9804603f9cf488b0c83a15a24ac3de9958449300ae08c87",
+      "status": "verified",
+      "cached": true
+    },
+    {
+      "file": "covers_data.dta",
+      "id": 2769470,
+      "url": "https://dataverse.harvard.edu/api/access/datafile/2769470?format=original",
+      "bytes": 4942702,
+      "md5": "3cd1f273ff09838c8561419a0fd5f2b6",
+      "sha256": "715aeb587011188fd337b6e69cfe6abe60dcb6955167199c2bc78b3cf421b23e",
+      "status": "verified",
+      "cached": true
+    },
+    {
+      "file": "generate tables.do",
+      "id": 2769472,
+      "url": "https://dataverse.harvard.edu/api/access/datafile/2769472?format=original",
+      "bytes": 157609,
+      "md5": "575c26df5d31bce932082046a850875f",
+      "sha256": "34b5530e03fc148fb279730fae9d048cc982981077c40752d36fe81d1c73ad69",
+      "status": "verified",
+      "cached": true
+    },
+    {
+      "file": "README.txt",
+      "id": 2769471,
+      "url": "https://dataverse.harvard.edu/api/access/datafile/2769471?format=original",
+      "bytes": 6022,
+      "md5": "df8560ebff021fdd5452be835c06c23d",
+      "sha256": "a157c39d22e80a2282d1244b90659e8a68d0e767414875fde11ae68ff64e8df4",
+      "status": "verified",
+      "cached": true
+    },
+    {
+      "file": "import college data.do",
+      "id": 2769469,
+      "url": "https://dataverse.harvard.edu/api/access/datafile/2769469?format=original",
+      "bytes": 5840,
+      "md5": "a6f9999a0b5522208ae063be297b8074",
+      "sha256": "0f0a75fc63ce20012f5f80617109e25bd7d0631e5e87c2b3b67e26edec09c27d",
+      "status": "verified",
+      "cached": true
+    },
+    {
+      "file": "import football data.do",
+      "id": 2769466,
+      "url": "https://dataverse.harvard.edu/api/access/datafile/2769466?format=original",
+      "bytes": 20354,
+      "md5": "a2480c1f4ffc58ef4b6ef8badaeb0f21",
+      "sha256": "d30a0b0cecca530e8cd6d5549e43c2f4d2636863d36715fc12c5943792ebd693",
+      "status": "verified",
+      "cached": true
+    },
+    {
+      "file": "Raw Data.tar.gz",
+      "id": 2769467,
+      "url": "https://dataverse.harvard.edu/api/access/datafile/2769467?format=original",
+      "bytes": 48348869,
+      "md5": "049e938156349152614c977b6daf07c1",
+      "sha256": "81a3630b5230d1b5bac79b0895019d8847869040dd593c06a68fdd0c6db1ab2d",
+      "status": "verified",
+      "cached": true
+    }
+  ],
+  "note": "Original format resolves the ingested TAB/original DTA checksum distinction."
+}

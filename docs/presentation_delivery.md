@@ -28,3 +28,6 @@ The canonical saved Page ID is `page_7cdcf2cf98e081919e404c11eae78100`. The fina
 - Recruitment findings do not disprove the Flutie Effect. Sparse negative AP-event comparisons are disclosed as exploratory evidence.
 
 All 16 slides were rendered and visually reviewed. The saved notes matched the Python content on all 16 slides, and 12 visible / four hidden statuses were checked. Presenter times add to 20 minutes, four minutes each. Final rehearsal, instructor consultation and each member's substantive own-account contributions remain group responsibilities.
+# November 11 research addendum
+
+The repository's outline, presentation configuration and plain speaker notes now include the Anderson public-study replication as optional literature context. The previously saved native presentation remains at its earlier version; the new paired replication chart has not been inserted there. Use the updated Claude package/addendum when finalizing slides in the school account. The twelve-slide timing and Harrison's central financial assignment remain unchanged. The original financial chart estimates are unchanged.

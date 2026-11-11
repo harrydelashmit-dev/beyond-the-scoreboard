@@ -1,0 +1,10 @@
+{
+  "url": "https://dataverse.harvard.edu/api/access/datafile/2769470?format=original",
+  "retrieved_utc": "2026-11-11T20:18:33.386899+00:00",
+  "bytes": 4942702,
+  "sha256": "715aeb587011188fd337b6e69cfe6abe60dcb6955167199c2bc78b3cf421b23e",
+  "md5": "3cd1f273ff09838c8561419a0fd5f2b6",
+  "metadata_md5": "3cd1f273ff09838c8561419a0fd5f2b6",
+  "matches_published_md5": true,
+  "original_format": "Stata 13"
+}

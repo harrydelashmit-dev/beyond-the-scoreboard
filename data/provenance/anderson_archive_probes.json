@@ -1,0 +1,57 @@
+[
+  {
+    "name": "version_metadata",
+    "url": "https://dataverse.harvard.edu/api/datasets/2769465/versions/1.1",
+    "retrieved_utc": "2026-11-11T20:16:14.557365+00:00",
+    "status": 200,
+    "resolved_url": "https://dataverse.harvard.edu/api/datasets/2769465/versions/1.1",
+    "bytes": 8575,
+    "content_type": "application/json;charset=UTF-8",
+    "file": "data\\raw\\literature\\anderson\\version_metadata.json",
+    "sha256": "c73c4ad8ec33f2ccd869aae872d097b8735212d6e5fd0e7dbd991bb0bf2f044d"
+  },
+  {
+    "name": "file_search",
+    "url": "https://dataverse.harvard.edu/api/search?q=ASXOBS&type=file&show_entity_ids=true&per_page=100",
+    "retrieved_utc": "2026-11-11T20:16:14.557365+00:00",
+    "status": 200,
+    "resolved_url": "https://dataverse.harvard.edu/api/search?q=ASXOBS&type=file&show_entity_ids=true&per_page=100",
+    "bytes": 123,
+    "content_type": "application/json;charset=UTF-8",
+    "file": "data\\raw\\literature\\anderson\\file_search.json",
+    "sha256": "7d14106e7037d6c0c6d85334b5e2e49d896a16763e2a86e18373639c22314b53"
+  },
+  {
+    "name": "parent_search",
+    "url": "https://dataverse.harvard.edu/api/search?q=parentId%3A2769465&type=file&show_entity_ids=true&per_page=100",
+    "retrieved_utc": "2026-11-11T20:16:14.557365+00:00",
+    "status": 200,
+    "resolved_url": "https://dataverse.harvard.edu/api/search?q=parentId%3A2769465&type=file&show_entity_ids=true&per_page=100",
+    "bytes": 7894,
+    "content_type": "application/json;charset=UTF-8",
+    "file": "data\\raw\\literature\\anderson\\parent_search.json",
+    "sha256": "3fb4e65156b8b75bfa64c647b5fa74a230a1c7993eb1085c71309f2f89117ec5"
+  },
+  {
+    "name": "archive",
+    "url": "https://dataverse.harvard.edu/api/access/dataset/:persistentId/?persistentId=doi%3A10.7910%2FDVN%2FASXOBS",
+    "retrieved_utc": "2026-11-11T20:16:14.557365+00:00",
+    "status": 200,
+    "resolved_url": "https://rserve.dataverse.harvard.edu/cgi-bin/zipdownload?9b1-6a8c1e9a809f",
+    "bytes": 49064789,
+    "content_type": "application/zip; name=\"dataverse_files.zip\"",
+    "file": "data\\raw\\literature\\anderson\\archive.zip",
+    "sha256": "cd0c0d8b829c0379f7c13594a519c14d3792460df401174d02929a880d7c71d2"
+  },
+  {
+    "name": "datacite",
+    "url": "https://api.datacite.org/dois/10.7910/DVN/ASXOBS",
+    "retrieved_utc": "2026-11-11T20:16:14.907510+00:00",
+    "status": 200,
+    "resolved_url": "https://api.datacite.org/dois/10.7910/DVN/ASXOBS",
+    "bytes": 12929,
+    "content_type": "application/json; charset=utf-8",
+    "file": "data\\raw\\literature\\anderson\\datacite.json",
+    "sha256": "3794eb6d72c86435513bacc540b82cc932926a2a36131c81aea63f7e40f0ea12"
+  }
+]
