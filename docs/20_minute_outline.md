@@ -1,5 +1,7 @@
 # Beyond the Scoreboard: 20-minute presentation outline
 
+**Superseded for the school Claude handoff:** use the [current ten-slide audience-focused outline](audience_focused_outline.md). The twelve-slide working deck below is retained as a reference version; the new flow concentrates on supported financial findings and moves qualified or inconclusive analyses to backup.
+
 **Subtitle:** Winning has value. Does additional spending pay for itself?
 
 **Audience:** AC 547 classmates and instructor; assume little statistical background.

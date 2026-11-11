@@ -1,5 +1,7 @@
 # Prepared presentation and speaker notes
 
+**Current editorial direction:** the [audience-focused ten-slide plan](audience_focused_outline.md) is the latest instruction for the school Claude account. The saved twelve-slide native deck documented below is an earlier reference and was not rebuilt in this pass. Use `config/audience_focus.json` and the updated Claude handoff to finalize the leaner talk. Four strong main chart assets are retained; donations and inconclusive pathways move to supporting material. All financial estimates are unchanged.
+
 The saved presentation contains **12 visible main slides for a 20-minute talk**, plus **four hidden backup slides**. The six main scientific charts are the Python-generated presentation assets. Additional backups show model sensitivity, the complete recruitment results, contrary AP-event evidence, and references.
 
 | Presenter | Time | Main slides | Responsibility |
