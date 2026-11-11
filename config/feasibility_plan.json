@@ -1,0 +1,37 @@
+{
+  "frozen_before_new_estimation": "2026-11-10 America/Chicago",
+  "question": "Does the financial return associated with athletic investment depend on the type of success?",
+  "population": "Public Division I programs in the registered Knight-Newhouse 2010-2019 source; outcome-specific observed samples; merged-institution exclusions in primary models",
+  "calendar": {
+    "year": "academic/fiscal ending year t",
+    "fpi": "ESPN football season t-1",
+    "financial_returns": "fiscal t+1",
+    "football_student_demand": "fall t, the fall following season t-1; fall t+1 sensitivity",
+    "cup_and_basketball_student_demand": "fall t+1; fall t sensitivity",
+    "maximum_outcome_year": 2019
+  },
+  "primary_families": {
+    "spending_success": ["lag log total athletics expense -> Cup/100", "lag log football expense -> FPI/10", "lag log EADA men's basketball expense -> Sweet16 indicator"],
+    "success_finance": "Each of Cup/100, FPI/10, and Sweet16 predicts each of next-year log tickets, log athletics donor contributions, and log net nonallocated-revenue proxy: nine tests",
+    "flutie": "Each success measure predicts log applications and log first-time enrollment at the stated sport-specific fall: six tests"
+  },
+  "primary_effects": "School and contemporaneous basketball-conference-by-year effects; school-clustered covariance, cluster-count-minus-one t intervals",
+  "primary_controls": "Prior log total enrollment; prior EADA sport participation-category count also in spending models",
+  "multiple_testing": "Holm adjusted exposure p values within each primary family; all secondary tests explicitly exploratory",
+  "basketball_visibility": "Sweet16 = at least 64 men's basketball Cup points. Derive zero only after validating an exhaustive sixteen-school positive ledger for each year; retain missing aggregate Cup scores",
+  "secondary_checks": [
+    "School/year effects without conference-year effects",
+    "Same-sample comparison and joint football/basketball/aggregate models",
+    "Spending contemporaneous versus lagged, raw Cup rank and within-year score percentile",
+    "Football win percentage and main64 basketball tournament participation",
+    "Exact additional-year outcome lag; first differences and school linear trends",
+    "Positive-log versus inverse-hyperbolic-sine financial outcomes including observed zeros",
+    "Exclude mergers, omit 2015-2017 coach-bonus reporting regime, expense-tail trimming, reported-only IPEDS flags",
+    "Historical Power Five versus other FBS programs, 2015-2019; direct interaction tests",
+    "Historical prominence from FPI 2005-2008; expanding-window AR(1) outperformance proxy using past information only; describe this as model outperformance rather than known expectations",
+    "Leave-one-school-out influence range for selected primary effects"
+  ],
+  "pilot_audit": "Attempt 2014-2019 Pearson correlations and school/year FE ticket model on independently obtained data. Report exact sample and timing. Exact reproduction of the claimed 52 schools requires their missing original membership and specification; do not select 52 schools to match reported coefficients.",
+  "financial_scope": "Net nonallocated revenue proxy = exported total revenue - separate institutional/government support - student fees. Total revenue already nets transfers and expenses may include excess transfers; proxy and balance are not cash profit, gross generated revenue, or causal ROI. Ticket and donor components reported separately.",
+  "decision_rule": "Report all planned specifications and confidence intervals, including null/negative results; no search or stopping rule based on significance; scenarios remain explicitly hypothetical."
+}
